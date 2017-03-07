@@ -15,6 +15,7 @@ Analysing the inbox and sentbox of Founder of Enrorn "Jeffrey Skilling" for susp
 - Retrieves the list of pople who were contacted by Skilling and iedntifies the most interacted individual. 
 
 Output
+[Q1Analysis1Output.txt](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
 
 > Conclusion:
 
@@ -26,6 +27,7 @@ Analysing the emails of enron employees for descrepencies with keywords "bankrup
 - End date of analysis is December 2, 2001 - Enron files for Chapter 11 protection, becoming the largest bankruptcy in U.S. history.
 
 Output
+[Q1Analysis2Output.txt](https://github.com/praveen-sivadasan/Python/files/823087/Q1Analysis2Output.txt)
 
 >Conclusion: Analysis helps in:
 - Identifying the Enron employees who used these critical keywords frequently.
@@ -43,6 +45,7 @@ U.S. Justice Department indicted Arthur Anderson in March 14, 2002 for obstructi
 - Identify top most months where Arthur Anderson was referred on emails.
 
 Output
+[Q1Analysis3Output.txt](https://github.com/praveen-sivadasan/Python/files/823090/Q1Analysis3Output.txt)
 
 > Conclusion: Analysis helps in:
 - Identifying Enron emails who have contacted Arthur Anderson more during or just before the crisis.
@@ -61,6 +64,7 @@ Finding the most disussed person under each sport category in New York Times bet
 - Using requests, configparser, os, sys, json, glob and pos_tag from nltk.tag
 
 Output
+[Q2Analysis1Output.txt](https://github.com/praveen-sivadasan/Python/files/823091/Q2Analysis1Output.txt)
 
 **Analysis 2**
 
@@ -71,7 +75,7 @@ Finding the most discussed sports in New york Times between 2010 and 2016.
 - Using requests, configparser, os, sys, json, glob
 
 Output
-
+[Q2Analysis2Output.txt](https://github.com/praveen-sivadasan/Python/files/823096/Q2Analysis2Output.txt)
 
 **Analysis 3**
 
@@ -85,5 +89,7 @@ Output
 - Used following nltk, requests, configparser, os, sys, json, glob, datetime, time, email, matplotlib.pyplot,nltk.sentiment.vader
 
 Output
+[Q2Analysis3Output.txt](https://github.com/praveen-sivadasan/Python/files/823097/Q2Analysis3Output.txt)
 
+![q2a3img](https://cloud.githubusercontent.com/assets/18182515/23638031/2eb81caa-02ad-11e7-8224-ae1a4055e750.png)
 

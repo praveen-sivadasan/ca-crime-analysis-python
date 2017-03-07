@@ -1,0 +1,13 @@
+[uri]
+link = https://api.nytimes.com/svc/archive/v1
+
+[api_key]
+key = 2cbe6b3409f84fe6aa5d9c23cbba0e5f
+
+[parameters]
+year = 2016
+month = 11
+
+[directory_path]
+directory = nytimes_data
+sub_directory = Archive

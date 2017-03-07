@@ -1,0 +1,80 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/08/us/california-today-election-day.html",
+    "snippet": "Tuesday: Races on the ballot to watch, Robert A. Durst makes a long-awaited appearance in a Los Angeles court, and one of the deep-down reasons we vote....",
+    "lead_paragraph": "Tuesday: Races on the ballot to watch, Robert A. Durst makes a long-awaited appearance in a Los Angeles court, and one of the deep-down reasons we vote.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/08/us/08CT-3/08CT-3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/08/us/08CT-3/08CT-3-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/08/us/08CT-3/08CT-3-articleLarge.jpg",
+            "height": 382,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/08/us/08CT-3/08CT-3-articleLarge.jpg",
+                "xlargeheight": "382"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/08/us/08CT-3/08CT-3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/08/us/08CT-3/08CT-3-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "California Today: What to Watch For on Election Day",
+        "content_kicker": "California Today"
+    },
+    "keywords": [
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+        }
+    ],
+    "pub_date": "2016-11-08T12:52:45Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mike",
+                "rank": 1,
+                "lastname": "McPHATE"
+            }
+        ],
+        "original": "By MIKE McPHATE"
+    },
+    "type_of_material": "briefing",
+    "_id": "5821caa57c459f6a5fcccd8e",
+    "word_count": "1054",
+    "slideshow_credits": null
+}

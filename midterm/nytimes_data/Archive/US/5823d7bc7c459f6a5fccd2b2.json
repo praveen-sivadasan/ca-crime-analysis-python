@@ -1,0 +1,63 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/10/us/trump-election-protests.html",
+    "snippet": "Demonstrators marched through Manhattan toward Trump Tower, and similar protests took place in other cities and on college campuses across the country....",
+    "lead_paragraph": "Demonstrators marched through Manhattan toward Trump Tower, and similar protests took place in other cities and on college campuses across the country.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "\u2018Not Our President\u2019: Protests Spread After Donald Trump\u2019s Election",
+        "print_headline": "\u2018Not Our President\u2019: Protests Spread"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        }
+    ],
+    "pub_date": "2016-11-10T02:13:06Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Jennifer Medina and Stephanie Saul contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christopher",
+                "rank": 1,
+                "lastname": "MELE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Annie",
+                "rank": 2,
+                "lastname": "CORREAL"
+            }
+        ],
+        "original": "By CHRISTOPHER MELE and ANNIE CORREAL"
+    },
+    "type_of_material": "News",
+    "_id": "5823d7bc7c459f6a5fccd2b2",
+    "word_count": "867",
+    "slideshow_credits": null
+}

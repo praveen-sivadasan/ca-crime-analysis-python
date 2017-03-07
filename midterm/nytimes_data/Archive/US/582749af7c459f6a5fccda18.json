@@ -1,0 +1,99 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/13/us/politics/donald-trump-administration-appointments.html",
+    "snippet": "Rarely in American history has the exercise of choosing people had such a far-reaching impact on the nature and priorities of a new administration....",
+    "lead_paragraph": "Rarely in American history has the exercise of choosing people had such a far-reaching impact on the nature and priorities of a new administration.",
+    "abstract": "Donald Trump's choices for his cabinet will wield outsize influence on direction of his administration, with appointees likely to shape approach of inexperienced president-elect who has espoused contradictory positions on key issues; sharp differences in ideologies of Trump's closest supporters leave future uncertain.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/13/us/13trumpadviser/13trumpadviser-web01-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/13/us/13trumpadviser/13trumpadviser-web01-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/13/us/13trumpadviser/13trumpadviser-web01-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/13/us/13trumpadviser/13trumpadviser-web01-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/13/us/13trumpadviser/13trumpadviser-web01-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/13/us/13trumpadviser/13trumpadviser-web01-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump\u2019s Hires Will Set Course of His Presidency",
+        "print_headline": "Trump\u2019s Hires  to Reveal Path  for Presidency"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        }
+    ],
+    "pub_date": "2016-11-12T16:56:06Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Maggie Haberman contributed reporting from New York, and Jackie Calmes from Washington.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mark",
+                "rank": 1,
+                "lastname": "LANDLER"
+            }
+        ],
+        "original": "By MARK LANDLER"
+    },
+    "type_of_material": "News",
+    "_id": "582749af7c459f6a5fccda18",
+    "word_count": "1566",
+    "slideshow_credits": null
+}

@@ -1,0 +1,115 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/politics/health-care-enrollment.html",
+    "snippet": "More than 300,000 people selected plans in the three days after the election of Donald J. Trump, who has called the Affordable Care Act a \u201cdisaster.\u201d...",
+    "lead_paragraph": "More than 300,000 people selected plans in the three days after the election of Donald J. Trump, who has called the Affordable Care Act a \u201cdisaster.\u201d",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/17health/17health-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/17health/17health-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/17health/17health-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/17health/17health-articleLarge.jpg",
+                "xlargeheight": "399"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/17health/17health-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/17health/17health-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "HealthCare.gov Sees Early Rise in Enrollment Amid Worries on Law\u2019s Future"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Health Insurance and Managed Care"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "HealthCare.gov"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Patient Protection and Affordable Care Act (2010)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Centers for Medicare and Medicaid Services"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Slavitt, Andrew M"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        }
+    ],
+    "pub_date": "2016-11-17T03:01:43Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "PEAR"
+            }
+        ],
+        "original": "By ROBERT PEAR"
+    },
+    "type_of_material": "News",
+    "_id": "582d1d9e7c459f6a5fcce705",
+    "word_count": "712",
+    "slideshow_credits": null
+}

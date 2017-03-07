@@ -1,0 +1,80 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/07/us/california-today-propositions-newspapers-endorsements.html",
+    "snippet": "Monday: A scorecard on the ballot propositions using newspaper endorsements, a gentrification battle in Los Angeles, and a look back at Magic Johnson\u2019s H.I.V. announcement....",
+    "lead_paragraph": "Monday: A scorecard on the ballot propositions using newspaper endorsements, a gentrification battle in Los Angeles, and a look back at Magic Johnson\u2019s H.I.V. announcement.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/07/us/07californiatoday1/07californiatoday1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/07/us/07californiatoday1/07californiatoday1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/07/us/07californiatoday1/07californiatoday1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/07/us/07californiatoday1/07californiatoday1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/07/us/07californiatoday1/07californiatoday1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/07/us/07californiatoday1/07californiatoday1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "California Today: How Do Top Newspapers Line Up on the Election?",
+        "content_kicker": "California Today"
+    },
+    "keywords": [
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+        }
+    ],
+    "pub_date": "2016-11-07T13:08:30Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mike",
+                "rank": 1,
+                "lastname": "McPHATE"
+            }
+        ],
+        "original": "By MIKE McPHATE"
+    },
+    "type_of_material": "briefing",
+    "_id": "58207cd77c459f6a5fccca99",
+    "word_count": "1114",
+    "slideshow_credits": null
+}

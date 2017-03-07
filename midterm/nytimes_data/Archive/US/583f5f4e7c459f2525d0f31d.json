@@ -1,0 +1,112 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/30/us/politics/medicare-democrats-congress.html",
+    "snippet": "As Republicans take on health care, Democrats are grasping at the politics of Medicare as a path to potential revival after a bruising election....",
+    "lead_paragraph": "As Republicans take on health care, Democrats are grasping at the politics of Medicare as a path to potential revival after a bruising election.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/01/us/01hulse1/01hulse1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/01/us/01hulse1/01hulse1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/01/us/01hulse1/01hulse1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/01/us/01hulse1/01hulse1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/01/us/01hulse1/01hulse1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/01/us/01hulse1/01hulse1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Democrats See Medicare as Winning Wedge Issue",
+        "content_kicker": "On Washington",
+        "kicker": "On Washington",
+        "print_headline": "Democrats See Medicare as Winning Wedge Issue"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Health Insurance and Managed Care"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Medicare"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Patient Protection and Affordable Care Act (2010)"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        }
+    ],
+    "pub_date": "2016-11-30T23:22:46+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carl",
+                "rank": 1,
+                "lastname": "HULSE"
+            }
+        ],
+        "original": "By CARL HULSE"
+    },
+    "type_of_material": "News",
+    "_id": "583f5f4e7c459f2525d0f31d",
+    "word_count": "827",
+    "slideshow_credits": null
+}

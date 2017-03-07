@@ -1,0 +1,124 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/philando-castile-shooting-minnesota.html",
+    "snippet": "Officer Jeronimo Yanez shot Mr. Castile after pulling him over in Falcon Heights, Minn. The aftermath was streamed on Facebook Live by Mr. Castile\u2019s girlfriend....",
+    "lead_paragraph": "Officer Jeronimo Yanez shot Mr. Castile after pulling him over in Falcon Heights, Minn. The aftermath was streamed on Facebook Live by Mr. Castile\u2019s girlfriend.",
+    "abstract": "Prosecutors in Ramsey County, Minn, charge Police Officer Jeronimo Yanez with second-degree manslaughter and two felony counts of intentional discharge of dangerous weapon; Yanez killed Philando Castile during July traffic stop in Falcon Heights; police shooting of black victim sparked public outcry.",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/17stpaul1/17stpaul1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/17stpaul1/17stpaul1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/17stpaul1/17stpaul1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/17stpaul1/17stpaul1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/17stpaul1/17stpaul1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/17stpaul1/17stpaul1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Officer Who Shot Philando Castile Is Charged With Manslaughter",
+        "print_headline": "Officer Who Shot Black Driver Is Charged With Manslaughter"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Castile, Philando (1983-2016)"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Falcon Heights (Minn)"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Yanez, Jeronimo (1988- )"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Reynolds, Diamond (1989- )"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+        }
+    ],
+    "pub_date": "2016-11-16T16:46:06Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Christina Capecchi reported from St. Paul, and Mitch Smith from Chicago.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christina",
+                "rank": 1,
+                "lastname": "CAPECCHI"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mitch",
+                "rank": 2,
+                "lastname": "SMITH"
+            }
+        ],
+        "original": "By CHRISTINA CAPECCHI and MITCH SMITH"
+    },
+    "type_of_material": "News",
+    "_id": "582c8d537c459f6a5fcce585",
+    "word_count": "1059",
+    "slideshow_credits": null
+}

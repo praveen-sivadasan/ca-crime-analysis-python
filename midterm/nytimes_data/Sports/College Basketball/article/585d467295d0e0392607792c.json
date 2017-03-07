@@ -1,0 +1,92 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/23/sports/ncaabasketball/kelsey-mitchell-ohio-state.html",
+    "snippet": "Mitchell, a 5-foot-8 flash of basketball skill, started playing at age 4 against boys years older. Now, a rival coach says, she\u2019s \u201cimpossible to guard.\u201d...",
+    "lead_paragraph": "Mitchell, a 5-foot-8 flash of basketball skill, started playing at age 4 against boys years older. Now, a rival coach says, she\u2019s \u201cimpossible to guard.\u201d",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/23/sports/24MITCHELLweb1/24MITCHELL1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/23/sports/24MITCHELLweb1/24MITCHELL1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/23/sports/24MITCHELLweb1/00MITCHELL1-articleLarge.jpg",
+            "height": 507,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/23/sports/24MITCHELLweb1/00MITCHELL1-articleLarge.jpg",
+                "xlargeheight": "507"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/23/sports/24MITCHELLweb1/24MITCHELL1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/23/sports/24MITCHELLweb1/24MITCHELL1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Ohio State\u2019s Kelsey Mitchell Got an Early Start on a Dash to Stardom",
+        "print_headline": "After Early Start, Ohio State Guard Is Hard to Stop"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Basketball (College)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Ohio State University"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mitchell, Kelsey (1995- )"
+        }
+    ],
+    "pub_date": "2016-12-23T15:44:46+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "College Basketball",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Howard",
+                "rank": 1,
+                "lastname": "MEGDAL"
+            }
+        ],
+        "original": "By HOWARD MEGDAL"
+    },
+    "type_of_material": "News",
+    "_id": "585d467295d0e0392607792c",
+    "word_count": "1043",
+    "slideshow_credits": null
+}

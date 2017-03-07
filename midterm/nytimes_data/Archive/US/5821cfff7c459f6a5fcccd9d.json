@@ -1,0 +1,100 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/09/us/politics/debunk-fake-news-election-day.html",
+    "snippet": "Don\u2019t be confused by false fliers, online pranks or websites that exist to deceive voters....",
+    "lead_paragraph": "Don\u2019t be confused by false fliers, online pranks or websites that exist to deceive voters.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/09/us/09xp-fakefeed/09xp-fakefeed-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/09/us/09xp-fakefeed/09xp-fakefeed-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/09/us/09xp-fakefeed/09xp-fakefeed-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/09/us/09xp-fakefeed/09xp-fakefeed-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/09/us/09xp-fakefeed/09xp-fakefeed-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/09/us/09xp-fakefeed/09xp-fakefeed-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "The Hoaxes, Fake News and Misinformation We Saw on Election Day"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        }
+    ],
+    "pub_date": "2016-11-08T13:15:36Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katie",
+                "rank": 1,
+                "lastname": "ROGERS"
+            },
+            {
+                "firstname": "Jonah",
+                "middlename": "Engel",
+                "lastname": "BROMWICH",
+                "rank": 2,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KATIE ROGERS and JONAH ENGEL BROMWICH"
+    },
+    "type_of_material": "News",
+    "_id": "5821cfff7c459f6a5fcccd9d",
+    "word_count": "1383",
+    "slideshow_credits": null
+}

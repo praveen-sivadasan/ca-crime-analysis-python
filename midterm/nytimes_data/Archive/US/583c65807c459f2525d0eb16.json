@@ -1,0 +1,97 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/28/us/donald-trump-voter-fraud-california.html",
+    "snippet": "Alex Padilla, the secretary of state in California, replied to Mr. Trump\u2019s allegation on Twitter, saying claims of \u201cvoter fraud in California and elsewhere are absurd.\u201d...",
+    "lead_paragraph": "Alex Padilla, the secretary of state in California, replied to Mr. Trump\u2019s allegation on Twitter, saying claims of \u201cvoter fraud in California and elsewhere are absurd.\u201d",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/29/us/29fraud1/29fraud1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/29/us/29fraud1/29fraud1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/29/us/29fraud1/29fraud1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/29/us/29fraud1/29fraud1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/29/us/29fraud1/29fraud1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/29/us/29fraud1/29fraud1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "California Official Says Trump\u2019s Claim of Voter Fraud Is \u2018Absurd\u2019"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+        }
+    ],
+    "pub_date": "2016-11-28T17:12:26+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "NAGOURNEY"
+            }
+        ],
+        "original": "By ADAM NAGOURNEY"
+    },
+    "type_of_material": "News",
+    "_id": "583c65807c459f2525d0eb16",
+    "word_count": "466",
+    "slideshow_credits": null
+}

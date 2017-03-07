@@ -1,0 +1,93 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/30/us/ohio-state-university-attack-abdul-razak-ali-artan.html",
+    "snippet": "Investigators say Abdul Razak Ali Artan, the student who wounded 11 people at the university, may have been inspired by a Qaeda propagandist, or by the Islamic State....",
+    "lead_paragraph": "Investigators say Abdul Razak Ali Artan, the student who wounded 11 people at the university, may have been inspired by a Qaeda propagandist, or by the Islamic State.",
+    "abstract": "Authorities say Somali-born Ohio State University student Abdul Razak Ali Artan, who was fatally shot by campus police after driving car into pedestrians and stabbing several of them, may have been inspired by Al Qaeda recruiter or by Islamic State terrorist group; investigators caution, however, that it is too early to determine whether attacks on Columbus campus were planned act of terrorism.",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ohio State Attacker May Have Been \u2018Inspired\u2019 by Al Qaeda, F.B.I. Says",
+        "print_headline": "Ohio State Attacker May Have Been Inspired by Terror Groups, F.B.I. Says"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Artan, Abdul Razak Ali (d 2016)"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Ohio State University"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Al Qaeda"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Awlaki, Anwar al-"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "School Shootings and Armed Attacks"
+        },
+        {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Columbus (Ohio)"
+        }
+    ],
+    "pub_date": "2016-11-30T21:01:30+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Mitch Smith reported from Columbus, and Richard P\u00e9rez-Pe\u00f1a from New York. Sheridan L. Hendrix contributed reporting from Columbus.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mitch",
+                "rank": 1,
+                "lastname": "SMITH"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 2,
+                "lastname": "P\u00c9REZ-PE\u00d1A"
+            }
+        ],
+        "original": "By MITCH SMITH and RICHARD P\u00c9REZ-PE\u00d1A"
+    },
+    "type_of_material": "News",
+    "_id": "583f3e337c459f2525d0f2a8",
+    "word_count": "880",
+    "slideshow_credits": null
+}

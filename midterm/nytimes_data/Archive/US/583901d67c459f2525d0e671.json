@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/25/us/tennessee-bus-crash-driver-complaints.html",
+    "snippet": "Reports by students and school staff members said the driver drove too fast, cursed at students and deliberately slammed on the brakes to make students fall....",
+    "lead_paragraph": "Reports by students and school staff members said the driver drove too fast, cursed at students and deliberately slammed on the brakes to make students fall.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/26/us/26bus_web1/26bus_web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/26/us/26bus_web1/26bus_web1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/26/us/26bus_web1/26bus_web1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/26/us/26bus_web1/26bus_web1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/26/us/26bus_web1/26bus_web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/26/us/26bus_web1/26bus_web1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Records Show Complaints About Driver in Deadly Tennessee Bus Crash",
+        "print_headline": "Records Show Complaints About Driver in Bus Crash"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Buses"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Traffic Accidents and Safety"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Transportation Safety Board"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Walker, Johnthony K"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Chattanooga (Tenn)"
+        }
+    ],
+    "pub_date": "2016-11-26T03:30:22+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alan",
+                "rank": 1,
+                "lastname": "BLINDER"
+            }
+        ],
+        "original": "By ALAN BLINDER"
+    },
+    "type_of_material": "News",
+    "_id": "583901d67c459f2525d0e671",
+    "word_count": "613",
+    "slideshow_credits": null
+}

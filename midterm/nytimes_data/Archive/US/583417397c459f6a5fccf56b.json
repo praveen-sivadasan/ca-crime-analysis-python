@@ -1,0 +1,93 @@
+{
+    "web_url": "http://www.nytimes.com/video/us/100000004708576/one-mans-fears-for-standing-rock.html",
+    "snippet": "Richard White, a lifelong resident of Standing Rock, talks about his relationship to the land and the water, and his fear for their future....",
+    "lead_paragraph": "Richard White, a lifelong resident of Standing Rock, talks about his relationship to the land and the water, and his fear for their future.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/22/us/360-pipeline/360-pipeline-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/22/us/360-pipeline/360-pipeline-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/22/us/360-pipeline/360-pipeline-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/22/us/360-pipeline/360-pipeline-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/22/us/360-pipeline/360-pipeline-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/22/us/360-pipeline/360-pipeline-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "One Man\u2019s Fears for Standing Rock"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Standing Rock Sioux Reservation (ND-SD)"
+        }
+    ],
+    "pub_date": "2016-11-22T10:00:19+0000",
+    "document_type": "multimedia",
+    "news_desk": "U.S.",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kc",
+                "rank": 1,
+                "lastname": "McGINNIS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kaitlyn",
+                "rank": 2,
+                "lastname": "MULLIN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maureen",
+                "rank": 3,
+                "lastname": "TOWEY"
+            }
+        ],
+        "original": "By KC McGINNIS, KAITLYN MULLIN and MAUREEN TOWEY"
+    },
+    "type_of_material": null,
+    "_id": "583417397c459f6a5fccf56b",
+    "word_count": "24",
+    "slideshow_credits": null
+}

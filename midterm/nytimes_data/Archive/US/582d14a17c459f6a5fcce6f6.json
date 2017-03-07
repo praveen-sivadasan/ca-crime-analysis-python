@@ -1,0 +1,103 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/bernie-sanders-says-donald-trump-must-be-held-accountable.html",
+    "snippet": "The Vermont senator says the president-elect must be held to promises he made to the middle class....",
+    "lead_paragraph": "The Vermont senator says the president-elect must be held to promises he made to the middle class.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/17sanders_web1/17sanders_web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/17sanders_web1/17sanders_web1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/17sanders_web1/17sanders_web1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/17sanders_web1/17sanders_web1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/17sanders_web1/17sanders_web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/17sanders_web1/17sanders_web1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Bernie Sanders Says Donald Trump Must Be Held Accountable"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sanders, Bernard"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Speeches and Statements"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Income Inequality"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        }
+    ],
+    "pub_date": "2016-11-17T02:23:21Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Yamiche",
+                "rank": 1,
+                "lastname": "ALCINDOR"
+            }
+        ],
+        "original": "By YAMICHE ALCINDOR"
+    },
+    "type_of_material": "News",
+    "_id": "582d14a17c459f6a5fcce6f6",
+    "word_count": "671",
+    "slideshow_credits": null
+}

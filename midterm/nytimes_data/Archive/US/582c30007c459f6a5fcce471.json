@@ -1,0 +1,91 @@
+{
+    "web_url": "http://www.nytimes.com/interactive/2016/11/16/us/politics/the-two-americas-of-2016.html",
+    "snippet": "A view of two imaginary nations created by slicing the country along the sharp divide between Republican and Democratic Americas....",
+    "lead_paragraph": "A view of two imaginary nations created by slicing the country along the sharp divide between Republican and Democratic Americas.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/16/us/politics/the-two-americas-of-2016-1479251850034/the-two-americas-of-2016-1479251850034-thumbWide-v5.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/16/us/politics/the-two-americas-of-2016-1479251850034/the-two-americas-of-2016-1479251850034-thumbWide-v5.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/16/us/politics/the-two-americas-of-2016-1479251850034/the-two-americas-of-2016-1479251850034-articleLarge-v3.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/16/us/politics/the-two-americas-of-2016-1479251850034/the-two-americas-of-2016-1479251850034-articleLarge-v3.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/16/us/politics/the-two-americas-of-2016-1479251850034/the-two-americas-of-2016-1479251850034-thumbStandard-v5.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/16/us/politics/the-two-americas-of-2016-1479251850034/the-two-americas-of-2016-1479251850034-thumbStandard-v5.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "The Two Americas of 2016"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        }
+    ],
+    "pub_date": "2016-11-16T10:08:08+0000",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Politics",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "WALLACE"
+            }
+        ],
+        "original": "By TIM WALLACE"
+    },
+    "type_of_material": "Interactive Feature",
+    "_id": "582c30007c459f6a5fcce471",
+    "word_count": null,
+    "slideshow_credits": null
+}

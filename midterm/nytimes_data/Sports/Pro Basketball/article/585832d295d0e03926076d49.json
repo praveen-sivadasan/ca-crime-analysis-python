@@ -1,0 +1,92 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/19/sports/basketball/golden-state-warriors-cleveland-cavaliers-christmas-day.html",
+    "snippet": "It\u2019s the first meeting between the teams since Cleveland beat Golden State in Game 7 of the finals....",
+    "lead_paragraph": "It\u2019s the first meeting between the teams since Cleveland beat Golden State in Game 7 of the finals.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/20/sports/20xp-nba/20xp-nba-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/20/sports/20xp-nba/20xp-nba-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/20/sports/20xp-nba/20xp-nba-articleLarge.jpg",
+            "height": 416,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/20/sports/20xp-nba/20xp-nba-articleLarge.jpg",
+                "xlargeheight": "416"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/20/sports/20xp-nba/20xp-nba-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/20/sports/20xp-nba/20xp-nba-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "An N.B.A. Gift on Christmas: Warriors at Cavaliers"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Basketball"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Cleveland Cavaliers"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Golden State Warriors"
+        }
+    ],
+    "pub_date": "2016-12-19T19:19:37+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Basketball",
+    "byline": {
+        "person": [
+            {
+                "firstname": "Jonah",
+                "middlename": "Engel",
+                "lastname": "BROMWICH",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By JONAH ENGEL BROMWICH"
+    },
+    "type_of_material": "News",
+    "_id": "585832d295d0e03926076d49",
+    "word_count": "1107",
+    "slideshow_credits": null
+}

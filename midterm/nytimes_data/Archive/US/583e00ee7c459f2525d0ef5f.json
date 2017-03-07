@@ -1,0 +1,132 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/29/us/politics/steven-terner-mnuchin-trump-treasury-secretary.html",
+    "snippet": "Steven Mnuchin, a longtime Trump acquaintance, is a former Goldman Sachs partner who has worked in hedge funds and Hollywood finance and has no government experience....",
+    "lead_paragraph": "Steven Mnuchin, a longtime Trump acquaintance, is a former Goldman Sachs partner who has worked in hedge funds and Hollywood finance and has no government experience.",
+    "abstract": "Steven Mnuchin, financier with deep roots on Wall Street and in Hollywood but no government experience, is expected to be named Donald Trump\u2019s Treasury secretary; Mnuchin was national finance chairman for Trump\u2019s campaign and selection would elevate wealthy loyalist to pivotal economic post.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/30/us/30subMNUCHEN3/30subMNUCHEN3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/30/us/30subMNUCHEN3/30subMNUCHEN3-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/30/us/30subMNUCHEN3/30subMNUCHEN3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/30/us/30subMNUCHEN3/30subMNUCHEN3-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/30/us/30subMNUCHEN3/30subMNUCHEN3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/30/us/30subMNUCHEN3/30subMNUCHEN3-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Taps Hollywood\u2019s Mnuchin for Treasury and Dines With Romney",
+        "print_headline": "Movie Financier Is Said to Be Pick for Treasury Job"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Mnuchin, Steven T"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Treasury Department"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Dune Capital Management"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Goldman Sachs Group Inc"
+        }
+    ],
+    "pub_date": "2016-11-29T22:27:52+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Julie Hirschfeld Davis and Binyamin Appelbaum reported from Washington, and Maggie Haberman from New York. Landon Thomas Jr. contributed reporting from New York.",
+        "person": [
+            {
+                "firstname": "Julie",
+                "middlename": "Hirschfeld",
+                "lastname": "DAVIS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Binyamin",
+                "rank": 2,
+                "lastname": "APPELBAUM"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maggie",
+                "rank": 3,
+                "lastname": "HABERMAN"
+            }
+        ],
+        "original": "By JULIE HIRSCHFELD DAVIS, BINYAMIN APPELBAUM and MAGGIE HABERMAN"
+    },
+    "type_of_material": "News",
+    "_id": "583e00ee7c459f2525d0ef5f",
+    "word_count": "1509",
+    "slideshow_credits": null
+}

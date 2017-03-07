@@ -1,0 +1,107 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/11/us/politics/donald-trump-transition.html",
+    "snippet": "The president-elect said that, after talking with President Obama this week, he might be willing to leave in place two popular provisions of the Affordable Care Act....",
+    "lead_paragraph": "The president-elect said that, after talking with President Obama this week, he might be willing to leave in place two popular provisions of the Affordable Care Act.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/11/us/11briefing-1/11briefing-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/11/us/11briefing-1/11briefing-1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/11/us/11briefing-1/11briefing-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/11/us/11briefing-1/11briefing-1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/11/us/11briefing-1/11briefing-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/11/us/11briefing-1/11briefing-1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Floats an Olive Branch: Might Keep Parts of the Health Law"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        }
+    ],
+    "pub_date": "2016-11-11T10:00:28Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carl",
+                "rank": 1,
+                "lastname": "HULSE"
+            },
+            {
+                "firstname": "Julie",
+                "middlename": "Hirschfeld",
+                "lastname": "DAVIS",
+                "rank": 2,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alan",
+                "rank": 3,
+                "lastname": "RAPPEPORT"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maggie",
+                "rank": 4,
+                "lastname": "HABERMAN"
+            }
+        ],
+        "original": "By CARL HULSE, JULIE HIRSCHFELD DAVIS, ALAN RAPPEPORT and MAGGIE HABERMAN"
+    },
+    "type_of_material": "News",
+    "_id": "582596c27c459f6a5fccd6de",
+    "word_count": "1845",
+    "slideshow_credits": null
+}

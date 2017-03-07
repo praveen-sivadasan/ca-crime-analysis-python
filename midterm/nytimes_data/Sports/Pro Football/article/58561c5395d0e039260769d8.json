@@ -1,0 +1,94 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/18/sports/football/miami-dolphins-new-york-jets.html",
+    "snippet": "There had been hopes that the veterans from last year\u2019s 10-6 team would take the Jets back to the playoffs. Instead, the team lost its 10th game of the season....",
+    "lead_paragraph": "There had been hopes that the veterans from last year\u2019s 10-6 team would take the Jets back to the playoffs. Instead, the team lost its 10th game of the season.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/18/sports/18JETS/18JETS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/18/sports/18JETS/18JETS-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/18/sports/18JETS/18JETS-articleLarge.jpg",
+            "height": 420,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/18/sports/18JETS/18JETS-articleLarge.jpg",
+                "xlargeheight": "420"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/18/sports/18JETS/18JETS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/18/sports/18JETS/18JETS-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Even With Diminished Hopes, Fans Find Jets Wanting Against Dolphins",
+        "content_kicker": "Dolphins 34, Jets 13",
+        "kicker": "Dolphins 34, Jets 13",
+        "print_headline": "Even With Diminished Hopes, Fans Find the Jets Wanting"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Football"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Miami Dolphins"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Jets"
+        }
+    ],
+    "pub_date": "2016-12-18T05:19:08+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Football",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Zach",
+                "rank": 1,
+                "lastname": "SCHONBRUN"
+            }
+        ],
+        "original": "By ZACH SCHONBRUN"
+    },
+    "type_of_material": "News",
+    "_id": "58561c5395d0e039260769d8",
+    "word_count": "824",
+    "slideshow_credits": null
+}

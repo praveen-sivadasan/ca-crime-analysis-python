@@ -1,0 +1,98 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/04/us/walter-scott-michael-slager-trial.html",
+    "snippet": "Mr. Scott was portrayed as an imperfect figure whose own behavior contributed to his shooting, which was recorded on video....",
+    "lead_paragraph": "Mr. Scott was portrayed as an imperfect figure whose own behavior contributed to his shooting, which was recorded on video.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/04/us/04charleston-2/04charleston-2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/04/us/04charleston-2/04charleston-2-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/04/us/04charleston-2/04charleston-2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/04/us/04charleston-2/04charleston-2-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/04/us/04charleston-2/04charleston-2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/04/us/04charleston-2/04charleston-2-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Walter Scott\u2019s Character Scrutinized in Trial of Officer Who Killed Him",
+        "print_headline": "Trial of Officer Starts in South Carolina With Focus on Victim"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Scott, Walter L (1950-2015)"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Slager, Michael T (1981- )"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "North Charleston (SC)"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+        }
+    ],
+    "pub_date": "2016-11-03T23:33:21Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alan",
+                "rank": 1,
+                "lastname": "BLINDER"
+            }
+        ],
+        "original": "By ALAN BLINDER"
+    },
+    "type_of_material": "News",
+    "_id": "581bdc9b7c459f6a5fccc1e4",
+    "word_count": "914",
+    "slideshow_credits": null
+}

@@ -1,0 +1,105 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/02/us/politics/orlando-shooting-omar-mateen-noor-salman.html",
+    "snippet": "Noor Salman, whose husband, Omar Mateen, killed 49 people at the Pulse nightclub, described him as abusive and said she had known nothing about his plans....",
+    "lead_paragraph": "Noor Salman, whose husband, Omar Mateen, killed 49 people at the Pulse nightclub, described him as abusive and said she had known nothing about his plans.",
+    "abstract": "Noor Salman, wife of Omar Mateen, gunman who killed 49 people at Orlando, Fla, nightclub, agrees to her first interview since massacre; insists she was unaware of his plans, and describes him as secretive and abusive; says she has been forced to move three times since attack in order to avoid news media and lives in legal limbo as prosecutors continue to weigh charges against her that could include lying to FBI agents.",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/02/us/02MATEEN-Jp1/02MATEEN-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/02/us/02MATEEN-Jp1/02MATEEN-1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/02/us/02MATEEN-Jp1/02MATEEN-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/02/us/02MATEEN-Jp1/02MATEEN-1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/02/us/02MATEEN-Jp1/02MATEEN-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/02/us/02MATEEN-Jp1/02MATEEN-1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Orlando Gunman\u2019s Wife Breaks Silence: \u2018I Was Unaware\u2019",
+        "print_headline": "Wife of Orlando Gunman Breaks Silence and Says, \u2018I Was Unaware\u2019"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Orlando, Fla, Shooting (2016)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mateen, Omar (1986-2016)"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Salman, Noor Zahi"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federal Bureau of Investigation"
+        }
+    ],
+    "pub_date": "2016-11-01T17:52:56Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Kitty Bennett contributed research.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "GOLDMAN"
+            }
+        ],
+        "original": "By ADAM GOLDMAN"
+    },
+    "type_of_material": "News",
+    "_id": "5818d6837c459f606398cf63",
+    "word_count": "1603",
+    "slideshow_credits": null
+}

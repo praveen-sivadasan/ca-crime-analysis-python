@@ -1,0 +1,111 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/20/us/politics/hamilton-cast-mike-pence-donald-trump.html",
+    "snippet": "Donald Trump took to Twitter to demand an apology from the cast of \u201cHamilton,\u201d which directly addressed Vice President-elect Mike Pence after a performance on Friday....",
+    "lead_paragraph": "Donald Trump took to Twitter to demand an apology from the cast of \u201cHamilton,\u201d which directly addressed Vice President-elect Mike Pence after a performance on Friday.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/20/us/20pence-3/20pence-3-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/20/us/20pence-3/20pence-3-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/20/us/20pence-3/20pence-3-articleLarge-v2.jpg",
+            "height": 533,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/20/us/20pence-3/20pence-3-articleLarge-v2.jpg",
+                "xlargeheight": "533"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/20/us/20pence-3/20pence-3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/20/us/20pence-3/20pence-3-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "\u2018Hamilton\u2019 Cast\u2019s Appeal to Pence Ignites Showdown With Trump",
+        "print_headline": "\u2018Hamilton\u2019 Plea Sets Stage for a Trump Clash"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Pence, Mike"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Miranda, Lin-Manuel"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Hamilton (Play)"
+        }
+    ],
+    "pub_date": "2016-11-19T22:08:14Z",
+    "document_type": "article",
+    "news_desk": "Metro",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Christopher Mele contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Patrick",
+                "rank": 1,
+                "lastname": "HEALY"
+            }
+        ],
+        "original": "By PATRICK HEALY"
+    },
+    "type_of_material": "News",
+    "_id": "5830cd527c459f6a5fccefac",
+    "word_count": "1767",
+    "slideshow_credits": null
+}

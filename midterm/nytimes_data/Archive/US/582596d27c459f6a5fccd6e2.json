@@ -1,0 +1,107 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/12/us/his-job-to-power-up-the-grand-canyon.html",
+    "snippet": "Without power, water pumps in the park don\u2019t work. Without pumps, there\u2019s no water in toilets or faucets. Without water, the park must close. Enter Kevin Hartigan....",
+    "lead_paragraph": "Without power, water pumps in the park don\u2019t work. Without pumps, there\u2019s no water in toilets or faucets. Without water, the park must close. Enter Kevin Hartigan.",
+    "abstract": "Profile of Kevin Hartigan, representative from energy utility Arizona Public Service who is responsible for maintaining electricity supply for busy Grand Canyon National Park.",
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/13/us/13arizona1/12arizona1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/13/us/13arizona1/12arizona1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/13/us/13arizona1/12arizona1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/13/us/13arizona1/12arizona1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/13/us/13arizona1/12arizona1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/13/us/13arizona1/12arizona1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "His Job? To Power Up the Grand Canyon",
+        "content_kicker": "Grand Canyon Journal",
+        "kicker": "Grand Canyon Journal",
+        "print_headline": "His Job? To Power Up the Grand Canyon"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Grand Canyon National Park"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "National Parks, Monuments and Seashores"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Power Failures and Blackouts"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Arizona Public Service"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Electric Light and Power"
+        }
+    ],
+    "pub_date": "2016-11-11T10:00:41Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Fernanda",
+                "rank": 1,
+                "lastname": "SANTOS"
+            }
+        ],
+        "original": "By FERNANDA SANTOS"
+    },
+    "type_of_material": "News",
+    "_id": "582596d27c459f6a5fccd6e2",
+    "word_count": "914",
+    "slideshow_credits": null
+}

@@ -1,0 +1,117 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/09/us/politics/voter-turnout.html",
+    "snippet": "Some were too busy. Some were disgruntled and resigned. Despite the high turnout at the polls today, millions of eligible American voters sat out this race....",
+    "lead_paragraph": "Some were too busy. Some were disgruntled and resigned. Despite the high turnout at the polls today, millions of eligible American voters sat out this race.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/09/us/09novote/09novote-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/09/us/09novote/09novote-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/09/us/09novote/09novote-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/09/us/09novote/09novote-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/09/us/09novote/09novote-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/09/us/09novote/09novote-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Millions on Election Day Make a Different Decision: Not Voting",
+        "print_headline": "Because of Law, Life or Apathy, Election Day for Millions Is Just Another Tuesday"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        }
+    ],
+    "pub_date": "2016-11-09T00:51:38Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Reporting was contributed by Alan Blinder from Tallahassee, Fla.; Richard Fausset from Raleigh, N.C.; Julie Bosman from Lake Geneva, Wis.; Jack Healy from Draper, Utah; Jennifer Medina from Los Angeles; and Fernanda Santos from Phoenix.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Campbell",
+                "rank": 1,
+                "lastname": "ROBERTSON"
+            }
+        ],
+        "original": "By CAMPBELL ROBERTSON"
+    },
+    "type_of_material": "News",
+    "_id": "5822731d7c459f6a5fcccf23",
+    "word_count": "1172",
+    "slideshow_credits": null
+}

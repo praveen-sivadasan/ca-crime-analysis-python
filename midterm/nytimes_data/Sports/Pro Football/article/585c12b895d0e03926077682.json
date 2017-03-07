@@ -1,0 +1,85 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/22/sports/football/fantasy-football-players-to-start-in-week-16.html",
+    "snippet": "Quarterback Cam Newton gets his shot at redemption, and the Raiders have two receivers to consider starting this week....",
+    "lead_paragraph": "Quarterback Cam Newton gets his shot at redemption, and the Raiders have two receivers to consider starting this week.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/23/sports/23FANTASY1-sub/23FANTASY1-sub-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/23/sports/23FANTASY1-sub/23FANTASY1-sub-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/23/sports/23FANTASY1-sub/23FANTASY1-sub-articleLarge.jpg",
+            "height": 429,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/23/sports/23FANTASY1-sub/23FANTASY1-sub-articleLarge.jpg",
+                "xlargeheight": "429"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/23/sports/23FANTASY1-sub/23FANTASY1-sub-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/23/sports/23FANTASY1-sub/23FANTASY1-sub-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Fantasy Football: Players to Start in Week 16"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Football"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fantasy Sports"
+        }
+    ],
+    "pub_date": "2016-12-22T17:51:43+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Football",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Justin",
+                "rank": 1,
+                "lastname": "SABLICH"
+            }
+        ],
+        "original": "By JUSTIN SABLICH"
+    },
+    "type_of_material": "List",
+    "_id": "585c12b895d0e03926077682",
+    "word_count": "696",
+    "slideshow_credits": null
+}

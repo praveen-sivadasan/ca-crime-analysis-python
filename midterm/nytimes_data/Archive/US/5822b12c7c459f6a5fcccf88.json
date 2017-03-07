@@ -1,0 +1,79 @@
+{
+    "web_url": "http://www.nytimes.com/video/us/politics/100000004757868/the-electoral-college-explained.html",
+    "snippet": "Your vote doesn\u2019t exactly decide who becomes president. For that, we turn to the Electoral College. Here\u2019s how it works....",
+    "lead_paragraph": "Your vote doesn\u2019t exactly decide who becomes president. For that, we turn to the Electoral College. Here\u2019s how it works.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/08/multimedia/fb-live-electoralcollege/fb-live-electoralcollege-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/08/multimedia/fb-live-electoralcollege/fb-live-electoralcollege-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/08/multimedia/fb-live-electoralcollege/fb-live-electoralcollege-articleLarge.jpg",
+            "height": 337,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/08/multimedia/fb-live-electoralcollege/fb-live-electoralcollege-articleLarge.jpg",
+                "xlargeheight": "337"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/08/multimedia/fb-live-electoralcollege/fb-live-electoralcollege-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/08/multimedia/fb-live-electoralcollege/fb-live-electoralcollege-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "The Electoral College Explained"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Electoral College"
+        }
+    ],
+    "pub_date": "2016-11-09T05:15:04Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Politics",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Madison",
+                "rank": 1,
+                "lastname": "MILLS"
+            }
+        ],
+        "original": "By MADISON MILLS"
+    },
+    "type_of_material": "Video",
+    "_id": "5822b12c7c459f6a5fcccf88",
+    "word_count": "20",
+    "slideshow_credits": null
+}

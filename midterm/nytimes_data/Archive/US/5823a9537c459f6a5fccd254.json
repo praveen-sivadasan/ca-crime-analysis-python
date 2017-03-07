@@ -1,0 +1,111 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/10/us/politics/trump-voters.html",
+    "snippet": "Many supporters said they hoped for great things under a Trump presidency \u2014 though many also said they had no idea what they were in for....",
+    "lead_paragraph": "Many supporters said they hoped for great things under a Trump presidency \u2014 though many also said they had no idea what they were in for.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "For Trump Voters, Uncertainty Mixes With Elation",
+        "print_headline": "Voters Put Their Faith in Trump, Yet Elation Is Mixed With Uncertainty"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+        }
+    ],
+    "pub_date": "2016-11-09T22:55:10Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Reporting was contributed by Katharine Q. Seelye from Concord, N.H.; Julie Bosman from Cambridge, Wis.; Alan Blinder from Atlanta; Richard P\u00e9rez-Pe\u00f1a from New York; Fernanda Santos from Phoenix; Campbell Robertson from New Orleans; Jack Healy from Salt Lake City; and David Philipps from Las Vegas.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 1,
+                "lastname": "FAUSSET"
+            }
+        ],
+        "original": "By RICHARD FAUSSET"
+    },
+    "type_of_material": "News",
+    "_id": "5823a9537c459f6a5fccd254",
+    "word_count": "1535",
+    "slideshow_credits": null
+}

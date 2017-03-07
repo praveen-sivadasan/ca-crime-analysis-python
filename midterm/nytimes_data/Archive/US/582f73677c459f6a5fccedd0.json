@@ -1,0 +1,111 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/19/us/politics/trump-university.html",
+    "snippet": "Former students said they were cheated out of thousands of dollars in tuition, and one of the cases was set to go before a jury in 10 days....",
+    "lead_paragraph": "Former students said they were cheated out of thousands of dollars in tuition, and one of the cases was set to go before a jury in 10 days.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/19/us/19trumpuniversity/19trumpuniversity-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/19/us/19trumpuniversity/19trumpuniversity-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/19/us/19trumpuniversity/19trumpuniversity-articleLarge.jpg",
+            "height": 425,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/19/us/19trumpuniversity/19trumpuniversity-articleLarge.jpg",
+                "xlargeheight": "425"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/19/us/19trumpuniversity/19trumpuniversity-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/19/us/19trumpuniversity/19trumpuniversity-thumbStandard-v2.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Donald Trump Agrees to Pay $25 Million in Trump University Settlement",
+        "print_headline": "Trump Settles University Suit for $25 Million"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Trump University"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Frauds and Swindling"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Schneiderman, Eric T"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "For-Profit Schools"
+        }
+    ],
+    "pub_date": "2016-11-18T21:32:16Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Ciaran McEvoy contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Steve",
+                "rank": 1,
+                "lastname": "EDER"
+            }
+        ],
+        "original": "By STEVE EDER"
+    },
+    "type_of_material": "News",
+    "_id": "582f73677c459f6a5fccedd0",
+    "word_count": "1099",
+    "slideshow_credits": null
+}

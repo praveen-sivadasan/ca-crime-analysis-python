@@ -1,0 +1,123 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/15/us/brendan-dassey-making-a-murderer-to-be-freed.html",
+    "snippet": "The authorities in Wisconsin have appealed a judge\u2019s ruling that overturned Mr. Dassey\u2019s conviction, which was featured in the Netflix documentary....",
+    "lead_paragraph": "The authorities in Wisconsin have appealed a judge\u2019s ruling that overturned Mr. Dassey\u2019s conviction, which was featured in the Netflix documentary.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/14/us/15xp-dassey/15xp-dassey-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/14/us/15xp-dassey/15xp-dassey-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/14/us/15xp-dassey/15xp-dassey-articleLarge.jpg",
+            "height": 441,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/14/us/15xp-dassey/15xp-dassey-articleLarge.jpg",
+                "xlargeheight": "441"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/14/us/15xp-dassey/15xp-dassey-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/14/us/15xp-dassey/15xp-dassey-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Brendan Dassey of \u2018Making a Murderer\u2019 Is to Be Freed While State Appeals Ruling",
+        "print_headline": "Figure in Netflix \u2018Murderer\u2019 Series Is to Be Freed Pending Appeal"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dassey, Brendan"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Halbach, Teresa (1980-2005)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Avery, Sean"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Netflix Inc"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sex Crimes"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Making a Murderer (TV Program)"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Documentary Films and Programs"
+        }
+    ],
+    "pub_date": "2016-11-14T21:01:49Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Doris Burke contributed research.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Daniel",
+                "rank": 1,
+                "lastname": "VICTOR"
+            }
+        ],
+        "original": "By DANIEL VICTOR"
+    },
+    "type_of_material": "News",
+    "_id": "582a26427c459f6a5fccdf01",
+    "word_count": "501",
+    "slideshow_credits": null
+}

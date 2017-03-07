@@ -1,0 +1,213 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html",
+    "snippet": "In many of the president-elect\u2019s international development ventures, his business partners have close ties to foreign governments....",
+    "lead_paragraph": "In many of the president-elect\u2019s international development ventures, his business partners have close ties to foreign governments.",
+    "abstract": "Some former government officials are concerned that financial ties between family of Pres-elect Donald J Trump and powerful foreign players will affect foreign policy and compromise ability of American government to criticize intermingling of state power with business enterprises controlled by political elite; global span of Trump's business interests has opened uncharted territory for presidential office.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-articleLarge.jpg",
+            "height": 387,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-articleLarge.jpg",
+                "xlargeheight": "387"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+        "print_headline": "World of Potential Conflict for a Developer President"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J Jr"
+        },
+        {
+            "rank": "12",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brazil"
+        },
+        {
+            "rank": "13",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "India"
+        },
+        {
+            "rank": "14",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Ireland"
+        },
+        {
+            "rank": "15",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Philippines"
+        },
+        {
+            "rank": "16",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Scotland"
+        },
+        {
+            "rank": "17",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Turkey"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Conflicts of Interest"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States International Relations"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hotels and Travel Lodgings"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Corruption (Institutional)"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Bharatiya Janata Party"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Duterte, Rodrigo"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Erdogan, Recep Tayyip"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Ivanka"
+        }
+    ],
+    "pub_date": "2016-11-26T19:23:36+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Richard C. Paddock reported from Manila, Eric Lipton from Washington, Ellen Barry from New Delhi, Rod Nordland from Istanbul, Danny Hakim from London and Simon Romero from Rio de Janeiro. Reporting was contributed by Mike McIntire from New York, Safak Timur from Istanbul, Sinead O\u2019Shea from Ireland and Suhasini Raj from New Delhi. Karen Yourish and Gregor Aisch contributed research.",
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "C.",
+                "lastname": "PADDOCK",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 2,
+                "lastname": "LIPTON"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Ellen",
+                "rank": 3,
+                "lastname": "BARRY"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Rod",
+                "rank": 4,
+                "lastname": "NORDLAND"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Danny",
+                "rank": 5,
+                "lastname": "HAKIM"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Simon",
+                "rank": 6,
+                "lastname": "ROMERO"
+            }
+        ],
+        "original": "By RICHARD C. PADDOCK, ERIC LIPTON, ELLEN BARRY, ROD NORDLAND, DANNY HAKIM and SIMON ROMERO"
+    },
+    "type_of_material": "News",
+    "_id": "5839e1407c459f2525d0e765",
+    "word_count": "6344",
+    "slideshow_credits": null
+}

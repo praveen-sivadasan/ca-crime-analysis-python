@@ -1,0 +1,124 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/15/us/politics/trump-supreme-court-justices.html",
+    "snippet": "The seemingly set-in-stone list has important clues about the president-elect\u2019s judicial priorities. It also contains a few surprises....",
+    "lead_paragraph": "The seemingly set-in-stone list has important clues about the president-elect\u2019s judicial priorities. It also contains a few surprises.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/15/us/15bar1/15bar1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/15/us/15bar1/15bar1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/15/us/15bar1/15bar1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/15/us/15bar1/15bar1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/15/us/15bar1/15bar1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/15/us/15bar1/15bar1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump\u2019s Supreme Court List: Ivy League? Out. The Heartland? In.",
+        "content_kicker": "Sidebar",
+        "kicker": "Sidebar",
+        "print_headline": "Trump\u2019s Supreme Court List: Ivy League Is Out, the Heartland Is In"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Supreme Court (US)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Constitution (US)"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Roberts, John G Jr"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Scalia, Antonin"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Thomas, Clarence"
+        }
+    ],
+    "pub_date": "2016-11-14T17:03:22Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "LIPTAK"
+            }
+        ],
+        "original": "By ADAM LIPTAK"
+    },
+    "type_of_material": "News",
+    "_id": "5829ee617c459f6a5fccde45",
+    "word_count": "1113",
+    "slideshow_credits": null
+}

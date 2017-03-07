@@ -1,0 +1,130 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/05/us/harvard-mens-soccer-team-scouting-report.html",
+    "snippet": "Assigning sexually demeaning rankings to incoming members of the women\u2019s soccer team leads the prestigious university to cancel the remainder of the men\u2019s season....",
+    "lead_paragraph": "Assigning sexually demeaning rankings to incoming members of the women\u2019s soccer team leads the prestigious university to cancel the remainder of the men\u2019s season.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/05/us/05HARVARD/05HARVARD-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/05/us/05HARVARD/05HARVARD-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/05/us/05HARVARD/05HARVARD-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/05/us/05HARVARD/05HARVARD-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/05/us/05HARVARD/05HARVARD-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/05/us/05HARVARD/05HARVARD-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Harvard Men\u2019s Soccer Team Is Sidelined for Vulgar \u2018Scouting Report\u2019",
+        "print_headline": "Locker Room Talk Becomes the Talk of Harvard"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Harvard University"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Soccer"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Colleges and Universities"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "College Athletics"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women and Girls"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sexual Harassment"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Discrimination"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Harvard Crimson"
+        }
+    ],
+    "pub_date": "2016-11-05T00:51:55+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Katharine",
+                "middlename": "Q.",
+                "lastname": "SEELYE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jess",
+                "rank": 2,
+                "lastname": "BIDGOOD"
+            }
+        ],
+        "original": "By KATHARINE Q. SEELYE and JESS BIDGOOD"
+    },
+    "type_of_material": "News",
+    "_id": "581d2d317c459f6a5fccc5e1",
+    "word_count": "1116",
+    "slideshow_credits": null
+}

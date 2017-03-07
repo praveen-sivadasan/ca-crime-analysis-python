@@ -1,0 +1,110 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/11/us/charles-wolf-jr-died-pentagon-papers.html",
+    "snippet": "Mr. Wolf, who worked at the RAND Corporation, was the supervisor of Daniel Ellsberg and tried to oust him in 1969 before he leaked the secret documents....",
+    "lead_paragraph": "Mr. Wolf, who worked at the RAND Corporation, was the supervisor of Daniel Ellsberg and tried to oust him in 1969 before he leaked the secret documents.",
+    "abstract": "Charles Wolf Jr, prescient RAND economist who denounced coworker Daniel Ellsberg for releasing RAND reports publicly known as Pentagon Papers chronicling American participation in Vietnam War, dies at age 92.",
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-articleLarge.jpg",
+            "height": 599,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-articleLarge.jpg",
+                "xlargeheight": "599"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Charles Wolf Jr., Who Clashed With Pentagon Papers Leaker, Dies at 92",
+        "print_headline": "Charles Wolf Jr. Dies at 92; Clashed With Papers\u2019 Leaker"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Wolf, Charles Jr (1924-2016)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Rand Corp"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ellsberg, Daniel"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pentagon Papers"
+        }
+    ],
+    "pub_date": "2016-11-10T22:57:47Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sam",
+                "rank": 1,
+                "lastname": "ROBERTS"
+            }
+        ],
+        "original": "By SAM ROBERTS"
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "5824fb717c459f6a5fccd5bb",
+    "word_count": "650",
+    "slideshow_credits": null
+}

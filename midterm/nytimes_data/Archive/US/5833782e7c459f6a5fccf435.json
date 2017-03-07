@@ -1,0 +1,92 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/21/us/san-antonio-police-officer-shot.html",
+    "snippet": "Benjamin Marconi was apparently killed just for being on the force, the chief said. He was one of four officers shot nationwide over the weekend....",
+    "lead_paragraph": "Benjamin Marconi was apparently killed just for being on the force, the chief said. He was one of four officers shot nationwide over the weekend.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/22/us/22shooting2/22shooting2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/22/us/22shooting2/22shooting2-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/22/us/22shooting2/22shooting2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/22/us/22shooting2/22shooting2-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/22/us/22shooting2/22shooting2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/22/us/22shooting2/22shooting2-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Slain San Antonio Detective Was Targeted, Police Chief Says",
+        "print_headline": "Slain Detective in San Antonio Was Targeted, Chief Says"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Attacks on Police"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Marconi, Benjamin (1966-2016)"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "San Antonio (Tex)"
+        }
+    ],
+    "pub_date": "2016-11-21T22:41:43Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 1,
+                "lastname": "P\u00c9REZ-PE\u00d1A"
+            }
+        ],
+        "original": "By RICHARD P\u00c9REZ-PE\u00d1A"
+    },
+    "type_of_material": "News",
+    "_id": "5833782e7c459f6a5fccf435",
+    "word_count": "887",
+    "slideshow_credits": null
+}

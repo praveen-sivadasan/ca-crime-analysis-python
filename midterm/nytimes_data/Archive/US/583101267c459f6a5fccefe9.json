@@ -1,0 +1,117 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/20/us/politics/white-nationalists-celebrate-an-awakening-after-donald-trumps-victory.html",
+    "snippet": "Hundreds of members of an extremist movement, feeling surprised but validated, gathered in Washington to herald a moment of political ascendance....",
+    "lead_paragraph": "Hundreds of members of an extremist movement, feeling surprised but validated, gathered in Washington to herald a moment of political ascendance.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/20/us/20altright/20altright-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/20/us/20altright/20altright-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/20/us/20altright/20altright-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/20/us/20altright/20altright-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/20/us/20altright/20altright-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/20/us/20altright/20altright-thumbStandard-v2.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "White Nationalists Celebrate \u2018an Awakening\u2019 After Donald Trump\u2019s Victory",
+        "print_headline": "White Nationalists Converge on Capital to Celebrate \u2018an Awakening\u2019"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Whites"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fringe Groups and Movements"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Discrimination"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Spencer, Richard B (1978- )"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Ku Klux Klan"
+        }
+    ],
+    "pub_date": "2016-11-20T01:49:22Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alan",
+                "rank": 1,
+                "lastname": "RAPPEPORT"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Noah",
+                "rank": 2,
+                "lastname": "WEILAND"
+            }
+        ],
+        "original": "By ALAN RAPPEPORT and NOAH WEILAND"
+    },
+    "type_of_material": "News",
+    "_id": "583101267c459f6a5fccefe9",
+    "word_count": "1068",
+    "slideshow_credits": null
+}

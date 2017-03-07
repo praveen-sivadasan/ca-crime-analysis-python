@@ -1,0 +1,111 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/06/us/politics/hillary-clinton-donald-trump-campaign.html",
+    "snippet": "Hillary Clinton sought to galvanize Latino voters on Saturday, as early voting signaled their turnout was swelling in states that Donald J. Trump needs to win....",
+    "lead_paragraph": "Hillary Clinton sought to galvanize Latino voters on Saturday, as early voting signaled their turnout was swelling in states that Donald J. Trump needs to win.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/06/us/06CAMPAIGN1-SUB/06CAMPAIGN1-SUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/06/us/06CAMPAIGN1-SUB/06CAMPAIGN1-SUB-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/06/us/06CAMPAIGN1-SUB/06CAMPAIGN1-SUB-articleLarge.jpg",
+            "height": 429,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/06/us/06CAMPAIGN1-SUB/06CAMPAIGN1-SUB-articleLarge.jpg",
+                "xlargeheight": "429"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/06/us/06CAMPAIGN1-SUB/06CAMPAIGN1-SUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/06/us/06CAMPAIGN1-SUB/06CAMPAIGN1-SUB-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters",
+        "print_headline": "Hispanics Surge to Polls as Race Enters Last Days"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hispanic-Americans"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Florida"
+        }
+    ],
+    "pub_date": "2016-11-05T21:33:46Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Thomas Kaplan contributed reporting from Tampa, Fla., Les Neuhaus from Orlando and Amy Chozick from Pembroke Pines.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jonathan",
+                "rank": 1,
+                "lastname": "MARTIN"
+            }
+        ],
+        "original": "By JONATHAN MARTIN"
+    },
+    "type_of_material": "News",
+    "_id": "581e50407c459f6a5fccc74e",
+    "word_count": "1606",
+    "slideshow_credits": null
+}

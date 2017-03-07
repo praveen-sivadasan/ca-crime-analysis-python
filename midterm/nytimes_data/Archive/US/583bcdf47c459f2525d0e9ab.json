@@ -1,0 +1,116 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/28/world/americas/juanita-castro-sister-fidel-cuba.html",
+    "snippet": "Juanita Castro, who fled Cuba decades ago and became a vocal critic of her brother\u2019s regime, expressed disdain for those who rejoiced over his death....",
+    "lead_paragraph": "Juanita Castro, who fled Cuba decades ago and became a vocal critic of her brother\u2019s regime, expressed disdain for those who rejoiced over his death.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/28/us/29JUANITA1-web/29JUANITA1-web-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/28/us/29JUANITA1-web/29JUANITA1-web-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/28/us/29JUANITA1-web/29JUANITA1-web-articleLarge.jpg",
+            "height": 403,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/28/us/29JUANITA1-web/29JUANITA1-web-articleLarge.jpg",
+                "xlargeheight": "403"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/28/us/29JUANITA1-web/29JUANITA1-web-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/28/us/29JUANITA1-web/29JUANITA1-web-thumbStandard-v3.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Fidel Castro\u2019s Sister, an Outspoken Critic, Takes No Joy in His Death",
+        "print_headline": "Estranged Sister in Florida, an Outspoken Critic, Takes No Joy in Castro\u2019s Death"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Castro, Fidel"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Castro, Juanita"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cuba"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Coral Gables (Fla)"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Miami (Fla)"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Florida"
+        }
+    ],
+    "pub_date": "2016-11-28T06:25:52+0000",
+    "document_type": "article",
+    "news_desk": "Foreign",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Frances",
+                "rank": 1,
+                "lastname": "ROBLES"
+            }
+        ],
+        "original": "By FRANCES ROBLES"
+    },
+    "type_of_material": "News",
+    "_id": "583bcdf47c459f2525d0e9ab",
+    "word_count": "1022",
+    "slideshow_credits": null
+}

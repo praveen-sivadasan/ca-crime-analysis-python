@@ -1,0 +1,100 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/18/sports/football/new-york-giants-detroit-lions-odell-beckham.html",
+    "snippet": "Odell Beckham Jr. made a one-handed touchdown grab late in the fourth quarter to help the Giants improve to 10-4, the N.F.C.\u2019s second-best record....",
+    "lead_paragraph": "Odell Beckham Jr. made a one-handed touchdown grab late in the fourth quarter to help the Giants improve to 10-4, the N.F.C.\u2019s second-best record.",
+    "abstract": "New York Giants defeat Detroit Lions, 17-6.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/19/sports/19GIANTSweb2/19GIANTSweb2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/19/sports/19GIANTSweb2/19GIANTSweb2-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/19/sports/19GIANTSweb2/19GIANTSweb2-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/19/sports/19GIANTSweb2/19GIANTSweb2-articleLarge.jpg",
+                "xlargeheight": "401"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/19/sports/19GIANTSweb2/19GIANTSweb2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/19/sports/19GIANTSweb2/19GIANTSweb2-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Beckham\u2019s Score Helps Giants Beat Lions in a Showdown of Top Teams",
+        "content_kicker": "Giants 17, Lions 6",
+        "kicker": "Giants 17, Lions 6",
+        "print_headline": "Beckham Puts Away a Game Once More"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Detroit Lions"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Giants"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Beckham, Odell Jr"
+        }
+    ],
+    "pub_date": "2016-12-18T21:35:40+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Football",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Zach",
+                "rank": 1,
+                "lastname": "SCHONBRUN"
+            }
+        ],
+        "original": "By ZACH SCHONBRUN"
+    },
+    "type_of_material": "News",
+    "_id": "5857013395d0e03926076ab8",
+    "word_count": "1041",
+    "slideshow_credits": null
+}

@@ -1,0 +1,85 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/14/us/politics/obama-heads-overseas-where-topic-of-trump-will-follow-him.html",
+    "snippet": "On Monday, the president will begin a trip that will take him to Greece, Germany and Peru. At every stop, he is sure to be asked how he got the election so wrong....",
+    "lead_paragraph": "On Monday, the president will begin a trip that will take him to Greece, Germany and Peru. At every stop, he is sure to be asked how he got the election so wrong.",
+    "abstract": "Pres Obama will embark on valedictory tour to Greece, Germany and Peru, where he will undoubtedly contend with questions on unexpected victory of Pres-elect Donald J Trump and future ramifications of his administration.",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Obama Heads Overseas, Where Topic of Trump Will Follow Him",
+        "print_headline": "Obama Heads Overseas, Where Topic of Trump Will Follow Him Everywhere"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Asia-Pacific Economic Cooperation"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Greece"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Germany"
+        },
+        {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Peru"
+        }
+    ],
+    "pub_date": "2016-11-13T22:01:17Z",
+    "document_type": "article",
+    "news_desk": "Foreign",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Gardiner",
+                "rank": 1,
+                "lastname": "HARRIS"
+            }
+        ],
+        "original": "By GARDINER HARRIS"
+    },
+    "type_of_material": "News",
+    "_id": "5828e2b47c459f6a5fccdc0d",
+    "word_count": "993",
+    "slideshow_credits": null
+}

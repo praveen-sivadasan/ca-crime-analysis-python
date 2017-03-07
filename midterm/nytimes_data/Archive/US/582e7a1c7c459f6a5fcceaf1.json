@@ -1,0 +1,130 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/18/us/politics/michael-flynn-national-security-adviser-donald-trump.html",
+    "snippet": "The move could put a retired intelligence officer who believes Islamist militancy poses an existential threat in one of the most powerful roles in shaping military and foreign policy....",
+    "lead_paragraph": "The move could put a retired intelligence officer who believes Islamist militancy poses an existential threat in one of the most powerful roles in shaping military and foreign policy.",
+    "abstract": "Pres-elect Donald J Trump offers post of national security adviser to Lt Gen Michael T Flynn, who has history of making Islamophobic comments and believes Islamist militancy poses threat to America that is on par with world war. ",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/18/us/18flynn/18flynn-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/18/us/18flynn/18flynn-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/18/us/18flynn/18flynn-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/18/us/18flynn/18flynn-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/18/us/18flynn/18flynn-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/18/us/18flynn/18flynn-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Michael Flynn, Anti-Islamist Ex-General, Offered Security Post, Trump Aide Says",
+        "print_headline": "Trump Is Said to Pick General as Security Aide"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Flynn, Michael T"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Muslims and Islam"
+        },
+        {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Terrorism"
+        }
+    ],
+    "pub_date": "2016-11-18T03:48:38Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Matthew Rosenberg reported from Washington, and Maggie Haberman from New York. Michael S. Schmidt and Eric Schmitt contributed reporting from Washington.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matthew",
+                "rank": 1,
+                "lastname": "ROSENBERG"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maggie",
+                "rank": 2,
+                "lastname": "HABERMAN"
+            }
+        ],
+        "original": "By MATTHEW ROSENBERG and MAGGIE HABERMAN"
+    },
+    "type_of_material": "News",
+    "_id": "582e7a1c7c459f6a5fcceaf1",
+    "word_count": "1486",
+    "slideshow_credits": null
+}

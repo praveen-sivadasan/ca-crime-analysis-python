@@ -1,0 +1,115 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/05/us/body-found-on-south-carolina-property-where-chained-woman-was-rescued.html",
+    "snippet": "Investigators had been searching the rural property owned by a registered sex offender since the woman was found chained up in a storage container....",
+    "lead_paragraph": "Investigators had been searching the rural property owned by a registered sex offender since the woman was found chained up in a storage container.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/04/us/04xp-missing/04xp-missing-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/04/us/04xp-missing/04xp-missing-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/04/us/04xp-missing/04xp-missing-articleLarge.jpg",
+            "height": 559,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/04/us/04xp-missing/04xp-missing-articleLarge.jpg",
+                "xlargeheight": "559"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/04/us/04xp-missing/04xp-missing-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/04/us/04xp-missing/04xp-missing-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Body Found in South Carolina Is Identified as Boyfriend of Rescued Woman"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "South Carolina"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Kidnapping and Hostages"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sex Crimes"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brown, Kala V (1985- )"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kohlhepp, Todd C (1971- )"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Spartanburg County (SC)"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Carver, Charles D (d 2016)"
+        }
+    ],
+    "pub_date": "2016-11-04T19:51:56Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christine",
+                "rank": 1,
+                "lastname": "HAUSER"
+            }
+        ],
+        "original": "By CHRISTINE HAUSER"
+    },
+    "type_of_material": "News",
+    "_id": "581ce6e57c459f6a5fccc52d",
+    "word_count": "494",
+    "slideshow_credits": null
+}

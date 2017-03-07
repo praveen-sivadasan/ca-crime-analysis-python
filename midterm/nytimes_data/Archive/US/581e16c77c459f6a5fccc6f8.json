@@ -1,0 +1,112 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/06/us/politics/world-reaction-campaign.html",
+    "snippet": "Regardless of who wins the presidency, a brutal election battle has left the nation\u2019s image tarnished, in the eyes of its own people and the world....",
+    "lead_paragraph": "Regardless of who wins the presidency, a brutal election battle has left the nation\u2019s image tarnished, in the eyes of its own people and the world.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/06/us/06DAMAGEDONE1/06DAMAGEDONE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/06/us/06DAMAGEDONE1/06DAMAGEDONE1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/06/us/06DAMAGEDONE1/06DAMAGEDONE1-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/06/us/06DAMAGEDONE1/06DAMAGEDONE1-articleLarge.jpg",
+                "xlargeheight": "399"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/06/us/06DAMAGEDONE1/06DAMAGEDONE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/06/us/06DAMAGEDONE1/06DAMAGEDONE1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Forget the Cost to the Candidates. This Campaign\u2019s Cost America More.",
+        "print_headline": "U.S. Example Loses Its Sheen in Ugly Election"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Polls and Public Opinion"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        }
+    ],
+    "pub_date": "2016-11-05T17:28:09Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Farah",
+                "rank": 1,
+                "lastname": "STOCKMAN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Nick",
+                "rank": 2,
+                "lastname": "CORASANITI"
+            }
+        ],
+        "original": "By FARAH STOCKMAN and NICK CORASANITI"
+    },
+    "type_of_material": "News",
+    "_id": "581e16c77c459f6a5fccc6f8",
+    "word_count": "1655",
+    "slideshow_credits": null
+}

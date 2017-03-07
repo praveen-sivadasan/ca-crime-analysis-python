@@ -1,0 +1,151 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/16/us/politics/donald-trump-transition.html",
+    "snippet": "The president-elect\u2019s daughter and son-in-law have no plans to apply for top-secret security clearances, according to two people close to the Trump transition....",
+    "lead_paragraph": "The president-elect\u2019s daughter and son-in-law have no plans to apply for top-secret security clearances, according to two people close to the Trump transition.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/16transitionbriefing6/16transitionbriefing6-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/16transitionbriefing6/16transitionbriefing6-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/16transitionbriefing6/16transitionbriefing6-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/16transitionbriefing6/16transitionbriefing6-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/16transitionbriefing6/16transitionbriefing6-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/16transitionbriefing6/16transitionbriefing6-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Ivanka Trump and Jared Kushner Will Not Seek Security Clearances, Sources Say",
+        "content_kicker": "Transition Briefing",
+        "kicker": "Transition Briefing",
+        "print_headline": "Ivanka Trump and Jared Kushner Will Not Seek Security Clearances, Sources Say"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Abe, Shinzo"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Biden, Joseph R Jr"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Graham, Lindsey"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kaine, Timothy M"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sessions, Jefferson B III"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Van Hollen, Christopher Jr"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Reid, Harry"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pence, Mike"
+        }
+    ],
+    "pub_date": "2016-11-16T10:00:22Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maggie",
+                "rank": 1,
+                "lastname": "HABERMAN"
+            },
+            {
+                "firstname": "J.",
+                "middlename": "David",
+                "lastname": "GOODMAN",
+                "rank": 2,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Coral",
+                "rank": 3,
+                "lastname": "DAVENPORT"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 4
+            }
+        ],
+        "original": "By MAGGIE HABERMAN, J. DAVID GOODMAN, CORAL DAVENPORT and MICHAEL D. SHEAR"
+    },
+    "type_of_material": "News",
+    "_id": "582c2e3b7c459f6a5fcce467",
+    "word_count": "1312",
+    "slideshow_credits": null
+}

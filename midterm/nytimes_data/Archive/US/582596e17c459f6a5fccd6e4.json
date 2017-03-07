@@ -1,0 +1,94 @@
+{
+    "web_url": "http://www.nytimes.com/video/us/100000004722695/powering-up-the-grand-canyon.html",
+    "snippet": "Kevin Hartigan, who works for the largest energy utility in Arizona, keeps the lights on at Grand Canyon National Park....",
+    "lead_paragraph": "Kevin Hartigan, who works for the largest energy utility in Arizona, keeps the lights on at Grand Canyon National Park.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/10/21/us/360grandcanyon/360grandcanyon-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/10/21/us/360grandcanyon/360grandcanyon-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/10/21/us/360grandcanyon/360grandcanyon-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/10/21/us/360grandcanyon/360grandcanyon-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/10/21/us/360grandcanyon/360grandcanyon-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/10/21/us/360grandcanyon/360grandcanyon-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Powering Up the Grand Canyon"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Grand Canyon (Ariz)"
+        }
+    ],
+    "pub_date": "2016-11-11T10:00:54+0000",
+    "document_type": "multimedia",
+    "news_desk": "U.S.",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Margaret",
+                "middlename": "Cheatham",
+                "lastname": "WILLIAMS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Niko",
+                "rank": 2,
+                "lastname": "KOPPEL"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kaitlyn",
+                "rank": 3,
+                "lastname": "MULLIN"
+            }
+        ],
+        "original": "By MARGARET CHEATHAM WILLIAMS, NIKO KOPPEL and KAITLYN MULLIN"
+    },
+    "type_of_material": null,
+    "_id": "582596e17c459f6a5fccd6e4",
+    "word_count": "20",
+    "slideshow_credits": null
+}

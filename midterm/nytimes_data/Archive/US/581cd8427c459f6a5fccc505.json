@@ -1,0 +1,100 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/05/us/politics/campaign-trump-clinton.html",
+    "snippet": "In the final days of the race, Mr. Trump has been a lonely figure on the campaign trail, as most prominent Republicans have kept their distance....",
+    "lead_paragraph": "In the final days of the race, Mr. Trump has been a lonely figure on the campaign trail, as most prominent Republicans have kept their distance.",
+    "abstract": "Hillary Clinton campaigns in Pennsylvania, Michigan and Ohio with long list of celebrities and high-wattage political leaders; in contrast, Donald Trump spends final days on campaign trail largely by himself, as leaders in Republican Party have disavowed or declined to back him.",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/04/us/04video-concert1/04video-concert1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/04/us/04video-concert1/04video-concert1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/04/us/04video-concert1/04video-concert1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/04/us/04video-concert1/04video-concert1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/04/us/04video-concert1/04video-concert1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/04/us/04video-concert1/04video-concert1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Big Names Campaigning for Hillary Clinton Underscore Donald Trump\u2019s Isolation",
+        "print_headline": "Clinton Calls on Big Names While Trump Goes It Alone"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        }
+    ],
+    "pub_date": "2016-11-04T18:49:34Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Thomas Kaplan and Amy Chozick contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alexander",
+                "rank": 1,
+                "lastname": "BURNS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Gardiner",
+                "rank": 2,
+                "lastname": "HARRIS"
+            }
+        ],
+        "original": "By ALEXANDER BURNS and GARDINER HARRIS"
+    },
+    "type_of_material": "News",
+    "_id": "581cd8427c459f6a5fccc505",
+    "word_count": "1180",
+    "slideshow_credits": null
+}

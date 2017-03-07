@@ -1,0 +1,106 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/17/sports/ncaabasketball/fordham-basketball-coach-recruits-with-an-academic-fast-track.html",
+    "snippet": "Stephanie Gaitley tries to sell teenagers on the value of taking extra classes even as they work hard on the basketball court....",
+    "lead_paragraph": "Stephanie Gaitley tries to sell teenagers on the value of taking extra classes even as they work hard on the basketball court.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/18/sports/18macur/18macur-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/18/sports/18macur/18macur-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/18/sports/18macur/18macur-articleLarge.jpg",
+            "height": 435,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/18/sports/18macur/18macur-articleLarge.jpg",
+                "xlargeheight": "435"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/18/sports/18macur/18macur-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/18/sports/18macur/18macur-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Fordham Basketball Coach Recruits With an Academic Fast Track",
+        "content_kicker": "Sports of The Times",
+        "kicker": "Sports of The Times",
+        "print_headline": "Fordham Coach Recruits With an Academic Fast Track"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gaitley, Stephanie"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Fordham University"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coaches and Managers"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Basketball (College)"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Draft and Recruitment (Sports)"
+        }
+    ],
+    "pub_date": "2016-12-17T17:06:51+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "College Basketball",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Juliet",
+                "rank": 1,
+                "lastname": "MACUR"
+            }
+        ],
+        "original": "By JULIET MACUR"
+    },
+    "type_of_material": "News",
+    "_id": "585570b895d0e03926076921",
+    "word_count": "1149",
+    "slideshow_credits": null
+}

@@ -1,0 +1,111 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/06/us/politics/black-prosecutors.html",
+    "snippet": "Black lawyers, racial justice groups and liberal donors, led by the hedge fund billionaire George Soros, are combining forces to try to propel more African-American district attorneys into office....",
+    "lead_paragraph": "Black lawyers, racial justice groups and liberal donors, led by the hedge fund billionaire George Soros, are combining forces to try to propel more African-American district attorneys into office.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/06/us/06prosecutors1/05prosecutors-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/06/us/06prosecutors1/05prosecutors-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/06/us/06prosecutors1/05prosecutors-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/06/us/06prosecutors1/05prosecutors-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/06/us/06prosecutors1/05prosecutors-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/06/us/06prosecutors1/05prosecutors-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "After High-Profile Shootings, Blacks Seek Prosecutor Seats",
+        "print_headline": "Blacks Seek Prosecutor Seats After High-Profile Shootings"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blacks"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, District Attorneys"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Soros, George"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Crump, Benjamin L"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brown, Michael (1996-2014)"
+        }
+    ],
+    "pub_date": "2016-11-05T16:05:15Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Kitty Bennett contributed research.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Yamiche",
+                "rank": 1,
+                "lastname": "ALCINDOR"
+            }
+        ],
+        "original": "By YAMICHE ALCINDOR"
+    },
+    "type_of_material": "News",
+    "_id": "581e03407c459f6a5fccc6d6",
+    "word_count": "1757",
+    "slideshow_credits": null
+}

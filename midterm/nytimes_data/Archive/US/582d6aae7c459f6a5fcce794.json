@@ -1,0 +1,112 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/chicago-violence-gang-related.html",
+    "snippet": "At 15, Veronica Lopez knew death. Ultimately it caught up with her on a Chicago roadway....",
+    "lead_paragraph": "At 15, Veronica Lopez knew death. Ultimately it caught up with her on a Chicago roadway.",
+    "abstract": "Friends and family continue to mourn Veronica Lopez, who at age 15 was youngest of six people killed in gunfire in Chicago over Memorial Day weekend; ninth grader became victim despite her mother's ongoing attempt to escape gang violence (Series: Murder in Chicago).",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/17veronica1/17veronica1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/17veronica1/17veronica1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/17veronica1/17veronica1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/17veronica1/17veronica1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/17veronica1/17veronica1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/17veronica1/17veronica1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "A Mother Tried to Escape Gangs. Bullets Found Her Daughter.",
+        "print_headline": "A Mother Tried to Escape Gangs. Bullets Found Her Daughter."
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Lopez, Veronica (d 2016)"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Gangs"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Chicago (Ill)"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Series"
+        }
+    ],
+    "pub_date": "2016-11-17T08:30:32+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Frances Robles contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Julie",
+                "rank": 1,
+                "lastname": "BOSMAN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Catrin",
+                "rank": 2,
+                "lastname": "EINHORN"
+            }
+        ],
+        "original": "By JULIE BOSMAN and CATRIN EINHORN"
+    },
+    "type_of_material": "News",
+    "_id": "582d6aae7c459f6a5fcce794",
+    "word_count": "2833",
+    "slideshow_credits": null
+}

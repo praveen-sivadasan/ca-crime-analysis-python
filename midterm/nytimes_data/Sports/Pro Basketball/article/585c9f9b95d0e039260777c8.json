@@ -1,0 +1,94 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/22/sports/basketball/golden-state-warriors-brooklyn-nets-117-101.html",
+    "snippet": "The Nets led by 16 points at halftime before a Golden State team without Draymond Green reasserted itself as one of the league\u2019s best....",
+    "lead_paragraph": "The Nets led by 16 points at halftime before a Golden State team without Draymond Green reasserted itself as one of the league\u2019s best.",
+    "abstract": "Golden State Warriors defeat Brooklyn Nets, 117-101.",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/23/sports/23NETS/23NETS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/23/sports/23NETS/23NETS-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/23/sports/23NETS/23NETS-articleLarge.jpg",
+            "height": 790,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/23/sports/23NETS/23NETS-articleLarge.jpg",
+                "xlargeheight": "790"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/23/sports/23NETS/23NETS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/23/sports/23NETS/23NETS-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "After Spending One Half as Warriors\u2019 Equal, Nets Return to Reality",
+        "content_kicker": "Warriors 117, Nets 101",
+        "kicker": "Warriors 117, Nets 101",
+        "print_headline": "After Spending One Half as Warriors\u2019 Equals, the Nets Return to Reality"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Basketball"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Brooklyn Nets"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Golden State Warriors"
+        }
+    ],
+    "pub_date": "2016-12-23T03:52:54+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Basketball",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Filip",
+                "rank": 1,
+                "lastname": "BONDY"
+            }
+        ],
+        "original": "By FILIP BONDY"
+    },
+    "type_of_material": "News",
+    "_id": "585c9f9b95d0e039260777c8",
+    "word_count": "821",
+    "slideshow_credits": null
+}

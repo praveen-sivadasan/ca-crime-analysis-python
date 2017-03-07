@@ -1,0 +1,100 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/25/sports/basketball/university-of-connecticut-huskies-women-.html",
+    "snippet": "After losing three superstars last season, the championship Huskies are undefeated again \u2014 the latest evidence that Coach Geno Auriemma\u2019s success is based on more than recruiting....",
+    "lead_paragraph": "After losing three superstars last season, the championship Huskies are undefeated again \u2014 the latest evidence that Coach Geno Auriemma\u2019s success is based on more than recruiting.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/26/sports/26araton/26araton-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/26/sports/26araton/26araton-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/26/sports/26araton/26araton-articleLarge.jpg",
+            "height": 1062,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/26/sports/26araton/26araton-articleLarge.jpg",
+                "xlargeheight": "1062"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/26/sports/26araton/26araton-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/26/sports/26araton/26araton-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "UConn Women Say \u2018Nah\u2019 to Rebuilding Year",
+        "content_kicker": "On College Basketball",
+        "kicker": "On College Basketball",
+        "print_headline": "A Season to Rebuild? Not Necessary at UConn"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Basketball (College)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "University of Connecticut"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Auriemma, Geno"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "NCAA Basketball Championships (Women)"
+        }
+    ],
+    "pub_date": "2016-12-25T23:25:09+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Basketball",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Harvey",
+                "rank": 1,
+                "lastname": "ARATON"
+            }
+        ],
+        "original": "By HARVEY ARATON"
+    },
+    "type_of_material": "News",
+    "_id": "5860555995d0e03926077c2e",
+    "word_count": "1051",
+    "slideshow_credits": null
+}

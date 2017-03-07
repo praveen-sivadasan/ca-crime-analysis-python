@@ -1,0 +1,106 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/08/us/politics/hillary-clinton-donald-trump-fbi-emails.html",
+    "snippet": "Out of 650,000 emails found last month, only a small portion were potentially related to Hillary Clinton, and many of those were duplicates of messages already examined....",
+    "lead_paragraph": "Out of 650,000 emails found last month, only a small portion were potentially related to Hillary Clinton, and many of those were duplicates of messages already examined.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/08/us/08emailsqanda/08emailsqanda-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/08/us/08emailsqanda/08emailsqanda-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/08/us/08emailsqanda/08emailsqanda-articleLarge.jpg",
+            "height": 497,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/08/us/08emailsqanda/08emailsqanda-articleLarge.jpg",
+                "xlargeheight": "497"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/08/us/08emailsqanda/08emailsqanda-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/08/us/08emailsqanda/08emailsqanda-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "How the F.B.I. Reviewed Thousands of Emails in One Week",
+        "print_headline": "How the F.B.I. Reviewed Thousands of Emails in Eight Days"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federal Bureau of Investigation"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "E-Mail"
+        }
+    ],
+    "pub_date": "2016-11-08T00:23:23Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Michael S. Schmidt contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "GOLDMAN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matt",
+                "rank": 2,
+                "lastname": "APUZZO"
+            }
+        ],
+        "original": "By ADAM GOLDMAN and MATT APUZZO"
+    },
+    "type_of_material": "News",
+    "_id": "58211b0b7c459f6a5fcccc36",
+    "word_count": "1050",
+    "slideshow_credits": null
+}

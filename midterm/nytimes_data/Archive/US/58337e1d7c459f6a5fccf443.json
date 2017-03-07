@@ -1,0 +1,123 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/21/us/wisconsin-redistricting-found-to-unfairly-favor-republicans.html",
+    "snippet": "A federal panel called the 2011 redrawing of Wisconsin Assembly districts an unconstitutional gerrymander, ruling in a case that could go to the Supreme Court....",
+    "lead_paragraph": "A federal panel called the 2011 redrawing of Wisconsin Assembly districts an unconstitutional gerrymander, ruling in a case that could go to the Supreme Court.",
+    "abstract": "United States District Court for Western District of Wisconsin rules, 2-1, that state Legislature's redrawing of State Assembly districts in 2011 in favor of Republicans was unconstitutional as it was partisan gerrymander; ruling is first in three decades to strike down gerrymander on partisan grounds; case can now go before Supreme Court, and should higher court affirm ruling it could have profound consequences for redistricting in 2021.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/22/us/22voting1/22voting1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/22/us/22voting1/22voting1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/22/us/22voting1/22voting1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/22/us/22voting1/22voting1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/22/us/22voting1/22voting1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/22/us/22voting1/22voting1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Judges Find Wisconsin Redistricting Unfairly Favored Republicans",
+        "print_headline": "Districts Favor G.O.P. Unfairly, Court Finds in a Key State Case"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Redistricting and Reapportionment"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Wisconsin"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "State Legislatures"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Decisions and Verdicts"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Crabb, Barbara B"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Griesbach, William C"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Reagan, Ronald Wilson"
+        }
+    ],
+    "pub_date": "2016-11-21T23:07:03+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Doris Burke contributed research.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "WINES"
+            }
+        ],
+        "original": "By MICHAEL WINES"
+    },
+    "type_of_material": "News",
+    "_id": "58337e1d7c459f6a5fccf443",
+    "word_count": "1016",
+    "slideshow_credits": null
+}

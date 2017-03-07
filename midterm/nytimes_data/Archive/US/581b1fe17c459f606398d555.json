@@ -1,0 +1,97 @@
+{
+    "web_url": "http://www.nytimes.com/interactive/2016/11/04/us/arizona-immigration-young-latinos-future.html",
+    "snippet": "Two daughters of Mexican immigrants who crossed the border illegally. Two different futures for young Latinos. Which will we choose?...",
+    "lead_paragraph": "Two daughters of Mexican immigrants who crossed the border illegally. Two different futures for young Latinos. Which will we choose?",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/10/24/us/generacion-dividida-latinos-historias-personales-1478037049587/generacion-dividida-latinos-historias-personales-1478037049587-thumbWide-v2.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/10/24/us/generacion-dividida-latinos-historias-personales-1478037049587/generacion-dividida-latinos-historias-personales-1478037049587-thumbWide-v2.png",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/10/24/us/generacion-dividida-latinos-historias-personales-1478037049587/generacion-dividida-latinos-historias-personales-1478037049587-articleLarge.png",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/10/24/us/generacion-dividida-latinos-historias-personales-1478037049587/generacion-dividida-latinos-historias-personales-1478037049587-articleLarge.png",
+                "xlargeheight": "600"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/10/24/us/generacion-dividida-latinos-historias-personales-1478037049587/generacion-dividida-latinos-historias-personales-1478037049587-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/10/24/us/generacion-dividida-latinos-historias-personales-1478037049587/generacion-dividida-latinos-historias-personales-1478037049587-thumbStandard.png",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Arizona\u2019s Scarred Generation"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Immigration and Customs Enforcement (US)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration Detention"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mexican-Americans"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Arizona Immigration Law (SB 1070)"
+        }
+    ],
+    "pub_date": "2016-11-03T11:30:43Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S.",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Fernanda",
+                "rank": 1,
+                "lastname": "SANTOS"
+            }
+        ],
+        "original": "By FERNANDA SANTOS"
+    },
+    "type_of_material": "Interactive Feature",
+    "_id": "581b1fe17c459f606398d555",
+    "word_count": null,
+    "slideshow_credits": null
+}

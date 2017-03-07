@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/05/us/gene-la-rocque-decorated-veteran-who-condemned-waste-of-war-dies-at-98.html",
+    "snippet": "After retiring from the Navy, Admiral La Rocque founded a think tank to promote peace and to monitor the influence of the military-industrial complex....",
+    "lead_paragraph": "After retiring from the Navy, Admiral La Rocque founded a think tank to promote peace and to monitor the influence of the military-industrial complex.",
+    "abstract": "Gene La Rocque, former naval officer and founder of Center for Defense Information think tank whose controversial stance on war advocated for peaceful conflict resolution, dies at age 98.",
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/05/us/05LAROCQUE-OBIT/05LAROCQUE-OBIT-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/05/us/05LAROCQUE-OBIT/05LAROCQUE-OBIT-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/05/us/05LAROCQUE-OBIT/05LAROCQUE-OBIT-articleLarge.jpg",
+            "height": 804,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/05/us/05LAROCQUE-OBIT/05LAROCQUE-OBIT-articleLarge.jpg",
+                "xlargeheight": "804"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/05/us/05LAROCQUE-OBIT/05LAROCQUE-OBIT-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/05/us/05LAROCQUE-OBIT/05LAROCQUE-OBIT-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Gene La Rocque, Decorated Veteran Who Condemned Waste of War, Dies at 98",
+        "print_headline": "Gene La Rocque, 98, Admiral Who Criticized Waste of War"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "La Rocque, Gene (1918-2016)"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United States Navy"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Center for Defense Information"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+        }
+    ],
+    "pub_date": "2016-11-05T02:30:10Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Anita",
+                "rank": 1,
+                "lastname": "GATES"
+            }
+        ],
+        "original": "By ANITA GATES"
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "581d44397c459f6a5fccc603",
+    "word_count": "862",
+    "slideshow_credits": null
+}

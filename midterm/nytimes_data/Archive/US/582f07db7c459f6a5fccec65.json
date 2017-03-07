@@ -1,0 +1,105 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/19/us/politics/donald-trump-mike-pompeo-cia.html",
+    "snippet": "Mr. Pompeo, a congressman from Kansas, gained prominence for his role in the House investigation into the 2012 attacks on the American diplomatic compound in Benghazi, Libya....",
+    "lead_paragraph": "Mr. Pompeo, a congressman from Kansas, gained prominence for his role in the House investigation into the 2012 attacks on the American diplomatic compound in Benghazi, Libya.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/18/nytnow/18POMPEO/18POMPEO-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/18/nytnow/18POMPEO/18POMPEO-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/18/nytnow/18POMPEO/18POMPEO-articleLarge.jpg",
+            "height": 397,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/18/nytnow/18POMPEO/18POMPEO-articleLarge.jpg",
+                "xlargeheight": "397"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/18/nytnow/18POMPEO/18POMPEO-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/18/nytnow/18POMPEO/18POMPEO-thumbStandard-v2.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Mike Pompeo, Sharp Critic of Hillary Clinton, Is Trump\u2019s Pick to Lead C.I.A.",
+        "print_headline": "Sharp Clinton Critic Is Picked to Lead the C.I.A."
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Central Intelligence Agency"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pompeo, Mike"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        }
+    ],
+    "pub_date": "2016-11-18T13:53:23Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Reporting was contributed by Charlie Savage and Michael S. Schmidt.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mark",
+                "rank": 1,
+                "lastname": "MAZZETTI"
+            }
+        ],
+        "original": "By MARK MAZZETTI"
+    },
+    "type_of_material": "News",
+    "_id": "582f07db7c459f6a5fccec65",
+    "word_count": "1073",
+    "slideshow_credits": null
+}

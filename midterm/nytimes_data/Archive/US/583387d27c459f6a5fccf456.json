@@ -1,0 +1,81 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/21/us/chattanooga-school-bus-fatal-crash.html",
+    "snippet": "About two dozen of the 35 elementary school students onboard were taken to Erlanger Hospital after the bus crashed about a mile from their school....",
+    "lead_paragraph": "About two dozen of the 35 elementary school students onboard were taken to Erlanger Hospital after the bus crashed about a mile from their school.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "At Least 5 Children Die in School Bus Crash in Chattanooga",
+        "print_headline": "Crash Kills 5 Children  in Tennessee"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Traffic Accidents and Safety"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Buses"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Chattanooga (Tenn)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Walker, Johnthony K"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deaths (Fatalities)"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Education (K-12)"
+        }
+    ],
+    "pub_date": "2016-11-21T23:48:31Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Alan Blinder reported from Chattanooga, and Niraj Chokshi from New York.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alan",
+                "rank": 1,
+                "lastname": "BLINDER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Niraj",
+                "rank": 2,
+                "lastname": "CHOKSHI"
+            }
+        ],
+        "original": "By ALAN BLINDER and NIRAJ CHOKSHI"
+    },
+    "type_of_material": "News",
+    "_id": "583387d27c459f6a5fccf456",
+    "word_count": "534",
+    "slideshow_credits": null
+}

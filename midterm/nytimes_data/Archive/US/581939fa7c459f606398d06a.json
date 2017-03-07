@@ -1,0 +1,132 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/02/us/politics/black-turnout-falls-in-early-voting-boding-ill-for-hillary-clinton.html",
+    "snippet": "The numbers in several states have begun pointing to a slump many Democrats feared might materialize without the nation\u2019s first black president on the ticket....",
+    "lead_paragraph": "The numbers in several states have begun pointing to a slump many Democrats feared might materialize without the nation\u2019s first black president on the ticket.",
+    "abstract": "Hillary Clinton campaign is worried about lower African-American turnout in early voting in several crucial states; Democratic Party is scrambling to preserve surge in black voting inspired by Pres Obama, and counter Republican efforts to suppress it.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/02/us/02blackvoters1/02blackvoters1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/02/us/02blackvoters1/02blackvoters1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/02/us/02blackvoters1/02blackvoters1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/02/us/02blackvoters1/02blackvoters1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/02/us/02blackvoters1/02blackvoters1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/02/us/02blackvoters1/02blackvoters1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Black Turnout Soft in Early Voting, Boding Ill for Hillary Clinton",
+        "print_headline": "Black Turnout Drops, Boding Ill for Clinton"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "North Carolina"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Florida"
+        }
+    ],
+    "pub_date": "2016-11-02T00:57:17Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "firstname": "Jeremy",
+                "middlename": "W.",
+                "lastname": "PETERS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 2,
+                "lastname": "FAUSSET"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 3,
+                "lastname": "WINES"
+            }
+        ],
+        "original": "By JEREMY W. PETERS, RICHARD FAUSSET and MICHAEL WINES"
+    },
+    "type_of_material": "News",
+    "_id": "581939fa7c459f606398d06a",
+    "word_count": "1393",
+    "slideshow_credits": null
+}

@@ -1,0 +1,85 @@
+{
+    "web_url": "http://www.nytimes.com/video/us/politics/100000004756537/election-day-new-york-times-2016.html",
+    "snippet": "A 360-degree view of The New York Times newsroom on one of the busiest days of the year....",
+    "lead_paragraph": "A 360-degree view of The New York Times newsroom on one of the busiest days of the year.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/08/us/elections/360-newsroom/360-newsroom-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/08/us/elections/360-newsroom/360-newsroom-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/08/us/elections/360-newsroom/360-newsroom-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/08/us/elections/360-newsroom/360-newsroom-articleLarge.jpg",
+                "xlargeheight": "401"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/08/us/elections/360-newsroom/360-newsroom-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/08/us/elections/360-newsroom/360-newsroom-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Election Day at The New York Times"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Times"
+        }
+    ],
+    "pub_date": "2016-11-09T02:48:35+0000",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Politics",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "CHAFFEE"
+            }
+        ],
+        "original": "By TIM CHAFFEE"
+    },
+    "type_of_material": null,
+    "_id": "58228e8c7c459f6a5fcccf4c",
+    "word_count": "18",
+    "slideshow_credits": null
+}

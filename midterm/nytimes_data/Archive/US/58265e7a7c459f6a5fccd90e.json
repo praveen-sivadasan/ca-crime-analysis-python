@@ -1,0 +1,73 @@
+{
+    "web_url": "http://www.nytimes.com/interactive/2016/11/11/us/elections/state-legislature-change-in-control.html",
+    "snippet": "Republicans will control the governor\u2019s office and both chambers of the state legislature in four more states \u2014 Iowa, Kentucky, Missouri and New Hampshire....",
+    "lead_paragraph": "Republicans will control the governor\u2019s office and both chambers of the state legislature in four more states \u2014 Iowa, Kentucky, Missouri and New Hampshire.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/11/us/elections/state-legislature-change-in-control-1478907407417/state-legislature-change-in-control-1478907407417-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/11/us/elections/state-legislature-change-in-control-1478907407417/state-legislature-change-in-control-1478907407417-thumbWide.png",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/11/us/elections/state-legislature-change-in-control-1478907407417/state-legislature-change-in-control-1478907407417-articleLarge.png",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/11/us/elections/state-legislature-change-in-control-1478907407417/state-legislature-change-in-control-1478907407417-articleLarge.png",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/11/us/elections/state-legislature-change-in-control-1478907407417/state-legislature-change-in-control-1478907407417-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/11/us/elections/state-legislature-change-in-control-1478907407417/state-legislature-change-in-control-1478907407417-thumbStandard.png",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "In a Further Blow to Democrats, Republicans Increase Their Hold on State Governments"
+    },
+    "keywords": [],
+    "pub_date": "2016-11-12T00:12:42Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Election 2016",
+    "section_name": "U.S.",
+    "subsection_name": "Election 2016",
+    "byline": {
+        "person": [
+            {
+                "firstname": "K.",
+                "middlename": "K.",
+                "lastname": "REBECCA",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By K.K. REBECCA LAI, JASMINE C. LEE and KARL RUSSELL"
+    },
+    "type_of_material": "Interactive Feature",
+    "_id": "58265e7a7c459f6a5fccd90e",
+    "word_count": null,
+    "slideshow_credits": null
+}

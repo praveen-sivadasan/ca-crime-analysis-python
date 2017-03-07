@@ -1,0 +1,109 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/09/us/orlando-pulse-nightclub-memorial.html",
+    "snippet": "The city said it would purchase the site where a gunman killed 49 people, which has drawn visitors from around the world since the massacre....",
+    "lead_paragraph": "The city said it would purchase the site where a gunman killed 49 people, which has drawn visitors from around the world since the massacre.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/09/us/09xp-pulse/09xp-pulse-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/09/us/09xp-pulse/09xp-pulse-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/09/us/09xp-pulse/09xp-pulse-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/09/us/09xp-pulse/09xp-pulse-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/09/us/09xp-pulse/09xp-pulse-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/09/us/09xp-pulse/09xp-pulse-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Orlando to Turn Pulse Nightclub Into a Memorial"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Orlando, Fla, Shooting (2016)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hate Crimes"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pulse (Orlando, Fla, Nightclub)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dyer, Buddy"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Orlando (Fla)"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Monuments and Memorials (Structures)"
+        }
+    ],
+    "pub_date": "2016-11-08T20:20:30Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Marc",
+                "rank": 1,
+                "lastname": "SANTORA"
+            }
+        ],
+        "original": "By MARC SANTORA"
+    },
+    "type_of_material": "News",
+    "_id": "582233947c459f6a5fcccead",
+    "word_count": "388",
+    "slideshow_credits": null
+}

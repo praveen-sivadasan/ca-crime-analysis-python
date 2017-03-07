@@ -1,0 +1,123 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/13/us/politics/ohioans-tired-of-status-quo-flipped-to-trump-for-change.html",
+    "snippet": "The seeds of the biggest upset in American politics in recent memory were sewn in the Midwest, where decades of economic decay largely ignored by Democrats came back to haunt Hillary Clinton....",
+    "lead_paragraph": "The seeds of the biggest upset in American politics in recent memory were sewn in the Midwest, where decades of economic decay largely ignored by Democrats came back to haunt Hillary Clinton.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/13/us/13ohio-flip1/13ohio-flip1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/13/us/13ohio-flip1/13ohio-flip1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/13/us/13ohio-flip1/13ohio-flip1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/13/us/13ohio-flip1/13ohio-flip1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/13/us/13ohio-flip1/13ohio-flip1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/13/us/13ohio-flip1/13ohio-flip1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Ohioans, Tired of Status Quo, Flipped to Trump for Change",
+        "print_headline": "Amid Years of Decay, Ohioans Flipped Votes, Seeking Change"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Ohio"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Midwestern States (US)"
+        }
+    ],
+    "pub_date": "2016-11-12T18:03:50Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Sarah Cohen contributed reporting from New York.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sabrina",
+                "rank": 1,
+                "lastname": "TAVERNISE"
+            }
+        ],
+        "original": "By SABRINA TAVERNISE"
+    },
+    "type_of_material": "News",
+    "_id": "582759947c459f6a5fccda33",
+    "word_count": "1355",
+    "slideshow_credits": null
+}

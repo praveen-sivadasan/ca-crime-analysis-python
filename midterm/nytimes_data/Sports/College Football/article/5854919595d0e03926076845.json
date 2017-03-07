@@ -1,0 +1,92 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/16/sports/ncaafootball/worst-college-bowl-game-names.html",
+    "snippet": "Postseason college-football games often have silly names, like the uDrove Humanitarian Bowl, and clumsy pairings with sponsors, like the Popeyes Bahamas Bowl....",
+    "lead_paragraph": "Postseason college-football games often have silly names, like the uDrove Humanitarian Bowl, and clumsy pairings with sponsors, like the Popeyes Bahamas Bowl.",
+    "abstract": "College football bowl games of 2016 are listed and explained.",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/18/sports/17BOWLS1SUB/17BOWLS1SUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/18/sports/17BOWLS1SUB/17BOWLS1SUB-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/18/sports/17BOWLS1SUB/17BOWLS1SUB-articleLarge.jpg",
+            "height": 348,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/18/sports/17BOWLS1SUB/17BOWLS1SUB-articleLarge.jpg",
+                "xlargeheight": "348"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/18/sports/17BOWLS1SUB/17BOWLS1SUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/18/sports/17BOWLS1SUB/17BOWLS1SUB-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "What? No Viagra Bowl? Not Yet, Anyway",
+        "print_headline": "No, There Isn\u2019t a Viagra Bowl. Not Yet, Anyway."
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football (College)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bowl Games"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "St Petersburg (Fla)"
+        }
+    ],
+    "pub_date": "2016-12-17T01:14:54+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "College Football",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Victor",
+                "rank": 1,
+                "lastname": "MATHER"
+            }
+        ],
+        "original": "By VICTOR MATHER"
+    },
+    "type_of_material": "News",
+    "_id": "5854919595d0e03926076845",
+    "word_count": "744",
+    "slideshow_credits": null
+}

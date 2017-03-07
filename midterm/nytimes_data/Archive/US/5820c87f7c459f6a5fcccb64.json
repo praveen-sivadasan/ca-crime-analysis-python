@@ -1,0 +1,61 @@
+{
+    "web_url": "http://www.nytimes.com/slideshow/2016/11/07/us/politics/final-push.html",
+    "snippet": "Candidates on the major-party tickets spent Monday visiting important states to try to put votes in their columns on Election Day....",
+    "lead_paragraph": "Candidates on the major-party tickets spent Monday visiting important states to try to put votes in their columns on Election Day.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/07/us/politics/07POLDAILY-slide-SVSA/07POLDAILY-slide-SVSA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/07/us/politics/07POLDAILY-slide-SVSA/07POLDAILY-slide-SVSA-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/07/us/politics/07POLDAILY-slide-SVSA/07POLDAILY-slide-SVSA-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/07/us/politics/07POLDAILY-slide-SVSA/07POLDAILY-slide-SVSA-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/07/us/politics/07POLDAILY-slide-SVSA/07POLDAILY-slide-SVSA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/07/us/politics/07POLDAILY-slide-SVSA/07POLDAILY-slide-SVSA-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "On the Trail: The Final Day of Campaigning"
+    },
+    "keywords": [],
+    "pub_date": "2016-11-07T18:30:18Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Politics",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": [],
+    "type_of_material": "Slideshow",
+    "_id": "5820c87f7c459f6a5fcccb64",
+    "word_count": "21",
+    "slideshow_credits": "Doug Mills/The New York Times"
+}

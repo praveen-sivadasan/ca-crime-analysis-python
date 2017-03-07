@@ -1,0 +1,136 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/14/us/politics/donald-trump-shouldnt-put-his-children-out-of-work-giuliani-says.html",
+    "snippet": "Rudolph W. Giuliani said it would be \u2018unrealistic\u2019 for Mr. Trump to remove his children from his business empire. Ethics experts said the remarks were misguided....",
+    "lead_paragraph": "Rudolph W. Giuliani said it would be \u2018unrealistic\u2019 for Mr. Trump to remove his children from his business empire. Ethics experts said the remarks were misguided.",
+    "abstract": "Rudolph W Giuliani vice chairman of Donald J Trump's transition team, says it is unrealistic for president-elect to place his business assets in strict blind trust as presidents in past have done; ethics experts disagree, asserting decisions made by new president will be unfairly attacked for conflict of interest unless he follows lead of predecessors.",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/14/us/14trump1/14trump1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/14/us/14trump1/14trump1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/14/us/14trump1/14trump1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/14/us/14trump1/14trump1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/14/us/14trump1/14trump1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/14/us/14trump1/14trump1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Donald Trump Shouldn\u2019t \u2018Put His Children Out of Work,\u2019 Giuliani Says",
+        "print_headline": "Blind Trust, a Presidential Norm, Is \u2018Unrealistic\u2019 for Trump, Giuliani Says"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Conflicts of Interest"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Giuliani, Rudolph W"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Ivanka"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Eric F (1984- )"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J Jr"
+        }
+    ],
+    "pub_date": "2016-11-13T17:02:56Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "David E. Sanger contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Nicholas",
+                "rank": 1,
+                "lastname": "FANDOS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 2,
+                "lastname": "LIPTON"
+            }
+        ],
+        "original": "By NICHOLAS FANDOS and ERIC LIPTON"
+    },
+    "type_of_material": "News",
+    "_id": "58289cca7c459f6a5fccdbb1",
+    "word_count": "880",
+    "slideshow_credits": null
+}

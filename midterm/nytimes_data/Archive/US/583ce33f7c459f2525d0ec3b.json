@@ -1,0 +1,159 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/28/us/politics/congress-cures-cancer-moonshot-alzheimers.html",
+    "snippet": "Congress will vote this week on a measure that is the product of years of debate over health care policy issues, including the unwieldy mental health care system and opioid abuse....",
+    "lead_paragraph": "Congress will vote this week on a measure that is the product of years of debate over health care policy issues, including the unwieldy mental health care system and opioid abuse.",
+    "abstract": "Congress is set to approve 21st Century Cures Act, $6.3 billion health care policy bill that will increase funding for cancer research, address problems with nation's mental health system, stem widespread problem of opioid abuse and enact regulatory changes for drugs and medical devices; critics charge that act will make approval process for drugs and medical devices less costly and time-consuming and therefore less safe for consumers.",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/29/us/29CURES1/29CURES1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/29/us/29CURES1/29CURES1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/29/us/29CURES1/29CURES1-articleLarge.jpg",
+            "height": 413,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/29/us/29CURES1/29CURES1-articleLarge.jpg",
+                "xlargeheight": "413"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/29/us/29CURES1/29CURES1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/29/us/29CURES1/29CURES1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "$6.3 Billion Measure Aims to Cure Ailing Health Care Policies",
+        "print_headline": "Congress to Take Up $6.3 Billion Bill on Opioid Crisis and Other Health Issues"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Law and Legislation"
+        },
+        {
+            "rank": "11",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "12",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Drug Abuse and Traffic"
+        },
+        {
+            "rank": "13",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Health Insurance and Managed Care"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Drugs (Pharmaceuticals)"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cancer"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Alzheimer's Disease"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Biden, Joseph R Jr"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Medical Devices"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Research"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Senate"
+        },
+        {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mental Health and Disorders"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "House of Representatives"
+        }
+    ],
+    "pub_date": "2016-11-29T02:08:59+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jennifer",
+                "rank": 1,
+                "lastname": "STEINHAUER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sabrina",
+                "rank": 2,
+                "lastname": "TAVERNISE"
+            }
+        ],
+        "original": "By JENNIFER STEINHAUER and SABRINA TAVERNISE"
+    },
+    "type_of_material": "News",
+    "_id": "583ce33f7c459f2525d0ec3b",
+    "word_count": "1030",
+    "slideshow_credits": null
+}

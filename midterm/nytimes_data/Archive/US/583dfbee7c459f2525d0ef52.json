@@ -1,0 +1,110 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/29/us/politics/inauguration-donald-trump-president.html",
+    "snippet": "An \u201cexclusive\u201d luncheon with cabinet appointees, an \u201cintimate\u201d dinner with the vice president-elect and more are available \u2014 for donors who give enough....",
+    "lead_paragraph": "An \u201cexclusive\u201d luncheon with cabinet appointees, an \u201cintimate\u201d dinner with the vice president-elect and more are available \u2014 for donors who give enough.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/30/us/30inaugural2/30inaugural2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/30/us/30inaugural2/30inaugural2-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/30/us/30inaugural2/30inaugural2-articleLarge.jpg",
+            "height": 367,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/30/us/30inaugural2/30inaugural2-articleLarge.jpg",
+                "xlargeheight": "367"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/30/us/30inaugural2/30inaugural2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/30/us/30inaugural2/30inaugural2-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "What (Lots of) Money Can Buy at Trump\u2019s Inauguration",
+        "print_headline": "Inaugural Access to Make You Feel Like Million Bucks (Since You Spent It)"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Inaugurations"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Pence, Mike"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Melania"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Parades"
+        }
+    ],
+    "pub_date": "2016-11-29T22:06:32+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Nicholas",
+                "rank": 1,
+                "lastname": "FANDOS"
+            }
+        ],
+        "original": "By NICHOLAS FANDOS"
+    },
+    "type_of_material": "News",
+    "_id": "583dfbee7c459f2525d0ef52",
+    "word_count": "646",
+    "slideshow_credits": null
+}

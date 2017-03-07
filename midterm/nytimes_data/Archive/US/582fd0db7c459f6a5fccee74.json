@@ -1,0 +1,99 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/20/us/cornel-west-harvard.html",
+    "snippet": "Dr. West, a provocative scholar whose searing critiques of President Obama earned him the enmity of many Democrats, left Harvard in 2002....",
+    "lead_paragraph": "Dr. West, a provocative scholar whose searing critiques of President Obama earned him the enmity of many Democrats, left Harvard in 2002.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/19/us/19harvard_web1/19harvard_web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/19/us/19harvard_web1/19harvard_web1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/19/us/19harvard_web1/19harvard_web1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/19/us/19harvard_web1/19harvard_web1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/19/us/19harvard_web1/19harvard_web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/19/us/19harvard_web1/19harvard_web1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Cornel West Will Return to Teach at Harvard",
+        "print_headline": "Cornel West Will Return to Teach at Harvard"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Harvard University"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gates, Henry Louis Jr"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "West, Cornel"
+        }
+    ],
+    "pub_date": "2016-11-19T04:10:56Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Katharine",
+                "middlename": "Q.",
+                "lastname": "SEELYE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KATHARINE Q. SEELYE"
+    },
+    "type_of_material": "News",
+    "_id": "582fd0db7c459f6a5fccee74",
+    "word_count": "625",
+    "slideshow_credits": null
+}

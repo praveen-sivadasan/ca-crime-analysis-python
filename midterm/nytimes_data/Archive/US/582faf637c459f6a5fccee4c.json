@@ -1,0 +1,117 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/19/us/politics/michael-flynn-national-security-adviser.html",
+    "snippet": "Michael T. Flynn, the choice for national security adviser, fears that Islamic law is spreading in the United States and sees a \u201cworld war\u201d with radical Islam....",
+    "lead_paragraph": "Michael T. Flynn, the choice for national security adviser, fears that Islamic law is spreading in the United States and sees a \u201cworld war\u201d with radical Islam.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/19/us/19FLYNN/19FLYNN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/19/us/19FLYNN/19FLYNN-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/19/us/19FLYNN/19FLYNN-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/19/us/19FLYNN/19FLYNN-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/19/us/19FLYNN/19FLYNN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/19/us/19FLYNN/19FLYNN-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Ex-General and Critic of Islam to Help Guide Trump in White House",
+        "print_headline": "Anti-Militant Former General Is Pick for National Security Adviser"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Flynn, Michael T"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Muslim Americans"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States International Relations"
+        }
+    ],
+    "pub_date": "2016-11-19T01:48:14+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matthew",
+                "rank": 1,
+                "lastname": "ROSENBERG"
+            }
+        ],
+        "original": "By MATTHEW ROSENBERG"
+    },
+    "type_of_material": "News",
+    "_id": "582faf637c459f6a5fccee4c",
+    "word_count": "1028",
+    "slideshow_credits": null
+}

@@ -1,0 +1,131 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/16/us/politics/china-phones-software-security.html",
+    "snippet": "Security contractors recently discovered preinstalled software in some Android phones that monitors where users go, whom they talk to and what they write in texts....",
+    "lead_paragraph": "Security contractors recently discovered preinstalled software in some Android phones that monitors where users go, whom they talk to and what they write in texts.",
+    "abstract": "Security firm Kryptowire discovers software installed by Chinese company Shanghai Adups Technology on millions of American phones that monitors users' movements and text messages; authorities say it is unclear whether software, which affects mainly prepaid phones, represents data mining for advertising purposes or Chinese government effort to collect intelligence.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/16/world/16Phones/16Phones-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/16/world/16Phones/16Phones-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/16/world/16Phones/16Phones-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/16/world/16Phones/16Phones-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/16/world/16Phones/16Phones-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/16/world/16Phones/16Phones-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Secret Back Door in Some U.S. Phones Sent Data to China, Analysts Say",
+        "print_headline": "Text a Message, China Gets a Peek"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Smartphones"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "China"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Computer Security"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Text Messaging"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Privacy"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "BLU Products Inc"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Shanghai Adups Technology Co"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Data-Mining and Database Marketing"
+        }
+    ],
+    "pub_date": "2016-11-15T11:00:18Z",
+    "document_type": "article",
+    "news_desk": "Business",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Adam Goldman contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matt",
+                "rank": 1,
+                "lastname": "APUZZO"
+            },
+            {
+                "firstname": "Michael",
+                "middlename": "S.",
+                "lastname": "SCHMIDT",
+                "rank": 2,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATT APUZZO and MICHAEL S. SCHMIDT"
+    },
+    "type_of_material": "News",
+    "_id": "582aeaca7c459f6a5fcce0b6",
+    "word_count": "1016",
+    "slideshow_credits": null
+}

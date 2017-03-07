@@ -1,0 +1,97 @@
+{
+    "web_url": "http://www.nytimes.com/video/us/100000004742845/obamas-have-fun-with-trick-or-treaters.html",
+    "snippet": "President Obama danced to \u201cThriller\u201d and sang \u201cPurple Rain\u201d to trick-or-treaters at the White House Halloween celebration....",
+    "lead_paragraph": "President Obama danced to \u201cThriller\u201d and sang \u201cPurple Rain\u201d to trick-or-treaters at the White House Halloween celebration.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/01/multimedia/02obama-prince/02obama-prince-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/01/multimedia/02obama-prince/02obama-prince-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/01/multimedia/02obama-prince/02obama-prince-articleLarge.jpg",
+            "height": 389,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/01/multimedia/02obama-prince/02obama-prince-articleLarge.jpg",
+                "xlargeheight": "389"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/01/multimedia/02obama-prince/02obama-prince-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/01/multimedia/02obama-prince/02obama-prince-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Obamas Have Fun With Trick-or-Treaters"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Halloween"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Prince (1958- )"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Purple Rain (Album)"
+        }
+    ],
+    "pub_date": "2016-11-01T22:25:48Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S.",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Neeti",
+                "rank": 1,
+                "lastname": "UPADHYE"
+            }
+        ],
+        "original": "By NEETI UPADHYE"
+    },
+    "type_of_material": "Video",
+    "_id": "581916887c459f606398d01f",
+    "word_count": "17",
+    "slideshow_credits": null
+}

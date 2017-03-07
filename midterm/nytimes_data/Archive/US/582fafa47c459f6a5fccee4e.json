@@ -1,0 +1,147 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/19/us/politics/james-comey-fbi-sessions.html",
+    "snippet": "After incurring their wrath for the Clinton email case, some Democrats now say the F.B.I. director could help block G.O.P. efforts to revive banned interrogation techniques....",
+    "lead_paragraph": "After incurring their wrath for the Clinton email case, some Democrats now say the F.B.I. director could help block G.O.P. efforts to revive banned interrogation techniques.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/19/us/19COMEY/19COMEY-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/19/us/19COMEY/19COMEY-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/19/us/19COMEY/19COMEY-articleLarge.jpg",
+            "height": 607,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/19/us/19COMEY/19COMEY-articleLarge.jpg",
+                "xlargeheight": "607"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/19/us/19COMEY/19COMEY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/19/us/19COMEY/19COMEY-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Why Democrats Now Need the F.B.I. Director, James Comey",
+        "print_headline": "Democrats See Comey as Potential Ally in Counterterrorism Fight"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Comey, James B"
+        },
+        {
+            "rank": "11",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Waterboarding"
+        },
+        {
+            "rank": "12",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Guantanamo Bay Naval Base (Cuba)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Federal Bureau of Investigation"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Security Agency"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Detainees"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+        },
+        {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Terrorism"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Espionage and Intelligence Services"
+        }
+    ],
+    "pub_date": "2016-11-19T01:49:16+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Matt Apuzzo contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "GOLDMAN"
+            }
+        ],
+        "original": "By ADAM GOLDMAN"
+    },
+    "type_of_material": "News",
+    "_id": "582fafa47c459f6a5fccee4e",
+    "word_count": "833",
+    "slideshow_credits": null
+}

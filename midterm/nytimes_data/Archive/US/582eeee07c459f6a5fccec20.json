@@ -1,0 +1,136 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/19/us/battle-lines-over-trumps-lands-policy-stretch-across-640-million-acres.html",
+    "snippet": "Donald J. Trump\u2019s election presages huge potential change on America\u2019s federal lands, pitting conservation against his promise to \u201cunleash\u201d fossil fuel production....",
+    "lead_paragraph": "Donald J. Trump\u2019s election presages huge potential change on America\u2019s federal lands, pitting conservation against his promise to \u201cunleash\u201d fossil fuel production.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/00LANDS1/00LANDS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/00LANDS1/00LANDS1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/00LANDS1/00LANDS1-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/00LANDS1/00LANDS1-articleLarge.jpg",
+                "xlargeheight": "399"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/00LANDS1/00LANDS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/00LANDS1/00LANDS1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Battle Lines Over Trump\u2019s Lands Policy Stretch Across 640 Million Acres",
+        "print_headline": "Trump\u2019s Land Policy? Battle Lines Span 640 Million Acres"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Federal Lands"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Land Use Policies"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Bureau of Land Management"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Interior Department"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Standing Rock Sioux Reservation (ND-SD)"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Arctic National Wildlife Refuge"
+        },
+        {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Environment"
+        }
+    ],
+    "pub_date": "2016-11-18T12:06:48+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Jack Healy reported from Denver, and Kirk Johnson from Seattle.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jack",
+                "rank": 1,
+                "lastname": "HEALY"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kirk",
+                "rank": 2,
+                "lastname": "JOHNSON"
+            }
+        ],
+        "original": "By JACK HEALY and KIRK JOHNSON"
+    },
+    "type_of_material": "News",
+    "_id": "582eeee07c459f6a5fccec20",
+    "word_count": "1332",
+    "slideshow_credits": null
+}

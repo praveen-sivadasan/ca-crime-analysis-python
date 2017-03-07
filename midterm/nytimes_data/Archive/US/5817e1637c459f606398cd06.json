@@ -1,0 +1,134 @@
+{
+    "web_url": "http://www.nytimes.com/interactive/2016/us/politics/trump-taxes-loophole.html",
+    "snippet": "Mr. Trump managed to save millions in personal taxes by borrowing \u2013 then losing \u2013 other people\u2019s money....",
+    "lead_paragraph": "Mr. Trump managed to save millions in personal taxes by borrowing \u2013 then losing \u2013 other people\u2019s money.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/10/28/us/politics/trump-taxes/trump-taxes-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/10/28/us/politics/trump-taxes/trump-taxes-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/10/28/us/politics/trump-taxes/trump-taxes-articleLarge.gif",
+            "height": 438,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/10/28/us/politics/trump-taxes/trump-taxes-articleLarge.gif",
+                "xlargeheight": "438"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/10/28/us/politics/trump-taxes/trump-taxes-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/10/28/us/politics/trump-taxes/trump-taxes-thumbStandard-v2.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "How Donald Trump Avoided Paying Taxes Using Other People\u2019s Money"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Federal Taxes (US)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Income Tax"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Stocks and Bonds"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Casinos"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Trump Plaza Hotel & Casino (Atlantic City, NJ)"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Trump Taj Mahal Casino Resort"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Internal Revenue Service"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Atlantic City (NJ)"
+        }
+    ],
+    "pub_date": "2016-11-01T00:27:16Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Politics",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "firstname": "Gabriel",
+                "middlename": "J.",
+                "lastname": "X",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By GABRIEL J.X. DANCE and AARON BYRD"
+    },
+    "type_of_material": "Interactive Feature",
+    "_id": "5817e1637c459f606398cd06",
+    "word_count": null,
+    "slideshow_credits": null
+}

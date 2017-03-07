@@ -1,0 +1,116 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/26/us/death-penalty-dylann-roof-charleston.html",
+    "snippet": "In the coming trial of Dylann S. Roof, who is accused of killing nine black churchgoers last year, no issue is more disputed than whether he should face execution....",
+    "lead_paragraph": "In the coming trial of Dylann S. Roof, who is accused of killing nine black churchgoers last year, no issue is more disputed than whether he should face execution.",
+    "abstract": "Death penalty critics, including some survivors of Charleston, SC, church massacre, oppose Justice Dept decision to proceed with capital trial of suspect Dylann S Roof; various objections include Christian belief in forgiveness and worry that lengthy appeals process will hinder survivors' efforts to heal.",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/27/us/27CHARLESTON-jp1/00CHARLESTON4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/27/us/27CHARLESTON-jp1/00CHARLESTON4-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/27/us/27CHARLESTON-jp1/00CHARLESTON4-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/27/us/27CHARLESTON-jp1/00CHARLESTON4-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/27/us/27CHARLESTON-jp1/00CHARLESTON4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/27/us/27CHARLESTON-jp1/00CHARLESTON4-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "U.S. Seeks Death for Charleston Shooting Suspect. Victims\u2019 Families Prefer Mercy.",
+        "print_headline": "Capital Trial Defies Will of Survivors of Massacre"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Roof, Dylann Storm"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Charleston, SC, Shooting (2015)"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Capital Punishment"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hate Crimes"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Charleston (SC)"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Emanuel African Methodist Episcopal Church (Charleston, SC)"
+        }
+    ],
+    "pub_date": "2016-11-26T16:22:39+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alan",
+                "rank": 1,
+                "lastname": "BLINDER"
+            }
+        ],
+        "original": "By ALAN BLINDER"
+    },
+    "type_of_material": "News",
+    "_id": "5839b6d47c459f2525d0e72b",
+    "word_count": "1174",
+    "slideshow_credits": null
+}

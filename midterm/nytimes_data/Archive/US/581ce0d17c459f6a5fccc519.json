@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/05/us/chicago-cubs-parade.html",
+    "snippet": "The die-hards who had been hoping for this victory for decades said they could finally savor the moment to celebrate the World Series title over Cleveland....",
+    "lead_paragraph": "The die-hards who had been hoping for this victory for decades said they could finally savor the moment to celebrate the World Series title over Cleveland.",
+    "abstract": "Chicago Cubs fans gather to parade through city in celebration of team's first World Series victory in 108 years.",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/05/us/04CHICAGO/04CHICAGO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/05/us/04CHICAGO/04CHICAGO-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/05/us/04CHICAGO/04CHICAGO-articleLarge.jpg",
+            "height": 445,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/05/us/04CHICAGO/04CHICAGO-articleLarge.jpg",
+                "xlargeheight": "445"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/05/us/04CHICAGO/04CHICAGO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/05/us/04CHICAGO/04CHICAGO-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "For Cubs Fans, a Parade Worth the 108-Year Wait (Plus a Few Hours)",
+        "print_headline": "For Cubs Fans, a Parade Worth the 108-Year Wait (Plus a Couple of Hours)"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "World Series"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Parades"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Chicago Cubs"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Chicago (Ill)"
+        }
+    ],
+    "pub_date": "2016-11-04T19:25:58Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Julie",
+                "rank": 1,
+                "lastname": "BOSMAN"
+            }
+        ],
+        "original": "By JULIE BOSMAN"
+    },
+    "type_of_material": "News",
+    "_id": "581ce0d17c459f6a5fccc519",
+    "word_count": "852",
+    "slideshow_credits": null
+}

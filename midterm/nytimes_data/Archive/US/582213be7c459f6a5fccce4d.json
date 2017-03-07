@@ -1,0 +1,55 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/09/us/politics/report-voter-intimidation.html",
+    "snippet": "A guide to what exactly constitutes voter intimidation and what to do if you encounter it on Election Day....",
+    "lead_paragraph": "A guide to what exactly constitutes voter intimidation and what to do if you encounter it on Election Day.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "How to Spot and Report Voter Intimidation"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voter Registration and Requirements"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting Rights Act (1965)"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "American Civil Liberties Union"
+        }
+    ],
+    "pub_date": "2016-11-08T18:04:36Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Elizabeth A. Harris contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Niraj",
+                "rank": 1,
+                "lastname": "CHOKSHI"
+            }
+        ],
+        "original": "By NIRAJ CHOKSHI"
+    },
+    "type_of_material": "News",
+    "_id": "582213be7c459f6a5fccce4d",
+    "word_count": "669",
+    "slideshow_credits": null
+}

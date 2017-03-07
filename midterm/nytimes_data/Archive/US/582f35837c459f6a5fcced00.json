@@ -1,0 +1,112 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/19/us/politics/donald-trump-administration.html",
+    "snippet": "The president-elect on Friday tapped loyalists who reflect the hard-line views of his campaign, though he is also expected to meet with critics such as Mitt Romney....",
+    "lead_paragraph": "The president-elect on Friday tapped loyalists who reflect the hard-line views of his campaign, though he is also expected to meet with critics such as Mitt Romney.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/19/us/19trump1/19trump1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/19/us/19trump1/19trump1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/19/us/19trump1/19trump1-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/19/us/19trump1/19trump1-articleLarge.jpg",
+                "xlargeheight": "401"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/19/us/19trump1/19trump1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/19/us/19trump1/19trump1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Turns to His Right Flank to Fill National Security Posts",
+        "print_headline": "Trump Selects Loyalists on Right Flank to Fill National Security Posts"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sessions, Jefferson B III"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Flynn, Michael T"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pompeo, Mike"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        }
+    ],
+    "pub_date": "2016-11-18T17:08:11Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Mark Mazzetti, Michael S. Schmidt and Charlie Savage contributed reporting.",
+        "person": [
+            {
+                "firstname": "Julie",
+                "middlename": "Hirschfeld",
+                "lastname": "DAVIS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By JULIE HIRSCHFELD DAVIS"
+    },
+    "type_of_material": "News",
+    "_id": "582f35837c459f6a5fcced00",
+    "word_count": "1301",
+    "slideshow_credits": null
+}

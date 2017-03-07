@@ -1,0 +1,86 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/10/us/politics/trump-supreme-court.html",
+    "snippet": "The court is again set to tilt right, and that may be only the start. Liberals, though, hope that conservative justices will restrain Mr. Trump\u2019s ambitions....",
+    "lead_paragraph": "The court is again set to tilt right, and that may be only the start. Liberals, though, hope that conservative justices will restrain Mr. Trump\u2019s ambitions.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/10/us/10scotus1/10scotus1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/10/us/10scotus1/10scotus1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/10/us/10scotus1/10scotus1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/10/us/10scotus1/10scotus1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/10/us/10scotus1/10scotus1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/10/us/10scotus1/10scotus1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "What the Trump Presidency Means for the Supreme Court",
+        "print_headline": "Court Is Set to Tilt Right, but It May Play a Surprising Role: Impeding Trump"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Supreme Court (US)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        }
+    ],
+    "pub_date": "2016-11-09T17:52:41Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "LIPTAK"
+            }
+        ],
+        "original": "By ADAM LIPTAK"
+    },
+    "type_of_material": "News",
+    "_id": "582362727c459f6a5fccd18f",
+    "word_count": "1098",
+    "slideshow_credits": null
+}

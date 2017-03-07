@@ -1,0 +1,91 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/politics/obama-2016-presidential-medal-of-freedom.html",
+    "snippet": "The 21 recipients of the award, the nation\u2019s highest civilian honor, also include Frank Gehry, Vin Scully, Tom Hanks and Bill and Melinda Gates....",
+    "lead_paragraph": "The 21 recipients of the award, the nation\u2019s highest civilian honor, also include Frank Gehry, Vin Scully, Tom Hanks and Bill and Melinda Gates.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-articleLarge.jpg",
+            "height": 393,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-articleLarge.jpg",
+                "xlargeheight": "393"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Ellen DeGeneres and Kareem Abdul-Jabbar Among 2016 Presidential Medal of Freedom Recipients"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Medal of Freedom"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "DeGeneres, Ellen"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Scully, Vin"
+        }
+    ],
+    "pub_date": "2016-11-16T23:33:45Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Liam",
+                "rank": 1,
+                "lastname": "STACK"
+            }
+        ],
+        "original": "By LIAM STACK"
+    },
+    "type_of_material": "News",
+    "_id": "582cece27c459f6a5fcce6a9",
+    "word_count": "302",
+    "slideshow_credits": null
+}

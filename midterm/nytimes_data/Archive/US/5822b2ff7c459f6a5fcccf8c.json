@@ -1,0 +1,105 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/09/us/politics/marijuana-legalization.html",
+    "snippet": "Voters in California, Massachusetts and Nevada legalized recreational use in what advocates said was a major step toward changing the country\u2019s attitude toward the drug....",
+    "lead_paragraph": "Voters in California, Massachusetts and Nevada legalized recreational use in what advocates said was a major step toward changing the country\u2019s attitude toward the drug.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/09/us/09marijuana/09marijuana-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/09/us/09marijuana/09marijuana-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/09/us/09marijuana/09marijuana-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/09/us/09marijuana/09marijuana-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/09/us/09marijuana/09marijuana-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/09/us/09marijuana/09marijuana-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Californians Legalize Marijuana in Vote That Could Echo Nationally",
+        "print_headline": "Californians Legalize  Recreational Marijuana"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Marijuana"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Referendums"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Massachusetts"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Nevada"
+        }
+    ],
+    "pub_date": "2016-11-09T05:24:07Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Jess Bidgood contributed reporting from Boston and Melissa Wen from Oakland, Calif.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Thomas",
+                "rank": 1,
+                "lastname": "FULLER"
+            }
+        ],
+        "original": "By THOMAS FULLER"
+    },
+    "type_of_material": "News",
+    "_id": "5822b2ff7c459f6a5fcccf8c",
+    "word_count": "1092",
+    "slideshow_credits": null
+}

@@ -1,0 +1,150 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/14/us/muslim-college-chaplains-extend-a-hand-across-religious-divides.html",
+    "snippet": "Dozens of chaplains on campuses across the country play a vital dual role: helping Muslim students feel welcome, and introducing Islam to non-Muslims....",
+    "lead_paragraph": "Dozens of chaplains on campuses across the country play a vital dual role: helping Muslim students feel welcome, and introducing Islam to non-Muslims.",
+    "abstract": "Samuel G Freedman On Religion column examines how Muslim chaplains based on American college campuses are helping to  normalize Islam to non-Muslim students who have absorbed a narrative of it as an oppressive and violent religion.",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/08/us/11religion-2/11religion-2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/08/us/11religion-2/11religion-2-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/08/us/11religion-2/11religion-2-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/08/us/11religion-2/11religion-2-articleLarge.jpg",
+                "xlargeheight": "401"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/08/us/11religion-2/11religion-2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/08/us/11religion-2/11religion-2-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Muslim College Chaplains Extend a Hand Across Religious Divides",
+        "content_kicker": "On Religion",
+        "kicker": "On Religion",
+        "print_headline": "Muslim College Chaplains Reach Across Religious Divides"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Religion and Belief"
+        },
+        {
+            "rank": "11",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Hull House"
+        },
+        {
+            "rank": "12",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Minnesota"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Muslim Americans"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Muslims and Islam"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Somali-Americans"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Chaplains"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Refugees and Displaced Persons"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Augsburg College"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Duke University"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Shabab"
+        }
+    ],
+    "pub_date": "2016-11-13T23:52:58Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "firstname": "Samuel",
+                "middlename": "G.",
+                "lastname": "FREEDMAN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By SAMUEL G. FREEDMAN"
+    },
+    "type_of_material": "News",
+    "_id": "5828fce07c459f6a5fccdc4a",
+    "word_count": "1268",
+    "slideshow_credits": null
+}

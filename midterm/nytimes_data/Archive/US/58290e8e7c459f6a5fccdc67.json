@@ -1,0 +1,129 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/14/us/politics/a-newly-vibrant-washington-fears-that-trump-will-drain-its-culture.html",
+    "snippet": "President Obama\u2019s arrival in Washington coincided with an urban renaissance, an influx of young people and an explosion in restaurants. Many there worry that Mr. Trump will set the city back....",
+    "lead_paragraph": "President Obama\u2019s arrival in Washington coincided with an urban renaissance, an influx of young people and an explosion in restaurants. Many there worry that Mr. Trump will set the city back.",
+    "abstract": "Residents of Washington, DC, express worries about future of their city's vibrant and diverse culture now that Donald J Trump has won presidential election; many fear Trump's cultural, social and political views will spur exodus of young, fashionable and talented professionals from area.",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/14/us/14culture1/14culture1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/14/us/14culture1/14culture1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/14/us/14culture1/14culture1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/14/us/14culture1/14culture1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/14/us/14culture1/14culture1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/14/us/14culture1/14culture1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "A Newly Vibrant Washington Fears That Trump Will Drain Its Culture",
+        "print_headline": "Newly Vibrant Washington Fears Trump\u2019s Effect on Its Culture"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Washington (DC)"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2008"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Michelle"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Restaurants"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bars and Nightclubs"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Area Planning and Renewal"
+        }
+    ],
+    "pub_date": "2016-11-14T01:08:23+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Julie Hirschfeld Davis contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jason",
+                "rank": 1,
+                "lastname": "HOROWITZ"
+            }
+        ],
+        "original": "By JASON HOROWITZ"
+    },
+    "type_of_material": "News",
+    "_id": "58290e8e7c459f6a5fccdc67",
+    "word_count": "1245",
+    "slideshow_credits": null
+}

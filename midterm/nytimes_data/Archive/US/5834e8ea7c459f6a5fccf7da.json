@@ -1,0 +1,110 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/22/us/politics/george-soros-hate-crimes.html",
+    "snippet": "Saying the Trump campaign awakened \u201cdark forces,\u201d Mr. Soros, the billionaire Democratic donor, will fund grants to community and civil rights groups and efforts to track attacks....",
+    "lead_paragraph": "Saying the Trump campaign awakened \u201cdark forces,\u201d Mr. Soros, the billionaire Democratic donor, will fund grants to community and civil rights groups and efforts to track attacks.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/23/us/23hate/23hate-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/23/us/23hate/23hate-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/23/us/23hate/23hate-articleLarge.jpg",
+            "height": 464,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/23/us/23hate/23hate-articleLarge.jpg",
+                "xlargeheight": "464"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/23/us/23hate/23hate-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/23/us/23hate/23hate-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "George Soros Pledges $10 Million to Fight Hate Crimes",
+        "print_headline": "Soros Fights Hate Crimes With Pledge"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Soros, George"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Hate Crimes"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Open Society Foundations"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Philanthropy"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        }
+    ],
+    "pub_date": "2016-11-23T00:54:58Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 1,
+                "lastname": "LICHTBLAU"
+            }
+        ],
+        "original": "By ERIC LICHTBLAU"
+    },
+    "type_of_material": "News",
+    "_id": "5834e8ea7c459f6a5fccf7da",
+    "word_count": "605",
+    "slideshow_credits": null
+}

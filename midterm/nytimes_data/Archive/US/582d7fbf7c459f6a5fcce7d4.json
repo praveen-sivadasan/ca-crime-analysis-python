@@ -1,0 +1,121 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/politics/donald-trump-transition.html",
+    "snippet": "The president-elect had high praise for the Alabama senator after meeting with him and others at Trump Tower, including Henry A. Kissinger....",
+    "lead_paragraph": "The president-elect had high praise for the Alabama senator after meeting with him and others at Trump Tower, including Henry A. Kissinger.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/17transitionbriefing5/17transitionbriefing5-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/17transitionbriefing5/17transitionbriefing5-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/17transitionbriefing5/17transitionbriefing5-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/17transitionbriefing5/17transitionbriefing5-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/17transitionbriefing5/17transitionbriefing5-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/17transitionbriefing5/17transitionbriefing5-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Jeff Sessions Appears Headed to a Trump Cabinet Position",
+        "content_kicker": "Transition Briefing",
+        "kicker": "Transition Briefing"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Trans-Pacific Partnership"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Abe, Shinzo"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pence, Mike"
+        }
+    ],
+    "pub_date": "2016-11-17T10:00:22Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maggie",
+                "rank": 1,
+                "lastname": "HABERMAN"
+            },
+            {
+                "firstname": "Michael",
+                "middlename": "S.",
+                "lastname": "SCHMIDT",
+                "rank": 2,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "firstname": "Julie",
+                "middlename": "Hirschfeld",
+                "lastname": "DAVIS",
+                "rank": 3,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MAGGIE HABERMAN, MICHAEL S. SCHMIDT and JULIE HIRSCHFELD DAVIS"
+    },
+    "type_of_material": "News",
+    "_id": "582d7fbf7c459f6a5fcce7d4",
+    "word_count": "1375",
+    "slideshow_credits": null
+}

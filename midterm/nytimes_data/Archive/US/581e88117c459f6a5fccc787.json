@@ -1,0 +1,61 @@
+{
+    "web_url": "http://www.nytimes.com/slideshow/2016/11/05/us/elections/on-the-trail-saturday-nov-5.html",
+    "snippet": "Donald J. Trump and Hillary Clinton held rallies in North Carolina and Florida....",
+    "lead_paragraph": "Donald J. Trump and Hillary Clinton held rallies in North Carolina and Florida.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/05/us/elections/05POLDAILY-slide-9GJI/05POLDAILY-slide-9GJI-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/05/us/elections/05POLDAILY-slide-9GJI/05POLDAILY-slide-9GJI-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/05/us/elections/05POLDAILY-slide-9GJI/05POLDAILY-slide-9GJI-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/05/us/elections/05POLDAILY-slide-9GJI/05POLDAILY-slide-9GJI-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/05/us/elections/05POLDAILY-slide-9GJI/05POLDAILY-slide-9GJI-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/05/us/elections/05POLDAILY-slide-9GJI/05POLDAILY-slide-9GJI-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "On the Trail: Saturday, Nov. 5"
+    },
+    "keywords": [],
+    "pub_date": "2016-11-06T01:31:51Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Election 2016",
+    "section_name": "U.S.",
+    "subsection_name": "Election 2016",
+    "byline": [],
+    "type_of_material": "Slideshow",
+    "_id": "581e88117c459f6a5fccc787",
+    "word_count": "13",
+    "slideshow_credits": "Damon Winter/The New York Times"
+}

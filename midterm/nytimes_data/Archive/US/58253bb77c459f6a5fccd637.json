@@ -1,0 +1,96 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/11/us/politics/donald-trump-arizona.html",
+    "snippet": "Bill Clinton was the last Democrat to take the state, prevailing in 1996. Before him, Harry S. Truman was the last Democrat to win there....",
+    "lead_paragraph": "Bill Clinton was the last Democrat to take the state, prevailing in 1996. Before him, Harry S. Truman was the last Democrat to win there.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Donald Trump Takes Arizona, Extending G.O.P. Winning Streak in State",
+        "print_headline": "Latest Count Gives Trump Win in Arizona"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Michigan"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hispanic-Americans"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Arpaio, Joseph M"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brewer, Jan"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Arizona"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New Hampshire"
+        }
+    ],
+    "pub_date": "2016-11-11T03:32:00Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [],
+        "original": "By THE ASSOCIATED PRESS",
+        "organization": "THE ASSOCIATED PRESS"
+    },
+    "type_of_material": "News",
+    "_id": "58253bb77c459f6a5fccd637",
+    "word_count": "290",
+    "slideshow_credits": null
+}

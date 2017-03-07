@@ -1,0 +1,98 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/08/us/politics/supreme-court-donald-trump-ohio.html",
+    "snippet": "The Supreme Court turned away a bid to reinstate a trial judge\u2019s order that barred Donald J. Trump\u2019s campaign from harassing or intimidating voters in Ohio....",
+    "lead_paragraph": "The Supreme Court turned away a bid to reinstate a trial judge\u2019s order that barred Donald J. Trump\u2019s campaign from harassing or intimidating voters in Ohio.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/08/us/08scotus/08scotus-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/08/us/08scotus/08scotus-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/08/us/08scotus/08scotus-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/08/us/08scotus/08scotus-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/08/us/08scotus/08scotus-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/08/us/08scotus/08scotus-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Justices Won\u2019t Revive Order Barring Voter Intimidation in Ohio",
+        "print_headline": "Court Shuns  Push to Ban Intimidation at Ohio Polls "
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Supreme Court (US)"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Ohio"
+        }
+    ],
+    "pub_date": "2016-11-07T20:21:56Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "LIPTAK"
+            }
+        ],
+        "original": "By ADAM LIPTAK"
+    },
+    "type_of_material": "News",
+    "_id": "5820e26a7c459f6a5fcccba3",
+    "word_count": "437",
+    "slideshow_credits": null
+}

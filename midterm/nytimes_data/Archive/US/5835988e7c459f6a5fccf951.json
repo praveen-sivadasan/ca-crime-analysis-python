@@ -1,0 +1,80 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/23/us/california-today-thanksgiving-election-politics.html",
+    "snippet": "Wednesday: Worries over Thanksgiving after the election, a crisis of malnutrition among Salinas Valley farmworkers, and a last-minute holiday recipe from Bar Tartine....",
+    "lead_paragraph": "Wednesday: Worries over Thanksgiving after the election, a crisis of malnutrition among Salinas Valley farmworkers, and a last-minute holiday recipe from Bar Tartine.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/23/us/23California-Today1/23California-Today-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/23/us/23California-Today1/23California-Today-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/23/us/23California-Today1/23California-Today-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/23/us/23California-Today1/23California-Today-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/23/us/23California-Today1/23California-Today-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/23/us/23California-Today1/23California-Today-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "California Today: Some Opt to Pass on Thanksgiving Politics",
+        "content_kicker": "California Today"
+    },
+    "keywords": [
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+        }
+    ],
+    "pub_date": "2016-11-23T13:24:24+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mike",
+                "rank": 1,
+                "lastname": "McPHATE"
+            }
+        ],
+        "original": "By MIKE McPHATE"
+    },
+    "type_of_material": "briefing",
+    "_id": "5835988e7c459f6a5fccf951",
+    "word_count": "1155",
+    "slideshow_credits": null
+}

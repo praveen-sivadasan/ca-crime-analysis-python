@@ -1,0 +1,116 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/15/us/at-conference-political-consultants-wonder-where-they-went-wrong.html",
+    "snippet": "The gathering was meant to be a celebration of big data and strategic wizardry, but after Donald J. Trump\u2019s surprise win, \u201cit\u2019s like we\u2019re at a funeral.\u201d...",
+    "lead_paragraph": "The gathering was meant to be a celebration of big data and strategic wizardry, but after Donald J. Trump\u2019s surprise win, \u201cit\u2019s like we\u2019re at a funeral.\u201d",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/15/us/15conference1/15conference1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/15/us/15conference1/15conference1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/15/us/15conference1/15conference1-articleLarge.jpg",
+            "height": 407,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/15/us/15conference1/15conference1-articleLarge.jpg",
+                "xlargeheight": "407"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/15/us/15conference1/15conference1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/15/us/15conference1/15conference1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "At Conference, Political Consultants Wonder Where They Went Wrong",
+        "print_headline": "At Conference, Political Consultants Wonder Where They Went Wrong"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Consultants"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "International Assn of Political Consultants"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Polls and Public Opinion"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Root, Wayne Allyn"
+        }
+    ],
+    "pub_date": "2016-11-14T14:02:24Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Julie",
+                "rank": 1,
+                "lastname": "TURKEWITZ"
+            }
+        ],
+        "original": "By JULIE TURKEWITZ"
+    },
+    "type_of_material": "News",
+    "_id": "5829c3f67c459f6a5fccddc6",
+    "word_count": "826",
+    "slideshow_credits": null
+}

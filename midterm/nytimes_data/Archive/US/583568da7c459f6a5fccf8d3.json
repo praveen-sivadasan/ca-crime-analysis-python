@@ -1,0 +1,113 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/23/us/politics/donald-trump-transition.html",
+    "snippet": "President-elect Donald J. Trump has chosen Gov. Nikki Haley of South Carolina to be ambassador to the United Nations....",
+    "lead_paragraph": "President-elect Donald J. Trump has chosen Gov. Nikki Haley of South Carolina to be ambassador to the United Nations.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/23/pageoneplus/23transitionbriefing1/23transitionbriefing1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/23/pageoneplus/23transitionbriefing1/23transitionbriefing1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/23/pageoneplus/23transitionbriefing1/23transitionbriefing1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/23/pageoneplus/23transitionbriefing1/23transitionbriefing1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/23/pageoneplus/23transitionbriefing1/23transitionbriefing1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/23/pageoneplus/23transitionbriefing1/23transitionbriefing1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "In Betsy DeVos for Education, Trump Taps Into Michigan Royalty",
+        "content_kicker": "Transition Briefing",
+        "kicker": "Transition Briefing"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Electoral College"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Carson, Benjamin S"
+        }
+    ],
+    "pub_date": "2016-11-23T10:00:47+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Vanessa",
+                "rank": 1,
+                "lastname": "FRIEDMAN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maggie",
+                "rank": 2,
+                "lastname": "HABERMAN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alan",
+                "rank": 3,
+                "lastname": "RAPPEPORT"
+            }
+        ],
+        "original": "By VANESSA FRIEDMAN, MAGGIE HABERMAN and ALAN RAPPEPORT"
+    },
+    "type_of_material": "News",
+    "_id": "583568da7c459f6a5fccf8d3",
+    "word_count": "1803",
+    "slideshow_credits": null
+}

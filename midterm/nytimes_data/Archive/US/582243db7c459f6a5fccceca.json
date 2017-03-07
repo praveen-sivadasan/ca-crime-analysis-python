@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/09/us/politics/facebook-pantsuit-nation-clinton.html",
+    "snippet": "The group\u2019s stated goal is to express support for Hillary Clinton, but it has also served as a forum to discuss issues raised by Donald J. Trump\u2019s rhetoric....",
+    "lead_paragraph": "The group\u2019s stated goal is to express support for Hillary Clinton, but it has also served as a forum to discuss issues raised by Donald J. Trump\u2019s rhetoric.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/09/us/09xp-pantsuit/09xp-pantsuit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/09/us/09xp-pantsuit/09xp-pantsuit-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/09/us/09xp-pantsuit/09xp-pantsuit-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/09/us/09xp-pantsuit/09xp-pantsuit-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/09/us/09xp-pantsuit/09xp-pantsuit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/09/us/09xp-pantsuit/09xp-pantsuit-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Pantsuit Nation, a \u2018Secret\u2019 Facebook Hub, Celebrates Clinton"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women and Girls"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Facebook Inc"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+        }
+    ],
+    "pub_date": "2016-11-08T21:29:58Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Annie",
+                "rank": 1,
+                "lastname": "CORREAL"
+            }
+        ],
+        "original": "By ANNIE CORREAL"
+    },
+    "type_of_material": "News",
+    "_id": "582243db7c459f6a5fccceca",
+    "word_count": "974",
+    "slideshow_credits": null
+}

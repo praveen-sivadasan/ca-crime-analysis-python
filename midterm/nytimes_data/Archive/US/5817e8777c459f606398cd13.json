@@ -1,0 +1,129 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/01/us/politics/james-comey-fbi-emails.html",
+    "snippet": "Though Mr. Comey acted publicly, while J. Edgar Hoover maneuvered in secret, Hoover was the last F.B.I. director to be accused of trying to influence a presidential election....",
+    "lead_paragraph": "Though Mr. Comey acted publicly, while J. Edgar Hoover maneuvered in secret, Hoover was the last F.B.I. director to be accused of trying to influence a presidential election.",
+    "abstract": "Some critics and historians draw parallels between FBI director James B Comey, who violated Justice Dept policy by releasing information about investigation of Hillary Clinton's email server, and late controversial agency director J Edgar Hoover; Comey's defenders say comparison is absurd, dismissing notion that Comey acted to tip scales in 2016 presidential election.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/01/us/01comey1/01comey1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/01/us/01comey1/01comey1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/01/us/01comey1/01comey1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/01/us/01comey1/01comey1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/01/us/01comey1/01comey1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/01/us/01comey1/01comey1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "James Comey Role Recalls Hoover\u2019s F.B.I., Fairly or Not",
+        "print_headline": "Comey Role Recalls Hoover\u2019s F.B.I., Fairly or Not"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Comey, James B"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Hoover, J Edgar"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Federal Bureau of Investigation"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classified Information and State Secrets"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "E-Mail"
+        },
+        {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        }
+    ],
+    "pub_date": "2016-11-01T00:57:21Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Scott",
+                "rank": 1,
+                "lastname": "SHANE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sharon",
+                "rank": 2,
+                "lastname": "LaFRANIERE"
+            }
+        ],
+        "original": "By SCOTT SHANE and SHARON LaFRANIERE"
+    },
+    "type_of_material": "News",
+    "_id": "5817e8777c459f606398cd13",
+    "word_count": "1298",
+    "slideshow_credits": null
+}

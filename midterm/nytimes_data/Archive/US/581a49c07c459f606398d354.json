@@ -1,0 +1,130 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/03/us/black-church-burned-in-mississippi-with-vote-trump-scrawled-on-side.html",
+    "snippet": "The attack, determined to be arson, reinforced fears of potential violence as a polarizing and racially charged presidential race nears its conclusion....",
+    "lead_paragraph": "The attack, determined to be arson, reinforced fears of potential violence as a polarizing and racially charged presidential race nears its conclusion.",
+    "abstract": "African-American church in Greenville, Miss, is deliberately set ablaze and spray painted with 'Vote Trump' slogan, raising fears of violent clashes in days surrounding highly contentious presidential election; officials decline to confirm whether crime, which echoes racist church bombings of civil rights era, was politically motivated.",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/03/us/03church1/03church1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/03/us/03church1/03church1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/03/us/03church1/03church1-articleLarge.jpg",
+            "height": 379,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/03/us/03church1/03church1-articleLarge.jpg",
+                "xlargeheight": "379"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/03/us/03church1/03church1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/03/us/03church1/03church1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Black Church Burned in Mississippi, With \u2018Vote Trump\u2019 Scrawled on Side",
+        "print_headline": "Black Church Is Burned in Mississippi, With \u2018Vote Trump\u2019 Scrawled on Side"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Arson"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hate Crimes"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Greenville (Miss)"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Churches (Buildings)"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fires and Firefighters"
+        }
+    ],
+    "pub_date": "2016-11-02T20:16:57Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Campbell Robertson reported from Greenville, and Richard Fausset from Chapel Hill, N.C.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Campbell",
+                "rank": 1,
+                "lastname": "ROBERTSON"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 2,
+                "lastname": "FAUSSET"
+            }
+        ],
+        "original": "By CAMPBELL ROBERTSON and RICHARD FAUSSET"
+    },
+    "type_of_material": "News",
+    "_id": "581a49c07c459f606398d354",
+    "word_count": "958",
+    "slideshow_credits": null
+}

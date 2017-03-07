@@ -1,0 +1,85 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/06/us/politics/hillary-clinton-cookies.html",
+    "snippet": "\u201cI suppose I could have stayed home and baked cookies,\u201d Mrs. Clinton once said, to her regret, as her husband ran for president. Now the line is back....",
+    "lead_paragraph": "\u201cI suppose I could have stayed home and baked cookies,\u201d Mrs. Clinton once said, to her regret, as her husband ran for president. Now the line is back.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/06/us/06cookies/06cookies-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/06/us/06cookies/06cookies-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/06/us/06cookies/06cookies-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/06/us/06cookies/06cookies-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/06/us/06cookies/06cookies-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/06/us/06cookies/06cookies-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Hillary Clinton and the Return of the (Unbaked) Cookies"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        }
+    ],
+    "pub_date": "2016-11-05T17:10:59Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Amy",
+                "rank": 1,
+                "lastname": "CHOZICK"
+            }
+        ],
+        "original": "By AMY CHOZICK"
+    },
+    "type_of_material": "News",
+    "_id": "581e12a67c459f6a5fccc6ee",
+    "word_count": "433",
+    "slideshow_credits": null
+}

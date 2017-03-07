@@ -1,0 +1,98 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/politics/donald-trump-administration-twitter.html",
+    "snippet": "The president-elect used Twitter to assure Americans that the handover of power was going well, despite accounts of infighting on his team....",
+    "lead_paragraph": "The president-elect used Twitter to assure Americans that the handover of power was going well, despite accounts of infighting on his team.",
+    "abstract": "Pres-elect Donald J Trump sends out early-morning Twitter burst asserting his transition is going smoothly in response to news reports of firings and infighting; delay in selecting top advisers is blocking official handoff of critical information from 100 federal agencies.",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/17trump1/17trump1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/17trump1/17trump1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/17trump1/17trump1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/17trump1/17trump1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/17trump1/17trump1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/17trump1/17trump1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Says Transition\u2019s Going \u2018Smoothly,\u2019 Disputing Disarray Reports",
+        "print_headline": "Trump Takes to Twitter in Defense of Transition"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Twitter"
+        }
+    ],
+    "pub_date": "2016-11-16T15:40:04Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Julie Hirschfeld Davis and Michael S. Schmidt contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1
+            }
+        ],
+        "original": "By MICHAEL D. SHEAR"
+    },
+    "type_of_material": "News",
+    "_id": "582c7dda7c459f6a5fcce54e",
+    "word_count": "1189",
+    "slideshow_credits": null
+}

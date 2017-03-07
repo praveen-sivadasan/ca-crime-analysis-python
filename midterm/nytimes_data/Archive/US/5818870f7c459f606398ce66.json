@@ -1,0 +1,80 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/01/us/california-today-guns-ammunition-proposition-63.html",
+    "snippet": "Tuesday: Voters weigh tougher gun control, a political campaign in Irvine gets nasty, and a biographer of Alexander von Humboldt takes questions....",
+    "lead_paragraph": "Tuesday: Voters weigh tougher gun control, a political campaign in Irvine gets nasty, and a biographer of Alexander von Humboldt takes questions.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/10/27/us/27ct-5/27ct-5-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/10/27/us/27ct-5/27ct-5-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/10/27/us/27ct-5/27ct-5-articleLarge.jpg",
+            "height": 369,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/10/27/us/27ct-5/27ct-5-articleLarge.jpg",
+                "xlargeheight": "369"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/10/27/us/27ct-5/27ct-5-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/10/27/us/27ct-5/27ct-5-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "California Today: A New Target of Gun Control Advocates \u2014 Bullets",
+        "content_kicker": "California Today"
+    },
+    "keywords": [
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+        }
+    ],
+    "pub_date": "2016-11-01T12:13:57Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mike",
+                "rank": 1,
+                "lastname": "McPHATE"
+            }
+        ],
+        "original": "By MIKE McPHATE"
+    },
+    "type_of_material": "briefing",
+    "_id": "5818870f7c459f606398ce66",
+    "word_count": "991",
+    "slideshow_credits": null
+}

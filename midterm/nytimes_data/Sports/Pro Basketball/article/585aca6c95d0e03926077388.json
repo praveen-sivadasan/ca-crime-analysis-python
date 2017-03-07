@@ -1,0 +1,100 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/21/sports/basketball/houston-rockets-golden-state-warriors-3-pointers.html",
+    "snippet": "Three teams are on a pace to break the record for 3-pointers attempted per game in a season, and one of them is the Nets....",
+    "lead_paragraph": "Three teams are on a pace to break the record for 3-pointers attempted per game in a season, and one of them is the Nets.",
+    "abstract": "Keeping Score column notes more NBA teams, including Brooklyn Nets, are relying on 3-point shots to drive their offenses; says one notable exception is Golden State Warriors, who have increased their offensive efficiency and its overall scoring, despite averaging fewer 3-point attempts per game than last season.",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/22/sports/22SCORE1/22SCORE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/22/sports/22SCORE1/22SCORE1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/22/sports/22SCORE1/22SCORE1-articleLarge.jpg",
+            "height": 423,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/22/sports/22SCORE1/22SCORE1-articleLarge.jpg",
+                "xlargeheight": "423"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/22/sports/22SCORE1/22SCORE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/22/sports/22SCORE1/22SCORE1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Led by Rockets, N.B.A. Is Shooting Even More 3-Pointers",
+        "content_kicker": "Keeping Score",
+        "kicker": "Keeping Score",
+        "print_headline": "Shooting Records Are Buried in Hail of 3s"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Basketball"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Houston Rockets"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Golden State Warriors"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Brooklyn Nets"
+        }
+    ],
+    "pub_date": "2016-12-21T18:31:04+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Basketball",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Benjamin",
+                "rank": 1,
+                "lastname": "HOFFMAN"
+            }
+        ],
+        "original": "By BENJAMIN HOFFMAN"
+    },
+    "type_of_material": "News",
+    "_id": "585aca6c95d0e03926077388",
+    "word_count": "587",
+    "slideshow_credits": null
+}

@@ -1,0 +1,130 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/06/us/politics/hillary-clinton-white-house.html",
+    "snippet": "After a campaign season defined by voter weariness with and distrust of Mrs. Clinton, which old hands might follow her to the White House \u2014 and should they?...",
+    "lead_paragraph": "After a campaign season defined by voter weariness with and distrust of Mrs. Clinton, which old hands might follow her to the White House \u2014 and should they?",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/06/us/politics/ClintonCircle--116/ClintonCircle--116-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/06/us/politics/ClintonCircle--116/ClintonCircle--116-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/06/us/politics/ClintonCircle--116/ClintonCircle--116-articleLarge.jpg",
+            "height": 320,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/06/us/politics/ClintonCircle--116/ClintonCircle--116-articleLarge.jpg",
+                "xlargeheight": "320"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/06/us/politics/ClintonCircle--116/ClintonCircle--116-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/06/us/politics/ClintonCircle--116/ClintonCircle--116-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "If Hillary Clinton Moves to Oval Office, Aides\u2019 Baggage May Be Heavy",
+        "print_headline": "If Clinton Moves to Oval Office, Aides\u2019 Baggage May Be Heavy"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Abedin, Huma"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mills, Cheryl D"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sullivan, Jacob J (1976- )"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Podesta, John D"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Reines, Philippe I"
+        }
+    ],
+    "pub_date": "2016-11-06T01:03:42Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Steve Eder, Amy Chozick and Maggie Haberman contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matt",
+                "rank": 1,
+                "lastname": "FLEGENHEIMER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mark",
+                "rank": 2,
+                "lastname": "LANDLER"
+            }
+        ],
+        "original": "By MATT FLEGENHEIMER and MARK LANDLER"
+    },
+    "type_of_material": "News",
+    "_id": "581e81747c459f6a5fccc77d",
+    "word_count": "1722",
+    "slideshow_credits": null
+}

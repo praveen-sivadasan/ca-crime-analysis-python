@@ -1,0 +1,96 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/30/us/politics/donald-trump-transition.html",
+    "snippet": "The president-elect, who continues to fill his cabinet, will travel to Indiana this week to announce the saving of 1,000 factory jobs....",
+    "lead_paragraph": "The president-elect, who continues to fill his cabinet, will travel to Indiana this week to announce the saving of 1,000 factory jobs.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/30/us/30transitionbriefing3/30transitionbriefing3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/30/us/30transitionbriefing3/30transitionbriefing3-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/30/us/30transitionbriefing3/30transitionbriefing3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/30/us/30transitionbriefing3/30transitionbriefing3-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/30/us/30transitionbriefing3/30transitionbriefing3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/30/us/30transitionbriefing3/30transitionbriefing3-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Sarah Palin for Veterans Affairs? A Wrestling Impresario for Small Business?",
+        "content_kicker": "Transition Briefing",
+        "kicker": "Transition Briefing",
+        "print_headline": "Sarah Palin for Veterans Affairs? A Wrestling Impresario for Small Business?"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        }
+    ],
+    "pub_date": "2016-11-30T13:04:14+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Benjamin",
+                "rank": 1,
+                "lastname": "WEISER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Nick",
+                "rank": 2,
+                "lastname": "CORASANITI"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maggie",
+                "rank": 3,
+                "lastname": "HABERMAN"
+            }
+        ],
+        "original": "By BENJAMIN WEISER, NICK CORASANITI and MAGGIE HABERMAN"
+    },
+    "type_of_material": "News",
+    "_id": "583ece567c459f2525d0f133",
+    "word_count": "2264",
+    "slideshow_credits": null
+}

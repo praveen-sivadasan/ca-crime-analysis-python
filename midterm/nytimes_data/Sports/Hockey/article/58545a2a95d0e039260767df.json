@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/16/sports/hockey/barry-beck-rangers-hong-kong.html",
+    "snippet": "Barry Beck, a former Rangers defenseman, has played a key role in developing the city\u2019s youth hockey culture....",
+    "lead_paragraph": "Barry Beck, a former Rangers defenseman, has played a key role in developing the city\u2019s youth hockey culture.",
+    "abstract": "Former New York Rangers captain Barry Beck has been cultivating Hong Kong's youth hockey culture since moving there in 2007.",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/15/sports/00hkhockey1/00hkhockey1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/15/sports/00hkhockey1/00hkhockey1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/15/sports/00hkhockey1/00hkhockey1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/15/sports/00hkhockey1/00hkhockey1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/15/sports/00hkhockey1/00hkhockey1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/15/sports/00hkhockey1/00hkhockey1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Ex-N.H.L. Enforcer Moves to Hong Kong and Shows His Nurturing Side",
+        "print_headline": "A Rugged Ex-Ranger Moves to Hong Kong and Shows a Nurturing Side"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Beck, Barry (1957- )"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Hockey, Ice"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Hong Kong"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coaches and Managers"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Rangers"
+        }
+    ],
+    "pub_date": "2016-12-16T21:18:28+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Hockey",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mike",
+                "rank": 1,
+                "lastname": "IVES"
+            }
+        ],
+        "original": "By MIKE IVES"
+    },
+    "type_of_material": "News",
+    "_id": "58545a2a95d0e039260767df",
+    "word_count": "1020",
+    "slideshow_credits": null
+}

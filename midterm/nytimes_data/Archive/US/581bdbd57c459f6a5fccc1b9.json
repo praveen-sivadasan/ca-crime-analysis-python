@@ -1,0 +1,86 @@
+{
+    "web_url": "http://www.nytimes.com/interactive/2016/11/03/us/elections/how-states-moved-toward-stricter-voter-id-laws.html",
+    "snippet": "Voters in seven states will be required to show photo identification at the polls this year....",
+    "lead_paragraph": "Voters in seven states will be required to show photo identification at the polls this year.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/03/us/elections/how-states-moved-toward-stricter-voter-id-laws-1478146086685/how-states-moved-toward-stricter-voter-id-laws-1478146086685-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/03/us/elections/how-states-moved-toward-stricter-voter-id-laws-1478146086685/how-states-moved-toward-stricter-voter-id-laws-1478146086685-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/03/us/elections/how-states-moved-toward-stricter-voter-id-laws-1478146086685/how-states-moved-toward-stricter-voter-id-laws-1478146086685-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/03/us/elections/how-states-moved-toward-stricter-voter-id-laws-1478146086685/how-states-moved-toward-stricter-voter-id-laws-1478146086685-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/03/us/elections/how-states-moved-toward-stricter-voter-id-laws-1478146086685/how-states-moved-toward-stricter-voter-id-laws-1478146086685-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/03/us/elections/how-states-moved-toward-stricter-voter-id-laws-1478146086685/how-states-moved-toward-stricter-voter-id-laws-1478146086685-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "How States Moved Toward Stricter Voter ID Laws"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voter Registration and Requirements"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        }
+    ],
+    "pub_date": "2016-11-03T22:41:39Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Election 2016",
+    "section_name": "U.S.",
+    "subsection_name": "Election 2016",
+    "byline": {
+        "person": [
+            {
+                "firstname": "Jasmine",
+                "middlename": "C.",
+                "lastname": "LEE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By JASMINE C. LEE"
+    },
+    "type_of_material": "Interactive Feature",
+    "_id": "581bdbd57c459f6a5fccc1b9",
+    "word_count": null,
+    "slideshow_credits": null
+}

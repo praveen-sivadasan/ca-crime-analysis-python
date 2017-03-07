@@ -1,0 +1,100 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/06/us/politics/donald-trump-rally.html",
+    "snippet": "A man thought to have a gun was apprehended on Saturday night at a Trump rally in Reno, Nev., but no weapon was found, the Secret Service said, and the man was released....",
+    "lead_paragraph": "A man thought to have a gun was apprehended on Saturday night at a Trump rally in Reno, Nev., but no weapon was found, the Secret Service said, and the man was released.",
+    "abstract": "Donald Trump rally in Reno, Nev, is interrupted and candidate is rushed off stage by Secret Service after attendee mistakenly shouted that someone in crowd had gun.",
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/06/us/06FD-rally2/06FD-rally2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/06/us/06FD-rally2/06FD-rally2-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/06/us/06FD-rally2/06FD-rally2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/06/us/06FD-rally2/06FD-rally2-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/06/us/06FD-rally2/06FD-rally2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/06/us/06FD-rally2/06FD-rally2-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Donald Trump Rushed Offstage by Secret Service Agents",
+        "print_headline": "Cry of \u2018Gun\u2019 Prompts Secret Service to Rush Trump Offstage During a Rally in Reno"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Reno (Nev)"
+        }
+    ],
+    "pub_date": "2016-11-06T01:24:53Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Ashley Parker reported from Reno, and Michael Barbaro from New York. Nick Corasaniti contributed reporting from New York, and Michael S. Schmidt from Washington.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Ashley",
+                "rank": 1,
+                "lastname": "PARKER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 2,
+                "lastname": "BARBARO"
+            }
+        ],
+        "original": "By ASHLEY PARKER and MICHAEL BARBARO"
+    },
+    "type_of_material": "News",
+    "_id": "581e86687c459f6a5fccc784",
+    "word_count": "495",
+    "slideshow_credits": null
+}

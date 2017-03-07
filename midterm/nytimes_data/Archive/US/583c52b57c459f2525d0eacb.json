@@ -1,0 +1,88 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/28/us/active-shooter-ohio-state-university.html",
+    "snippet": "A man veered his car onto the sidewalk at the campus, leaped out, and stabbed several people with a butcher knife, law enforcement officials said....",
+    "lead_paragraph": "A man veered his car onto the sidewalk at the campus, leaped out, and stabbed several people with a butcher knife, law enforcement officials said.",
+    "abstract": "Authorities say Ohio State student Abdul Artan was fatally shot by university Police Officer Alan Horujko after he rammed his car into pedestrians and started attacking passers-by with butcher knife; attack leaves 11 students, faculty and staff members injured; investigators are working to determine whether attack was act of terrorism.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Suspect Is Killed in Attack at Ohio State University That Injured 11",
+        "print_headline": "11 Are Injured in a Rampage at Ohio State"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Ohio State University"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Artan, Abdul Razak Ali (d 2016)"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "School Shootings and Armed Attacks"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Horujko, Alan R (1988- )"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Columbus (Ohio)"
+        }
+    ],
+    "pub_date": "2016-11-28T15:52:12+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Reporting was contributed by Travis Hoewischer, Alan Blinder, Jess Bidgood, Camilla Schick, Michael Huson, Rukmini Callimachi and Julia Preston.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mitch",
+                "rank": 1,
+                "lastname": "SMITH"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 2,
+                "lastname": "P\u00c9REZ-PE\u00d1A"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 3,
+                "lastname": "GOLDMAN"
+            }
+        ],
+        "original": "By MITCH SMITH, RICHARD P\u00c9REZ-PE\u00d1A and ADAM GOLDMAN"
+    },
+    "type_of_material": "News",
+    "_id": "583c52b57c459f2525d0eacb",
+    "word_count": "1352",
+    "slideshow_credits": null
+}

@@ -1,0 +1,136 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/27/us/cities-vow-to-fight-trump-on-immigration-even-if-they-lose-millions.html",
+    "snippet": "Officials in what are known as sanctuary cities say they will act as a bulwark against mass deportations, even at the risk of losing federal money for local services....",
+    "lead_paragraph": "Officials in what are known as sanctuary cities say they will act as a bulwark against mass deportations, even at the risk of losing federal money for local services.",
+    "abstract": "Mayors of New York, Los Angeles and other so-called sanctuary cities risk losing millions in federal funds by refusing to cooperate locally with Pres-elect Donald J Trump's proposal to deport millions of illegal immigrants; supporters of crackdown on undocumented immigrants expect Trump to make all-out effort to discourage such interference with federal agencies by local law enforcement officials.",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/23/us/00SANCTUARY1/23KANE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/23/us/00SANCTUARY1/23KANE1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/23/us/00SANCTUARY1/23KANE1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/23/us/00SANCTUARY1/23KANE1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/23/us/00SANCTUARY1/23KANE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/23/us/00SANCTUARY1/23KANE1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Cities Vow to Fight Trump on Immigration, Even if They Lose Millions",
+        "print_headline": "Cities Vow to Fight Trump on Immigration, Even at a Steep Cost"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Illegal Immigration"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mayors"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Los Angeles (Calif)"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Local Government"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        }
+    ],
+    "pub_date": "2016-11-28T00:25:35+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Jennifer Medina reported from Los Angeles, and Jess Bidgood from Boston. Laurie Goodstein and Julia Preston contributed reporting from New York.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jennifer",
+                "rank": 1,
+                "lastname": "MEDINA"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jess",
+                "rank": 2,
+                "lastname": "BIDGOOD"
+            }
+        ],
+        "original": "By JENNIFER MEDINA and JESS BIDGOOD"
+    },
+    "type_of_material": "News",
+    "_id": "583b79877c459f2525d0e936",
+    "word_count": "1536",
+    "slideshow_credits": null
+}

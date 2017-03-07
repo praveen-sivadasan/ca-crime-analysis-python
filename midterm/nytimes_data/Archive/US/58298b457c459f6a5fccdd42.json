@@ -1,0 +1,122 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/15/us/politics/democrats-economy.html",
+    "snippet": "After losing the presidency, Congress and lower-level races, the party is divided over how aggressively to position itself on the economic left....",
+    "lead_paragraph": "After losing the presidency, Congress and lower-level races, the party is divided over how aggressively to position itself on the economic left.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/15/us/15dems1/14dems1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/15/us/15dems1/14dems1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/15/us/15dems1/14dems1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/15/us/15dems1/14dems1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/15/us/15dems1/14dems1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/15/us/15dems1/14dems1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Pulling Democrats Back to \u2018It\u2019s the Economy, Stupid\u2019",
+        "print_headline": "Stunned Democrats Split Over How Hard to Push \u2018the Economy, Stupid\u2019"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2020"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, Governors"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sanders, Bernard"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Warren, Elizabeth"
+        }
+    ],
+    "pub_date": "2016-11-14T10:00:29Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jonathan",
+                "rank": 1,
+                "lastname": "MARTIN"
+            }
+        ],
+        "original": "By JONATHAN MARTIN"
+    },
+    "type_of_material": "News",
+    "_id": "58298b457c459f6a5fccdd42",
+    "word_count": "1524",
+    "slideshow_credits": null
+}

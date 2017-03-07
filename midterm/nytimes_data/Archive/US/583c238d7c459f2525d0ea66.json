@@ -1,0 +1,111 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/28/us/venus-flytraps-poaching-north-carolina.html",
+    "snippet": "North Carolina is more aggressively protecting the plants, which grow in the wild only in a 75-mile radius near Wilmington, as fears of extinction increase....",
+    "lead_paragraph": "North Carolina is more aggressively protecting the plants, which grow in the wild only in a 75-mile radius near Wilmington, as fears of extinction increase.",
+    "abstract": "Poachers have taken to stealing protected Venus flytraps from wilderness and gardens around North Carolina, driven by public fascination with, and demand, for carnivorous plant.",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/00xp-flytraps_web1/00xp-flytraps_web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/00xp-flytraps_web1/00xp-flytraps_web1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/00xp-flytraps_web1/00xp-flytraps_web1-articleLarge.jpg",
+            "height": 406,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/00xp-flytraps_web1/00xp-flytraps_web1-articleLarge.jpg",
+                "xlargeheight": "406"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/00xp-flytraps_web1/00xp-flytraps_web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/00xp-flytraps_web1/00xp-flytraps_web1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Venus Flytraps Need Protection From Poachers in North Carolina",
+        "print_headline": "Poaching: A Damaging Fascination With the Venus Flytrap"
+    },
+    "keywords": [
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Flowers and Plants"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Endangered and Extinct Species"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Poaching (Wildlife)"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Black Markets"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Wilmington (NC)"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "North Carolina"
+        }
+    ],
+    "pub_date": "2016-11-28T12:31:05+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Doris Burke contributed research.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christopher",
+                "rank": 1,
+                "lastname": "MELE"
+            }
+        ],
+        "original": "By CHRISTOPHER MELE"
+    },
+    "type_of_material": "News",
+    "_id": "583c238d7c459f2525d0ea66",
+    "word_count": "1171",
+    "slideshow_credits": null
+}

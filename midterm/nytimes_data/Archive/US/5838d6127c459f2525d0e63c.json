@@ -1,0 +1,110 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/25/us/cliff-barrows-billy-grahams-longtime-musical-director-dies-at-93.html",
+    "snippet": "Mr. Barrows and Mr. Graham met by chance in 1945 and began a professional association that lasted more than 70 years....",
+    "lead_paragraph": "Mr. Barrows and Mr. Graham met by chance in 1945 and began a professional association that lasted more than 70 years.",
+    "abstract": "Cliff Barrows, whose career managing vocal talent and programs for Rev Billy Graham lasted more than seven decades, dies at age 93.",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/27/us/27barrows-obit/26barrows-obit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/27/us/27barrows-obit/26barrows-obit-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/27/us/27barrows-obit/26barrows-obit-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/27/us/27barrows-obit/26barrows-obit-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/27/us/27barrows-obit/26barrows-obit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/27/us/27barrows-obit/26barrows-obit-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Cliff Barrows, Billy Graham\u2019s Longtime Musical Director, Dies at 93",
+        "print_headline": "Cliff Barrows, a Billy Graham Mainstay as Crusades\u2019 Musical Leader, Dies at 93"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Barrows, Cliff (1923-2016)"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gospel Music"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Graham, Billy"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Graham, Billy, Evangelistic Assn"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Shea, George Beverly (1909-2013)"
+        }
+    ],
+    "pub_date": "2016-11-26T00:23:42+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sam",
+                "rank": 1,
+                "lastname": "ROBERTS"
+            }
+        ],
+        "original": "By SAM ROBERTS"
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "5838d6127c459f2525d0e63c",
+    "word_count": "962",
+    "slideshow_credits": null
+}

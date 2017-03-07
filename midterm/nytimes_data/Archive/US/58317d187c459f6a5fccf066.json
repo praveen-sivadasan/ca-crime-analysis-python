@@ -1,0 +1,99 @@
+{
+    "web_url": "http://www.nytimes.com/video/us/100000004701344/goat-yoga.html",
+    "snippet": "Yoga classes in Oregon are involving unlikely participants....",
+    "lead_paragraph": "Yoga classes in Oregon are involving unlikely participants.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/18/us/360-goatyoga1/360-goatyoga1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/18/us/360-goatyoga1/360-goatyoga1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/18/us/360-goatyoga1/360-goatyoga1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/18/us/360-goatyoga1/360-goatyoga1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/18/us/360-goatyoga1/360-goatyoga1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/18/us/360-goatyoga1/360-goatyoga1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Goat Yoga"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Yoga"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Goats"
+        }
+    ],
+    "pub_date": "2016-11-20T10:38:10+0000",
+    "document_type": "multimedia",
+    "news_desk": "U.S.",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jason",
+                "rank": 1,
+                "lastname": "HENRY"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kaitlyn",
+                "rank": 2,
+                "lastname": "MULLIN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maureen",
+                "rank": 3,
+                "lastname": "TOWEY"
+            }
+        ],
+        "original": "By JASON HENRY, KAITLYN MULLIN and MAUREEN TOWEY"
+    },
+    "type_of_material": null,
+    "_id": "58317d187c459f6a5fccf066",
+    "word_count": "8",
+    "slideshow_credits": null
+}

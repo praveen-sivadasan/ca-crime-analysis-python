@@ -1,0 +1,61 @@
+{
+    "web_url": "http://www.nytimes.com/slideshow/2016/11/04/us/politics/on-the-trail-friday-nov-4.html",
+    "snippet": "Donald J. Trump campaigned in New Hampshire, North Carolina and Pennsylvania while Hillary Clinton campaigned in Detroit and Pennsylvania before holding a concert with Beyonce and JAY Z in Cleveland....",
+    "lead_paragraph": "Donald J. Trump campaigned in New Hampshire, North Carolina and Pennsylvania while Hillary Clinton campaigned in Detroit and Pennsylvania before holding a concert with Beyonce and JAY Z in Cleveland.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/04/us/politics/04poldaily-slide-YD7P/04poldaily-slide-YD7P-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/04/us/politics/04poldaily-slide-YD7P/04poldaily-slide-YD7P-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/04/us/politics/04poldaily-slide-YD7P/04poldaily-slide-YD7P-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/04/us/politics/04poldaily-slide-YD7P/04poldaily-slide-YD7P-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/04/us/politics/04poldaily-slide-YD7P/04poldaily-slide-YD7P-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/04/us/politics/04poldaily-slide-YD7P/04poldaily-slide-YD7P-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "On the Trail: Friday, Nov. 4"
+    },
+    "keywords": [],
+    "pub_date": "2016-11-05T03:20:52Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Politics",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": [],
+    "type_of_material": "Slideshow",
+    "_id": "581d501a7c459f6a5fccc613",
+    "word_count": "30",
+    "slideshow_credits": "Damon Winter/The New York Times"
+}

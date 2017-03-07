@@ -1,0 +1,87 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/10/us/politics/donald-trump-presidential-agenda.html",
+    "snippet": "If President-elect Donald J. Trump\u2019s campaign promises become reality, the United States may undergo a fundamental change in direction....",
+    "lead_paragraph": "If President-elect Donald J. Trump\u2019s campaign promises become reality, the United States may undergo a fundamental change in direction.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/10/us/10agenda1/10agenda1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/10/us/10agenda1/10agenda1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/10/us/10agenda1/10agenda1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/10/us/10agenda1/10agenda1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/10/us/10agenda1/10agenda1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/10/us/10agenda1/10agenda1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "\u2018Strange New Land\u2019: America in a Time of Trump",
+        "content_kicker": "News Analysis"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        }
+    ],
+    "pub_date": "2016-11-09T15:22:50Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "E.",
+                "lastname": "SANGER",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By DAVID E. SANGER"
+    },
+    "type_of_material": "News Analysis",
+    "_id": "58233f517c459f6a5fccd12b",
+    "word_count": "1561",
+    "slideshow_credits": null
+}

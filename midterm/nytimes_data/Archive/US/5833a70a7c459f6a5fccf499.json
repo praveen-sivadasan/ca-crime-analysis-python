@@ -1,0 +1,99 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/21/us/politics/donald-trump-conflict-of-interest.html",
+    "snippet": "If Mr. Trump continues, once inaugurated, to profit from transactions with companies controlled by foreign governments, he may run afoul of the Emoluments Clause....",
+    "lead_paragraph": "If Mr. Trump continues, once inaugurated, to profit from transactions with companies controlled by foreign governments, he may run afoul of the Emoluments Clause.",
+    "abstract": "Emoluments Clause of Constitution poses risks for Pres-elect Donald Trump should he persist in attempting to gain benefits from companies controlled by foreign governments; experts in legal ethics say number of arrangements between Trump's companies and foreign state-backed entities could easily run afoul of clause.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/22/us/22legal-2/22legal-2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/22/us/22legal-2/22legal-2-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/22/us/22legal-2/22legal-2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/22/us/22legal-2/22legal-2-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/22/us/22legal-2/22legal-2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/22/us/22legal-2/22legal-2-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Donald Trump\u2019s Business Dealings Test a Constitutional Limit",
+        "print_headline": "Trump\u2019s Foreign Business Deals  May Test a Constitutional Limit"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Conflicts of Interest"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidents and Presidency (US)"
+        }
+    ],
+    "pub_date": "2016-11-22T02:01:40+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Eric Lipton contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "LIPTAK"
+            }
+        ],
+        "original": "By ADAM LIPTAK"
+    },
+    "type_of_material": "News",
+    "_id": "5833a70a7c459f6a5fccf499",
+    "word_count": "1152",
+    "slideshow_credits": null
+}

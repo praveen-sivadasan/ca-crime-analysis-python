@@ -1,0 +1,98 @@
+{
+    "web_url": "http://www.nytimes.com/interactive/2016/11/29/us/trump-unauthorized-immigrants.html",
+    "snippet": "Sorting through the confusing sets of numbers in Trump\u2019s deportation plan....",
+    "lead_paragraph": "Sorting through the confusing sets of numbers in Trump\u2019s deportation plan.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/23/us/trump-unauthorized-immigrants-1480353185652/trump-unauthorized-immigrants-1480353185652-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/23/us/trump-unauthorized-immigrants-1480353185652/trump-unauthorized-immigrants-1480353185652-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/23/us/trump-unauthorized-immigrants-1480353185652/trump-unauthorized-immigrants-1480353185652-articleLarge.jpg",
+            "height": 493,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/23/us/trump-unauthorized-immigrants-1480353185652/trump-unauthorized-immigrants-1480353185652-articleLarge.jpg",
+                "xlargeheight": "493"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/23/us/trump-unauthorized-immigrants-1480353185652/trump-unauthorized-immigrants-1480353185652-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/23/us/trump-unauthorized-immigrants-1480353185652/trump-unauthorized-immigrants-1480353185652-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Could Trump Really Deport Millions of Unauthorized Immigrants?"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Illegal Immigration"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deportation"
+        }
+    ],
+    "pub_date": "2016-11-29T10:22:47+0000",
+    "document_type": "multimedia",
+    "news_desk": "U.S.",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Haeyoun",
+                "rank": 1,
+                "lastname": "PARK"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Troy",
+                "rank": 2,
+                "lastname": "GRIGGS"
+            }
+        ],
+        "original": "By HAEYOUN PARK and TROY GRIGGS"
+    },
+    "type_of_material": "Interactive Feature",
+    "_id": "583d56fd7c459f2525d0ed33",
+    "word_count": null,
+    "slideshow_credits": null
+}

@@ -1,0 +1,130 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/22/us/politics/democrats-leadership-fight-pits-west-wing-against-left-wing.html",
+    "snippet": "Representative Keith Ellison of Minnesota has been steadily adding endorsements, but some advisers to President Obama are urging others to enter the race....",
+    "lead_paragraph": "Representative Keith Ellison of Minnesota has been steadily adding endorsements, but some advisers to President Obama are urging others to enter the race.",
+    "abstract": "Conflict has broken out in Democratic Party over push to make Rep Keith Ellison chairman of Democratic National Committee; prominent Democrats Elizabeth Warren. Bernie Sanders and Senate Democratic leader Chuck Schumer support move as means of reviving party, while some Pres Obama loyalists are uncomfortable with Ellison's progressive positions.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/23/us/23DEMOCRATS1/23JPDEMOCRATS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/23/us/23DEMOCRATS1/23JPDEMOCRATS1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/23/us/23DEMOCRATS1/23JPDEMOCRATS1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/23/us/23DEMOCRATS1/23JPDEMOCRATS1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/23/us/23DEMOCRATS1/23JPDEMOCRATS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/23/us/23DEMOCRATS1/23JPDEMOCRATS1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Democrats\u2019 Leadership Fight Pits West Wing Against Left Wing",
+        "print_headline": "Democrats\u2019 Leadership Fight Pits West Wing vs. Left Wing"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Democratic National Committee"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Ellison, Keith"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sanders, Bernard"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Warren, Elizabeth"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Schumer, Charles E"
+        }
+    ],
+    "pub_date": "2016-11-23T02:09:05+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Jonathan Martin reported from Washington, and Maggie Haberman from New York.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jonathan",
+                "rank": 1,
+                "lastname": "MARTIN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maggie",
+                "rank": 2,
+                "lastname": "HABERMAN"
+            }
+        ],
+        "original": "By JONATHAN MARTIN and MAGGIE HABERMAN"
+    },
+    "type_of_material": "News",
+    "_id": "5834fa497c459f6a5fccf7fa",
+    "word_count": "1140",
+    "slideshow_credits": null
+}

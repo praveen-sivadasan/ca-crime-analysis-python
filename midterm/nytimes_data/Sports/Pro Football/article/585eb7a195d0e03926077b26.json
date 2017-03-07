@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/24/sports/football/nfl-schedule-predictions-point-spread-.html",
+    "snippet": "Just two games are on the schedule, but both are crucial divisional contests, with the Steelers playing the Ravens and the Chiefs meeting the Broncos....",
+    "lead_paragraph": "Just two games are on the schedule, but both are crucial divisional contests, with the Steelers playing the Ravens and the Chiefs meeting the Broncos.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/25/sports/25MATCHUPS/25MATCHUPS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/25/sports/25MATCHUPS/25MATCHUPS-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/25/sports/25MATCHUPS/25MATCHUPS-articleLarge.jpg",
+            "height": 416,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/25/sports/25MATCHUPS/25MATCHUPS-articleLarge.jpg",
+                "xlargeheight": "416"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/25/sports/25MATCHUPS/25MATCHUPS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/25/sports/25MATCHUPS/25MATCHUPS-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Sunday\u2019s N.F.L. Matchups: Who We Think Will Win",
+        "print_headline": "Divisional Rivalries Wrap Up the Weekend"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Football"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Baltimore Ravens"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pittsburgh Steelers"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Denver Broncos"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Kansas City Chiefs"
+        }
+    ],
+    "pub_date": "2016-12-24T17:59:55+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Football",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "David",
+                "rank": 1,
+                "lastname": "WHITE"
+            }
+        ],
+        "original": "By DAVID WHITE"
+    },
+    "type_of_material": "News",
+    "_id": "585eb7a195d0e03926077b26",
+    "word_count": "273",
+    "slideshow_credits": null
+}

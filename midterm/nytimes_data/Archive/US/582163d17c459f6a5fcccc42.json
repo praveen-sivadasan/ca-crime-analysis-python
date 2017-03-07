@@ -1,0 +1,98 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/08/us/politics/presidential-campaigns-coping-defeat.html",
+    "snippet": "Donald J. Trump or Hillary Clinton will join a select group that knows the sting of a failed national bid. Bob Dole and other former candidates explained the feeling....",
+    "lead_paragraph": "Donald J. Trump or Hillary Clinton will join a select group that knows the sting of a failed national bid. Bob Dole and other former candidates explained the feeling.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/08/us/08loss-1/08loss-web01-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/08/us/08loss-1/08loss-web01-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/08/us/08loss-1/08loss-web01-articleLarge.jpg",
+            "height": 403,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/08/us/08loss-1/08loss-web01-articleLarge.jpg",
+                "xlargeheight": "403"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/08/us/08loss-1/08loss-web01-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/08/us/08loss-1/08loss-web01-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "A Presidential Campaign\u2019s Toughest Challenge: Coping With Defeat",
+        "print_headline": "Long Race Culminates With Its Toughest Challenge: Coping With Defeat"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dole, Bob"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lazio, Rick A"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Romney, Mitt"
+        }
+    ],
+    "pub_date": "2016-11-08T00:52:14Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maggie",
+                "rank": 1,
+                "lastname": "HABERMAN"
+            }
+        ],
+        "original": "By MAGGIE HABERMAN"
+    },
+    "type_of_material": "News",
+    "_id": "582163d17c459f6a5fcccc42",
+    "word_count": "1092",
+    "slideshow_credits": null
+}

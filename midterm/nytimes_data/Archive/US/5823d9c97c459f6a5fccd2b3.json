@@ -1,0 +1,130 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/10/us/politics/donald-trump-voters.html",
+    "snippet": "Millions of people who had once flocked to President Obama\u2019s promise of hope and change saw in Mr. Trump their best chance to be heard and protected....",
+    "lead_paragraph": "Millions of people who had once flocked to President Obama\u2019s promise of hope and change saw in Mr. Trump their best chance to be heard and protected.",
+    "abstract": "Coalition of white voters Donald Trump assembled in order to win presidential election is unlike any other marshaled by previous Republican candidates; standard Republican coalition was bolstered by millions of voters in Upper and Lower Midwest, onetime bastions of liberal populism, along with bloc that had once voted for Pres Obama.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/10/us/10electorate-jp/10electorate-jp-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/10/us/10electorate-jp/10electorate-jp-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/10/us/10electorate-jp/10electorate-jp-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/10/us/10electorate-jp/10electorate-jp-articleLarge.jpg",
+                "xlargeheight": "401"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/10/us/10electorate-jp/10electorate-jp-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/10/us/10electorate-jp/10electorate-jp-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Donald Trump\u2019s Victory Was Built on Unique Coalition of White Voters",
+        "print_headline": "White Voters in Broad Bloc Shaped Upset"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Whites"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Race and Ethnicity"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "States (US)"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Midwestern States (US)"
+        }
+    ],
+    "pub_date": "2016-11-10T02:21:50Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Alan Blinder, Jess Bidgood and Frances Robles contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Nicholas",
+                "rank": 1,
+                "lastname": "CONFESSORE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Nate",
+                "rank": 2,
+                "lastname": "COHN"
+            }
+        ],
+        "original": "By NICHOLAS CONFESSORE and NATE COHN"
+    },
+    "type_of_material": "News",
+    "_id": "5823d9c97c459f6a5fccd2b3",
+    "word_count": "1293",
+    "slideshow_credits": null
+}

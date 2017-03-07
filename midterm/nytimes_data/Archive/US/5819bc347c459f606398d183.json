@@ -1,0 +1,132 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/03/us/police-iowa-ambush-killed.html",
+    "snippet": "The officers were shot early Wednesday in Des Moines and in Urbandale. A suspect, described as a troubled loner familiar to the police, soon surrendered....",
+    "lead_paragraph": "The officers were shot early Wednesday in Des Moines and in Urbandale. A suspect, described as a troubled loner familiar to the police, soon surrendered.",
+    "abstract": "Scott M Greene peacefully surrenders to Des Moines area authorities after fatally shooting Police Officers Anthony Beminio and Justin Martin in their patrol cars; local residents and officials express surprise at scale of Greene's violence despite being aware of his extensive history of criminal activity and personal troubles; shootings are latest in number of killings of law enforcement officers, trend that has intensified election-year debates about relations between communities and police.",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/03/us/03iowa-cops/03iowa-cops-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/03/us/03iowa-cops/03iowa-cops-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/03/us/03iowa-cops/03iowa-cops-articleLarge.jpg",
+            "height": 426,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/03/us/03iowa-cops/03iowa-cops-articleLarge.jpg",
+                "xlargeheight": "426"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/03/us/03iowa-cops/03iowa-cops-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/03/us/03iowa-cops/03iowa-cops-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Iowa Police Arrest Suspect in \u2018Ambush\u2019 Killings of 2 Officers",
+        "print_headline": "Iowa Man Surrenders After Two Police Officers Are Ambushed Overnight"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Attacks on Police"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Des Moines (Iowa)"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Urbandale (Iowa)"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Greene, Scott Michael (1970- )"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Beminio, Anthony D (1977-2016)"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Martin, Justin (1992-2016)"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+        }
+    ],
+    "pub_date": "2016-11-02T10:13:05Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Mitch Smith reported from Des Moines, and Richard P\u00e9rez-Pe\u00f1a and Jonah Engel Bromwich from New York. Reporting was contributed by Ann Hinga Klein from Urbandale, Iowa, and Des Moines, Sewell Chan from London, Erin McCann and Susan Beachy from New York, and David Philipps from Colorado Springs.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mitch",
+                "rank": 1,
+                "lastname": "SMITH"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 2,
+                "lastname": "P\u00c9REZ-PE\u00d1A"
+            },
+            {
+                "firstname": "Jonah",
+                "middlename": "Engel",
+                "lastname": "BROMWICH",
+                "rank": 3,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MITCH SMITH, RICHARD P\u00c9REZ-PE\u00d1A and JONAH ENGEL BROMWICH"
+    },
+    "type_of_material": "News",
+    "_id": "5819bc347c459f606398d183",
+    "word_count": "1393",
+    "slideshow_credits": null
+}

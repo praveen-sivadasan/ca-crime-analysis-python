@@ -1,0 +1,130 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/15/us/politics/donald-trump-transition.html",
+    "snippet": "The jockeying for positions in the Trump administration is exposing frayed nerves and lingering anger....",
+    "lead_paragraph": "The jockeying for positions in the Trump administration is exposing frayed nerves and lingering anger.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/15/us/15transitionbriefing4/15transitionbriefing4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/15/us/15transitionbriefing4/15transitionbriefing4-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/15/us/15transitionbriefing4/15transitionbriefing4-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/15/us/15transitionbriefing4/15transitionbriefing4-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/15/us/15transitionbriefing4/15transitionbriefing4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/15/us/15transitionbriefing4/15transitionbriefing4-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Transition Nominates No One \u2014 But Does Name Inaugural Committee"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Homeland Security Department"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "House of Representatives"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Senate"
+        }
+    ],
+    "pub_date": "2016-11-15T10:00:20Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jason",
+                "rank": 1,
+                "lastname": "HOROWITZ"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Helene",
+                "rank": 2,
+                "lastname": "COOPER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jennifer",
+                "rank": 3,
+                "lastname": "STEINHAUER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 4,
+                "lastname": "GOLDMAN"
+            }
+        ],
+        "original": "By JASON HOROWITZ, HELENE COOPER, JENNIFER STEINHAUER and ADAM GOLDMAN"
+    },
+    "type_of_material": "News",
+    "_id": "582adcba7c459f6a5fcce08b",
+    "word_count": "2006",
+    "slideshow_credits": null
+}

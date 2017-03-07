@@ -1,0 +1,122 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/05/us/immigrants-obama-election-fear-leniency.html",
+    "snippet": "Two families who came to the United States illegally show the enormous risks and weight of unanswered questions in divergent paths toward asylum....",
+    "lead_paragraph": "Two families who came to the United States illegally show the enormous risks and weight of unanswered questions in divergent paths toward asylum.",
+    "abstract": "Already uncertain legal status of around 24,000 immigrants who have accepted offer from United States government to put their deportation cases on hold has become even more anxiety-provoking for them, and their families, in wake of Donald Trump's presidential victory; uncertainty reflects  chronic enforcement problem given absence of new immigration laws that could offer protection to some undocumented immigrants.",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/05/us/05immig-limbo1/00immig-limbo1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/05/us/05immig-limbo1/00immig-limbo1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/05/us/05immig-limbo1/00immig-limbo1-articleLarge.jpg",
+            "height": 429,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/05/us/05immig-limbo1/00immig-limbo1-articleLarge.jpg",
+                "xlargeheight": "429"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/05/us/05immig-limbo1/00immig-limbo1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/05/us/05immig-limbo1/00immig-limbo1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Immigrants Living \u2018On Pause\u2019 Fear Obama\u2019s Leniency Will Not Outlast Election",
+        "print_headline": "An Immigration Status Grows More Uncertain"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Illegal Immigration"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deferred Action for Childhood Arrivals"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deportation"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Asylum, Right of"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        }
+    ],
+    "pub_date": "2016-11-04T18:34:02Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Caitlin",
+                "rank": 1,
+                "lastname": "DICKERSON"
+            }
+        ],
+        "original": "By CAITLIN DICKERSON"
+    },
+    "type_of_material": "News",
+    "_id": "581cd49e7c459f6a5fccc4f8",
+    "word_count": "1182",
+    "slideshow_credits": null
+}

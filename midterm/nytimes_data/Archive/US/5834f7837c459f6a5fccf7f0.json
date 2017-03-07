@@ -1,0 +1,116 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/22/us/politics/obama-commutations-criminal-justice-trump.html",
+    "snippet": "Mr. Obama is on pace to be the first president since Lyndon B. Johnson to leave office with a federal prison population smaller than the one he inherited....",
+    "lead_paragraph": "Mr. Obama is on pace to be the first president since Lyndon B. Johnson to leave office with a federal prison population smaller than the one he inherited.",
+    "abstract": "Pres Obama grants clemency to 79 federal prisoners, bringing his total to over 1,000 inmates and putting him on track to be first president in half century to leave office with smaller federal prison population than when he began term; most of those pardoned are inmates serving long prison sentences imposed during war on drugs; Sen Jeff Sessions, Donald Trump's nominee for attorney general, strongly opposes Obama's liberal approach to criminal justice and may seek to reverse his policies.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/23/us/23commutations1/23commutations1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/23/us/23commutations1/23commutations1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/23/us/23commutations1/23commutations1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/23/us/23commutations1/23commutations1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/23/us/23commutations1/23commutations1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/23/us/23commutations1/23commutations1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "After Obama Push for Clemency, Hints of Reversal Likely to Come",
+        "print_headline": "After Obama Push for Clemency, Hints of Reversal Likely to Come"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sentences (Criminal)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mandatory Sentencing"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Drug Abuse and Traffic"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sessions, Jefferson B III"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Amnesties, Commutations and Pardons"
+        }
+    ],
+    "pub_date": "2016-11-23T01:57:11+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matt",
+                "rank": 1,
+                "lastname": "APUZZO"
+            }
+        ],
+        "original": "By MATT APUZZO"
+    },
+    "type_of_material": "News",
+    "_id": "5834f7837c459f6a5fccf7f0",
+    "word_count": "980",
+    "slideshow_credits": null
+}

@@ -1,0 +1,116 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/11/us/politics/trump-victory-alarms-gay-and-transgender-groups.html",
+    "snippet": "The president-elect has shown no history of personal animus toward gay people, but the Republican platform and his running mate both oppose gay rights....",
+    "lead_paragraph": "The president-elect has shown no history of personal animus toward gay people, but the Republican platform and his running mate both oppose gay rights.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/10/us/00xp-lbgttrump/00xp-lbgttrump-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/10/us/00xp-lbgttrump/00xp-lbgttrump-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/10/us/00xp-lbgttrump/00xp-lbgttrump-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/10/us/00xp-lbgttrump/00xp-lbgttrump-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/10/us/00xp-lbgttrump/00xp-lbgttrump-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/10/us/00xp-lbgttrump/00xp-lbgttrump-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Victory Alarms Gay and Transgender Groups",
+        "print_headline": "Trump Win Seen as \u2018Devastating Loss\u2019 for Gay and Transgender People"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Discrimination"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Transgender and Transsexuals"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Human Rights Campaign"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pence, Mike"
+        }
+    ],
+    "pub_date": "2016-11-10T16:47:09Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Liam",
+                "rank": 1,
+                "lastname": "STACK"
+            }
+        ],
+        "original": "By LIAM STACK"
+    },
+    "type_of_material": "News",
+    "_id": "5824a4927c459f6a5fccd47b",
+    "word_count": "903",
+    "slideshow_credits": null
+}

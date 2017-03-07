@@ -1,0 +1,105 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/12/us/politics/minorities-worry-what-a-law-and-order-donald-trump-presidency-will-mean.html",
+    "snippet": "His election was seen by many as a repudiation of the Black Lives Matter and similar protests and left questions about what policing would look like under him....",
+    "lead_paragraph": "His election was seen by many as a repudiation of the Black Lives Matter and similar protests and left questions about what policing would look like under him.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Minorities Worry What a \u2018Law and Order\u2019 Donald Trump Presidency Will Mean",
+        "print_headline": "Minorities Worry What a \u2018Law and Order\u2019 Trump Presidency Will Mean"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Racial Profiling"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Justice Department"
+        }
+    ],
+    "pub_date": "2016-11-11T22:25:23Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "John Surico contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Yamiche",
+                "rank": 1,
+                "lastname": "ALCINDOR"
+            }
+        ],
+        "original": "By YAMICHE ALCINDOR"
+    },
+    "type_of_material": "News",
+    "_id": "5826455c7c459f6a5fccd8e0",
+    "word_count": "1370",
+    "slideshow_credits": null
+}

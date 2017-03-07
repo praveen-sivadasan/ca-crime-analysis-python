@@ -1,0 +1,117 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/20/us/immigrants-donald-trump-daca.html",
+    "snippet": "Immigrants protected under President Obama\u2019s DACA program worry about losing the progress they have made and being forced back underground or even deported....",
+    "lead_paragraph": "Immigrants protected under President Obama\u2019s DACA program worry about losing the progress they have made and being forced back underground or even deported.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/19/us/19DACA1/19DACA1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/19/us/19DACA1/19DACA1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/19/us/19DACA1/19DACA1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/19/us/19DACA1/19DACA1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/19/us/19DACA1/19DACA1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/19/us/19DACA1/19DACA1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Immigrants Who Came to U.S. as Children Fear Deportation Under Trump",
+        "print_headline": "Young Immigrants Fear Deportation by Trump"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deferred Action for Childhood Arrivals"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Citizenship and Immigration Services (US)"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Mexico"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Illegal Immigration"
+        }
+    ],
+    "pub_date": "2016-11-19T21:28:54Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Julia",
+                "rank": 1,
+                "lastname": "PRESTON"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jennifer",
+                "rank": 2,
+                "lastname": "MEDINA"
+            }
+        ],
+        "original": "By JULIA PRESTON and JENNIFER MEDINA"
+    },
+    "type_of_material": "News",
+    "_id": "5830c41b7c459f6a5fccef9f",
+    "word_count": "1324",
+    "slideshow_credits": null
+}

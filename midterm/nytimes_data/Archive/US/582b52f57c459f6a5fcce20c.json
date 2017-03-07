@@ -1,0 +1,91 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/15/us/exit-poll-oversimplification-working-class-rural-millennials.html",
+    "snippet": "What\u2019s being missed with generalizations about the working class, millennials, rural voters, and Southerners....",
+    "lead_paragraph": "What\u2019s being missed with generalizations about the working class, millennials, rural voters, and Southerners.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Exit Poll Oversimplification"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Polls and Public Opinion"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Statistics"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Millennial Generation"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Rural Areas"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Southern States (US)"
+        }
+    ],
+    "pub_date": "2016-11-15T18:24:48Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Saleem",
+                "rank": 1,
+                "lastname": "RESHAMWALA"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Giovanni",
+                "rank": 2,
+                "lastname": "RUSSONELLO"
+            }
+        ],
+        "original": "By SALEEM RESHAMWALA and GIOVANNI RUSSONELLO"
+    },
+    "type_of_material": "News",
+    "_id": "582b52f57c459f6a5fcce20c",
+    "word_count": "195",
+    "slideshow_credits": null
+}

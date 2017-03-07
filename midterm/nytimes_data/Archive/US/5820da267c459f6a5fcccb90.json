@@ -1,0 +1,65 @@
+{
+    "web_url": "http://www.nytimes.com/video/us/politics/100000004753735/trump-campaigns-in-north-carolina.html",
+    "snippet": "Donald J. Trump is holding a campaign rally in Raleigh the day before Election Day....",
+    "lead_paragraph": "Donald J. Trump is holding a campaign rally in Raleigh the day before Election Day.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/08/us/08trump-live/08trump-live-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/08/us/08trump-live/08trump-live-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/08/us/08trump-live/08trump-live-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/08/us/08trump-live/08trump-live-articleLarge-v2.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/08/us/08trump-live/08trump-live-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/08/us/08trump-live/08trump-live-thumbStandard-v3.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Campaigns in North Carolina"
+    },
+    "keywords": [],
+    "pub_date": "2016-11-07T19:46:26+0000",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Politics",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [],
+        "original": "By THE NEW YORK TIMES",
+        "organization": "The New York Times"
+    },
+    "type_of_material": null,
+    "_id": "5820da267c459f6a5fcccb90",
+    "word_count": "15",
+    "slideshow_credits": null
+}

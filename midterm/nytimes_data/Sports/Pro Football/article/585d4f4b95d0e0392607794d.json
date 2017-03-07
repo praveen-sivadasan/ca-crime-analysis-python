@@ -1,0 +1,80 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/23/sports/football/nfl-schedule-predictions-point-spread.html",
+    "snippet": "With much about the N.F.L. playoffs still undecided, the league\u2019s heavy Saturday schedule includes Dolphins at Bills and Falcons at Panthers....",
+    "lead_paragraph": "With much about the N.F.L. playoffs still undecided, the league\u2019s heavy Saturday schedule includes Dolphins at Bills and Falcons at Panthers.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/24/sports/24nflmatchups-web1/24nflmatchups-web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/24/sports/24nflmatchups-web1/24nflmatchups-web1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/24/sports/24nflmatchups-web1/24nflmatchups-web1-articleLarge.jpg",
+            "height": 561,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/24/sports/24nflmatchups-web1/24nflmatchups-web1-articleLarge.jpg",
+                "xlargeheight": "561"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/24/sports/24nflmatchups-web1/24nflmatchups-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/24/sports/24nflmatchups-web1/24nflmatchups-web1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "N.F.L. Schedule: Who We Think Will Win in Week 16",
+        "print_headline": "A Playoff Picture by a Surrealist"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Football"
+        }
+    ],
+    "pub_date": "2016-12-23T16:22:30+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Football",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "David",
+                "rank": 1,
+                "lastname": "WHITE"
+            }
+        ],
+        "original": "By DAVID WHITE"
+    },
+    "type_of_material": "News",
+    "_id": "585d4f4b95d0e0392607794d",
+    "word_count": "1513",
+    "slideshow_credits": null
+}

@@ -1,0 +1,117 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/12/us/reports-of-bias-based-attacks-tick-upward-after-election.html",
+    "snippet": "Civil rights groups say their inboxes and call centers are lighting up with reports of abuse, but caution that it\u2019s too soon to say whether the trend will last....",
+    "lead_paragraph": "Civil rights groups say their inboxes and call centers are lighting up with reports of abuse, but caution that it\u2019s too soon to say whether the trend will last.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/12/us/12bias/12bias-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/12/us/12bias/12bias-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/12/us/12bias/12bias-articleLarge.jpg",
+            "height": 384,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/12/us/12bias/12bias-articleLarge.jpg",
+                "xlargeheight": "384"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/12/us/12bias/12bias-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/12/us/12bias/12bias-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Reports of Bias-Based Attacks Tick Upward After Election",
+        "print_headline": "Reports of Bias-Based Attacks on Rise After Presidential Vote"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Discrimination"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Southern Poverty Law Center"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hate Crimes"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Vandalism"
+        }
+    ],
+    "pub_date": "2016-11-12T01:57:29Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "Stephanie Saul contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Caitlin",
+                "rank": 1,
+                "lastname": "DICKERSON"
+            }
+        ],
+        "original": "By CAITLIN DICKERSON"
+    },
+    "type_of_material": "News",
+    "_id": "582677127c459f6a5fccd932",
+    "word_count": "848",
+    "slideshow_credits": null
+}

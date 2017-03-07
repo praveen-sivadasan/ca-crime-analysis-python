@@ -1,0 +1,111 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/politics/obama-white-house-transition.html",
+    "snippet": "Even under typical circumstances, the changeover from one administration to another has been compared to a giant corporate merger involving a $4 trillion budget....",
+    "lead_paragraph": "Even under typical circumstances, the changeover from one administration to another has been compared to a giant corporate merger involving a $4 trillion budget.",
+    "abstract": "Transition of presidential power to Donald J Trump is suffering from delays despite effort by Pres Obama to streamline process and ensure early start; Max Stier from Center for Presidential Transition says Trump process stands out from other difficult transitions because it lacks guidance from seasoned government professionals who understand magnitude of bureaucracy.",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/17transitionlisty1/17transitionlisty1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/17transitionlisty1/17transitionlisty1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/17transitionlisty1/17transitionlisty1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/17transitionlisty1/17transitionlisty1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/17transitionlisty1/17transitionlisty1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/17transitionlisty1/17transitionlisty1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump\u2019s Transition in a \u2018Long History\u2019 of Rocky Presidential Handovers",
+        "print_headline": "A Rocky Path in Handing Over the Reins of Power"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Partnership for Public Service"
+        }
+    ],
+    "pub_date": "2016-11-16T17:39:23Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "firstname": "Julie",
+                "middlename": "Hirschfeld",
+                "lastname": "DAVIS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By JULIE HIRSCHFELD DAVIS"
+    },
+    "type_of_material": "News",
+    "_id": "582c99d57c459f6a5fcce5ac",
+    "word_count": "1037",
+    "slideshow_credits": null
+}

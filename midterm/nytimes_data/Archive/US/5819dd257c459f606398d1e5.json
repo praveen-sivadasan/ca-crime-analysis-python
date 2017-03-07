@@ -1,0 +1,83 @@
+{
+    "web_url": "http://www.nytimes.com/video/us/100000004743855/2-iowa-officers-killed-in-ambush-style-attacks.html",
+    "snippet": "The officers were shot dead in their patrol cars in two assaults in the Des Moines area early Wednesday....",
+    "lead_paragraph": "The officers were shot dead in their patrol cars in two assaults in the Des Moines area early Wednesday.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/03/us/03iowa-web/03iowa-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/03/us/03iowa-web/03iowa-web-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/03/us/03iowa-web/03iowa-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/03/us/03iowa-web/03iowa-web-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/03/us/03iowa-web/03iowa-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/03/us/03iowa-web/03iowa-web-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "2 Iowa Officers Killed in \u2018Ambush-Style\u2019 Attacks"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Attacks on Police"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+        }
+    ],
+    "pub_date": "2016-11-02T12:33:27Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S.",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By WOI VIA THE ASSOCIATED PRESS"
+    },
+    "type_of_material": "Video",
+    "_id": "5819dd257c459f606398d1e5",
+    "word_count": "19",
+    "slideshow_credits": null
+}

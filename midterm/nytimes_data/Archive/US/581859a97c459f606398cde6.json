@@ -1,0 +1,128 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/02/us/standing-rock-front-lines.html",
+    "snippet": "For months, Mekasi Horinek and Deputy Jon Moll have lived the pipeline protests in North Dakota. But they fall on opposite sides, reflecting a community as divided as oil and water....",
+    "lead_paragraph": "For months, Mekasi Horinek and Deputy Jon Moll have lived the pipeline protests in North Dakota. But they fall on opposite sides, reflecting a community as divided as oil and water.",
+    "abstract": "Mekasi Horinek, Native American activist who is protesting Dakota Access oil pipeline, and Morris County, ND, Sheriff's Deputy Jon Moll, share their disparate views on months-long fight over $3.7 billion project.",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/02/us/02dakota1/02dakota1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/02/us/02dakota1/02dakota1-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/02/us/02dakota1/02dakota1-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/02/us/02dakota1/02dakota1-articleLarge-v2.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/02/us/02dakota1/02dakota1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/02/us/02dakota1/02dakota1-thumbStandard-v2.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "The View From Two Sides of the Standing Rock Front Lines",
+        "print_headline": "The View From Two Sides of the Front Lines at Standing Rock"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Pipelines"
+        },
+        {
+            "rank": "11",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Energy Transfer Partners LP"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Native Americans"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "North Dakota"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Oil (Petroleum) and Gasoline"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Water"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Standing Rock Sioux Reservation (ND-SD)"
+        }
+    ],
+    "pub_date": "2016-11-01T09:00:19Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jack",
+                "rank": 1,
+                "lastname": "HEALY"
+            }
+        ],
+        "original": "By JACK HEALY"
+    },
+    "type_of_material": "News",
+    "_id": "581859a97c459f606398cde6",
+    "word_count": "1057",
+    "slideshow_credits": null
+}

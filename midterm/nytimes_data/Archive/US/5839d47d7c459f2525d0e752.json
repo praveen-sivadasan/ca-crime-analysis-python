@@ -1,0 +1,149 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/26/us/politics/donald-trumps-republicans-senate.html",
+    "snippet": "Lindsey Graham. John McCain. Jeff Flake. They are just a few of the lawmakers the president-elect may sometimes find himself having to win over....",
+    "lead_paragraph": "Lindsey Graham. John McCain. Jeff Flake. They are just a few of the lawmakers the president-elect may sometimes find himself having to win over.",
+    "abstract": "Carl Hulse On Washington column examines handful of independent-minded Republican senators who opposed Pres-elect Donald Trump during campaign and may continue to challenge him after he takes office.",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/27/us/27hulse1/27hulse1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/27/us/27hulse1/27hulse1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/27/us/27hulse1/27hulse1-articleLarge.jpg",
+            "height": 366,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/27/us/27hulse1/27hulse1-articleLarge.jpg",
+                "xlargeheight": "366"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/27/us/27hulse1/27hulse1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/27/us/27hulse1/27hulse1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump\u2019s Next Battle: Keeping These Republican Senators Happy",
+        "content_kicker": "On Washington",
+        "kicker": "On Washington",
+        "print_headline": "Trump\u2019s Next Battle: Keeping These Republicans Happy"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Paul, Rand"
+        },
+        {
+            "rank": "12",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "United States"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Senate"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Graham, Lindsey"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McCain, John"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Flake, Jeffrey L"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Collins, Susan M"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Murkowski, Lisa"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Alexander, Lamar"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sasse, Benjamin E"
+        }
+    ],
+    "pub_date": "2016-11-26T18:29:07+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carl",
+                "rank": 1,
+                "lastname": "HULSE"
+            }
+        ],
+        "original": "By CARL HULSE"
+    },
+    "type_of_material": "News",
+    "_id": "5839d47d7c459f2525d0e752",
+    "word_count": "957",
+    "slideshow_credits": null
+}

@@ -1,0 +1,113 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/12/us/because-i-was-a-girl-i-was-told.html",
+    "snippet": "A giant gender barrier was nearly hurdled. We asked women to tell us about their own vividly recalled barriers. Here are some of their stories....",
+    "lead_paragraph": "A giant gender barrier was nearly hurdled. We asked women to tell us about their own vividly recalled barriers. Here are some of their stories.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/10/us/10barriers-image/10barriers-image-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/10/us/10barriers-image/10barriers-image-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/10/us/10barriers-image/10barriers-image-articleLarge.gif",
+            "height": 293,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/10/us/10barriers-image/10barriers-image-articleLarge.gif",
+                "xlargeheight": "293"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/10/us/10barriers-image/10barriers-image-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/10/us/10barriers-image/10barriers-image-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Because I Was a Girl, I Was Told \u2026",
+        "print_headline": "Because I Was a Girl"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women and Girls"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Families and Family Life"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gender"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women's Rights"
+        }
+    ],
+    "pub_date": "2016-11-12T08:30:47+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "firstname": "Mary",
+                "middlename": "Jo",
+                "lastname": "MURPHY",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sona",
+                "rank": 2,
+                "lastname": "PATEL"
+            }
+        ],
+        "original": "By MARY JO MURPHY and SONA PATEL"
+    },
+    "type_of_material": "News",
+    "_id": "5826d3407c459f6a5fccd9a3",
+    "word_count": "3231",
+    "slideshow_credits": null
+}

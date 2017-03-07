@@ -1,0 +1,80 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/29/us/politics/donald-trump-transition.html",
+    "snippet": "The president-elect, still trying to choose among a number of possibilities to be his secretary of state, won\u2019t pull back on his habit of overnight and morning Twitter posts....",
+    "lead_paragraph": "The president-elect, still trying to choose among a number of possibilities to be his secretary of state, won\u2019t pull back on his habit of overnight and morning Twitter posts.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/29/us/29transitionbriefing4/29transitionbriefing4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/29/us/29transitionbriefing4/29transitionbriefing4-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/29/us/29transitionbriefing4/29transitionbriefing4-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/29/us/29transitionbriefing4/29transitionbriefing4-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/29/us/29transitionbriefing4/29transitionbriefing4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/29/us/29transitionbriefing4/29transitionbriefing4-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Victory Tour Set as Cabinet Comes Together",
+        "content_kicker": "Transition Briefing",
+        "kicker": "Transition Briefing"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        }
+    ],
+    "pub_date": "2016-11-29T13:28:26+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1
+            }
+        ],
+        "original": "By MICHAEL D. SHEAR, RON NIXON, JENNIFER STEINHAUER and THOMAS KAPLAN"
+    },
+    "type_of_material": "News",
+    "_id": "583d82867c459f2525d0edb4",
+    "word_count": "1912",
+    "slideshow_credits": null
+}

@@ -1,0 +1,111 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/politics/jared-kushner-trump-family.html",
+    "snippet": "After days of reports that Donald J. Trump had requested a top-secret security clearance for his son-in-law, people close to him said that was not the case, but the law would not stop him....",
+    "lead_paragraph": "After days of reports that Donald J. Trump had requested a top-secret security clearance for his son-in-law, people close to him said that was not the case, but the law would not stop him.",
+    "abstract": "Former government officials and classified information experts say president's commander-in-chief role allows Pres-elect Donald J Trump to authorize security clearance for anyone he wants, including family members; response follows reports Trump is seeking security clearance for son-in-law Jared Kushner so he can become official member of inner circle.",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/17secrets/17secrets-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/17secrets/17secrets-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/17secrets/17secrets-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/17secrets/17secrets-articleLarge.jpg",
+                "xlargeheight": "398"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/17secrets/17secrets-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/17secrets/17secrets-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Will Have Wide Latitude to Let Family Into Government\u2019s Secret Circles",
+        "print_headline": "Presidents Have Broad Latitude to Let Relatives Into Government\u2019s Secret Circles"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federal Bureau of Investigation"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Kushner, Jared"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Classified Information and State Secrets"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+        }
+    ],
+    "pub_date": "2016-11-17T02:13:32Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Maggie Haberman contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mark",
+                "rank": 1,
+                "lastname": "LANDLER"
+            }
+        ],
+        "original": "By MARK LANDLER"
+    },
+    "type_of_material": "News",
+    "_id": "582d12527c459f6a5fcce6ef",
+    "word_count": "875",
+    "slideshow_credits": null
+}

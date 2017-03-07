@@ -1,0 +1,91 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/22/sports/ncaabasketball/duke-grayson-allen-trip-suspended.html",
+    "snippet": "Allen, a junior guard who was caught tripping opponents twice last season, was suspended indefinitely by Duke after tripping another player on Wednesday night....",
+    "lead_paragraph": "Allen, a junior guard who was caught tripping opponents twice last season, was suspended indefinitely by Duke after tripping another player on Wednesday night.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/23/sports/23duke-web/23duke-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/23/sports/23duke-web/23duke-web-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/23/sports/23duke-web/23duke-web-articleLarge.jpg",
+            "height": 694,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/23/sports/23duke-web/23duke-web-articleLarge.jpg",
+                "xlargeheight": "694"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/23/sports/23duke-web/23duke-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/23/sports/23duke-web/23duke-web-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Duke Suspends Grayson Allen for Again Tripping an Opponent",
+        "print_headline": "Duke\u2019s Allen Suspended Indefinitely After Again Tripping an Opponent"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Basketball (College)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Krzyzewski, Mike"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Allen, Grayson (1995- )"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Duke University"
+        }
+    ],
+    "pub_date": "2016-12-22T15:00:29+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "College Basketball",
+    "byline": {
+        "person": [],
+        "original": "By THE ASSOCIATED PRESS",
+        "organization": "THE ASSOCIATED PRESS"
+    },
+    "type_of_material": "News",
+    "_id": "585bea9195d0e0392607760c",
+    "word_count": "550",
+    "slideshow_credits": null
+}

@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/23/us/politics/donald-trumps-early-backers-in-state-government-may-see-rewards.html",
+    "snippet": "In every presidential race, there are early and fierce endorsers of the winning candidate who are then viewed, postelection, as having more influence....",
+    "lead_paragraph": "In every presidential race, there are early and fierce endorsers of the winning candidate who are then viewed, postelection, as having more influence.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/25/us/jpEARLYBACKERS2/EARLYBACKERS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/25/us/jpEARLYBACKERS2/EARLYBACKERS1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/25/us/jpEARLYBACKERS2/EARLYBACKERS1-articleLarge.jpg",
+            "height": 383,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/25/us/jpEARLYBACKERS2/EARLYBACKERS1-articleLarge.jpg",
+                "xlargeheight": "383"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/25/us/jpEARLYBACKERS2/EARLYBACKERS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/25/us/jpEARLYBACKERS2/EARLYBACKERS1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Donald Trump\u2019s Early Backers in State Government May See Rewards",
+        "print_headline": "First Support May Bring Rewards From Trump"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Endorsements"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "States (US)"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        }
+    ],
+    "pub_date": "2016-11-23T10:00:47+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Monica",
+                "rank": 1,
+                "lastname": "DAVEY"
+            }
+        ],
+        "original": "By MONICA DAVEY"
+    },
+    "type_of_material": "News",
+    "_id": "583568da7c459f6a5fccf8d2",
+    "word_count": "995",
+    "slideshow_credits": null
+}

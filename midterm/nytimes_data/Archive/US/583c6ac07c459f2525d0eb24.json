@@ -1,0 +1,111 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/28/us/politics/supreme-court-trump-samuel-alito.html",
+    "snippet": "At an energized conservative legal gathering, Justice Samuel A. Alito Jr. suggested that only resolve on the right could rescue free speech, religious liberty and gun rights....",
+    "lead_paragraph": "At an energized conservative legal gathering, Justice Samuel A. Alito Jr. suggested that only resolve on the right could rescue free speech, religious liberty and gun rights.",
+    "abstract": "Adam Liptak Sidebar column examines Supreme Court Justice Samuel A Alito Jr's opening address at Federalist Society conference in Washington; notes that his talk appeared to set out potential conservative agenda under Trump presidency. ",
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/29/us/29bar1/29bar1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/29/us/29bar1/29bar1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/29/us/29bar1/29bar1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/29/us/29bar1/29bar1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/29/us/29bar1/29bar1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/29/us/29bar1/29bar1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Supreme Court Agenda in the Trump Era? A Justice Seems to Supply One",
+        "content_kicker": "Sidebar",
+        "print_headline": "A Potential Agenda for the Supreme Court in the Era of Trump"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Supreme Court (US)"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Alito, Samuel A Jr"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Constitution (US)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Scalia, Antonin"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federalist Society"
+        }
+    ],
+    "pub_date": "2016-11-28T17:34:50+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "LIPTAK"
+            }
+        ],
+        "original": "By ADAM LIPTAK"
+    },
+    "type_of_material": "News",
+    "_id": "583c6ac07c459f2525d0eb24",
+    "word_count": "970",
+    "slideshow_credits": null
+}

@@ -1,0 +1,67 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/07/us/politics/yemen-luqman-freed.html",
+    "snippet": "The American, who was abducted as he tried to leave Yemen after having taught English there for two years, was released after diplomatic negotiations....",
+    "lead_paragraph": "The American, who was abducted as he tried to leave Yemen after having taught English there for two years, was released after diplomatic negotiations.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Marine Veteran Held by Yemeni Rebels Since 2015 Is Freed",
+        "print_headline": "Marine Veteran, Held a Year by Yemeni Rebels, Is Freed"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Luqman, Wallead Yusuf Pitts"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Kidnapping and Hostages"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Houthis"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mohamed, Jihan"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Yemen"
+        }
+    ],
+    "pub_date": "2016-11-06T18:27:12Z",
+    "document_type": "article",
+    "news_desk": "Foreign",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "GOLDMAN"
+            }
+        ],
+        "original": "By ADAM GOLDMAN"
+    },
+    "type_of_material": "News",
+    "_id": "581f76077c459f6a5fccc88d",
+    "word_count": "363",
+    "slideshow_credits": null
+}

@@ -1,0 +1,146 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/14/us/politics/harsher-security-tactics-obama-left-door-ajar-and-donald-trump-is-knocking.html",
+    "snippet": "President Obama imposed self-constraints on his use of power in the war on terrorism, but his flexible approach gives Mr. Trump \u201ca fully loaded weapon,\u201d one critic said....",
+    "lead_paragraph": "President Obama imposed self-constraints on his use of power in the war on terrorism, but his flexible approach gives Mr. Trump \u201ca fully loaded weapon,\u201d one critic said.",
+    "abstract": "Pres Obama's flexible approach to use of national security powers may provide Pres-elect Donald Trump broad reach for pursuing extreme policies threatened on campaign trail, should he choose to do so; tactics endorsed by Obama as lawful for limited use, like  targeted killings in drone strikes, use of indefinite detention, torture and military tribunals for terrorism suspects, may be embraced on broad scale by Trump.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/11/us/00power/00power-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/11/us/00power/00power-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/11/us/00power/00power-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/11/us/00power/00power-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/11/us/00power/00power-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/11/us/00power/00power-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Harsher Security Tactics? Obama Left Door Ajar, and Donald Trump Is Knocking",
+        "print_headline": "Obama Policies Give Successor a Path to Vast Security Powers"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Detainees"
+        },
+        {
+            "rank": "11",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Targeted Killings"
+        },
+        {
+            "rank": "12",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Torture"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Military Tribunals"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Terrorism"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Justice Department"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Bush, George W"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Guantanamo Bay Naval Base (Cuba)"
+        },
+        {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Drones (Pilotless Planes)"
+        }
+    ],
+    "pub_date": "2016-11-14T02:16:55Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Charlie",
+                "rank": 1,
+                "lastname": "SAVAGE"
+            }
+        ],
+        "original": "By CHARLIE SAVAGE"
+    },
+    "type_of_material": "News",
+    "_id": "58291e9f7c459f6a5fccdc89",
+    "word_count": "1327",
+    "slideshow_credits": null
+}

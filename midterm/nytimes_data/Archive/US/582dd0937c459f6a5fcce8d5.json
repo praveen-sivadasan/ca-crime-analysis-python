@@ -1,0 +1,154 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/18/us/politics/japanese-internment-muslim-registry.html",
+    "snippet": "A prominent supporter cited World War II-era internment camps as a \u201cprecedent\u201d for an immigrant registry suggested by a member of Mr. Trump\u2019s transition team....",
+    "lead_paragraph": "A prominent supporter cited World War II-era internment camps as a \u201cprecedent\u201d for an immigrant registry suggested by a member of Mr. Trump\u2019s transition team.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/18/us/18higbie_xp/18higbie_xp-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/18/us/18higbie_xp/18higbie_xp-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/18/us/18higbie_xp/18higbie_xp-articleLarge.jpg",
+            "height": 302,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/18/us/18higbie_xp/18higbie_xp-articleLarge.jpg",
+                "xlargeheight": "302"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/18/us/18higbie_xp/18higbie_xp-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/18/us/18higbie_xp/18higbie_xp-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump Camp\u2019s Talk of Registry and Japanese Internment Raises Muslims\u2019 Fears",
+        "print_headline": "Muslims Denounce Talk of Japanese Internment as \u2018Precedent\u2019 for Registry"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Japan"
+        },
+        {
+            "rank": "12",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Kansas"
+        },
+        {
+            "rank": "13",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Kelly File (TV Program)"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Discrimination"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Minorities"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Muslims and Islam"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Racial Profiling"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Fox Broadcasting Co"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Justice Department"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Iran"
+        }
+    ],
+    "pub_date": "2016-11-17T15:45:12Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "firstname": "Jonah",
+                "middlename": "Engel",
+                "lastname": "BROMWICH",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By JONAH ENGEL BROMWICH"
+    },
+    "type_of_material": "News",
+    "_id": "582dd0937c459f6a5fcce8d5",
+    "word_count": "935",
+    "slideshow_credits": null
+}

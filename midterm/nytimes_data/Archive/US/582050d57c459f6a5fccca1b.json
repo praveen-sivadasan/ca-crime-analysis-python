@@ -1,0 +1,109 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/08/us/politics/trump-clinton-2016-presidential-race-explainers.html",
+    "snippet": "Campaigns are complicated. Confused by the current one? Here\u2019s a look back at some of our most insightful journalism over the last year....",
+    "lead_paragraph": "Campaigns are complicated. Confused by the current one? Here\u2019s a look back at some of our most insightful journalism over the last year.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/06/us/elections/00xp-explainerlist-08/00xp-explainerlist-08-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/06/us/elections/00xp-explainerlist-08/00xp-explainerlist-08-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/06/us/elections/00xp-explainerlist-08/00xp-explainerlist-08-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/06/us/elections/00xp-explainerlist-08/00xp-explainerlist-08-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/06/us/elections/00xp-explainerlist-08/00xp-explainerlist-08-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/06/us/elections/00xp-explainerlist-08/00xp-explainerlist-08-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "The 2016 Presidential Race, Explained"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sanders, Bernard"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Polls and Public Opinion"
+        }
+    ],
+    "pub_date": "2016-11-07T10:00:47Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Liam",
+                "rank": 1,
+                "lastname": "STACK"
+            }
+        ],
+        "original": "By LIAM STACK"
+    },
+    "type_of_material": "News",
+    "_id": "582050d57c459f6a5fccca1b",
+    "word_count": "917",
+    "slideshow_credits": null
+}

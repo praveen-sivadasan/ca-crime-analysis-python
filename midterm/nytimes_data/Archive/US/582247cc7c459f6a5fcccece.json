@@ -1,0 +1,103 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/09/us/politics/evan-mcmullin-gary-johnson-jill-stein-third-party.html",
+    "snippet": "Background on the presidential hopefuls who might have an impact on the 2016 election....",
+    "lead_paragraph": "Background on the presidential hopefuls who might have an impact on the 2016 election.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/09/us/09xp-thirdparty-1/09xp-thirdparty-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/09/us/09xp-thirdparty-1/09xp-thirdparty-1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/09/us/09xp-thirdparty-1/09xp-thirdparty-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/09/us/09xp-thirdparty-1/09xp-thirdparty-1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/09/us/09xp-thirdparty-1/09xp-thirdparty-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/09/us/09xp-thirdparty-1/09xp-thirdparty-1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Johnson, Stein and McMullin, Third-Party Candidates, Make Final Push for \u2018Protest\u2019 Vote"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Third-Party Politics (US)"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Johnson, Gary E"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Stein, Jill"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McMullin, Evan"
+        }
+    ],
+    "pub_date": "2016-11-08T21:46:47Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Marc",
+                "rank": 1,
+                "lastname": "SANTORA"
+            }
+        ],
+        "original": "By MARC SANTORA"
+    },
+    "type_of_material": "News",
+    "_id": "582247cc7c459f6a5fcccece",
+    "word_count": "813",
+    "slideshow_credits": null
+}

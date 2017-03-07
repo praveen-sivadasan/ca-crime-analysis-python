@@ -1,0 +1,98 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/29/us/politics/obama-walter-reed-military.html",
+    "snippet": "President Obama has visited the military hospital nearly two dozen times, trips that have affected him deeply and that have inspired the injured....",
+    "lead_paragraph": "President Obama has visited the military hospital nearly two dozen times, trips that have affected him deeply and that have inspired the injured.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/30/us/30walterreed1/00walterreed1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/30/us/30walterreed1/00walterreed1-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/30/us/30walterreed1/00walterreed1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/30/us/30walterreed1/00walterreed1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/30/us/30walterreed1/00walterreed1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/30/us/30walterreed1/00walterreed1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Obama\u2019s Sacred Duty: Visiting the Wounded at Walter Reed",
+        "print_headline": "Obama\u2019s Sacred Duty: Visiting the Wounded"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Reed, Walter, National Military Medical Center"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Veterans"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+        }
+    ],
+    "pub_date": "2016-11-29T10:00:19+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Gardiner",
+                "rank": 1,
+                "lastname": "HARRIS"
+            }
+        ],
+        "original": "By GARDINER HARRIS"
+    },
+    "type_of_material": "News",
+    "_id": "583d51bb7c459f2525d0ed21",
+    "word_count": "1454",
+    "slideshow_credits": null
+}

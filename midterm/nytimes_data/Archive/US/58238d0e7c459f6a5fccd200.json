@@ -1,0 +1,163 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/10/us/politics/diverse-candidates-win-seats-in-us-government.html",
+    "snippet": "The elections reflected a wide range of demographics in congressional and state positions....",
+    "lead_paragraph": "The elections reflected a wide range of demographics in congressional and state positions.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/10/us/politics/10xp-firsts1/10xp-firsts1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/10/us/politics/10xp-firsts1/10xp-firsts1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/10/us/politics/10xp-firsts1/10xp-firsts1-articleLarge.jpg",
+            "height": 444,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/10/us/politics/10xp-firsts1/10xp-firsts1-articleLarge.jpg",
+                "xlargeheight": "444"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/10/us/politics/10xp-firsts1/10xp-firsts1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/10/us/politics/10xp-firsts1/10xp-firsts1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Diverse Candidates Win Seats in U.S. Government"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, House of Representatives"
+        },
+        {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Harris, Kamala D"
+        },
+        {
+            "rank": "12",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lee, Michael S (1971- )"
+        },
+        {
+            "rank": "13",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Africa"
+        },
+        {
+            "rank": "14",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+        },
+        {
+            "rank": "15",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Illinois"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, State Legislature"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "State Legislatures"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blacks"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "House of Representatives"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Human Rights Campaign"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Seattle Times"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brown, Kate (1960- )"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Duckworth, L Tammy"
+        }
+    ],
+    "pub_date": "2016-11-09T20:54:30Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christine",
+                "rank": 1,
+                "lastname": "HAUSER"
+            }
+        ],
+        "original": "By CHRISTINE HAUSER"
+    },
+    "type_of_material": "News",
+    "_id": "58238d0e7c459f6a5fccd200",
+    "word_count": "742",
+    "slideshow_credits": null
+}

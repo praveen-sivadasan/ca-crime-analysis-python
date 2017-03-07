@@ -1,0 +1,99 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/18/us/substance-abuse-surgeon-general-report.html",
+    "snippet": "The report, the first from a surgeon general to address substance use disorders, calls for a cultural change in understanding that addiction is a brain disease....",
+    "lead_paragraph": "The report, the first from a surgeon general to address substance use disorders, calls for a cultural change in understanding that addiction is a brain disease.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/18/us/18drugs/18drugs-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/18/us/18drugs/18drugs-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/18/us/18drugs/18drugs-articleLarge.jpg",
+            "height": 405,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/18/us/18drugs/18drugs-articleLarge.jpg",
+                "xlargeheight": "405"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/18/us/18drugs/18drugs-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/18/us/18drugs/18drugs-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Fraction of Americans With Drug Addiction Receive Treatment, Surgeon General Says",
+        "print_headline": "Few Drug Addicts Are Treated, U.S. Finds"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Drug Abuse and Traffic"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mental Health and Disorders"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Surgeon General (US)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Murthy, Vivek H"
+        }
+    ],
+    "pub_date": "2016-11-17T12:31:58Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Katharine",
+                "middlename": "Q.",
+                "lastname": "SEELYE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KATHARINE Q. SEELYE"
+    },
+    "type_of_material": "News",
+    "_id": "582da3427c459f6a5fcce837",
+    "word_count": "843",
+    "slideshow_credits": null
+}

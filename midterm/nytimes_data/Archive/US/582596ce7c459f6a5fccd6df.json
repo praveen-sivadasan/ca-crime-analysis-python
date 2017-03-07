@@ -1,0 +1,106 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/12/us/politics/republicans-house-senate.html",
+    "snippet": "In the afterglow of their election success, Republicans prefer not to discuss the unpleasant possibility of eliminating the 60-vote threshold for their legislative priorities....",
+    "lead_paragraph": "In the afterglow of their election success, Republicans prefer not to discuss the unpleasant possibility of eliminating the 60-vote threshold for their legislative priorities.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/11/us/12hulse/12hulse-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/11/us/12hulse/12hulse-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/11/us/12hulse/12hulse-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/11/us/12hulse/12hulse-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/11/us/12hulse/12hulse-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/11/us/12hulse/12hulse-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Hard Choice for Mitch McConnell: End the Filibuster or Preserve Tradition",
+        "content_kicker": "On Washington",
+        "kicker": "On Washington",
+        "print_headline": "Senate Leader Faces Hard Choices if Democrats Resort to Filibusters"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Senate"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Filibusters and Debate Curbs"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McConnell, Mitch"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        }
+    ],
+    "pub_date": "2016-11-11T10:00:29Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carl",
+                "rank": 1,
+                "lastname": "HULSE"
+            }
+        ],
+        "original": "By CARL HULSE"
+    },
+    "type_of_material": "News",
+    "_id": "582596ce7c459f6a5fccd6df",
+    "word_count": "952",
+    "slideshow_credits": null
+}

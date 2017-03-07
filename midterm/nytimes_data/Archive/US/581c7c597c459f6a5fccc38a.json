@@ -1,0 +1,80 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/04/us/california-today-loma-linda-pediatric-clinic.html",
+    "snippet": "Friday: A health care lifeline in the Coachella Valley, encouraging news on the drought, and the arrival of Dungeness crab season....",
+    "lead_paragraph": "Friday: A health care lifeline in the Coachella Valley, encouraging news on the drought, and the arrival of Dungeness crab season.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/04/us/04ct-rr/04ct-rr-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/04/us/04ct-rr/04ct-rr-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/04/us/04ct-rr/04ct-rr-articleLarge.jpg",
+            "height": 365,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/04/us/04ct-rr/04ct-rr-articleLarge.jpg",
+                "xlargeheight": "365"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/04/us/04ct-rr/04ct-rr-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/04/us/04ct-rr/04ct-rr-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "California Today: A Clinic for Children Is Planned for the Desert",
+        "content_kicker": "California Today"
+    },
+    "keywords": [
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+        }
+    ],
+    "pub_date": "2016-11-04T12:17:21Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mike",
+                "rank": 1,
+                "lastname": "McPHATE"
+            }
+        ],
+        "original": "By MIKE McPHATE"
+    },
+    "type_of_material": "briefing",
+    "_id": "581c7c597c459f6a5fccc38a",
+    "word_count": "1035",
+    "slideshow_credits": null
+}

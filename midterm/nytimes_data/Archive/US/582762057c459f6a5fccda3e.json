@@ -1,0 +1,99 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/13/us/politics/michigan-voters-donald-trump.html",
+    "snippet": "In Macomb County, where the term \u201cReagan Democrats\u201d was coined, voters found in Mr. Trump a candidate who understood the importance of trade and manufacturing....",
+    "lead_paragraph": "In Macomb County, where the term \u201cReagan Democrats\u201d was coined, voters found in Mr. Trump a candidate who understood the importance of trade and manufacturing.",
+    "abstract": "Residents of Michigan, state not won by Republican presidential candidate since 1988, say Donald J Trump appeared most attuned to region's particular challenges, including decline of manufacturing; many voted for Pres Obama, supported Sen Bernie Sanders while he was in race, and have lost faith in government status quo.",
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/13/us/13FLIP-michigan3/13FLIP-michigan3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/13/us/13FLIP-michigan3/13FLIP-michigan3-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/13/us/13FLIP-michigan3/13FLIP-michigan3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/13/us/13FLIP-michigan3/13FLIP-michigan3-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/13/us/13FLIP-michigan3/13FLIP-michigan3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/13/us/13FLIP-michigan3/13FLIP-michigan3-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Michigan Voters Say Trump Could See Their Problems \u2018Right Off the Bat\u2019",
+        "print_headline": "Michigan Voters Say Trump Could See Their Problems \u2018Right Off the Bat\u2019"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Michigan"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+        }
+    ],
+    "pub_date": "2016-11-12T18:39:59Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Brittany Greeson contributed reporting.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Abby",
+                "rank": 1,
+                "lastname": "GOODNOUGH"
+            }
+        ],
+        "original": "By ABBY GOODNOUGH"
+    },
+    "type_of_material": "News",
+    "_id": "582762057c459f6a5fccda3e",
+    "word_count": "1192",
+    "slideshow_credits": null
+}

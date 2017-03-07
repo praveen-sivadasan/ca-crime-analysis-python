@@ -1,0 +1,135 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/12/us/republicans-expand-control-in-a-deeply-divided-nation.html",
+    "snippet": "The nation may be almost evenly split between Democrats and Republicans, but Republicans now control almost every level of government...",
+    "lead_paragraph": "The nation may be almost evenly split between Democrats and Republicans, but Republicans now control almost every level of government",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/12/us/12REPUBS1/12REPUBS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/12/us/12REPUBS1/12REPUBS1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/12/us/12REPUBS1/12REPUBS1-articleLarge.jpg",
+            "height": 497,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/12/us/12REPUBS1/12REPUBS1-articleLarge.jpg",
+                "xlargeheight": "497"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/12/us/12REPUBS1/12REPUBS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/12/us/12REPUBS1/12REPUBS1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Republicans Expand Control in a Deeply Divided Nation",
+        "print_headline": "U.S. Divided, but G.O.P. Dominates"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Wisconsin"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "State Legislatures"
+        }
+    ],
+    "pub_date": "2016-11-11T22:51:43Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Julie",
+                "rank": 1,
+                "lastname": "BOSMAN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Monica",
+                "rank": 2,
+                "lastname": "DAVEY"
+            }
+        ],
+        "original": "By JULIE BOSMAN and MONICA DAVEY"
+    },
+    "type_of_material": "News",
+    "_id": "58264b847c459f6a5fccd8ed",
+    "word_count": "1566",
+    "slideshow_credits": null
+}

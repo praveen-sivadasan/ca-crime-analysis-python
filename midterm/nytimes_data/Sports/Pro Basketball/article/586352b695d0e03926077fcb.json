@@ -1,0 +1,103 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/28/sports/basketball/phil-jackson-jeanie-buss-breakup.html",
+    "snippet": "Jackson and Buss, who had been engaged for several years but were never married, said via social media that they had ended their engagement....",
+    "lead_paragraph": "Jackson and Buss, who had been engaged for several years but were never married, said via social media that they had ended their engagement.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/28/sports/basketball/28jacksonweb1/28jacksonweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/28/sports/basketball/28jacksonweb1/28jacksonweb1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/28/sports/basketball/28jacksonweb1/28jacksonweb1-articleLarge.jpg",
+            "height": 741,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/28/sports/basketball/28jacksonweb1/28jacksonweb1-articleLarge.jpg",
+                "xlargeheight": "741"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/28/sports/basketball/28jacksonweb1/28jacksonweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/28/sports/basketball/28jacksonweb1/28jacksonweb1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Phil Jackson of Knicks and Jeanie Buss of Lakers Announce Their Breakup"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Basketball"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Jackson, Phil (1945- )"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Los Angeles Lakers"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Knicks"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Buss, Jeanie"
+        }
+    ],
+    "pub_date": "2016-12-28T05:50:40+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Basketball",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Scott",
+                "rank": 1,
+                "lastname": "CACCIOLA"
+            }
+        ],
+        "original": "By SCOTT CACCIOLA"
+    },
+    "type_of_material": "News",
+    "_id": "586352b695d0e03926077fcb",
+    "word_count": "335",
+    "slideshow_credits": null
+}

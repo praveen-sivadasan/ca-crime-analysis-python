@@ -1,0 +1,110 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/19/sports/football/ben-utecht-ex-nfl-player-book-concussions.html",
+    "snippet": "Ben Utecht, who retired in 2010 after too many hits to the head, has made it his mission to speak out about the dangers of head trauma and how it affected him....",
+    "lead_paragraph": "Ben Utecht, who retired in 2010 after too many hits to the head, has made it his mission to speak out about the dangers of head trauma and how it affected him.",
+    "abstract": "Former NFL tight end Ben Utecht, whose book Counting the Days While My Mind Slips Away details how repeated hits to head debilitated his life and career, has spent years since his 2010 retirement spreading awareness about dangers of concussions; critics suggest Utecht, journeyman player whose stint in league was just six seasons, is exploiting current controversy over concussions.",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/20/sports/00utecht1/00utecht1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/20/sports/00utecht1/00utecht1-thumbWide-v2.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/20/sports/00utecht1/00utecht1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/20/sports/00utecht1/00utecht1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/20/sports/00utecht1/00utecht1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/20/sports/00utecht1/00utecht1-thumbStandard-v2.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "In a Book, an Ex-N.F.L. Player Details Consequences of Concussions",
+        "print_headline": "Average Player Tells His Concussion Story"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Utecht, Ben (1981- )"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Concussions"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Football League"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Counting the Days While My Mind Slips Away (Book)"
+        }
+    ],
+    "pub_date": "2016-12-20T01:38:33+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Football",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Ken",
+                "rank": 1,
+                "lastname": "BELSON"
+            }
+        ],
+        "original": "By KEN BELSON"
+    },
+    "type_of_material": "News",
+    "_id": "58588b9c95d0e03926076e15",
+    "word_count": "1365",
+    "slideshow_credits": null
+}

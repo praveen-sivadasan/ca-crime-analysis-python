@@ -1,0 +1,106 @@
+{
+    "web_url": "http://www.nytimes.com/interactive/2016/11/28/us/trump-tower-security.html",
+    "snippet": "The protection of Donald J. Trump during visits to his home in Manhattan presents challenges unlike those of any previous president....",
+    "lead_paragraph": "The protection of Donald J. Trump during visits to his home in Manhattan presents challenges unlike those of any previous president.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/27/us/trump-tower-security-1480284279197/trump-tower-security-1480284279197-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/27/us/trump-tower-security-1480284279197/trump-tower-security-1480284279197-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/27/us/trump-tower-security-1480284279197/trump-tower-security-1480284279197-articleLarge.jpg",
+            "height": 372,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/27/us/trump-tower-security-1480284279197/trump-tower-security-1480284279197-articleLarge.jpg",
+                "xlargeheight": "372"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/27/us/trump-tower-security-1480284279197/trump-tower-security-1480284279197-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/27/us/trump-tower-security-1480284279197/trump-tower-security-1480284279197-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "A Guide to White House North"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Trump Tower (Manhattan, NY)"
+        }
+    ],
+    "pub_date": "2016-11-28T11:01:01+0000",
+    "document_type": "multimedia",
+    "news_desk": "U.S.",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Ford",
+                "rank": 1,
+                "lastname": "FESSENDEN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Yuliya",
+                "rank": 2,
+                "lastname": "PARSHINA-KOTTAS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Derek",
+                "rank": 3,
+                "lastname": "WATKINS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mika",
+                "rank": 4,
+                "lastname": "GR\u00d6NDAHL"
+            }
+        ],
+        "original": "By FORD FESSENDEN, YULIYA PARSHINA-KOTTAS, DEREK WATKINS and MIKA GR\u00d6NDAHL"
+    },
+    "type_of_material": "Interactive Feature",
+    "_id": "583c0e6b7c459f2525d0ea31",
+    "word_count": null,
+    "slideshow_credits": null
+}

@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/09/us/politics/nevada-senate-catherine-cortez-masto.html",
+    "snippet": "Outside groups spent nearly $90 million on the tight race, but the biggest factor might have been Donald J. Trump....",
+    "lead_paragraph": "Outside groups spent nearly $90 million on the tight race, but the biggest factor might have been Donald J. Trump.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/09/us/09senate-Cortez-Masto/09senate-Cortez-Masto-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/09/us/09senate-Cortez-Masto/09senate-Cortez-Masto-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/09/us/09senate-Cortez-Masto/09senate-Cortez-Masto-articleLarge.jpg",
+            "height": 417,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/09/us/09senate-Cortez-Masto/09senate-Cortez-Masto-articleLarge.jpg",
+                "xlargeheight": "417"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/09/us/09senate-Cortez-Masto/09senate-Cortez-Masto-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/09/us/09senate-Cortez-Masto/09senate-Cortez-Masto-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Catherine Cortez Masto Wins Nevada to Become First Latina Senator",
+        "print_headline": "Cortez Masto Becomes First Latina Senator"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Masto, Catherine Cortez"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Reid, Harry"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Nevada"
+        }
+    ],
+    "pub_date": "2016-11-09T05:52:55Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Dave",
+                "rank": 1,
+                "lastname": "PHILIPPS"
+            }
+        ],
+        "original": "By DAVE PHILIPPS"
+    },
+    "type_of_material": "News",
+    "_id": "5822b9bd7c459f6a5fcccf9b",
+    "word_count": "277",
+    "slideshow_credits": null
+}

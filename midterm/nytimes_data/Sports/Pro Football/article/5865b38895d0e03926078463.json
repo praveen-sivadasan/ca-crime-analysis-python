@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/29/sports/football/lavell-edwards-dead-brigham-young-football-coach.html",
+    "snippet": "Edwards, a onetime defensive coordinator, developed standout quarterbacks and innovative offensive schemes as a head coach and led Brigham Young to the 1984 national title....",
+    "lead_paragraph": "Edwards, a onetime defensive coordinator, developed standout quarterbacks and innovative offensive schemes as a head coach and led Brigham Young to the 1984 national title.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-articleLarge.jpg",
+                "xlargeheight": "399"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "LaVell Edwards, Coach Who Led B.Y.U. to a Football Title, Dies at 86",
+        "print_headline": "LaVell Edwards Dies at 86; Coached B.Y.U. to a Title"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Edwards, LaVell"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Football (College)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coaches and Managers"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Brigham Young University"
+        }
+    ],
+    "pub_date": "2016-12-30T01:08:12+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Football",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 1,
+                "lastname": "GOLDSTEIN"
+            }
+        ],
+        "original": "By RICHARD GOLDSTEIN"
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "5865b38895d0e03926078463",
+    "word_count": "938",
+    "slideshow_credits": null
+}

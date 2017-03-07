@@ -1,0 +1,61 @@
+{
+    "web_url": "http://www.nytimes.com/slideshow/2016/11/04/us/politics/on-the-trail-week-of-oct-31.html",
+    "snippet": "In the last full week of the campaign, Hillary Clinton and Donald J. Trump both held rallies in swing states around the country....",
+    "lead_paragraph": "In the last full week of the campaign, Hillary Clinton and Donald J. Trump both held rallies in swing states around the country.",
+    "abstract": null,
+    "print_page": null,
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/04/us/politics/04polpix-slide-GLFA/04polpix-slide-GLFA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/04/us/politics/04polpix-slide-GLFA/04polpix-slide-GLFA-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/04/us/politics/04polpix-slide-GLFA/04polpix-slide-GLFA-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/04/us/politics/04polpix-slide-GLFA/04polpix-slide-GLFA-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/04/us/politics/04polpix-slide-GLFA/04polpix-slide-GLFA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/04/us/politics/04polpix-slide-GLFA/04polpix-slide-GLFA-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "On the Trail: Week of Oct. 31"
+    },
+    "keywords": [],
+    "pub_date": "2016-11-05T02:11:26Z",
+    "document_type": "multimedia",
+    "news_desk": "U.S. / Politics",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": [],
+    "type_of_material": "Slideshow",
+    "_id": "581d3fe27c459f6a5fccc601",
+    "word_count": "23",
+    "slideshow_credits": "Damon Winter/The New York Times"
+}

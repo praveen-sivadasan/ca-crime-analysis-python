@@ -1,0 +1,116 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/16/us/wildfires-char-over-80000-acres-in-the-parched-south.html",
+    "snippet": "With conditions set to worsen, some of the blazes could burn for weeks in the already rain-starved region....",
+    "lead_paragraph": "With conditions set to worsen, some of the blazes could burn for weeks in the already rain-starved region.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/17/us/16FIRES1/16FIRES-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/17/us/16FIRES1/16FIRES-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/17/us/16FIRES1/16FIRES-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/17/us/16FIRES1/16FIRES-articleLarge.jpg",
+                "xlargeheight": "401"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/17/us/16FIRES1/16FIRES-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/17/us/16FIRES1/16FIRES-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Wildfires Char Over 80,000 Acres in the Parched South",
+        "print_headline": "Wildfires Char 80,000 Acres in South, and Some Could Burn for Weeks"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Wildfires"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Drought"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Southern States (US)"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Georgia"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "North Carolina"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Chattahoochee-Oconee National Forest (Ga)"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fires and Firefighters"
+        }
+    ],
+    "pub_date": "2016-11-16T00:05:52Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alan",
+                "rank": 1,
+                "lastname": "BLINDER"
+            }
+        ],
+        "original": "By ALAN BLINDER"
+    },
+    "type_of_material": "News",
+    "_id": "582ba2e37c459f6a5fcce32e",
+    "word_count": "598",
+    "slideshow_credits": null
+}

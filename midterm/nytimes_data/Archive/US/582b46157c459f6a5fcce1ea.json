@@ -1,0 +1,110 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/16/us/politics/trump-medicaid-health-care.html",
+    "snippet": "The incoming administration is poised to give states more leeway in running their programs, but some influential figures may balk at a broad rollback of Medicaid\u2019s reach....",
+    "lead_paragraph": "The incoming administration is poised to give states more leeway in running their programs, but some influential figures may balk at a broad rollback of Medicaid\u2019s reach.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/14/us/14medicaid1/14medicaid1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/14/us/14medicaid1/14medicaid1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/14/us/14medicaid1/14medicaid1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/14/us/14medicaid1/14medicaid1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/14/us/14medicaid1/14medicaid1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/14/us/14medicaid1/14medicaid1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Expect Medicaid to Change, but Not Shrivel, Under Donald Trump",
+        "print_headline": "Expect Medicaid to Change, but Not Shrivel, in New Administration"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Medicaid"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Health Insurance and Managed Care"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Patient Protection and Affordable Care Act (2010)"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+        }
+    ],
+    "pub_date": "2016-11-15T17:29:51Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "PEAR"
+            }
+        ],
+        "original": "By ROBERT PEAR"
+    },
+    "type_of_material": "News",
+    "_id": "582b46157c459f6a5fcce1ea",
+    "word_count": "1160",
+    "slideshow_credits": null
+}

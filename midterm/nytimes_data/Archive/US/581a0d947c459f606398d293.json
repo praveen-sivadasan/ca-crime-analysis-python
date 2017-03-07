@@ -1,0 +1,171 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/03/us/politics/donald-trump-veterans.html",
+    "snippet": "Many who served in Iraq and Afghanistan are proud of their service but exhausted by its burdens, and they distrust the political class that reshaped their lives....",
+    "lead_paragraph": "Many who served in Iraq and Afghanistan are proud of their service but exhausted by its burdens, and they distrust the political class that reshaped their lives.",
+    "abstract": "Veterans remain among Donald Trump's most loyal supporters, pushed toward him by their distrust for the political class and drawn toward him for his criticisms of American entanglements overseas; Trump's candidacy is exposing rift between many Americans and those who enlist to fight in their name.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/03/us/03vets-jp1/30VETS5-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/03/us/03vets-jp1/30VETS5-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/03/us/03vets-jp1/30VETS5-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/03/us/03vets-jp1/30VETS5-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/03/us/03vets-jp1/30VETS5-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/03/us/03vets-jp1/30VETS5-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Veterans, Feeling Abandoned, Stand by Donald Trump",
+        "print_headline": "Trump Holds Strong Appeal With Veterans"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Veterans"
+        },
+        {
+            "rank": "11",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "12",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Afghanistan"
+        },
+        {
+            "rank": "13",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Falluja (Iraq)"
+        },
+        {
+            "rank": "14",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Iraq"
+        },
+        {
+            "rank": "15",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "North Carolina"
+        },
+        {
+            "rank": "16",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Iraq War (2003-11)"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Afghanistan War (2001-14)"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Iraq and Afghanistan Veterans of America"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Veterans Affairs Department"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Bush, George W"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+        }
+    ],
+    "pub_date": "2016-11-02T16:00:13Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Nicholas",
+                "rank": 1,
+                "lastname": "CONFESSORE"
+            }
+        ],
+        "original": "By NICHOLAS CONFESSORE"
+    },
+    "type_of_material": "News",
+    "_id": "581a0d947c459f606398d293",
+    "word_count": "1929",
+    "slideshow_credits": null
+}

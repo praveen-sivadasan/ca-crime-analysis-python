@@ -1,0 +1,117 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/13/us/politics/voter-registration-election-2016.html",
+    "snippet": "The first presidential election after parts of the Voting Rights Act were struck down in 2013 left analysts to wonder whether a different process might have changed the outcome of the race....",
+    "lead_paragraph": "The first presidential election after parts of the Voting Rights Act were struck down in 2013 left analysts to wonder whether a different process might have changed the outcome of the race.",
+    "abstract": "Democrats question degree to which rollback of Voting Rights Act protections, problems at polling places and low overall voter turnout impacted outcome of 2016 presidential election.",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/13/us/13voters-web/13voters-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/13/us/13voters-web/13voters-web-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/13/us/13voters-web/13voters-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/13/us/13voters-web/13voters-web-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/13/us/13voters-web/13voters-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/13/us/13voters-web/13voters-web-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "After a Fraught Election, Questions Over the Impact of a Balky Voting Process",
+        "print_headline": "After Fraught Election, Questions Over the Impact of a Balky Voting Process"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Voter Registration and Requirements"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting Machines"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Wisconsin"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Voting Rights Act (1965)"
+        }
+    ],
+    "pub_date": "2016-11-12T19:42:01Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Doris Burke contributed research.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "WINES"
+            }
+        ],
+        "original": "By MICHAEL WINES"
+    },
+    "type_of_material": "News",
+    "_id": "582770927c459f6a5fccda5f",
+    "word_count": "1285",
+    "slideshow_credits": null
+}

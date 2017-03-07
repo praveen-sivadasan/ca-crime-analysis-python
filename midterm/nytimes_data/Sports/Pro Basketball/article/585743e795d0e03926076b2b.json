@@ -1,0 +1,104 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/18/sports/basketball/nba-schedule-contract.html",
+    "snippet": "The concern over playing consecutive games is a source of amusement for an older generation, who played when easing the schedule was hardly a priority....",
+    "lead_paragraph": "The concern over playing consecutive games is a source of amusement for an older generation, who played when easing the schedule was hardly a priority.",
+    "abstract": "Number of back-to-back games NBA players will play is set to be reduced under new collective bargaining agreement reached between league and National Basketball Players Assn; change is amusing to some former professional players, who considered playing consecutive games part of job.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/18/sports/backtoback-illo/backtoback-illo-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/18/sports/backtoback-illo/backtoback-illo-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/18/sports/backtoback-illo/backtoback-illo-articleLarge.jpg",
+            "height": 491,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/18/sports/backtoback-illo/backtoback-illo-articleLarge.jpg",
+                "xlargeheight": "491"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/18/sports/backtoback-illo/backtoback-illo-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/18/sports/backtoback-illo/backtoback-illo-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "The N.B.A.\u2019s Back-to-Back Problem: \u2018Rest? It\u2019s Your Job, Man!\u2019",
+        "print_headline": "More N.B.A. Rest Days? \u2018It\u2019s Your Job, Man!\u2019"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Basketball"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Basketball Players Assn"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Collective Bargaining"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "National Basketball Assn"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Organized Labor"
+        }
+    ],
+    "pub_date": "2016-12-19T02:20:12+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "Pro Basketball",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Scott",
+                "rank": 1,
+                "lastname": "CACCIOLA"
+            }
+        ],
+        "original": "By SCOTT CACCIOLA"
+    },
+    "type_of_material": "News",
+    "_id": "585743e795d0e03926076b2b",
+    "word_count": "1425",
+    "slideshow_credits": null
+}

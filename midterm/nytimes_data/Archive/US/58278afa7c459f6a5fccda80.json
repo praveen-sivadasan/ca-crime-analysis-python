@@ -1,0 +1,122 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/13/us/politics/obama-legacy-donald-trump.html",
+    "snippet": "The president\u2019s place in history looks considerably different than a week ago. Can the transformation he envisioned survive his administration?...",
+    "lead_paragraph": "The president\u2019s place in history looks considerably different than a week ago. Can the transformation he envisioned survive his administration?",
+    "abstract": "Donald Trump's victory in 2016 presidential election threatens Pres Obama's progressive and inclusive vision of America, as well as specific initiatives on health care and climate change; critics are at odds over whether outcome amounts to rejection of what Obama stands for, or simply changing course typical of American political process.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/13/us/13obama-jp1/13obama-jp1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/13/us/13obama-jp1/13obama-jp1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/13/us/13obama-jp1/13obama-jp1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/13/us/13obama-jp1/13obama-jp1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/13/us/13obama-jp1/13obama-jp1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/13/us/13obama-jp1/13obama-jp1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Obama\u2019s Policies and Broader Vision Face Reckoning With History",
+        "print_headline": "Trump\u2019s Ascendance Upends Obama\u2019s Vision for America"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidents and Presidency (US)"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Patient Protection and Affordable Care Act (2010)"
+        },
+        {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Health Insurance and Managed Care"
+        },
+        {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Global Warming"
+        }
+    ],
+    "pub_date": "2016-11-12T21:34:42Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Peter",
+                "rank": 1,
+                "lastname": "BAKER"
+            }
+        ],
+        "original": "By PETER BAKER"
+    },
+    "type_of_material": "News",
+    "_id": "58278afa7c459f6a5fccda80",
+    "word_count": "1592",
+    "slideshow_credits": null
+}

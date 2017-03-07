@@ -1,0 +1,124 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/21/us/politics/donald-trump-national-security-military.html",
+    "snippet": "Turning to retired officers worries national security experts and even other retired generals, who say that it could lead to an undue emphasis on military force in foreign policy....",
+    "lead_paragraph": "Turning to retired officers worries national security experts and even other retired generals, who say that it could lead to an undue emphasis on military force in foreign policy.",
+    "abstract": "Pres-elect Donald Trump's decision to receive counsel from and appoint number of retired generals has raised concerns that military force could play more prominent role in foreign policy under his administration; generals he is considering for positions in his government also have frequently been at odds with Pres Obama.",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/22/us/22trumpgenerals1/22trumpgenerals1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/22/us/22trumpgenerals1/22trumpgenerals1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/22/us/22trumpgenerals1/22trumpgenerals1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/22/us/22trumpgenerals1/22trumpgenerals1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/22/us/22trumpgenerals1/22trumpgenerals1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/22/us/22trumpgenerals1/22trumpgenerals1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Trump\u2019s Focus on Generals for Top Jobs Stirs Worries Over Military\u2019s Sway",
+        "print_headline": "Focus on Generals for Top Jobs Stirs Worries on Military Sway"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Flynn, Michael T"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mattis, James N"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kelly, John F (1950- )"
+        }
+    ],
+    "pub_date": "2016-11-22T02:18:26+0000",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Michael S. Schmidt and Jeremy W. Peters contributed reporting from New York, and Eric Schmitt from Washington.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mark",
+                "rank": 1,
+                "lastname": "LANDLER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Helene",
+                "rank": 2,
+                "lastname": "COOPER"
+            }
+        ],
+        "original": "By MARK LANDLER and HELENE COOPER"
+    },
+    "type_of_material": "News",
+    "_id": "5833aafb7c459f6a5fccf4a2",
+    "word_count": "1253",
+    "slideshow_credits": null
+}

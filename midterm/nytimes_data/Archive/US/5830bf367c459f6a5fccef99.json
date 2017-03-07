@@ -1,0 +1,118 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/20/us/politics/tim-kaine-readily-moves-out-of-spotlight-this-is-more-me.html",
+    "snippet": "His vice-presidential bid over, the Virginia senator sees himself as part of \u201cthe only emergency brake\u201d on the Trump train. He doesn\u2019t miss the entourage....",
+    "lead_paragraph": "His vice-presidential bid over, the Virginia senator sees himself as part of \u201cthe only emergency brake\u201d on the Trump train. He doesn\u2019t miss the entourage.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/20/us/20kaine1/00kaine1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/20/us/20kaine1/00kaine1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/20/us/20kaine1/00kaine1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/20/us/20kaine1/00kaine1-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/20/us/20kaine1/00kaine1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/20/us/20kaine1/00kaine1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Tim Kaine Readily Moves Out of Spotlight: \u2018This Is More Me\u2019",
+        "print_headline": "Kaine Readily Recedes From His Brush With Fame: \u2018This Is More Me\u2019"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+        },
+        {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kaine, Timothy M"
+        },
+        {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pence, Mike"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        }
+    ],
+    "pub_date": "2016-11-19T21:07:56Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "contributor": "Sam Borden contributed reporting from San Jos\u00e9, Costa Rica.",
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matt",
+                "rank": 1,
+                "lastname": "FLEGENHEIMER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Thomas",
+                "rank": 2,
+                "lastname": "KAPLAN"
+            }
+        ],
+        "original": "By MATT FLEGENHEIMER and THOMAS KAPLAN"
+    },
+    "type_of_material": "News",
+    "_id": "5830bf367c459f6a5fccef99",
+    "word_count": "1028",
+    "slideshow_credits": null
+}

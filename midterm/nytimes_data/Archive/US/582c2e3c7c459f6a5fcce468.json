@@ -1,0 +1,130 @@
+{
+    "web_url": "http://www.nytimes.com/2016/11/17/us/politics/as-trump-embraces-term-limits-allies-in-congress-pull-away.html",
+    "snippet": "The president-elect\u2019s backing of term limits and tougher restrictions on allowing lawmakers to become lobbyists could set up a showdown with congressional Republicans....",
+    "lead_paragraph": "The president-elect\u2019s backing of term limits and tougher restrictions on allowing lawmakers to become lobbyists could set up a showdown with congressional Republicans.",
+    "abstract": "Carl Hulse On Washington column submits Pres-elect Donald J Trump will have difficult time passing measures imposing term limits on members of Congress along with restrictions on lobbying after they have left office;  notes fact that prior efforts on such reform have always been defeated.",
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/11/16/us/16hulse1/16hulse1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/11/16/us/16hulse1/16hulse1-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/11/16/us/16hulse1/16hulse1-articleLarge.jpg",
+            "height": 408,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/11/16/us/16hulse1/16hulse1-articleLarge.jpg",
+                "xlargeheight": "408"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/11/16/us/16hulse1/16hulse1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/11/16/us/16hulse1/16hulse1-thumbStandard.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "As Trump Embraces Term Limits, Allies in Congress Pull Away",
+        "content_kicker": "On Washington",
+        "kicker": "On Washington",
+        "print_headline": "Term Limits Pit Trump Against Congress "
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Term Limits (Political Office)"
+        },
+        {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "United States"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Lobbying and Lobbyists"
+        },
+        {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+        },
+        {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McConnell, Mitch"
+        },
+        {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "House of Representatives"
+        },
+        {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Senate"
+        },
+        {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Earmarks (Finance)"
+        }
+    ],
+    "pub_date": "2016-11-16T10:00:22Z",
+    "document_type": "article",
+    "news_desk": "National",
+    "section_name": "U.S.",
+    "subsection_name": "Politics",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carl",
+                "rank": 1,
+                "lastname": "HULSE"
+            }
+        ],
+        "original": "By CARL HULSE"
+    },
+    "type_of_material": "News",
+    "_id": "582c2e3c7c459f6a5fcce468",
+    "word_count": "908",
+    "slideshow_credits": null
+}

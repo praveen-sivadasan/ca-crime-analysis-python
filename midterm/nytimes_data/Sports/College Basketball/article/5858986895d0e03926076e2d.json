@@ -1,0 +1,110 @@
+{
+    "web_url": "http://www.nytimes.com/2016/12/19/sports/ncaabasketball/coach-jim-boeheim-syracuse.html",
+    "snippet": "With Jim Boeheim leaving at the end of this season, Mike Hopkins, the \u201chead coach-designate,\u201d is stepping into a larger role....",
+    "lead_paragraph": "With Jim Boeheim leaving at the end of this season, Mike Hopkins, the \u201chead coach-designate,\u201d is stepping into a larger role.",
+    "abstract": "Syracuse basketball coach Jim Boeheim's planned retirement after 2017-2018 season presents recruiting challenge as he readies to cede position to longtime assistant Mike Hopkins.",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [
+        {
+            "width": 190,
+            "url": "images/2016/12/20/sports/20-Y-JP-BOEHEIM/20-Y-JP-BOEHEIM-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+                "wide": "images/2016/12/20/sports/20-Y-JP-BOEHEIM/20-Y-JP-BOEHEIM-thumbWide.jpg",
+                "wideheight": "126",
+                "widewidth": "190"
+            },
+            "type": "image"
+        },
+        {
+            "width": 600,
+            "url": "images/2016/12/20/sports/20-Y-JP-BOEHEIM/20-Y-JP-BOEHEIM-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+                "xlargewidth": "600",
+                "xlarge": "images/2016/12/20/sports/20-Y-JP-BOEHEIM/20-Y-JP-BOEHEIM-articleLarge.jpg",
+                "xlargeheight": "400"
+            },
+            "type": "image"
+        },
+        {
+            "width": 75,
+            "url": "images/2016/12/20/sports/20-Y-JP-BOEHEIM/20-Y-JP-BOEHEIM-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+                "thumbnailheight": "75",
+                "thumbnail": "images/2016/12/20/sports/20-Y-JP-BOEHEIM/20-Y-JP-BOEHEIM-thumbStandard-v2.jpg",
+                "thumbnailwidth": "75"
+            },
+            "type": "image"
+        }
+    ],
+    "headline": {
+        "main": "Coaching Transition at Syracuse Puts Bumps on Recruiting Trail",
+        "print_headline": "Seeking Recruits Who Want to Stay After Coach Goes"
+    },
+    "keywords": [
+        {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coaches and Managers"
+        },
+        {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Collegiate Athletic Assn"
+        },
+        {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Boeheim, Jim"
+        },
+        {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Hopkins, Mike (1970- )"
+        },
+        {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Basketball (College)"
+        },
+        {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Syracuse University"
+        }
+    ],
+    "pub_date": "2016-12-20T02:33:05+0000",
+    "document_type": "article",
+    "news_desk": "Sports",
+    "section_name": "Sports",
+    "subsection_name": "College Basketball",
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "ZAGORIA"
+            }
+        ],
+        "original": "By ADAM ZAGORIA"
+    },
+    "type_of_material": "News",
+    "_id": "5858986895d0e03926076e2d",
+    "word_count": "1002",
+    "slideshow_credits": null
+}

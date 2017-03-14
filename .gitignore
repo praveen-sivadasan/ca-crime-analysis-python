@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+.idea/
+.metadata/
+.recommenders/
+.ipynb_checkpoints/
+.project
+.settings/
+.class
+target/
+node_modules/
+bower_components/
+RemoteSystemsTempFiles/
+Servers/
+build/

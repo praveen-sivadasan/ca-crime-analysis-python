@@ -3,7 +3,7 @@
 
 # In[2]:
 
-+import pandas as pd
+import pandas as pd
 
 #reading csv file
 ec = pd.read_csv("Data/cricket_matches.csv")

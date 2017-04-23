@@ -39,25 +39,29 @@ Identifying the reasons for increased murder rate in California during June to S
 > Key notes in analysis:
 This analysis goes a bit in depth in identifying the type and mode by which crimes were being done during his period. We follow the below procedure to get the result of our first analysis:
 - Aanlysing the average crime rate from 1988 to 1993 infers that thers has been a constant alleviation in the crime rate starting 1988. We will plot a line chart in identifying the pattern.
-
+![murder_rate_cali_yearly](https://cloud.githubusercontent.com/assets/18182515/25310303/8a463742-27af-11e7-91ec-a3d624595137.png)
 Image: Line chart of average crime rate across California
 Output
 [Murder_rate_Cali_yearly.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
-- Further analysing the type of crime being happening in California we can infer that 90% of crimes where Murder/Slaughter and the rest was accidental.
 
+- Further analysing the type of crime being happening in California we can infer that 90% of crimes where Murder/Slaughter and the rest was accidental.
+![crime_type_cali](https://cloud.githubusercontent.com/assets/18182515/25310305/8e56b348-27af-11e7-9a4d-f6b8c2faffea.png)
 Image: Bar chart representing crime type in California
 Output
 [Crime_type_Cali.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
-- The homicide reports also help us in concentrate on the method of murder hapeening across California. By creating a pie chart using various weapons used to perform murder, it reveals that most murder weere conducted using handguns.
 
+- The homicide reports also help us in concentrate on the method of murder hapeening across California. By creating a pie chart using various weapons used to perform murder, it reveals that most murder weere conducted using handguns.
+![cali_murder_weapons](https://cloud.githubusercontent.com/assets/18182515/25310306/938ec80a-27af-11e7-8a32-60cbd8321448.png)
 Image: Pie chart to represent the weapons used while murdering
 Output
 [Cali_murder_weapons.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
-- We will now analyse the NYtimes articles released about California to identify reason for such sudden gruesome atmoshpehere. Initial analysis close to gun killing in California from the articles published from NYTimes, we try to create a grpah plot using lines. The graph indicated that most of the reason behind such crime was discrimantion or hate crime followed by frauds and drugs.
 
+- We will now analyse the NYtimes articles released about California to identify reason for such sudden gruesome atmoshpehere. Initial analysis close to gun killing in California from the articles published from NYTimes, we try to create a grpah plot using lines. The graph indicated that most of the reason behind such crime was discrimantion or hate crime followed by frauds and drugs.
+![cali_concerns_1988](https://cloud.githubusercontent.com/assets/18182515/25310302/88cb5f78-27af-11e7-903d-994b35b4c334.png)
 Image: Boxed line chart
 Output
 [Cali_concerns_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+
 > Conclusion/Observations:
 - Hence we can colcude by saying that  in California at this period there was a large amount of discrimination followed by murder and capital punishments. The amount of hate crime was really high during this period along with very less or no gun control. This hence has led to a series of violent crimes in California using handguns.
 
@@ -65,22 +69,23 @@ Output
 Intial analysis shows that a lot of hate crime and less/no gun control has led to a large scale of murder rate in California during 1989 to 1993. We will further analyse the characteristics of these crime perpetuators and the circumstances that led them to these crimes.
 
 - We now try to understand the type of perpetrators by collecting the age group. We ue a bar graph to visualize the data and the results were mind blowing. Major crimes where done by people between the age of 18 to 21. This further hints us the influence of drugs or lack of education by which they tend to follow such cruelsome path.
-
+![crime_perpetrator_cali_1988](https://cloud.githubusercontent.com/assets/18182515/25310332/65a8da42-27b0-11e7-8e5a-eeccc392d6b8.png)
 Image: Bar graph to depict age vs crime rate
 Output
 [Crime_perpetrator_Cali_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+
 - Now we have to understand if the reasons we thought about have any infulence on all genders. Identifying the sex of the perpetrator using a pie chart it shows that most of the crimes were done by men and women's contribution were miniscual.
 
 Image: Pie chart
 Output
 [Crime_perpetrator_Cali_sex_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
 - Since during one of our previous analysis it was proved that discrimination was one of the major concerns during this particular period, we will try to group data according to race and attempts to make some sense out of it. We will use a simple line chart to visualise the data. The results show that black people were the most among early 20's people who used to perform crimes in California, hence our assumption of hate crime existing at California was right.  
-
+![cali_crime_perpetrator_race_1988](https://cloud.githubusercontent.com/assets/18182515/25310333/65a999fa-27b0-11e7-9bac-bd5a6b98d793.png)
 Image: Line chart
 Output
 [Cali_crime_perpetrator_race_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
 - We can further strongify our conclusion by finding the race of the victims who were murdered by black people. We will use a Facet grid to estimate the amount of attack done by black on other races. The results shows that there used to be more internal conflicts among blacks followed by attack on white.
-
+![race_wars_cali_1988](https://cloud.githubusercontent.com/assets/18182515/25310335/65aa3db0-27b0-11e7-9fbc-3d0574d9ea26.png)
 Image: Facet grid
 Output
 [Race_wars_Cali_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)

@@ -1,4 +1,4 @@
-###Final Exam 2017 : California Crime Analysis(1980 - 2000)
+### Final Exam 2017 : California Crime Analysis(1980 - 2000)
 
 For the detailed analysis of this topic I have resided to NYTimesAPI article search. The data has been retrieved abd stored as per the requirement. Along with this we will be using few datasets povided by Kaggle. 
 

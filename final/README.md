@@ -8,24 +8,24 @@ Identify the state with highest crime record from 1980 to 2000. Also, identify t
 > Key notes in analysis:
 The analysis revolves around basically two data sets provided by Kaggle along with NYTimes API. We follow the below procedure to get the result of our first analysis:  
 - Analysis begins with identifying the state with max average crime rate from 1980 to 2000. A spectral helps us to identify that California is one of the states with high crime rate in US.
-
+![murder_rate_states](https://cloud.githubusercontent.com/assets/18182515/25310269/d83a3350-27ae-11e7-9e8b-d9a4c54ab4d5.png)
 Image : Spectral map of crime rate across US
 Output
 [Murder_rate_states.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
-- From the initial analysis of GlobalLandTemperaturesByState we reach the conclusion that during the months of Jun - Sep the average temperature is high around all states in United States.  
 
+- From the initial analysis of GlobalLandTemperaturesByState we reach the conclusion that during the months of Jun - Sep the average temperature is high around all states in United States.  
+![maxaveragetemp](https://cloud.githubusercontent.com/assets/18182515/25310267/cf565fac-27ae-11e7-96b3-398d949f5154.png)  
 Image : Average temperature around US in a fiscal calendar
 Output
 [Monthyly_avg_tmp.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
-- Now we do our analysis and try to obtain a data matrix of average weather around the calendar in United States from 1980 to 2000. A heatmap can be used to accurately visualize the temperature pattern across California.
 
+- Now we do our analysis and try to obtain a data matrix of average weather around the calendar in United States from 1980 to 2000. A heatmap can be used to accurately visualize the temperature pattern across California.
+![monthly_temp_1980_20](https://cloud.githubusercontent.com/assets/18182515/25310268/d29b6c20-27ae-11e7-8f8c-5347e499438b.png)
 Image : HeatMap of average temperature across various months from 1980 to 2000.
 Output
 [Monthly_temp_1980_20.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
 - Similarly we create a heatmap to visually understand the crime pattern(if one exists) across California from 1980 to 2000.
-
-[https://cloud.githubusercontent.com/assets/18182515/25310264/bc9c28e2-27ae-11e7-85f9-850c3cad32bf.png]
-
+![homicide_california](https://cloud.githubusercontent.com/assets/18182515/25310264/bc9c28e2-27ae-11e7-85f9-850c3cad32bf.png)
 Image: HeatMap of crime across California
 Output
 [Homicide_california.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)

@@ -24,6 +24,8 @@ Output
 [Monthly_temp_1980_20.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
 - Similarly we create a heatmap to visually understand the crime pattern(if one exists) across California from 1980 to 2000.
 
+[https://cloud.githubusercontent.com/assets/18182515/25310264/bc9c28e2-27ae-11e7-85f9-850c3cad32bf.png]
+
 Image: HeatMap of crime across California
 Output
 [Homicide_california.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)

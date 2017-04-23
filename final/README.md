@@ -97,17 +97,19 @@ Output
 Analysing the crime after 1995 with crime during 1988.
 
 - Our intial analysis will be to identify rate at which crime was happening during 1990's by people of various ages. Our analysis using bar plot indicates that crime rate was plummed down after 1995. This could be because of various gun laws which was passed by the state inorder to prevent the gun usage.
-
+![crime_comparison_1988_1995_by_age](https://cloud.githubusercontent.com/assets/18182515/25310369/e1a02cd6-27b0-11e7-9efd-3fd6df316ba9.png)
 Image: Facet grid age vs crime rate
 Output
 [Crime_comparison_1988_1995_by_age.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
-- We can hence also comapre the amount of incidents happened after 1995 using guns. A plot using bars shows that a good amount of crime rate dropped during mid 90's.  
 
+- We can hence also comapre the amount of incidents happened after 1995 using guns. A plot using bars shows that a good amount of crime rate dropped during mid 90's.  
+![crime_comparison_1988_1995_by_weapon](https://cloud.githubusercontent.com/assets/18182515/25310368/e19eff6e-27b0-11e7-93b9-4f288e28dd25.png)
 Image: Facet grid weapon vs crima rate
 Output
 [Crime_comparison_1988_1995_by_weapon.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
-- Analysing the data sets to verify if new gun regulations where introduced or not, which inturn led to a drop in gun use in California. We analyse the articles released during both the times and do a comparison. After using a bar graph it shows that eventhough the law and regulation were discussed almost at the same pace there was a tremendous increase in the discussion of referrendums and schooling and education in California.
 
+- Analysing the data sets to verify if new gun regulations where introduced or not, which inturn led to a drop in gun use in California. We analyse the articles released during both the times and do a comparison. After using a bar graph it shows that eventhough the law and regulation were discussed almost at the same pace there was a tremendous increase in the discussion of referrendums and schooling and education in California.
+![article_comparison_1988_1995](https://cloud.githubusercontent.com/assets/18182515/25310367/e19c4bd4-27b0-11e7-9ee8-68e8f26c70ae.png)
 Image: Facet grid - rate at which newer topics were discussed
 Output
 [article_comparison_1988_1995.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)

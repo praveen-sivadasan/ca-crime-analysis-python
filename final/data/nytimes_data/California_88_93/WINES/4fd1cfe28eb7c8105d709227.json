@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/13/garden/wine-talk-158092.html",
+    "snippet": "BEAULIEU VINEYARD, in the Napa Valley, has long been emblematic of the finest California wine-making traditions. Its signature wine, Georges de Latour Private Reserve, first made in the late 1930's, is a benchmark by which other cabernets are judg...",
+    "lead_paragraph": "BEAULIEU VINEYARD, in the Napa Valley, has long been emblematic of the finest California wine-making traditions. Its signature wine, Georges de Latour Private Reserve, first made in the late 1930's, is a benchmark by which other cabernets are judged. Across the highway from Beaulieu, in the little town of Rutherford, Calif., is Inglenook, whose wines were winning prizes in this country and abroad half a century before the first Beaulieu Private Reserve came to market. Inglenook first made wine -- 80,000 gallons of it -- in 1882. The owner was Capt. Gustave Niebaum, a Finnish seaman who had made a fortune in the Alaska fur trade and had bought the vineyard five years earlier.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INGLENOOK VINEYARD"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1992-05-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cfe28eb7c8105d709227",
+    "word_count": 1087,
+    "slideshow_credits": null
+}

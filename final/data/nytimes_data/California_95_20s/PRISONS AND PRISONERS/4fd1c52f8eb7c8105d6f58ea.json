@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/01/nyregion/on-sunday-on-the-outside-looking-back-inside-prison.html",
+    "snippet": "THE hot new magazine editor in town has a criminal record and a captive readership, which he more correctly refers to as a \"captured\" market: the nation's prison population, 1.5 million and growing. Its members spend more than $2 billion a year on...",
+    "lead_paragraph": "THE hot new magazine editor in town has a criminal record and a captive readership, which he more correctly refers to as a \"captured\" market: the nation's prison population, 1.5 million and growing. Its members spend more than $2 billion a year on commissary purchases alone before they clip mail orders from magazines for things yearned for from afar. \"They read a lot and buy a lot,\" notes Richard Stratton, editor in chief of Prison Life, a gritty new publication that presents an inside look at the nation's prison culture by tapping the experience of \"behind bars\" writers and \"free world\" contributors who, like Mr. Stratton and his wife, Kim Wozencraft, the magazine's editor at large, are back outside prison.",
+    "abstract": null,
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "On Sunday; On the Outside Looking Back Inside Prison"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WOZENCRAFT, KIM"
+        },
+        {
+            "name": "persons",
+            "value": "STRATTON, RICHARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PRISON LIFE"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "CENSORSHIP"
+        },
+        {
+            "name": "subject",
+            "value": "MAGAZINES"
+        }
+    ],
+    "pub_date": "1995-01-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk;",
+    "section_name": "New York and Region",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Francis",
+                "middlename": "X.",
+                "lastname": "CLINES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANCIS X. CLINES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c52f8eb7c8105d6f58ea",
+    "word_count": 710,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/19/us/weather-diverts-shuttle-to-landing-in-california.html",
+    "snippet": "The space shuttle Discovery streaked over the Central Valley of California in the dark early today and landed under searchlights after a mission to launch a satellite to study Earth's atmosphere.   Clouds and a threat of rain diverted the shuttle ...",
+    "lead_paragraph": "The space shuttle Discovery streaked over the Central Valley of California in the dark early today and landed under searchlights after a mission to launch a satellite to study Earth's atmosphere. Clouds and a threat of rain diverted the shuttle from a planned landing at the Kennedy Space Center on Cape Canaveral, Fla., where 600 spectators waited in vain.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Weather Diverts Shuttle to Landing in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KENNEDY SPACE CENTER"
+        },
+        {
+            "name": "subject",
+            "value": "SPACE"
+        },
+        {
+            "name": "subject",
+            "value": "SPACE SHUTTLE"
+        },
+        {
+            "name": "subject",
+            "value": "DISCOVERY (SPACE SHUTTLE)"
+        }
+    ],
+    "pub_date": "1991-09-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d3468eb7c8105d70f807",
+    "word_count": 487,
+    "slideshow_credits": null
+}

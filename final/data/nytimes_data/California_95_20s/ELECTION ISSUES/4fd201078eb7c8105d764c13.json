@@ -1,0 +1,82 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/17/us/2000-campaign-california-emotions-spending-run-high-one-close-house-contest.html",
+    "snippet": "The school auditorium was packed and sweaty, and an overflow line snaked out the door with a small-town feel. But the crowd had come to witness a big-time race, the first joint appearance of Representative James E. Rogan, one of the House Republic...",
+    "lead_paragraph": "The school auditorium was packed and sweaty, and an overflow line snaked out the door with a small-town feel. But the crowd had come to witness a big-time race, the first joint appearance of Representative James E. Rogan, one of the House Republican managers of the impeachment case against President Clinton, and his Democratic challenger, State Senator Adam Schiff. It was not a debate, exactly, just a series of answers to precirculated questions on topics like Medicare, Social Security, crime and education at a forum sponsored by several local chambers of commerce in this suburban Los Angeles district. But by the time the talking -- and the cheering and booing -- was over, it was easy enough to see why this close and bitter showdown will be the most expensive House race in the nation this year, with perhaps $10 million in spending by the candidates alone, plus more by outside groups.",
+    "abstract": "Rep James E Rogan faces tough re-election challenge in California from State Sen Adam Schiff; close and bitter showdown will be most expensive House race in nation this year, with candidates spending perhaps $10 million and outside groups spending more; Rogan's role as one of House Republican managers of Pres Clinton's impeachment has energized Democratic support for Schiff in increasingly Democratic district (M)",
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Emotions and Spending Run High in One Close House Contest",
+        "kicker": "THE 2000 CAMPAIGN: CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "SCHIFF, ADAM"
+        },
+        {
+            "name": "persons",
+            "value": "ROGAN, JAMES E"
+        },
+        {
+            "name": "persons",
+            "value": "LEWINSKY, MONICA S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "IMPEACHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "2000-09-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.; Washington",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd201078eb7c8105d764c13",
+    "word_count": 1028,
+    "slideshow_credits": null
+}

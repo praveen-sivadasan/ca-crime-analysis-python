@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/16/us/governor-urges-new-water-cuts-by-californians.html",
+    "snippet": "In his first, rather cautious response to the drought gripping California, the state's new Governor today called on all communities to cut their water use by half, created a \"water bank\" to transfer water to the neediest areas and asked the Legisl...",
+    "lead_paragraph": "In his first, rather cautious response to the drought gripping California, the state's new Governor today called on all communities to cut their water use by half, created a \"water bank\" to transfer water to the neediest areas and asked the Legislature to establish a $100 million drought fund. But the Governor, Pete Wilson, stopped short of invoking emergency powers to take sterner measures, saying he preferred to allow the local authorities to act first.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Governor Urges New Water Cuts By Californians"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        }
+    ],
+    "pub_date": "1991-02-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19e9e8eb7c8105d6b1a02",
+    "word_count": 1163,
+    "slideshow_credits": null
+}

@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/03/us/california-s-fiscal-crisis-tests-government-s-role.html",
+    "snippet": "Facing a budget shortfall wider than ever before encountered by a state, the government of California has been plunged into a deep crisis that many lawmakers say could force a fundamental restructuring of government in the nation's most populous s...",
+    "lead_paragraph": "Facing a budget shortfall wider than ever before encountered by a state, the government of California has been plunged into a deep crisis that many lawmakers say could force a fundamental restructuring of government in the nation's most populous state. Gov. Pete Wilson, a Republican, huddled with legislative leaders of both parties today at the Capitol in Sacramento to confront a gap of $12.6 billion between spending and expected revenue in the state's budgets for this fiscal year and the next.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Fiscal Crisis Tests Government's Role"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1991-04-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19e188eb7c8105d6b0979",
+    "word_count": 1103,
+    "slideshow_credits": null
+}

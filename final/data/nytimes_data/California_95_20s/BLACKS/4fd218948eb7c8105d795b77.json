@@ -1,0 +1,92 @@
+{
+    "web_url": "https://www.nytimes.com/1999/02/03/us/civil-rights-groups-suing-berkeley-over-admissions-policy.html",
+    "snippet": "Five civil rights organizations have sued the University of California at Berkeley on behalf of more than 750 black, Hispanic and Filipino-American students for what they say are discriminatory policies that deny admissions to disadvantaged member...",
+    "lead_paragraph": "Five civil rights organizations have sued the University of California at Berkeley on behalf of more than 750 black, Hispanic and Filipino-American students for what they say are discriminatory policies that deny admissions to disadvantaged members of minorities with excellent academic records. The lawsuit, filed today in Federal District Court, argues that Berkeley has an admissions policy that gives more consideration to applicants who take advanced-placement classes that are not available to all California high school students.",
+    "abstract": "Five civil rights organizations sue University of California at Berkeley on behalf of more than 750 black, Hispanic and Filipino-American students, over alleged discriminatory policies that deny admissions to minorities with 'excellent' academic records; argues that Berkeley gives preference for advanced-placement tests not available to all California students (S)",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Civil Rights Groups Suing Berkeley Over Admissions Policy"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GRADING OF STUDENTS"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "ADMISSIONS STANDARDS"
+        },
+        {
+            "name": "subject",
+            "value": "FILIPINO-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        }
+    ],
+    "pub_date": "1999-02-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Evelyn",
+                "rank": 1,
+                "lastname": "NIEVES"
+            }
+        ],
+        "original": "By EVELYN NIEVES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd218948eb7c8105d795b77",
+    "word_count": 750,
+    "slideshow_credits": null
+}

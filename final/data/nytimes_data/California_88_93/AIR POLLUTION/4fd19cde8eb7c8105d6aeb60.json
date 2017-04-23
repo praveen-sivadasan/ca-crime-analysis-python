@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/06/business/give-me-your-tired-your-rusty.html",
+    "snippet": "LEAD: They arrived at the Unocal junkyard 120 a day, creaking, wobbling, belching acrid blue smoke. A battered Chevy pickup with a door so corroded it threatened to fall off when slammed. A tired Ford LTD that left a trail of black haze....",
+    "lead_paragraph": "LEAD: They arrived at the Unocal junkyard 120 a day, creaking, wobbling, belching acrid blue smoke. A battered Chevy pickup with a door so corroded it threatened to fall off when slammed. A tired Ford LTD that left a trail of black haze.",
+    "abstract": null,
+    "print_page": "31",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Give Me Your Tired, Your Rusty . . ."
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNOCAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "TRUCKS AND TRUCKING"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1990-10-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "LEV"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL LEV, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19cde8eb7c8105d6aeb60",
+    "word_count": 819,
+    "slideshow_credits": null
+}

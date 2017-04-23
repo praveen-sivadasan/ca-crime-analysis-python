@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/01/14/us/california-moves-to-bolster-teaching-of-evolution.html",
+    "snippet": "LEAD: The California Board of Education today unanimously adopted a policy intended to strengthen the teaching of evolution in California schools and in textbooks purchased by the state....",
+    "lead_paragraph": "LEAD: The California Board of Education today unanimously adopted a policy intended to strengthen the teaching of evolution in California schools and in textbooks purchased by the state.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Moves to Bolster Teaching of Evolution"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "RELIGION AND CHURCHES"
+        },
+        {
+            "name": "subject",
+            "value": "EVOLUTION"
+        }
+    ],
+    "pub_date": "1989-01-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a1c28eb7c8105d6b78aa",
+    "word_count": 415,
+    "slideshow_credits": null
+}

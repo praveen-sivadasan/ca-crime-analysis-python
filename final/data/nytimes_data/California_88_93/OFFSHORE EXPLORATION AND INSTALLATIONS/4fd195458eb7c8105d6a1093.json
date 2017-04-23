@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1989/07/26/us/senate-panel-votes-to-limit-oil-tankers.html",
+    "snippet": "LEAD: A decadelong contest over offshore oil drilling erupted anew today when a Senate committee voted to keep tankers out of areas where drilling and other oil activity are banned....",
+    "lead_paragraph": "LEAD: A decadelong contest over offshore oil drilling erupted anew today when a Senate committee voted to keep tankers out of areas where drilling and other oil activity are banned.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Senate Panel Votes to Limit Oil Tankers"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUJAN, MANUEL JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERIOR, DEPARTMENT OF THE"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE COMMITTEE ON APPROPRIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "WATER POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "OFFSHORE EXPLORATION AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "TANKERS"
+        }
+    ],
+    "pub_date": "1989-07-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Philip",
+                "rank": 1,
+                "lastname": "SHABECOFF"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By PHILIP SHABECOFF, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd195458eb7c8105d6a1093",
+    "word_count": 646,
+    "slideshow_credits": null
+}

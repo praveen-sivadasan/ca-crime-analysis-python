@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/20/business/california-regulator-takes-top-role-in-insurance-crisis.html",
+    "snippet": "John Garamendi, California's first elected Insurance Commissioner, stood before 500 angry policyholders of the failed Executive Life Insurance Company, answering their questions, trying to soothe their fears and getting a warm response when he pro...",
+    "lead_paragraph": "John Garamendi, California's first elected Insurance Commissioner, stood before 500 angry policyholders of the failed Executive Life Insurance Company, answering their questions, trying to soothe their fears and getting a warm response when he promised, \"I'm working for you.\" But almost in the next breath, Mr. Garamendi felt compelled to add that \"I'm no miracle worker\" when it comes to salvaging the wreckage of Executive Life.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Regulator Takes Top Role in Insurance Crisis"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GARAMENDI, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST EXECUTIVE CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+        }
+    ],
+    "pub_date": "1991-05-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cfb28eb7c8105d7087d7",
+    "word_count": 1137,
+    "slideshow_credits": null
+}

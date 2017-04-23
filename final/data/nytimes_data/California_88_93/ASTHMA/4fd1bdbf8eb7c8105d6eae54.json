@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/15/us/mother-who-smokes-loses-custody-of-asthmatic-girl.html",
+    "snippet": "A mother who smokes cigarettes was ordered by a judge today to give up custody of her 8-year-old asthmatic daughter because the child was in danger from the smoke.   The girl's father, Steve Masone, who has been seeking custody since a 1987 divorc...",
+    "lead_paragraph": "A mother who smokes cigarettes was ordered by a judge today to give up custody of her 8-year-old asthmatic daughter because the child was in danger from the smoke. The girl's father, Steve Masone, who has been seeking custody since a 1987 divorce, contended that the smoking of the mother, Susan Tanner, was making the girl's asthma worse. Ms. Tanner denied smoking near the girl.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Mother Who Smokes Loses Custody of Asthmatic Girl"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MASONE, STEVE"
+        },
+        {
+            "name": "persons",
+            "value": "TANNER, SUSAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILD CUSTODY AND SUPPORT"
+        },
+        {
+            "name": "subject",
+            "value": "ASTHMA"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING"
+        }
+    ],
+    "pub_date": "1993-10-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1bdbf8eb7c8105d6eae54",
+    "word_count": 80,
+    "slideshow_credits": null
+}

@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1993/05/13/nyregion/tradeoffs-and-benefits-of-a-california-hmo.html",
+    "snippet": "The health-care delivery system that is being hailed as the wave of the future is the only system Dr. Rhoda Nussbaum has ever known. Since graduating from medical school in 1982, she has been a salaried obstetrician-gynecologist in San Francisco, ...",
+    "lead_paragraph": "The health-care delivery system that is being hailed as the wave of the future is the only system Dr. Rhoda Nussbaum has ever known. Since graduating from medical school in 1982, she has been a salaried obstetrician-gynecologist in San Francisco, on the staff of a health maintenance organization. That was the same year Dr. Bruce H. Yaffe, a Manhattan internist, opened his private practice. He, like many doctors and patients in the New York area, has not had experience with the H.M.O.'s that Dr. Nussbaum finds so familiar, and he is worried about his future and the future of American medicine.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tradeoffs and Benefits of a California H.M.O."
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KAISER-PERMANENTE MEDICAL CARE PROGRAM"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1993-05-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Health; New York and Region",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Lisa",
+                "rank": 1,
+                "lastname": "BELKIN"
+            }
+        ],
+        "original": "By LISA BELKIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ddc78eb7c8105d7207f0",
+    "word_count": 709,
+    "slideshow_credits": null
+}

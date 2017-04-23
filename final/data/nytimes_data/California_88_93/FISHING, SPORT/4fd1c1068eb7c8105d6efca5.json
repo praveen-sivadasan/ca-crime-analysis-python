@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/07/us/16-foot-great-white-is-caught.html",
+    "snippet": "LEAD: Two brothers fishing off the Southern California coast on Tuesday caught a great white shark measuring 16 feet 5 inches and weighing about 3,000 pounds. Pete and John Busalacchi, both of San Diego, were fishing with nets when they caught the...",
+    "lead_paragraph": "LEAD: Two brothers fishing off the Southern California coast on Tuesday caught a great white shark measuring 16 feet 5 inches and weighing about 3,000 pounds. Pete and John Busalacchi, both of San Diego, were fishing with nets when they caught the great white, about 25 miles west of Point Loma. Great whites are not uncommon in waters off the California coast, but few that size have been netted and brought ashore.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "16-Foot Great White Is Caught"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FISHING, SPORT"
+        },
+        {
+            "name": "subject",
+            "value": "FISH AND OTHER MARINE LIFE"
+        }
+    ],
+    "pub_date": "1990-09-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c1068eb7c8105d6efca5",
+    "word_count": 72,
+    "slideshow_credits": null
+}

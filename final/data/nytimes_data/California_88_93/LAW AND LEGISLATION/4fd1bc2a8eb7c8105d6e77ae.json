@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/19/news/at-the-bar.html",
+    "snippet": "Bernard E. Witkin, the man who knows more about California law than anyone alive, was speaking about all the \"adulation sessions\" being held for him these days. \"They're becoming more frequent as people take a more realistic view of my limited lif...",
+    "lead_paragraph": "Bernard E. Witkin, the man who knows more about California law than anyone alive, was speaking about all the \"adulation sessions\" being held for him these days. \"They're becoming more frequent as people take a more realistic view of my limited life expectancy,\" he said. At a love-in given by the Alameda County Bar Association, the 89-year-old Mr. Witkin confronted his own mortality. \"I told them, 'The race is nearly over, and it's time for me to turn over my task to others,' and there was a deadly silence,\" he recalled. \" 'I have decided to retire' -- I paused in order to let the silence grow more deadly -- 'in the year 2001.' \"",
+    "abstract": null,
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "At the Bar"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "THE LAW PAGE (NYT)"
+        },
+        {
+            "name": "persons",
+            "value": "WITKIN, BERNARD E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LAWYERS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "LEGAL PROFESSION"
+        }
+    ],
+    "pub_date": "1993-11-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": null,
+    "section_name": null,
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "David",
+                "rank": 1,
+                "lastname": "Margolick"
+            }
+        ],
+        "original": "By David Margolick"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1bc2a8eb7c8105d6e77ae",
+    "word_count": 1040,
+    "slideshow_credits": null
+}

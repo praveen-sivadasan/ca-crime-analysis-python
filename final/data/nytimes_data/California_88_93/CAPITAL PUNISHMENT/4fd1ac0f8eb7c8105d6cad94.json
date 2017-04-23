@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/24/us/condemned-killer-to-get-hearing.html",
+    "snippet": "Gov. Pete Wilson said today that he would hold a clemency hearing for the convicted murderer Robert Alton Harris, who is scheduled to be executed next month for killing two San Diego teen-agers in 1978.   In his 13 years on death row, Mr. Harris, ...",
+    "lead_paragraph": "Gov. Pete Wilson said today that he would hold a clemency hearing for the convicted murderer Robert Alton Harris, who is scheduled to be executed next month for killing two San Diego teen-agers in 1978. In his 13 years on death row, Mr. Harris, 39 years old, has blocked four execution dates through various court proceedings. Earlier this month, a Federal appellate court refused to block a fifth date, and April 21 was set for the execution. It would be the first execution in California in 25 years.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Condemned Killer to Get Hearing"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1992-03-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ac0f8eb7c8105d6cad94",
+    "word_count": 248,
+    "slideshow_credits": null
+}

@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/03/us/california-questioning-clinton-s-promise-of-aid.html",
+    "snippet": "When President Clinton arrives in California on Sunday evening for his second visit in a month, he will find growing impatience and political rancor over his Administration's response to the battered local economy.   Increasingly, even strong back...",
+    "lead_paragraph": "When President Clinton arrives in California on Sunday evening for his second visit in a month, he will find growing impatience and political rancor over his Administration's response to the battered local economy. Increasingly, even strong backers of the President among business and political leaders here are saying he must act quickly to reverse California's deepening slide into recession or risk losing the most populous state's 54 electoral votes in 1996.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Questioning Clinton's Promise of Aid"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, RONALD H"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "RECESSION AND DEPRESSION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "FEDERAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1993-10-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e9eb8eb7c8105d738cff",
+    "word_count": 1195,
+    "slideshow_credits": null
+}

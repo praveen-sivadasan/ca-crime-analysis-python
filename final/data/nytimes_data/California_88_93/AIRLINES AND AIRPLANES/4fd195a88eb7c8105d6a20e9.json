@@ -1,0 +1,89 @@
+{
+    "web_url": "https://www.nytimes.com/1990/07/03/us/economic-pulse-southern-california-test-for-peace-dividend-boom-bust-california.html",
+    "snippet": "LEAD: Southern California, perhaps more than any other region, offers a clear test of the American economy's capacity to convert from military to peaceful purposes....",
+    "lead_paragraph": "LEAD: Southern California, perhaps more than any other region, offers a clear test of the American economy's capacity to convert from military to peaceful purposes.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Economic Pulse; Southern California;   Test for Peace Dividend: Boom or Bust in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "DEFENSE CONTRACTS"
+        },
+        {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+        },
+        {
+            "name": "subject",
+            "value": "POPULATION"
+        },
+        {
+            "name": "subject",
+            "value": "AEROSPACE INDUSTRIES AND SCIENCES"
+        },
+        {
+            "name": "subject",
+            "value": "ASTRONAUTICS"
+        },
+        {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1990-07-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "Special Report",
+    "_id": "4fd195a88eb7c8105d6a20e9",
+    "word_count": 2893,
+    "slideshow_credits": null
+}

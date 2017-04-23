@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/05/magazine/open-house.html",
+    "snippet": "For much of the 20th century, Southern California has been the epicenter of cutting-edge domestic architecture in America. In particular, the houses built there from the 1930's through the 1960's defined modernism's golden age. They offered plenty...",
+    "lead_paragraph": "For much of the 20th century, Southern California has been the epicenter of cutting-edge domestic architecture in America. In particular, the houses built there from the 1930's through the 1960's defined modernism's golden age. They offered plenty of unadorned, open space, abundant natural light through large expanses of glass and a refreshing sense of connection to the outdoors. Moreover, their architects firmly believed in the salutary powers of design: modernize your house, and your life will follow. Few architects followed these precepts with such elegant results as Richard Neutra (1892-1970), the Viennese native who designed scores of houses in the area, ranging from lavish to modest, that epitomize modern architecture's verve and optimism. And over the last decade, as a new generation of buyers has rediscovered modernism's appeal, Neutra houses have acquired a particular cachet.",
+    "abstract": "Houses built in Southern California from 1930's through 1960's defined modernism's golden age; they offered unadorned, open space, abundant natural light through large expanses of glass and refreshing sense of connecting to outdoors; their architects firmly believed in salutary powers of design; homes built by Richard Neutra epitomize modern architecture's verve and optimism; photos and decriptions of Neutra house in Glendale, Calif, bought by Disney executive John Solomon (special section, Home Design) (part 2 of 2-part section) (M)",
+    "print_page": "43",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Open House"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SOLOMON, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "NEUTRA, RICHARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        }
+    ],
+    "pub_date": "1998-04-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Home Design Magazine",
+    "section_name": "Home and Garden; Arts; Style; Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Pilar",
+                "rank": 1,
+                "lastname": "Viladas"
+            }
+        ],
+        "original": "By Pilar Viladas"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2053f8eb7c8105d76d8b9",
+    "word_count": 384,
+    "slideshow_credits": null
+}

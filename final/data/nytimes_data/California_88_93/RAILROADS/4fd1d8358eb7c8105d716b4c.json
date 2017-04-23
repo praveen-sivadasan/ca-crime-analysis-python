@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1992/11/04/business/company-news-santa-fe-pacific-will-sell-some-california-lines.html",
+    "snippet": "The Santa Fe Pacific Corporation said yesterday that it was selling 340 miles of rail lines to public transportation agencies in Southern California for $500 million. The sale is part of an effort to build a commuter line stretching from Los Angel...",
+    "lead_paragraph": "The Santa Fe Pacific Corporation said yesterday that it was selling 340 miles of rail lines to public transportation agencies in Southern California for $500 million. The sale is part of an effort to build a commuter line stretching from Los Angeles to San Bernardino and from Los Angeles to San Diego, a Santa Fe spokeswoman said. Both freight and commuter lines will run on the tracks.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "SANTA FE PACIFIC WILL SELL SOME CALIFORNIA LINES",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SANTA FE PACIFIC CORP"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "RAILROADS"
+        }
+    ],
+    "pub_date": "1992-11-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d8358eb7c8105d716b4c",
+    "word_count": 69,
+    "slideshow_credits": null
+}

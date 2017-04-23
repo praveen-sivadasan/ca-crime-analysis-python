@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1993/01/08/business/epa-waiver-on-emissions.html",
+    "snippet": "The Federal Environmental Protection Agency granted a waiver today for California's low-emission vehicle program, allowing the state to phase in and enforce tougher emission standards for cars and trucks beginning with 1994 models.    \"California ...",
+    "lead_paragraph": "The Federal Environmental Protection Agency granted a waiver today for California's low-emission vehicle program, allowing the state to phase in and enforce tougher emission standards for cars and trucks beginning with 1994 models. \"California has the worst ozone and carbon-monoxide problems in the nation,\" said William K. Reilly, the E.P.A. Administrator. \"This waiver lets California continue to carry out strong emission-control programs necessary to protect the health of its citizens.\"",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "E.P.A. Waiver On Emissions"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ENVIRONMENTAL PROTECTION AGENCY"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "TRUCKS AND TRUCKING"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1993-01-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1db8e8eb7c8105d71c977",
+    "word_count": 110,
+    "slideshow_credits": null
+}

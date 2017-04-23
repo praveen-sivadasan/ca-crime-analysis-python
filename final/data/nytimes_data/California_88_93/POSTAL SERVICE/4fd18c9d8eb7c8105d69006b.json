@@ -1,0 +1,97 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/13/us/army-plan-to-mail-warfare-toxins-draws-protest.html",
+    "snippet": "LEAD: An Army plan to ship biological warfare substances through the mail and by courier services has ignited protests and is bringing to public attention the fact that infectious agents like these are already routinely shipped....",
+    "lead_paragraph": "LEAD: An Army plan to ship biological warfare substances through the mail and by courier services has ignited protests and is bringing to public attention the fact that infectious agents like these are already routinely shipped.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Army Plan to Mail Warfare Toxins Draws Protest"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CENTERS FOR DISEASE CONTROL"
+        },
+        {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+        },
+        {
+            "name": "subject",
+            "value": "CHEMICALS"
+        },
+        {
+            "name": "subject",
+            "value": "CONTAINERS AND PACKAGING"
+        },
+        {
+            "name": "subject",
+            "value": "BACTERIA"
+        },
+        {
+            "name": "subject",
+            "value": "POSTAL SERVICE"
+        },
+        {
+            "name": "subject",
+            "value": "BIOLOGICAL WARFARE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "ARMIES"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        },
+        {
+            "name": "subject",
+            "value": "CONGRESSIONAL INVESTIGATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1988-06-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANDREW POLLACK, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18c9d8eb7c8105d69006b",
+    "word_count": 1450,
+    "slideshow_credits": null
+}

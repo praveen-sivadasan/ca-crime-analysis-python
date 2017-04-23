@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/the-california-quake-healing-message-to-rattled-populace-try-to-talk-about-it.html",
+    "snippet": "LEAD: At Horace Mann Academic Middle School in the Mission District, only a third of the 600 students showed up today for the first day of classes since Tuesday's earthquake....",
+    "lead_paragraph": "LEAD: At Horace Mann Academic Middle School in the Mission District, only a third of the 600 students showed up today for the first day of classes since Tuesday's earthquake.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Message to Rattled Populace: Try to Talk About It",
+        "kicker": "THE CALIFORNIA QUAKE: HEALING"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mireya",
+                "rank": 1,
+                "lastname": "NAVARRO"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MIREYA NAVARRO, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18f358eb7c8105d6956ce",
+    "word_count": 807,
+    "slideshow_credits": null
+}

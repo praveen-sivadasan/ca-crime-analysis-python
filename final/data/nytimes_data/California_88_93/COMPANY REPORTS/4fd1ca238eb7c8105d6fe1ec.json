@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/13/business/wells-fargo-to-set-aside-700-million-for-losses.html",
+    "snippet": "Wells Fargo & Company, the big California bank, said today that it would set aside about $700 million for loan losses, an action that reflects the deepening weakness of California's commercial real estate market.    The San Francisco-based bank, w...",
+    "lead_paragraph": "Wells Fargo & Company, the big California bank, said today that it would set aside about $700 million for loan losses, an action that reflects the deepening weakness of California's commercial real estate market. The San Francisco-based bank, which has an unusually large portfolio of real estate loans, said the action was expected to result in a fourth-quarter loss of more than $200 million. Wells Fargo also announced that it was halving the dividend on its common stock, to 50 cents a share, joining a growing list of banks that have reduced payments to shareholders to conserve capital.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wells Fargo to Set Aside $700 Million for Losses"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLS FARGO & CO"
+        },
+        {
+            "name": "subject",
+            "value": "DIVIDENDS"
+        },
+        {
+            "name": "subject",
+            "value": "REAL ESTATE"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY REPORTS"
+        }
+    ],
+    "pub_date": "1991-12-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ca238eb7c8105d6fe1ec",
+    "word_count": 921,
+    "slideshow_credits": null
+}

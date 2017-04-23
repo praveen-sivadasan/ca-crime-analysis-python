@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/23/business/in-california-enron-curbs-power-sales.html",
+    "snippet": "The Enron Corporation has temporarily stopped trying to sell electricity to residential customers in California, demonstrating the difficulties that many power marketers face in trying to attract business.    Athough about 10 million customers in ...",
+    "lead_paragraph": "The Enron Corporation has temporarily stopped trying to sell electricity to residential customers in California, demonstrating the difficulties that many power marketers face in trying to attract business. Athough about 10 million customers in California are now able to choose their electricity suppliers, fewer than 1 percent have so far decided to switch from their local power companies.",
+    "abstract": "Enron Corp has temporarily stopped trying to sell electricity to residential customers in California, demonstrating difficulties that many power marketers face in trying to attract business; although about 10 million customers in California are able to choose their electricity suppliers, fewer than 1 percent have so far decided to switch from their local power companies; Enron has been able to persuade only about 30,000 customers to switch; Enron chairman-chief executive Lou Pai comments (M)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In California, Enron Curbs Power Sales"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PAI, LOU"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ENRON CORP"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1998-04-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Agis",
+                "rank": 1,
+                "lastname": "SALPUKAS"
+            }
+        ],
+        "original": "By AGIS SALPUKAS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fb888eb7c8105d75a0e0",
+    "word_count": 453,
+    "slideshow_credits": null
+}

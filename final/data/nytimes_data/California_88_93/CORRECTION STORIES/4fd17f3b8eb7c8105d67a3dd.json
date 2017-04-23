@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/02/nyregion/c-corrections-327788.html",
+    "snippet": "LEAD: A picture caption yesterday with an article about a California proposal to limit campaign spending described Walter Zelman and the other pictured volunteers incorrectly. They are working on behalf of the proposal....",
+    "lead_paragraph": "LEAD: A picture caption yesterday with an article about a California proposal to limit campaign spending described Walter Zelman and the other pictured volunteers incorrectly. They are working on behalf of the proposal.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAHLEN & ASSOCIATES"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1988-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd17f3b8eb7c8105d67a3dd",
+    "word_count": 94,
+    "slideshow_credits": null
+}

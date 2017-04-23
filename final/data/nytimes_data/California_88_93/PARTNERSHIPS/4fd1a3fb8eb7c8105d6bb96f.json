@@ -1,0 +1,63 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/18/business/investing-the-rising-allure-of-the-vineyards.html",
+    "snippet": "LEAD: For the past few years,the shareholders of Chalone Inc., the first and still the only publicly traded premium wine company, had little cause to rejoice, except for the sumptuous lunch and wine tasting that always followed the company's annua...",
+    "lead_paragraph": "LEAD: For the past few years,the shareholders of Chalone Inc., the first and still the only publicly traded premium wine company, had little cause to rejoice, except for the sumptuous lunch and wine tasting that always followed the company's annual meeting.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Rising Allure of the Vineyards",
+        "kicker": "INVESTING"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHALONE INC"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS (CORPORATE)"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "PARTNERSHIPS"
+        },
+        {
+            "name": "subject",
+            "value": "INVESTMENT STRATEGIES"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        }
+    ],
+    "pub_date": "1989-06-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By Lawrence M. Fisher"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a3fb8eb7c8105d6bb96f",
+    "word_count": 970,
+    "slideshow_credits": null
+}

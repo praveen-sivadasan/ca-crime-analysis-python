@@ -1,0 +1,16 @@
+[uri]
+link = https://api.nytimes.com/svc/search/v2/articlesearch.json
+
+[api_key]
+key = 6c988f2272a04ae0a3065c0a0c463499
+
+[parameters]
+q = California
+begin_date = 19950101
+end_date = 20001230
+
+[directory_path]
+dir_0 = ..
+dir_1 = data
+dir_2 = nytimes_data
+dir_3 = California_95_20s

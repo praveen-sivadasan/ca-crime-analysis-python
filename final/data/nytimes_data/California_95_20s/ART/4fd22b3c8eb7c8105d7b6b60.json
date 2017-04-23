@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/2000/10/18/arts/footlights.html",
+    "snippet": "NEWS    Seen Anew  ''Yes Yoko Ono'' is the title of the exhibition that opens today at the Japan House Gallery, at 333 East 47th Street, Manhattan. Billed as the first American retrospective devoted to Ms. Ono's avant-garde art, the show spans 40 ...",
+    "lead_paragraph": "NEWS Seen Anew ''Yes Yoko Ono'' is the title of the exhibition that opens today at the Japan House Gallery, at 333 East 47th Street, Manhattan. Billed as the first American retrospective devoted to Ms. Ono's avant-garde art, the show spans 40 years and features about 150 works. ''Yes'' examines her role in the avant-garde movement Fluxus; her contributions to Conceptual Art in New York, London and Tokyo; her concerts, experimental films, vocal recordings and public art, including works with John Lennon; and her more recent interactive installations and site-specific art. Also represented is her collaborative work with avant-garde figures like John Cage, George Maciunas, Nam June Paik, Charlotte Moorman, Andy Warhol and Ornette Coleman. The show runs through Jan. 14 before a tour destined for Minneapolis; Houston; Cambridge, Mass.; and San Francisco, among other places.",
+    "abstract": "Yes Yoko Ono is title of exhibition that opens on Oct 18 at Japan House Gallery; show is billed as first American retrospective devoted to Ono's avant-garde art; photo; Grolier Club in Manhattan is holding retrospective exhibition of work of German-born illustrator Fritz Kredel, to mark centenary of his birth; exhibition Made in California: Art, Image and Identity, 1900-2000, to run at Los Angeles County Museum of Art through Feb 25; photo; Pete Hamill to read from works of Damon Runyon, at Gotham Readers series under auspices of Museum of City of New York (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "FOOTLIGHTS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "RUNYON, DAMON"
+        },
+        {
+            "name": "persons",
+            "value": "ONO, YOKO"
+        },
+        {
+            "name": "persons",
+            "value": "HAMILL, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "KREDEL, FRITZ"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "JAPAN HOUSE GALLERY"
+        },
+        {
+            "name": "organizations",
+            "value": "GROLIER CLUB"
+        },
+        {
+            "name": "organizations",
+            "value": "LOS ANGELES COUNTY MUSEUM OF ART"
+        },
+        {
+            "name": "subject",
+            "value": "ART"
+        }
+    ],
+    "pub_date": "2000-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "The Arts/Cultural Desk",
+    "section_name": "Arts",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Lawrence",
+                "middlename": "Van",
+                "lastname": "GELDER",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By LAWRENCE VAN GELDER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd22b3c8eb7c8105d7b6b60",
+    "word_count": 411,
+    "slideshow_credits": null
+}

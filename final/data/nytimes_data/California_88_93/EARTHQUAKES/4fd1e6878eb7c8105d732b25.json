@@ -1,0 +1,33 @@
+{
+    "web_url": "https://www.nytimes.com/1993/04/05/us/earthquake-strikes-california.html",
+    "snippet": "A moderate earthquake shook Central California on Saturday evening, but no damage or injuries were reported. The quake, measuring 4.4 on the Richter scale of ground motion, struck about 9:21 P.M., said Pat Jorgenson, a spokeswoman for the United S...",
+    "lead_paragraph": "A moderate earthquake shook Central California on Saturday evening, but no damage or injuries were reported. The quake, measuring 4.4 on the Richter scale of ground motion, struck about 9:21 P.M., said Pat Jorgenson, a spokeswoman for the United States Geological Survey in Menlo Park, Calif. Ms. Jorgenson said the quake was centered about five miles northwest of Parkfield.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Earthquake Strikes California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1993-04-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e6878eb7c8105d732b25",
+    "word_count": 59,
+    "slideshow_credits": null
+}

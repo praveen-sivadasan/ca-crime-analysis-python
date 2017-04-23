@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/01/business/hughes-to-cut-9000-workers-and-write-off-789.4-million.html",
+    "snippet": "The Hughes Aircraft Company said today that it would lay off 9,000 employees, or about 15 percent of its work force, largely because of the rapid decline in Pentagon spending.   The layoffs will come primarily in Southern California, where Hughes ...",
+    "lead_paragraph": "The Hughes Aircraft Company said today that it would lay off 9,000 employees, or about 15 percent of its work force, largely because of the rapid decline in Pentagon spending. The layoffs will come primarily in Southern California, where Hughes is the largest industrial employer, and will be spread over the next 18 months, company officials said.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Hughes to Cut 9,000 Workers And Write Off $789.4 Million"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HUGHES AIRCRAFT CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS (LABOR)"
+        }
+    ],
+    "pub_date": "1992-07-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4108eb7c8105d7110ac",
+    "word_count": 750,
+    "slideshow_credits": null
+}

@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/10/nyregion/a-book-about-wine-a-paperback-of-winners.html",
+    "snippet": "Nearly invisible, a modest, annually updated paperback, ''California Wine Winners,'' has showcased gold nuggets of data on some of America's best wine buys for 18 years. The 232-page 2001 ''Wine Winners'' includes, as the subtitle declares, ''The ...",
+    "lead_paragraph": "Nearly invisible, a modest, annually updated paperback, ''California Wine Winners,'' has showcased gold nuggets of data on some of America's best wine buys for 18 years. The 232-page 2001 ''Wine Winners'' includes, as the subtitle declares, ''The Best of the 2000 Judgings.'' For $9.95 you get a compilation of 2,628 low- and upscale-priced California wines that won special or double gold, gold, silver and bronze medals in major California contests: the Los Angeles and Orange County Fairs, Riverside International, San Francisco International, West Coast Wine Competition, California State Fair, New World International, Pacific Rim International and San Diego Competition.",
+    "abstract": "Comment on guidebook California Wine Winners, annually updated paperback; photo (S)",
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Paperback of Winners",
+        "kicker": "A BOOK ABOUT WINE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        },
+        {
+            "name": "subject",
+            "value": "GUIDEBOOKS"
+        }
+    ],
+    "pub_date": "2000-12-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Westchester Weekly Desk",
+    "section_name": "New York and Region",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Howard",
+                "middlename": "G.",
+                "lastname": "GOLDBERG",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By HOWARD G. GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20f058eb7c8105d7810d3",
+    "word_count": 323,
+    "slideshow_credits": null
+}

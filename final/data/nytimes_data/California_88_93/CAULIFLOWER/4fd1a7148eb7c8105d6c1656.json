@@ -1,0 +1,101 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/28/us/cold-devastates-california-crops-fruit-prices-across-nation-to-rise.html",
+    "snippet": "California's worst winter cold in more than half a century has devastated the state's $8 billion fruit and vegetable industry, and agriculture officials said today that fruit prices around the country would rise as a result.    Farmers called on o...",
+    "lead_paragraph": "California's worst winter cold in more than half a century has devastated the state's $8 billion fruit and vegetable industry, and agriculture officials said today that fruit prices around the country would rise as a result. Farmers called on officials to declare parts of the state a disaster area after a prolonged and widespread freeze that brought record low temperatures to many places. More freezing temperatures are forecast for this weekend and are expected to kill some of the surviving crops.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cold Devastates California Crops; Fruit Prices Across Nation to Rise"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "FLOWERS AND PLANTS"
+        },
+        {
+            "name": "subject",
+            "value": "CAULIFLOWER"
+        },
+        {
+            "name": "subject",
+            "value": "CELERY"
+        },
+        {
+            "name": "subject",
+            "value": "AVOCADOS"
+        },
+        {
+            "name": "subject",
+            "value": "BROCCOLI"
+        },
+        {
+            "name": "subject",
+            "value": "FRUIT"
+        },
+        {
+            "name": "subject",
+            "value": "LETTUCE"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "ARTICHOKES"
+        },
+        {
+            "name": "subject",
+            "value": "VEGETABLES"
+        },
+        {
+            "name": "subject",
+            "value": "CITRUS FRUITS"
+        },
+        {
+            "name": "subject",
+            "value": "CARROTS"
+        },
+        {
+            "name": "subject",
+            "value": "STRAWBERRIES"
+        }
+    ],
+    "pub_date": "1990-12-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7148eb7c8105d6c1656",
+    "word_count": 1115,
+    "slideshow_credits": null
+}

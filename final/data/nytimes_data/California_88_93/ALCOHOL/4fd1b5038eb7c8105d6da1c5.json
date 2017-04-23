@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/02/business/chevron-curbs-in-methanol.html",
+    "snippet": "The Chevron Corporation said today that it would stop installing additional methanol pumps at service stations in California because of low demand for the alternative motor fuel.   The company also said it did not think methanol would help clean t...",
+    "lead_paragraph": "The Chevron Corporation said today that it would stop installing additional methanol pumps at service stations in California because of low demand for the alternative motor fuel. The company also said it did not think methanol would help clean the air. The company is engaged in a study to see if methanol, an alcohol-based fuel, burns cleaner than conventional fuels.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "Chevron Curbs in Methanol"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHEVRON CORP"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOL"
+        }
+    ],
+    "pub_date": "1992-04-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b5038eb7c8105d6da1c5",
+    "word_count": 175,
+    "slideshow_credits": null
+}

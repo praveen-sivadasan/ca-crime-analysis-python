@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/08/us/campaign-trail-perhaps-he-pruned-the-wrong-stop.html",
+    "snippet": "LEAD: What jelly beans are to Ronald Reagan, pork rinds are to George Bush....",
+    "lead_paragraph": "LEAD: What jelly beans are to Ronald Reagan, pork rinds are to George Bush.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Perhaps He Pruned The Wrong Stop",
+        "kicker": "CAMPAIGN TRAIL"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "COELHO, TONY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        }
+    ],
+    "pub_date": "1988-11-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bernard",
+                "rank": 1,
+                "lastname": "Weinraub"
+            }
+        ],
+        "original": "By Bernard Weinraub"
+    },
+    "type_of_material": "News",
+    "_id": "4fd195ea8eb7c8105d6a2450",
+    "word_count": 218,
+    "slideshow_credits": null
+}

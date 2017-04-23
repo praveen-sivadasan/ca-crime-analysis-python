@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/20/business/banks-talk-on-housing.html",
+    "snippet": "LEAD: A consortium of California banks met in Los Angeles today to discuss forming a nonprofit mortgage banking corporation to finance low-cost housing in the state. The California Community Reinvestment Corporation, the lenders' group, said it wo...",
+    "lead_paragraph": "LEAD: A consortium of California banks met in Los Angeles today to discuss forming a nonprofit mortgage banking corporation to finance low-cost housing in the state. The California Community Reinvestment Corporation, the lenders' group, said it would try to pool $100 million from participating banks to provide long-term loans for housing.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Banks Talk On Housing"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MORTGAGES"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        }
+    ],
+    "pub_date": "1988-09-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17b128eb7c8105d67382e",
+    "word_count": 164,
+    "slideshow_credits": null
+}

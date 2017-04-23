@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1998/10/03/us/bilingual-education-lives-after-all.html",
+    "snippet": "Bilingual education in California was supposed to be in a grave by now, essentially killed when residents voted last spring to end it.     The ballot initiative, supported by 61 percent of the voters, sought to  replace 30 years of using Spanish a...",
+    "lead_paragraph": "Bilingual education in California was supposed to be in a grave by now, essentially killed when residents voted last spring to end it. The ballot initiative, supported by 61 percent of the voters, sought to replace 30 years of using Spanish and other foreign languages to help immigrant children in the state learn to read, write and speak English with a method that uses ''nearly all'' English instruction.",
+    "abstract": "Bilingual education clearly continues in California despite voter-approved referendum to replace it with method that uses 'nearly all' English instruction; referendum supporters charge school districts and education bureaucracy resist will of voters, taking advantage of loopholes to preserve method; referendum critics cite confusion, reluctance of some parents and teachers to push children prematurely into English instruction and logistical issues like lack of textbooks; photo (M)",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bilingual Education Lives After All"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BILINGUAL EDUCATION"
+        },
+        {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-10-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Don",
+                "rank": 1,
+                "lastname": "TERRY"
+            }
+        ],
+        "original": "By DON TERRY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd216a88eb7c8105d791363",
+    "word_count": 1654,
+    "slideshow_credits": null
+}

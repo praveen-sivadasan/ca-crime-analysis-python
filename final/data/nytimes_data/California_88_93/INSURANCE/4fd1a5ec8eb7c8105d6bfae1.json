@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/17/business/california-orders-insurance-refunds.html",
+    "snippet": "California regulators today ordered 14 leading insurance companies to refund more than $1.5 billion to consumers under a ballot initiative passed three years ago.    But insurers said they would challenge the order in administrative hearings and i...",
+    "lead_paragraph": "California regulators today ordered 14 leading insurance companies to refund more than $1.5 billion to consumers under a ballot initiative passed three years ago. But insurers said they would challenge the order in administrative hearings and in court, making it unlikely that consumers would receive any money soon.",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Orders Insurance Refunds"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        }
+    ],
+    "pub_date": "1991-10-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a5ec8eb7c8105d6bfae1",
+    "word_count": 479,
+    "slideshow_credits": null
+}

@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/03/us/new-senator-from-california-is-named.html",
+    "snippet": "In a characteristically pragmatic move, Pete Wilson today chose a state Senator noted for his fund-raising abilities to succeed him in the United States Senate when he is sworn in as Governor of California next Monday.   Mr. Wilson's successor, Jo...",
+    "lead_paragraph": "In a characteristically pragmatic move, Pete Wilson today chose a state Senator noted for his fund-raising abilities to succeed him in the United States Senate when he is sworn in as Governor of California next Monday. Mr. Wilson's successor, John F. Seymour, a 53-year-old moderate Republican from Orange County who made his fortune as a real estate entrepreneur, was praised today by the Governor-elect for the \"intelligence, energy and toughness of mind that made him a millionaire in business before he was 30 years old.\"",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "New Senator From California Is Named"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SEYMOUR, JOHN F"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1991-01-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197ea8eb7c8105d6a69ac",
+    "word_count": 1091,
+    "slideshow_credits": null
+}

@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/24/us/quake-in-california-desert-puts-authorities-on-guard.html",
+    "snippet": "Millions of Southern Californians were checking their supplies of batteries and bottled water today, waiting nervously to see if the strong earthquake they felt Wednesday night was only a warning of something bigger to come.   The earthquake's epi...",
+    "lead_paragraph": "Millions of Southern Californians were checking their supplies of batteries and bottled water today, waiting nervously to see if the strong earthquake they felt Wednesday night was only a warning of something bigger to come. The earthquake's epicenter was in the remote high desert 110 miles east of Los Angeles in Riverside County, and the quake caused only minor damage and injuries. But it stirred deep concern because it occurred only five miles from the dangerous San Andreas Fault, which scientists have long said could produce the feared Big One that is almost inevitable in California some day.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake in California Desert Puts Authorities on Guard"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1992-04-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "Chronology",
+    "_id": "4fd1ced78eb7c8105d707113",
+    "word_count": 952,
+    "slideshow_credits": null
+}

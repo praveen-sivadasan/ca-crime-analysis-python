@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/05/travel/eight-auto-trips-back-roadsto-towering-mountain-passes-california-great-wind.html",
+    "snippet": "LEAD: Los Angeles may be fantasy enough, but for a truly otherworldly experience take the 115-mile drive to the Tehachapi Pass wind farms. The mountainous pass, which serves as a funnel through which powerful winds whip into the Mojave Desert belo...",
+    "lead_paragraph": "LEAD: Los Angeles may be fantasy enough, but for a truly otherworldly experience take the 115-mile drive to the Tehachapi Pass wind farms. The mountainous pass, which serves as a funnel through which powerful winds whip into the Mojave Desert below, is covered with huge windmills that generate electric power for Southern California.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California: The great wind farms of the Tehachapi Pass",
+        "kicker": "EIGHT AUTO TRIPS: FROM BACK ROADS...TO TOWERING MOUNTAIN PASSES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+        }
+    ],
+    "pub_date": "1988-06-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Travel",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "Reinhold"
+            }
+        ],
+        "original": "By Robert Reinhold"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18ca28eb7c8105d6904de",
+    "word_count": 506,
+    "slideshow_credits": null
+}

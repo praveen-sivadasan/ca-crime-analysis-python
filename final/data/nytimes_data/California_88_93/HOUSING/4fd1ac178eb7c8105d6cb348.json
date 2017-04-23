@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/20/business/california-fund-in-housing-bid.html",
+    "snippet": "The California Public Employees Retirement System voted Tuesday to increase the financing for a new program to spur construction of single-family homes in California.   The retirement system said it would increase by $150 million, to $375 million,...",
+    "lead_paragraph": "The California Public Employees Retirement System voted Tuesday to increase the financing for a new program to spur construction of single-family homes in California. The retirement system said it would increase by $150 million, to $375 million, its investment in partnerships set up to give a boost to the state's recession-battered construction business. The system, known as Calpers, voted last month to invest $225 million in the program, the first time a public pension fund has invested directly in the large-scale building of single-family houses.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Fund In Housing Bid"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA PUBLIC EMPLOYEES RETIREMENT SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "PENSION FUNDS"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        }
+    ],
+    "pub_date": "1992-02-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ac178eb7c8105d6cb348",
+    "word_count": 124,
+    "slideshow_credits": null
+}

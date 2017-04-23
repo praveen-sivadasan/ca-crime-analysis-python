@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/09/us/sonny-bono-s-widow-chosen-to-succeed-him-in-congress.html",
+    "snippet": "Three months after Representative Sonny Bono's death in a skiing accident, his widow, Mary, easily won a special election on Tuesday to succeed him in Congress, defeating her nearest Democratic rival, the actor Ralph Waite, by more than 2 to 1.   ...",
+    "lead_paragraph": "Three months after Representative Sonny Bono's death in a skiing accident, his widow, Mary, easily won a special election on Tuesday to succeed him in Congress, defeating her nearest Democratic rival, the actor Ralph Waite, by more than 2 to 1. ''I know that Sonny would be extremely proud of the campaign that we have run,'' Mrs. Bono, a 36-year-old Republican political neophyte told supporters in Palm Springs, where Mr. Bono began his political career as Mayor. ''I know because I spent 14 years with Sonny.''",
+    "abstract": "Rep Sonny Bono's widow, Mary, easily wins special election to succeed him in Congress, defeating her nearest Democratic rival, actor Ralph Waite, by more than 2 to 1; State Sen Barbara Lee, Democrat, easily wins Ninth Congressional seat in Alameda County held since 1970 by her mentor, Ronald V Dellums, who retired; photo (M)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sonny Bono's Widow Chosen To Succeed Him in Congress"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LEE, BARBARA"
+        },
+        {
+            "name": "persons",
+            "value": "BONO, MARY"
+        },
+        {
+            "name": "persons",
+            "value": "BONO, SONNY"
+        },
+        {
+            "name": "persons",
+            "value": "DELLUMS, RONALD V"
+        },
+        {
+            "name": "persons",
+            "value": "WAITE, RALPH"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1998-04-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fb438eb7c8105d7597fa",
+    "word_count": 445,
+    "slideshow_credits": null
+}

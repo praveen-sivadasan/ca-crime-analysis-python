@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/05/01/nyregion/c-corrections-574195.html",
+    "snippet": "An article in Business Day on Thursday about a plan to open California's local telephone market and its effect on Pacific Bell referred incorrectly to the Federal judge who decides whether regional Bell telephone companies like Pacific Bell can en...",
+    "lead_paragraph": "An article in Business Day on Thursday about a plan to open California's local telephone market and its effect on Pacific Bell referred incorrectly to the Federal judge who decides whether regional Bell telephone companies like Pacific Bell can enter the long-distance market. The judge, Harold H. Greene, oversees the antitrust agreement under which AT&T's Bell System was broken up in 1984. He did not order the breakup, which resulted from a settlement between AT&T and the Justice Department.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1995-05-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd2004e8eb7c8105d763483",
+    "word_count": 79,
+    "slideshow_credits": null
+}

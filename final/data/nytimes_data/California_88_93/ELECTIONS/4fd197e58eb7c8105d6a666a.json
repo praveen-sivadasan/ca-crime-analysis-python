@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/16/us/feinstein-running-for-senator.html",
+    "snippet": "Dianne Feinstein, who narrowly lost the race for governor to Pete Wilson three months ago, on Thursday formally started her campaign for the 1992 Democratic nomination for the Senate seat being vacated by Alan Cranston. The 57-year-old former Mayo...",
+    "lead_paragraph": "Dianne Feinstein, who narrowly lost the race for governor to Pete Wilson three months ago, on Thursday formally started her campaign for the 1992 Democratic nomination for the Senate seat being vacated by Alan Cranston. The 57-year-old former Mayor of San Francisco filed papers with the Federal Election Commission to establish a campaign committee, allowing her to start raising money for the June 1992 primary. Edmund G. Brown Jr., the former governor, has also announced his candidacy for the nomination.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Feinstein Running for Senator"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CRANSTON, ALAN"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1991-02-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd197e58eb7c8105d6a666a",
+    "word_count": 80,
+    "slideshow_credits": null
+}

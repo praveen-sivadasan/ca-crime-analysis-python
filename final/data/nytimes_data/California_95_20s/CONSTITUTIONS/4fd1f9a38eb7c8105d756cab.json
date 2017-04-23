@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/13/us/judge-finds-inmate-abuse-at-top-security-prison-in-california.html",
+    "snippet": "The Pelican Bay State Prison is one of California's most modern and most secure prisons. It is also, a Federal judge said yesterday, one of the most abusive.   In a 345-page ruling, Judge Thelton E. Henderson of Federal District Court in San Franc...",
+    "lead_paragraph": "The Pelican Bay State Prison is one of California's most modern and most secure prisons. It is also, a Federal judge said yesterday, one of the most abusive. In a 345-page ruling, Judge Thelton E. Henderson of Federal District Court in San Francisco told of guards who assaulted prisoners in their cells with batons, high-voltage taser guns and rubber bullets, chaining them for hours in \"fetal restraints\" with their wrists bound to their ankles and regularly locking them up for more than 22 hours a day with virtually nothing to do.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Judge Finds Inmate Abuse at Top-Security Prison in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HENDERSON, THELTON E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "GUARDS"
+        },
+        {
+            "name": "subject",
+            "value": "CONSTITUTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PELICAN BAY STATE PRISON (CALIF)"
+        }
+    ],
+    "pub_date": "1995-01-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By JOSEPH B. TREASTER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f9a38eb7c8105d756cab",
+    "word_count": 582,
+    "slideshow_credits": null
+}

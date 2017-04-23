@@ -1,0 +1,90 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/07/business/unusual-regulatory-action-seen-in-liquidation-of-2-savings-units.html",
+    "snippet": "LEAD: In announcing today that they had closed two relatively small savings and loan institutions here and would pay off their depositors, Federal regulators finally seemed to be acknowledging that there are sometimes no other solutions to dealing...",
+    "lead_paragraph": "LEAD: In announcing today that they had closed two relatively small savings and loan institutions here and would pay off their depositors, Federal regulators finally seemed to be acknowledging that there are sometimes no other solutions to dealing with the nation's most-troubled savings units.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Unusual Regulatory Action Seen In Liquidation of 2 Savings Units"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "NAGLE, KATHY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN DIVERSIFIED SAVINGS BANK"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL HOME LOAN BANK BOARD"
+        },
+        {
+            "name": "organizations",
+            "value": "NORTH AMERICA SAVINGS & LOAN"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL SAVINGS AND LOAN INSURANCE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS BANKS (MUTUAL)"
+        },
+        {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1988-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Front Page; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17a118eb7c8105d671c69",
+    "word_count": 1547,
+    "slideshow_credits": null
+}

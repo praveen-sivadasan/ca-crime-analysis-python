@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/18/business/milken-foundations-cleared.html",
+    "snippet": "LEAD: A nine-month investigation has cleared four charitable foundations created by the indicted financier Michael Milken and his family, the state Attorney General's office said Wednesday....",
+    "lead_paragraph": "LEAD: A nine-month investigation has cleared four charitable foundations created by the indicted financier Michael Milken and his family, the state Attorney General's office said Wednesday.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Milken Foundations Cleared"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MILKEN, MICHAEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MILKEN FAMILIES FOUNDATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "VIOLATIONS OF SECURITIES AND COMMODITIES REGULATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+        }
+    ],
+    "pub_date": "1989-08-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd185e28eb7c8105d685b52",
+    "word_count": 216,
+    "slideshow_credits": null
+}

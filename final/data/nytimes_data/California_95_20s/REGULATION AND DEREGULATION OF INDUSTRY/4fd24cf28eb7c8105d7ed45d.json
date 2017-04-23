@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/2000/11/09/business/company-news-california-utility-seeks-to-charge-customers-3-billion.html",
+    "snippet": "Pacific Gas and Electric, California's largest electric utility, sued the state in federal court, seeking freedom to charge customers more than $3 billion for the company's losses in open-market power purchases earlier this year. The company argue...",
+    "lead_paragraph": "Pacific Gas and Electric, California's largest electric utility, sued the state in federal court, seeking freedom to charge customers more than $3 billion for the company's losses in open-market power purchases earlier this year. The company argued in its filing that the state made it sell its power plants and capped the rates it could charge, leaving it no way to avoid losses when wholesale power prices surge. The company, a unit of the PG & E Corporation, and its largest rival, Southern California Edison, a unit of Edison International, have asked the state utility commission to let it pass along the costs, so far without result. The uncertainty of when the issue will be resolved led Fitch Inc., a debt-rating agency, to downgrade PG & E and Edison's credit ratings.",
+    "abstract": "Pacific Gas and Electric, California's largest electric utility, sues state in federal court, seeking freedom to charge customers more than $3 billion for company's losses in open-market power purchases earlier this year; company argues state made it sell its power plants and capped rates it could charge, leaving it no way to avoid losses when wholesale power prices surge (S)",
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA UTILITY SEEKS TO CHARGE CUSTOMERS $3 BILLION",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC GAS AND ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "2000-11-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd24cf28eb7c8105d7ed45d",
+    "word_count": 133,
+    "slideshow_credits": null
+}

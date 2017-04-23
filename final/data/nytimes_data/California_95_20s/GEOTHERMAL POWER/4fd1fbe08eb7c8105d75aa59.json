@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1999/05/11/business/company-news-calpine-completes-purchase-of-14-power-plants.html",
+    "snippet": "The Calpine Corporation has purchased 14 geothermal power plants in California from the PG&E Corporation for $212.8 million, making it the largest United States supplier of power using steam heat from deep within the earth. Calpine, based in San J...",
+    "lead_paragraph": "The Calpine Corporation has purchased 14 geothermal power plants in California from the PG&E Corporation for $212.8 million, making it the largest United States supplier of power using steam heat from deep within the earth. Calpine, based in San Jose, now owns 18 geothermal power plants that can generate 800 megawatts, enough power to light 800,000 homes. The plants draw steam from within the earth to turn turbines and generate electricity. The San Francisco-based PG&E had agreed to sell the 14 plants in Northern California to FPL Group Inc., provided that Calpine, which owns and operates the steam fields that supply the plants, did not want them. Calpine exercised its right to match FPL's winning bid.",
+    "abstract": "Calpine Corp purchases 14 geothermal power plants in California from PG&E Corp for $212.8 million, making it largest US supplier of power using steam heat from deep wihtin the earth (S)",
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "CALPINE COMPLETES PURCHASE OF 14 POWER PLANTS",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PG&E CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "CALPINE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "GEOTHERMAL POWER"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "FACTORIES AND INDUSTRIAL PLANTS"
+        }
+    ],
+    "pub_date": "1999-05-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1fbe08eb7c8105d75aa59",
+    "word_count": 118,
+    "slideshow_credits": null
+}

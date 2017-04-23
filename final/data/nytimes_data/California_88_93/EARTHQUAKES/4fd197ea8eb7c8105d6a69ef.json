@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/13/us/milder-quakes-may-help-predict-larger-jolts.html",
+    "snippet": "Like storm clouds before a deluge, moderate earthquakes in patterns seem to predict larger earthquakes on the San Andreas fault in California, according to a new scientific report.    If the link proves correct, scientists say they should be able ...",
+    "lead_paragraph": "Like storm clouds before a deluge, moderate earthquakes in patterns seem to predict larger earthquakes on the San Andreas fault in California, according to a new scientific report. If the link proves correct, scientists say they should be able to foretell whether the San Francisco Bay area will experience one or two more moderately large earthquakes in the next decade like the one that struck last year, killing 63 people.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Milder Quakes May Help Predict Larger Jolts"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SYKES, LYNN R"
+        },
+        {
+            "name": "persons",
+            "value": "JAUME, STEVEN C"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LAMONT-DOHERTY GEOLOGICAL OBSERVATORY"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1990-12-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197ea8eb7c8105d6a69ef",
+    "word_count": 555,
+    "slideshow_credits": null
+}

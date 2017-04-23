@@ -1,0 +1,85 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/04/us/california-readies-for-political-brawl-over-both-of-its-senate-seats-in-1992.html",
+    "snippet": "California politics is erupting into a full-scale, $70 million brawl with more than a dozen contenders maneuvering for two of the state's top political prizes: the United States Senate seats, which will both be open next year. Democrats and Republ...",
+    "lead_paragraph": "California politics is erupting into a full-scale, $70 million brawl with more than a dozen contenders maneuvering for two of the state's top political prizes: the United States Senate seats, which will both be open next year. Democrats and Republicans both have reason to hope for a sweep, making the election a potential bonanza as the parties push for dominance in the Senate. State party conventions last weekend and this are the starting blocks for the 20-month campaign, when candidates must distingusih themselves in a crowded field. The next hurdle comes on June 30, when the first campaign finance reports are filed and the cast is likely to thin to those candidates, perhaps seven in all, who are capable of raising $4 million for a primary and $10 million for a general election, which is what experts believe those races will cost.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Readies for Political Brawl Over Both of Its Senate Seats in 1992"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G JR"
+        },
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "persons",
+            "value": "MCCARTHY, LEO T"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "DANNEMEYER, WILLIAM E"
+        },
+        {
+            "name": "persons",
+            "value": "MATSUI, ROBERT T"
+        },
+        {
+            "name": "persons",
+            "value": "SEYMOUR, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "CRANSTON, ALAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1991-03-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19e178eb7c8105d6b0856",
+    "word_count": 1223,
+    "slideshow_credits": null
+}

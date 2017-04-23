@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/04/business/an-insurer-in-california-is-seized.html",
+    "snippet": "The Great Republic Insurance Company, troubled by increasing financial and consumer-related problems for two years, has been seized by the California Department of Insurance.   Great Republic's liabilites exceeded assets by $454,000 when Judge Pat...",
+    "lead_paragraph": "The Great Republic Insurance Company, troubled by increasing financial and consumer-related problems for two years, has been seized by the California Department of Insurance. Great Republic's liabilites exceeded assets by $454,000 when Judge Patrick L. McMahon of Superior Court signed an order late Monday placing it under control of Insurance Commissioner John Garamendia.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "An Insurer In California Is Seized"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GREAT REPUBLIC INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        }
+    ],
+    "pub_date": "1991-07-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d2058eb7c8105d70d331",
+    "word_count": 284,
+    "slideshow_credits": null
+}

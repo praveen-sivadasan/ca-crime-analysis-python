@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/15/business/in-california-stricter-rules.html",
+    "snippet": "The California Air Resources Board has introduced rules that reduce the maximum allowable emissions of unburned hydrocarbons and nitrogen oxide, which interact with sunlight to produce ground-level ozone, or smog. The rules also set a lower level ...",
+    "lead_paragraph": "The California Air Resources Board has introduced rules that reduce the maximum allowable emissions of unburned hydrocarbons and nitrogen oxide, which interact with sunlight to produce ground-level ozone, or smog. The rules also set a lower level for carbon monoxide. Experts think the new rules will require that vehicles be equipped with electrically heated catalytic converters to burn off these pollutants as soon as the vehicles are started; the current converters are highly effective, but only after they have warmed up.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In California, Stricter Rules"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AIR RESOURCES BOARD"
+        },
+        {
+            "name": "subject",
+            "value": "CARBON MONOXIDE"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "HYDROCARBONS"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC VEHICLES"
+        },
+        {
+            "name": "subject",
+            "value": "CATALYTIC CONVERTERS"
+        },
+        {
+            "name": "subject",
+            "value": "NITROGEN OXIDE"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1991-07-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a4c68eb7c8105d6bd75f",
+    "word_count": 177,
+    "slideshow_credits": null
+}

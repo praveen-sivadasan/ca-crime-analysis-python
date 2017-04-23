@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/28/us/aclu-goes-hollywood-in-countering-bush-s-campaign-of-derision.html",
+    "snippet": "LEAD: Next week Burt Lancaster will look out from television screens in Southern California and confess, ''I am a card-carrying member of the A.C.L.U.''...",
+    "lead_paragraph": "LEAD: Next week Burt Lancaster will look out from television screens in Southern California and confess, ''I am a card-carrying member of the A.C.L.U.''",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A.C.L.U. Goes Hollywood in Countering Bush's Campaign of Derision"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "persons",
+            "value": "LANCASTER, BURT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN CIVIL LIBERTIES UNION"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        }
+    ],
+    "pub_date": "1988-09-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Randall",
+                "rank": 1,
+                "lastname": "ROTHENBERG"
+            }
+        ],
+        "original": "By RANDALL ROTHENBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17de38eb7c8105d67832b",
+    "word_count": 750,
+    "slideshow_credits": null
+}

@@ -1,0 +1,78 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/08/us/on-eve-of-primary-drilling-plan-is-delayed.html",
+    "snippet": "LEAD: In a political gesture to Vice President Bush on the eve of the California primary, the Interior Department said Monday night that it would temporarily suspend plans to lease 1.1 million acres off the Northern California coast for oil and ga...",
+    "lead_paragraph": "LEAD: In a political gesture to Vice President Bush on the eve of the California primary, the Interior Department said Monday night that it would temporarily suspend plans to lease 1.1 million acres off the Northern California coast for oil and gas exploration.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "On Eve of Primary, Drilling Plan Is Delayed"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERIOR, DEPARTMENT OF THE"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "OFFSHORE EXPLORATION AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "RENTING AND LEASING"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "EXPLORATION OF RESOURCES"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1988-06-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17a0f8eb7c8105d671a69",
+    "word_count": 209,
+    "slideshow_credits": null
+}

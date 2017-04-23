@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/27/us/odds-differ-for-california-quake.html",
+    "snippet": "A panel of scientists from the U.S. Geological Survey and major universities has split on the likelihood that a 'great' earthquake will strike the San Andreas fault in Southern California in the next 30 years.    Some leading members say that the ...",
+    "lead_paragraph": "A panel of scientists from the U.S. Geological Survey and major universities has split on the likelihood that a 'great' earthquake will strike the San Andreas fault in Southern California in the next 30 years. Some leading members say that the prior estimate of a 60 percent chance is too high, but they would not say what the new figure should be. A great earthquake measures 8 or more on the Richter scale.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Odds Differ for California Quake"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNITED STATES GEOLOGICAL SURVEY"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        }
+    ],
+    "pub_date": "1993-11-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ad608eb7c8105d6cd7bc",
+    "word_count": "381",
+    "slideshow_credits": null
+}

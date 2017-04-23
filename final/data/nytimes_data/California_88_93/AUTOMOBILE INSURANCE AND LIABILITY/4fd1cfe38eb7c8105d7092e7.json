@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/09/business/california-refunds-by-insurer.html",
+    "snippet": "In the first case completed under a voter-initiated rollback of automobile insurance rates, California's Insurance Commissioner today ordered the 20th Century Insurance Company to pay more than $100 million in refunds to 650,000 policyholders.   B...",
+    "lead_paragraph": "In the first case completed under a voter-initiated rollback of automobile insurance rates, California's Insurance Commissioner today ordered the 20th Century Insurance Company to pay more than $100 million in refunds to 650,000 policyholders. But company officials, contending that their rates were among the industry's lowest, said they planned to appeal the refund order in California state courts. Insurers had fought the voter initiative, known as Proposition 103, before it was passed in November 1988, and most have continued to oppose its provisions in court. The measure, together with court rulings, requires rate rollbacks based on the profitability of the insurers.",
+    "abstract": null,
+    "print_page": "37",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Refunds By Insurer"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TWENTIETH CENTURY INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1992-05-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cfe38eb7c8105d7092e7",
+    "word_count": 762,
+    "slideshow_credits": null
+}

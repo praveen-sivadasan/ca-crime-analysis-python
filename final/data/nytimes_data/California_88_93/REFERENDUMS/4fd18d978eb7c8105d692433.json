@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/24/business/insurance-cuts-in-california-are-falling-short-of-promise.html",
+    "snippet": "LEAD: Nine months after California voters approved an initiative mandating sweeping cuts in auto and other insurance rates, the measure is proving less onerous to insurers and less beneficial to consumers than either side expected....",
+    "lead_paragraph": "LEAD: Nine months after California voters approved an initiative mandating sweeping cuts in auto and other insurance rates, the measure is proving less onerous to insurers and less beneficial to consumers than either side expected.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "INSURANCE CUTS IN CALIFORNIA ARE FALLING SHORT OF PROMISE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GILLESPIE, ROXANI"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1989-08-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18d978eb7c8105d692433",
+    "word_count": 835,
+    "slideshow_credits": null
+}

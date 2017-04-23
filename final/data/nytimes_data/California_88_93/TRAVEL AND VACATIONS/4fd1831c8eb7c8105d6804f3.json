@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/09/travel/l-john-muir-trail-620789.html",
+    "snippet": "LEAD: To the Editor: I wonder if the article on hiking California's John Muir Trail from Yosemite to Mount Whitney (Travel, Jan. 15) has not left the impression that hiking any section of the trail is only for hardy hikers? I am certainly not one,...",
+    "lead_paragraph": "LEAD: To the Editor: I wonder if the article on hiking California's John Muir Trail from Yosemite to Mount Whitney (Travel, Jan. 15) has not left the impression that hiking any section of the trail is only for hardy hikers? I am certainly not one, yet in 1977 four of us did a lesser backpack, which culminated in climbing Mount Whitney, and we did it without resupply logistics.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "John Muir Trail"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KEELAN, JEAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HIKING"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+        }
+    ],
+    "pub_date": "1989-04-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd1831c8eb7c8105d6804f3",
+    "word_count": 362,
+    "slideshow_credits": null
+}

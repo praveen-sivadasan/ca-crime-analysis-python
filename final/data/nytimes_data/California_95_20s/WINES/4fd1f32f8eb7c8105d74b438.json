@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/2000/03/29/dining/tastings-california-s-taste-for-terroir.html",
+    "snippet": "THE word terroir, French for soil, has an almost mystical meaning in Burgundy. It connotes not only the character of a vineyard's soil but the soul of the terrain as expressed through the wine.    In Burgundy, where vineyards are often divided int...",
+    "lead_paragraph": "THE word terroir, French for soil, has an almost mystical meaning in Burgundy. It connotes not only the character of a vineyard's soil but the soul of the terrain as expressed through the wine. In Burgundy, where vineyards are often divided into tiny plots among many winemakers, the concept of terroir can be tested because the source of the grapes is often easy to determine. But elsewhere, terroir becomes trickier to discuss.",
+    "abstract": "Eric Asimov comments on some California wines known for their terroir, referring to character of a vineyard's soil, and then identifying wines through land where grapes are grown; some recommendations listed; photo (S)",
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Taste for Terroir",
+        "kicker": "TASTINGS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "2000-03-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Dining and Wine; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 1,
+                "lastname": "Asimov"
+            }
+        ],
+        "original": "By Eric Asimov"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f32f8eb7c8105d74b438",
+    "word_count": 389,
+    "slideshow_credits": null
+}

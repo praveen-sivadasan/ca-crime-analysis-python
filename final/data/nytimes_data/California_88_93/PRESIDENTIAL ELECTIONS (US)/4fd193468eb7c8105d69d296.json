@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/07/opinion/l-for-later-presidential-primaries-democrat-death-wish-689090.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "For Later Presidential Primaries;   Democrat Death Wish"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BRIN, DOUGLAS"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTIONS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-03-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd193468eb7c8105d69d296",
+    "word_count": 183,
+    "slideshow_credits": null
+}

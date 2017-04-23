@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1998/12/09/opinion/journal-the-closet-candidate.html",
+    "snippet": "In an early campaign spot in his 1994 run for the U.S. Senate, Michael Huffington quoted from William Bennett's ''Book of Virtues'' on the virtues of family. Soon to come were bucolic, sun-dappled spots highlighting Mr. Huffington's togetherness w...",
+    "lead_paragraph": "In an early campaign spot in his 1994 run for the U.S. Senate, Michael Huffington quoted from William Bennett's ''Book of Virtues'' on the virtues of family. Soon to come were bucolic, sun-dappled spots highlighting Mr. Huffington's togetherness with his celebrity wife, Arianna, and their kids. But not long after he lost narrowly to the Democratic incumbent, Dianne Feinstein, the Huffingtons separated and then divorced. And this week, on his own volition, Mr. Huffington decided to make his intimate life public by declaring to Esquire magazine that he is homosexual, in a detailed confessional to a writer friend, David Brock.",
+    "abstract": "Frank Rich Op-Ed column notes that Michael Huffington, who narrowly lost US Senate race to Democratic incumbent Dianne Feinstein in 1994, has declared in Esquire magazine article that he is homosexual; contends that Huffington's campaign was cloaked in hypocritical imagery and rhetoric that included his disparagement of 'gay lifestyle'; maintains that Esquire piece makes clear that he was more tortured victim of Republican homophobia than perpetrator of it (M)",
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Journal; The Closet Candidate"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HUFFINGTON, MICHAEL"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1998-12-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Frank",
+                "rank": 1,
+                "lastname": "RICH"
+            }
+        ],
+        "original": "By FRANK RICH"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd21e1a8eb7c8105d7a00de",
+    "word_count": 716,
+    "slideshow_credits": null
+}

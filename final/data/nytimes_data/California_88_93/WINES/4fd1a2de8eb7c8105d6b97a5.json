@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/15/garden/wine-talk-026789.html",
+    "snippet": "LEAD: THE three best-known red wine regions of France are Bordeaux, Burgundy and the Rhone Valley. The best red wines of California have been fashioned after the wines of Bordeaux and to a lesser extent Burgundy....",
+    "lead_paragraph": "LEAD: THE three best-known red wine regions of France are Bordeaux, Burgundy and the Rhone Valley. The best red wines of California have been fashioned after the wines of Bordeaux and to a lesser extent Burgundy.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "WINE TALK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1989-03-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a2de8eb7c8105d6b97a5",
+    "word_count": 978,
+    "slideshow_credits": null
+}

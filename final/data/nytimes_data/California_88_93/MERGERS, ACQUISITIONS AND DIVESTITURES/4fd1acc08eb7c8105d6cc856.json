@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/13/business/pressure-growing-on-others-in-california.html",
+    "snippet": "Banking analysts and industry executives said today that the BankAmerica Corporation's planned acquisition of the Security Pacific Corporation left California's two other major banking companies, the First Interstate Bancorp and Wells Fargo & Comp...",
+    "lead_paragraph": "Banking analysts and industry executives said today that the BankAmerica Corporation's planned acquisition of the Security Pacific Corporation left California's two other major banking companies, the First Interstate Bancorp and Wells Fargo & Company, with little choice but to forge a merger of their own. The big California banks have been in a mating dance of various permutations for five years, looking for the right combination of strengths and personalities. First Interstate at one point proposed buying BankAmerica. Wells Fargo and Security Pacific held talks late last year.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pressure Growing on Others in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BANKAMERICA CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST INTERSTATE BANCORP"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLS FARGO & CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SECURITY PACIFIC CORP"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1991-08-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1acc08eb7c8105d6cc856",
+    "word_count": 877,
+    "slideshow_credits": null
+}

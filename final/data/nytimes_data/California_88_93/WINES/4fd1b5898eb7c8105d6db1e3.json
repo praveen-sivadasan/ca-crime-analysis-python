@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/05/garden/wine-talk-334292.html",
+    "snippet": "ALL is not well in the wine world. The wine market in the United States declined last year for the seventh year in a row. Domestic wine shipments were down 1.5 percent, to 147.4 million cases while imports fell 8.7 percent to 25.8 million cases.  ...",
+    "lead_paragraph": "ALL is not well in the wine world. The wine market in the United States declined last year for the seventh year in a row. Domestic wine shipments were down 1.5 percent, to 147.4 million cases while imports fell 8.7 percent to 25.8 million cases. The persistent economic recession, a widespread and growing concern about alcohol abuse, heightened public indignation over drunken driving and the consequent stiffer penalties, plus steeper Federal excise taxes all combined in 1991 to deliver yet another blow to the already troubled industry.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1992-08-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b5898eb7c8105d6db1e3",
+    "word_count": 1083,
+    "slideshow_credits": null
+}

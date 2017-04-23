@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1999/04/30/us/national-news-briefs-panel-rejects-clemency-for-condemned-killer.html",
+    "snippet": "Gov. Gray Davis, weighing whether to allow the execution of a convicted killer, has been advised by the Board of Prison Terms to reject a petition for clemency.    ''By a unanimous vote, the board recommends that Mr. Babbitt be denied commutation,...",
+    "lead_paragraph": "Gov. Gray Davis, weighing whether to allow the execution of a convicted killer, has been advised by the Board of Prison Terms to reject a petition for clemency. ''By a unanimous vote, the board recommends that Mr. Babbitt be denied commutation,'' the panel wrote to Governor Davis in a confidential report obtained today.",
+    "abstract": "California Board of Prison Terms recommends that Gov Gray Davis reject clemency petition of Manny Babbitt, sentenced to die for 1980 murder of 78-year-old Leah Schendel (S)",
+    "print_page": "28",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Panel Rejects Clemency For Condemned Killer"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "persons",
+            "value": "SCHENDEL, LEAH"
+        },
+        {
+            "name": "persons",
+            "value": "BABBITT, MANNY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1999-04-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1fbd78eb7c8105d75a5d1",
+    "word_count": 134,
+    "slideshow_credits": null
+}

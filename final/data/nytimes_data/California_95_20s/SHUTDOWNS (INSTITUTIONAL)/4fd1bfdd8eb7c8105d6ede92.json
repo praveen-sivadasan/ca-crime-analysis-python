@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/01/us/president-weighing-risks-of-rejecting-base-closings-list.html",
+    "snippet": "Facing outrage in California, the White House and Pentagon are weighing the political costs of rejecting, for the first time, the recommendations of an independent commission on the closing of military bases.   A tug-of-war centered on McClellan A...",
+    "lead_paragraph": "Facing outrage in California, the White House and Pentagon are weighing the political costs of rejecting, for the first time, the recommendations of an independent commission on the closing of military bases. A tug-of-war centered on McClellan Air Force Base near Sacramento has developed between White House political operatives, who view California's 54 electoral votes as crucial to President Clinton's 1996 campaign hopes, and commission members, who are vowing to stick to their guns to close it and eliminate nearly 11,000 military and civilian jobs.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "President Weighing Risks of Rejecting Base-Closings List"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEFENSE BASE CLOSURE AND REALIGNMENT COMMISSION"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "MCCLELLAN AIR FORCE BASE (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1995-07-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 1,
+                "lastname": "SCHMITT"
+            }
+        ],
+        "original": "By ERIC SCHMITT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bfdd8eb7c8105d6ede92",
+    "word_count": 974,
+    "slideshow_credits": null
+}

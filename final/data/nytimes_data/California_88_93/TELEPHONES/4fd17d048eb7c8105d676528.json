@@ -1,0 +1,74 @@
+{
+    "web_url": "https://www.nytimes.com/1988/04/22/us/1.2-million-in-fines-for-sex-messages.html",
+    "snippet": "LEAD: The Federal Communications Commission voted unanimously today to impose penalties totaling $1.2 million on two California operators for failing to block children's access to sexually explicit telephone messages....",
+    "lead_paragraph": "LEAD: The Federal Communications Commission voted unanimously today to impose penalties totaling $1.2 million on two California operators for failing to block children's access to sexually explicit telephone messages.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "1.2 MILLION IN FINES FOR SEX MESSAGES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERCAMBIO INC"
+        },
+        {
+            "name": "organizations",
+            "value": "AUDIO ENTERPRISES"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL COMMUNICATIONS COMMISSION"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "PORNOGRAPHY AND OBSCENITY"
+        }
+    ],
+    "pub_date": "1988-04-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Nathaniel",
+                "middlename": "C.",
+                "lastname": "NASH",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By NATHANIEL C. NASH, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17d048eb7c8105d676528",
+    "word_count": 732,
+    "slideshow_credits": null
+}

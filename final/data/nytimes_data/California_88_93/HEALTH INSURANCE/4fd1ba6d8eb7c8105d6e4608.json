@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1993/02/11/us/california-increase-in-premiums-is-held-to-1.5-after-talks.html",
+    "snippet": "The California Public Employees' Retirement System, the nation's largest pension system, is increasing health-care premiums for government workers an average of 1.5 percent this year, its officials announced today.   The system, known as Calpers, ...",
+    "lead_paragraph": "The California Public Employees' Retirement System, the nation's largest pension system, is increasing health-care premiums for government workers an average of 1.5 percent this year, its officials announced today. The system, known as Calpers, has negotiated on behalf of 787 public employers around the state covering 887,000 workers.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Increase In Premiums Is Held To 1.5% After Talks"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT EMPLOYEES"
+        }
+    ],
+    "pub_date": "1993-02-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ba6d8eb7c8105d6e4608",
+    "word_count": 213,
+    "slideshow_credits": null
+}

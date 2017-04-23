@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/15/business/oil-and-auto-industries-see-no-gain-from-alcohol-fuel.html",
+    "snippet": "The domestic automobile and oil industries have issued a study that purports to show that cars fueled with a mixture of alcohol and gasoline emit more smog-causing chemicals and are more costly to run than those using on reformulated gasoline.   B...",
+    "lead_paragraph": "The domestic automobile and oil industries have issued a study that purports to show that cars fueled with a mixture of alcohol and gasoline emit more smog-causing chemicals and are more costly to run than those using on reformulated gasoline. But the conclusion was immediately criticized by the chairman of the California Air Resources Board and representatives of the alcohol industry. They said the data were meaningless because they were based on older cars with obsolete pollution control systems.",
+    "abstract": null,
+    "print_page": "37",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Oil and Auto Industries See No Gain From Alcohol Fuel"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "METHANOL"
+        },
+        {
+            "name": "subject",
+            "value": "SMOG"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOL"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1992-02-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "HOLUSHA"
+            }
+        ],
+        "original": "By JOHN HOLUSHA"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ac188eb7c8105d6cb43f",
+    "word_count": 492,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/14/business/junk-bonds-crucial-in-executive-life-bids.html",
+    "snippet": "The selection of a winner in the bidding for the Executive Life Insurance Company will largely ride on whether California regulators feel the sale of the failed insurer should be structured to sever the company from its huge portfolio of high-risk...",
+    "lead_paragraph": "The selection of a winner in the bidding for the Executive Life Insurance Company will largely ride on whether California regulators feel the sale of the failed insurer should be structured to sever the company from its huge portfolio of high-risk junk bonds, analysts said today. The eight bids submitted for Executive Life on Friday are complex and will require analysis by the staff of California's Insurance Commissioner, John Garamendi, who seized the Los Angeles-based company in April and is managing its sale.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Junk Bonds Crucial in Executive Life Bids"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "CORPORATE BONDS"
+        }
+    ],
+    "pub_date": "1991-10-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b1228eb7c8105d6d31b3",
+    "word_count": 1310,
+    "slideshow_credits": null
+}

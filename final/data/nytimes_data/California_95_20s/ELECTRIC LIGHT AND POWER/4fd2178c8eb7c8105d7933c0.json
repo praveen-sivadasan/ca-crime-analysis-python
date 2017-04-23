@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/06/weekinreview/ideas-trends-power-get-it-while-it-lasts.html",
+    "snippet": "FOR as long as anyone can remember, reliable, cheap electricity has been taken for granted in the United States.    Not anymore, at least not in California....",
+    "lead_paragraph": "FOR as long as anyone can remember, reliable, cheap electricity has been taken for granted in the United States. Not anymore, at least not in California.",
+    "abstract": "Alex Berenson assesses electrical power crisis in California; photo (M)2",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Power: Get It While It Lasts",
+        "kicker": "IDEAS & TRENDS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "2000-08-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alex",
+                "rank": 1,
+                "lastname": "BERENSON"
+            }
+        ],
+        "original": "By ALEX BERENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2178c8eb7c8105d7933c0",
+    "word_count": 1057,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/25/business/industry-wins-bid-for-insurer.html",
+    "snippet": "California regulators today selected an industry-backed bailout of the Executive Life Insurance Company as the best solution to the insurer's failure, but said the plan would have to be clarified before it could win their final approval.    John G...",
+    "lead_paragraph": "California regulators today selected an industry-backed bailout of the Executive Life Insurance Company as the best solution to the insurer's failure, but said the plan would have to be clarified before it could win their final approval. John Garamendi, California's Insurance Commissioner, said he had chosen the plan from among eight competing bids because it offered the best deal for Executive Life's 372,000 policyholders nationwide, and because it had the financial backing of virtually every life insurer in the country.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Industry Wins Bid For Insurer"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GARAMENDI, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        }
+    ],
+    "pub_date": "1991-10-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c99d8eb7c8105d6fd211",
+    "word_count": 919,
+    "slideshow_credits": null
+}

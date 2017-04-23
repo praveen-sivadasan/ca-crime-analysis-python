@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1999/11/27/business/california-gasoline-prices-are-a-focus-for-regulators.html",
+    "snippet": "Californians paid an average of about 26 cents more for a gallon of gasoline than other Americans in the first eight months of this year, according to a report released this week by the state's attorney general. And those high prices have become a...",
+    "lead_paragraph": "Californians paid an average of about 26 cents more for a gallon of gasoline than other Americans in the first eight months of this year, according to a report released this week by the state's attorney general. And those high prices have become a focal point as federal and most state regulators prepare to approve the merger of Exxon and Mobil and continue to debate the acquisition of the Atlantic Richfield Company by BP Amoco. Californians paid nearly $1.32 a gallon for regular gasoline from January through August, according to the attorney general's report. That was the third-highest price in the nation behind isolated Hawaii and Nevada, which gets much of its gasoline from California. Other Western states also have relatively high pricing. The national average excluding California was a little over $1.05 while in Georgia, which had the lowest prices, it was less than 89 cents.",
+    "abstract": "Report by California's attorney general shows Californians paid average of about 26 cents more for gallon of gasoline than other Americans in first eight months of year; those high prices have become focal point as federal and most state regulators prepare to approve merger of Exxon and Mobil and continue to debate acquisition of Atlantic Richfield Co by BP Amoco; report does not find any wrongdoing by oil companies (M)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Gasoline Prices Are a Focus for Regulators"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EXXON CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "MOBIL CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "BP AMOCO PLC"
+        },
+        {
+            "name": "organizations",
+            "value": "ATLANTIC RICHFIELD CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1999-11-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd202378eb7c8105d767adb",
+    "word_count": 875,
+    "slideshow_credits": null
+}

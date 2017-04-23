@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/13/us/logging-regulation-bill-vetoed-in-california.html",
+    "snippet": "In a move that could signal the renewal of a bitter conservation battle, Gov. Pete Wilson vetoed a logging-regulation bill on Friday that was meant as a compromise between enviromentalists and lumber companies.   Governor Wilson said the bill was ...",
+    "lead_paragraph": "In a move that could signal the renewal of a bitter conservation battle, Gov. Pete Wilson vetoed a logging-regulation bill on Friday that was meant as a compromise between enviromentalists and lumber companies. Governor Wilson said the bill was too inflexible and would have imposed \"unnecessary economic hardship on companies.\" But the Republican Governor immediately pledged to propose new legislation and asked the State Board of Forestry to begin implementing changes on its own.",
+    "abstract": null,
+    "print_page": "36",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Logging Regulation Bill Vetoed in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "VETOES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1991-10-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b1b38eb7c8105d6d3e3b",
+    "word_count": 655,
+    "slideshow_credits": null
+}

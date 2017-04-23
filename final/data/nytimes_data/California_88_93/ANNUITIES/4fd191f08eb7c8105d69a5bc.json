@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/07/business/company-news-first-interstate.html",
+    "snippet": "LEAD: First Interstate Bancorp said its California subsidiary, First Interstate Bank, would begin offering annuities for sale by branch managers and banking officers. The move comes in the wake of Proposition 103, a voter initiative approved in 19...",
+    "lead_paragraph": "LEAD: First Interstate Bancorp said its California subsidiary, First Interstate Bank, would begin offering annuities for sale by branch managers and banking officers. The move comes in the wake of Proposition 103, a voter initiative approved in 1988 that allowed California banks to sell insurance products.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "First Interstate",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST INTERSTATE BANCORP"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST INTERSTATE BANK OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ANNUITIES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-04-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd191f08eb7c8105d69a5bc",
+    "word_count": 143,
+    "slideshow_credits": null
+}

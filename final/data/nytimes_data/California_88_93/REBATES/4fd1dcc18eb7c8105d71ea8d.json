@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/26/business/insurers-cited-on-barring-rebates.html",
+    "snippet": "The insurance commissioner of California accused three large insurance companies yesterday of violating a state law that allows insurance agents to rebate part of their commissions to customers.   The controversial practice of rebating has been ad...",
+    "lead_paragraph": "The insurance commissioner of California accused three large insurance companies yesterday of violating a state law that allows insurance agents to rebate part of their commissions to customers. The controversial practice of rebating has been advocated by consumer groups as a way to reduce prices and increase competition.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Insurers Cited on Barring Rebates"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GARAMENDI, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "WHITE, MARK"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PRUDENTIAL LIFE INSURANCE CO OF AMERICA"
+        },
+        {
+            "name": "organizations",
+            "value": "METROPOLITAN LIFE INSURANCE CO"
+        },
+        {
+            "name": "organizations",
+            "value": "TRANSAMERICA LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "REBATES"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1993-03-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Peter",
+                "rank": 1,
+                "lastname": "KERR"
+            }
+        ],
+        "original": "By PETER KERR"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dcc18eb7c8105d71ea8d",
+    "word_count": 639,
+    "slideshow_credits": null
+}

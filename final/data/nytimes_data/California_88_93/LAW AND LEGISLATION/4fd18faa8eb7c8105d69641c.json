@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1988/04/29/us/the-law-coming-of-age-of-the-environmental-lawyer.html",
+    "snippet": "LEAD: Those who still think of an environmental lawyer as a long-haired youth in sandals with bald eagles for clients should look at the firm of Latham & Watkins here. About 40 of the 450 lawyers in its six offices practice environmental law, maki...",
+    "lead_paragraph": "LEAD: Those who still think of an environmental lawyer as a long-haired youth in sandals with bald eagles for clients should look at the firm of Latham & Watkins here. About 40 of the 450 lawyers in its six offices practice environmental law, making the firm a major player in the game nationally.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Law; Coming of Age of the Environmental Lawyer"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "THE LAW PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LATHAM & WATKINS"
+        },
+        {
+            "name": "subject",
+            "value": "LAWYERS"
+        },
+        {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "LEGAL PROFESSION"
+        }
+    ],
+    "pub_date": "1988-04-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18faa8eb7c8105d69641c",
+    "word_count": 1098,
+    "slideshow_credits": null
+}

@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1993/07/12/business/media-business-advertising-agency-s-survey-shows-that-more-consumers-believe.html",
+    "snippet": "IF the Mamas and the Papas were to re-record \"California Dreamin' \" based on the findings of a survey by Young & Rubicam on the state of that state, the song might become a plaintive ballad by a Californian eager to leave for any place where all t...",
+    "lead_paragraph": "IF the Mamas and the Papas were to re-record \"California Dreamin' \" based on the findings of a survey by Young & Rubicam on the state of that state, the song might become a plaintive ballad by a Californian eager to leave for any place where all the leaves are brown and the skies are gray. The survey, conducted on behalf of the San Francisco office of Y.& R., found that only 1 in 10 California residents believed the so-called California dream was alive and well. By contrast, 8 in 10 considered that the vision of good living, as embodied by archetypes in popular culture and advertising from \"Gidget\" to light beer commercials, was either \"struggling for life\" or \"alive but ailing.\"",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "An Agency's Survey Shows that More Consumers Believe the California Dream May be Fading Away.",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "YOUNG & RUBICAM INC"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER BEHAVIOR"
+        }
+    ],
+    "pub_date": "1993-07-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Stuart",
+                "rank": 1,
+                "lastname": "Elliott"
+            }
+        ],
+        "original": "By Stuart Elliott"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bd058eb7c8105d6e9518",
+    "word_count": 633,
+    "slideshow_credits": null
+}

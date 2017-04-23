@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1999/11/01/business/judge-decides-against-forcing-reporter-to-disclose-materials.html",
+    "snippet": "A judge has declined to order a reporter to provide prosecutors and defense lawyers with notes and tape recordings of an interview with a defendant in a racially charged murder trial.    An F.B.I. agent testified that the reporter told him that th...",
+    "lead_paragraph": "A judge has declined to order a reporter to provide prosecutors and defense lawyers with notes and tape recordings of an interview with a defendant in a racially charged murder trial. An F.B.I. agent testified that the reporter told him that the defendant, Randall Lee Rojas, had admitted committing a murder in 1995. He identified the reporter as Trish O'Kane, who writes for Intelligence Report, a magazine of the Southern Poverty Law Center, a civil rights group in Montgomery, Ala. Lawyers for two of Mr. Rojas's co-defendants, Ritch Bryant and Jessica Colwell, sought the material as evidence that their clients had no hand in the Nov. 25, 1995, beating death of a black man, Milton Walker Jr.",
+    "abstract": "Judge Lance A Ito declines to order Trish O'Kane, reporter for Southern Poverty Law Center's Intelligence Report to give prosecutors and defense lwaywers notes and tapes of interview with Randall Lee Rojas, charged in 1995 beating death of black man, Milton Walker Jr; holds interview contained nothing exculpatory for Rojas's co-defendants, Ritch Bryant and Jessica Colwell, who seek notes; says interview would help prosecutor, but that there is no need to pierce California's shield law since evidence is available through other means (M)",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Judge Decides Against Forcing Reporter to Disclose Materials"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ROJAS, RANDALL LEE"
+        },
+        {
+            "name": "persons",
+            "value": "COLWELL, JESSICA"
+        },
+        {
+            "name": "persons",
+            "value": "O'KANE, TRISH"
+        },
+        {
+            "name": "persons",
+            "value": "ITO, LANCE A"
+        },
+        {
+            "name": "persons",
+            "value": "BRYANT, RITCH"
+        },
+        {
+            "name": "persons",
+            "value": "WALKER, MILTON JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTHERN POVERTY LAW CENTER"
+        },
+        {
+            "name": "organizations",
+            "value": "INTELLIGENCE REPORT"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1999-11-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd2100b8eb7c8105d783c77",
+    "word_count": 293,
+    "slideshow_credits": null
+}

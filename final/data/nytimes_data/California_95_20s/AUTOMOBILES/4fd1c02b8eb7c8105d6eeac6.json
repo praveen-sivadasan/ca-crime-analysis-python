@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/08/12/business/gm-views-california-and-the-electric-car.html",
+    "snippet": "The General Motors Corporation said today that it believed California would modify or eventually drop its mandate for the sale of electric vehicles by 1998.     Dennis Minano, vice president of G.M., said he expected the state to heed industry arg...",
+    "lead_paragraph": "The General Motors Corporation said today that it believed California would modify or eventually drop its mandate for the sale of electric vehicles by 1998. Dennis Minano, vice president of G.M., said he expected the state to heed industry arguments that the current crop of electric vehicles would not meet consumers' needs.",
+    "abstract": null,
+    "print_page": "43",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "G.M. Views California and the Electric Car"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MINANO, DENNIS"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC VEHICLES"
+        }
+    ],
+    "pub_date": "1995-08-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c02b8eb7c8105d6eeac6",
+    "word_count": 231,
+    "slideshow_credits": null
+}

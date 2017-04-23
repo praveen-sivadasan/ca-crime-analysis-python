@@ -1,0 +1,81 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/08/style/chronicle-758090.html",
+    "snippet": "LEAD: Three California physicians have been charged by the state with ''unprofessional conduct'' for repeatedly prescribing drugs to ELIZABETH TAYLOR ''in amounts that exceed a legitimate medical purpose'' over a 10-year period. The three are Dr. ...",
+    "lead_paragraph": "LEAD: Three California physicians have been charged by the state with ''unprofessional conduct'' for repeatedly prescribing drugs to ELIZABETH TAYLOR ''in amounts that exceed a legitimate medical purpose'' over a 10-year period. The three are Dr. MICHAEL GOTTLIEB, co-discoverer of the first cases of AIDS; Dr.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CHRONICLE"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CHRONICLE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "ROTH, MICHAEL"
+        },
+        {
+            "name": "persons",
+            "value": "TAYLOR, ELIZABETH"
+        },
+        {
+            "name": "persons",
+            "value": "SKINNER, WILLIAM"
+        },
+        {
+            "name": "persons",
+            "value": "GOTTLIEB, MICHAEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DRUGS (PHARMACEUTICALS)"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH, PERSONAL"
+        },
+        {
+            "name": "subject",
+            "value": "MALPRACTICE"
+        },
+        {
+            "name": "subject",
+            "value": "DOCTORS"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1990-09-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Health; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Robert",
+                "middlename": "E.",
+                "lastname": "TOMASSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By ROBERT E. TOMASSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19b968eb7c8105d6ac660",
+    "word_count": 349,
+    "slideshow_credits": null
+}

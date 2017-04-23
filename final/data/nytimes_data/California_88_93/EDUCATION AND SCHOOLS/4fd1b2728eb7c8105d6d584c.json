@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/29/us/california-schools-chief-surrenders-in-funds-case.html",
+    "snippet": "The superintendent of California's school system surrendered to authorities today to face conflict-of-interest charges brought by a state grand jury.   The superintendent, Bill Honig, surrendered to state Justice Department agents for booking....",
+    "lead_paragraph": "The superintendent of California's school system surrendered to authorities today to face conflict-of-interest charges brought by a state grand jury. The superintendent, Bill Honig, surrendered to state Justice Department agents for booking.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Schools Chief Surrenders in Funds Case"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HONIG, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        }
+    ],
+    "pub_date": "1992-03-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b2728eb7c8105d6d584c",
+    "word_count": 373,
+    "slideshow_credits": null
+}

@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1997/04/08/us/van-stopped-by-police-is-full-of-illegal-aliens.html",
+    "snippet": "Officers who stopped a van in Imperial County, in the state's southeast corner, discovered 29 illegal immigrants crowded inside, the California Highway Patrol said today....",
+    "lead_paragraph": "Officers who stopped a van in Imperial County, in the state's southeast corner, discovered 29 illegal immigrants crowded inside, the California Highway Patrol said today.",
+    "abstract": "Highway patrol officers find 29 illegal Mexican aliens crowded in van after stopping vehicle in Interstate highway near Seeley, Calif; all are returned to Mexico (S)",
+    "print_page": "13",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Van Stopped by Police Is Full of Illegal Aliens",
+        "kicker": "National News Briefs"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "DEPORTATION"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        }
+    ],
+    "pub_date": "1997-04-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1dd868eb7c8105d71f931",
+    "word_count": 79,
+    "slideshow_credits": null
+}

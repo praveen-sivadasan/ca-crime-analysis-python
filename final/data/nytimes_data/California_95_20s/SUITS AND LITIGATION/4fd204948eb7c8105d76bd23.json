@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1997/12/10/us/court-considering-whether-a-police-chase-violated-rights.html",
+    "snippet": "The Supreme Court heard arguments today on whether a high-speed police chase that results in accidental -- although perhaps foreseeable -- injury or death violates the Constitution.    A lawyer for a California sheriff's deputy first told the Just...",
+    "lead_paragraph": "The Supreme Court heard arguments today on whether a high-speed police chase that results in accidental -- although perhaps foreseeable -- injury or death violates the Constitution. A lawyer for a California sheriff's deputy first told the Justices that only a chase so egregiously reckless as to ''shock the conscience'' could violate the constitutional guarantee of due process of law.",
+    "abstract": "Supreme Court hears arguments on whether high-speed police chase that results in accidental--although perhaps foreseeable--injury or death violates Constitution; Terence J Cassidy, lawyer for California Sheriff's Deputy James E Smith, says Smith should be immune from damage suit brought by family of Philip Lewis, 16-year-old motorcycle passenger who died in 1990 when Smith's patrol car skidded into him after chasing motorcyle at speeds of up to 100 miles an hour (M)",
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Court Considering Whether a Police Chase Violated Rights"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LEWIS, PHILIP"
+        },
+        {
+            "name": "persons",
+            "value": "SMITH, JAMES E"
+        },
+        {
+            "name": "persons",
+            "value": "CASSIDY, TERENCE J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "POLICE"
+        }
+    ],
+    "pub_date": "1997-12-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd204948eb7c8105d76bd23",
+    "word_count": 747,
+    "slideshow_credits": null
+}

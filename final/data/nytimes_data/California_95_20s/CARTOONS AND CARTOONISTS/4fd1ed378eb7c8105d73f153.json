@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/01/us/the-campaigns-for-congress.html",
+    "snippet": "California  Cartoonists' Anger Spurs Caricatures      Never pick a fight with anyone who buys ink by the barrel, or so it has been said. Brad Sherman, a Democratic candidate for Congress from California, might add ''especially anyone who draws.''...",
+    "lead_paragraph": "California Cartoonists' Anger Spurs Caricatures Never pick a fight with anyone who buys ink by the barrel, or so it has been said. Brad Sherman, a Democratic candidate for Congress from California, might add ''especially anyone who draws.''",
+    "abstract": "Political Briefing column; Brad Sherman, Democratic candidate for Congress from California, has misfortune to be running in district that includes San Fernando Valley, home to many cartoonists; artists in district have set up Web page to contribute unflattering depictions of his work on state tax board, which taxes commercial illustrations; cartoon (S)",
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE CAMPAIGNS FOR CONGRESS",
+        "kicker": "POLITICS: Political Briefing"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SHERMAN, BRAD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "CARTOONS AND CARTOONISTS"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1996-10-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Steven",
+                "middlename": "A.",
+                "lastname": "HOLMES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By STEVEN A. HOLMES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ed378eb7c8105d73f153",
+    "word_count": 1028,
+    "slideshow_credits": null
+}

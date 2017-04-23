@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1997/07/18/us/sweatshop-raids-cast-doubt-effort-garment-makers-police-factories.html",
+    "snippet": "For several years, Federal officials have pointed proudly to an anti-sweatshop program that relies on apparel companies to police factories as a model of government-industry cooperation and as a way to reassure consumers that the clothes they buy ...",
+    "lead_paragraph": "For several years, Federal officials have pointed proudly to an anti-sweatshop program that relies on apparel companies to police factories as a model of government-industry cooperation and as a way to reassure consumers that the clothes they buy are not made by exploited workers. But over the last few days, several raids by California officials have dealt that program a serious setback by uncovering immigrants doing illegal piecework at home for several companies that are covered by the Federal initiative. In one of the largest crackdowns over the past year, California's labor inspectors found sewing machines and bags of garments at five homes in the Los Angeles area, where the residents engaged in the long-banned practice of doing homework for apparel companies.",
+    "abstract": "Federal officials have pointed proudly to anti-sweatshop program that relies on apparel companies to police factories as model of government-industry cooperation and as way to reassure consumers that clothes they buy are not made by exploited workers; several recent raids by California officials have dealt that program serious setback by uncovering immigrants doing illegal piecework at home for several companies that are covered by Federal initiative; officials say some of illegal work was done for factories that make clothes for Guess? Inc; photo (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sweatshop Raids Cast Doubt on an Effort By Garment Makers to Police the Factories"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GUESS? INC"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "SWEATSHOPS"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "APPAREL"
+        }
+    ],
+    "pub_date": "1997-07-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Steven",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By STEVEN GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd211958eb7c8105d786bbc",
+    "word_count": 1687,
+    "slideshow_credits": null
+}

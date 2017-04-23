@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/19/us/newspaper-to-cut-450-positions.html",
+    "snippet": "The Los Angeles Times announced today that it planned to cut 450 full-time positions by the end of this year, and employees in the editorial department said they were told that these cuts would include up to 160 out of 1,300 news-gathering positio...",
+    "lead_paragraph": "The Los Angeles Times announced today that it planned to cut 450 full-time positions by the end of this year, and employees in the editorial department said they were told that these cuts would include up to 160 out of 1,300 news-gathering positions. Breaking with the newspaper's recent practice of using attrition and buyouts to cut its staff and save operating costs, the reductions announced today would include an undetermined number of outright layoffs, said Laura Morgan, director of communications for the newspaper.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Newspaper to Cut 450 Positions"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LOS ANGELES TIMES"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "NEWSPAPERS"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS AND JOB REDUCTIONS"
+        }
+    ],
+    "pub_date": "1995-07-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cc768eb7c8105d703087",
+    "word_count": 250,
+    "slideshow_credits": null
+}

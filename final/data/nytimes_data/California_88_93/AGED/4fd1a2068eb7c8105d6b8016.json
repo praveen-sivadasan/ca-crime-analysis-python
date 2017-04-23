@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/13/us/studies-find-drugs-still-overused-to-control-nursing-home-elderly.html",
+    "snippet": "LEAD: More than a decade after a Federal study found serious overuse and misuse of powerful drugs in nursing homes, many patients are still being drugged into a stupor just to make them easier to care for....",
+    "lead_paragraph": "LEAD: More than a decade after a Federal study found serious overuse and misuse of powerful drugs in nursing homes, many patients are still being drugged into a stupor just to make them easier to care for.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Studies Find Drugs Still Overused To Control Nursing Home Elderly"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GILMOUR, DONNA M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "AGED"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "DRUGS AND DRUG TRADE"
+        },
+        {
+            "name": "subject",
+            "value": "NURSING HOMES"
+        }
+    ],
+    "pub_date": "1989-03-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a2068eb7c8105d6b8016",
+    "word_count": 1298,
+    "slideshow_credits": null
+}

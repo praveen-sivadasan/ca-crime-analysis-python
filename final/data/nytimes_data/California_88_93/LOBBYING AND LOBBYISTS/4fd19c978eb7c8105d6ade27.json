@@ -1,0 +1,74 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/29/business/the-media-business-advertising-california-fight-on-car-insurance.html",
+    "snippet": "LEAD: THE most intensive political advertising campaign of the year may not be the one between Michael S. Dukakis and George Bush. Rather, it is likely to be the heated battle in California between special-interest groups offering voters competing...",
+    "lead_paragraph": "LEAD: THE most intensive political advertising campaign of the year may not be the one between Michael S. Dukakis and George Bush. Rather, it is likely to be the heated battle in California between special-interest groups offering voters competing proposals to overhaul the state's automobile-insurance industry.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Fight on Car Insurance",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "LOBBYING AND LOBBYISTS"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-09-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "Stevenson",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Richard W. Stevenson"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19c978eb7c8105d6ade27",
+    "word_count": 651,
+    "slideshow_credits": null
+}

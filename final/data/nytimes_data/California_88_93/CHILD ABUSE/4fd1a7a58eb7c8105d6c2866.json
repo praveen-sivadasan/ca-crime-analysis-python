@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/11/us/judge-is-firm-on-forced-contraception-but-welcomes-an-appeal.html",
+    "snippet": "The judge who ordered a convicted child abuser to have an innovative birth control device implanted in her arm declined to reverse himself at a hearing today.    But the judge, Howard Broadman of Tulare County Superior Court, said he welcomed the ...",
+    "lead_paragraph": "The judge who ordered a convicted child abuser to have an innovative birth control device implanted in her arm declined to reverse himself at a hearing today. But the judge, Howard Broadman of Tulare County Superior Court, said he welcomed the appeal promised by the defendant's lawyer, and he also left to doctors the final determination as to whether the woman's health made her a safe candidate for the procedure.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Judge Is Firm on Forced Contraception, but Welcomes an Appeal"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "JOHNSON, DARLENE"
+        },
+        {
+            "name": "persons",
+            "value": "BROADMAN, HOWARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILD ABUSE"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "NORPLANT (BIRTH CONTROL DEVICE)"
+        },
+        {
+            "name": "subject",
+            "value": "BIRTH CONTROL AND FAMILY PLANNING"
+        }
+    ],
+    "pub_date": "1991-01-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "LEV"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL LEV, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7a58eb7c8105d6c2866",
+    "word_count": 1074,
+    "slideshow_credits": null
+}

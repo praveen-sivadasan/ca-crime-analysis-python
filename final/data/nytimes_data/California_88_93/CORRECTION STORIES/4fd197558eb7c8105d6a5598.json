@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/07/07/nyregion/c-corrections-888890.html",
+    "snippet": "LEAD: An article on June 21 about a demonstration by environmentalists against wood cutting in Northern California misstated the increase in logging by the Pacific Lumber Company since its takeover by the Maxxam Group. From 1985 to 1989, logging r...",
+    "lead_paragraph": "LEAD: An article on June 21 about a demonstration by environmentalists against wood cutting in Northern California misstated the increase in logging by the Pacific Lumber Company since its takeover by the Maxxam Group. From 1985 to 1989, logging rose by slightly more than 100 percent.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1990-07-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd197558eb7c8105d6a5598",
+    "word_count": 91,
+    "slideshow_credits": null
+}

@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/27/us/the-1992-campaign-media-senate-races-marked-by-vivid-images.html",
+    "snippet": "The beating of a white truck driver in the Los Angeles riots. A black woman denouncing mob rule. Rivers running pink with toxic chemicals. An aborted fetus.   It takes a tough advertisement to fight its way through the television clutter here thes...",
+    "lead_paragraph": "The beating of a white truck driver in the Los Angeles riots. A black woman denouncing mob rule. Rivers running pink with toxic chemicals. An aborted fetus. It takes a tough advertisement to fight its way through the television clutter here these days, so it is not surprising that aspirants in California's upcoming Senate primary have resorted to some pretty high-voltage images to promote their candidacies. But in one of the paradoxes of the modern media campaign, the more graphic images the candidates use to distinguish themselves, experts say, the more they risk seeming routine.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Media; Senate Races Marked by Vivid Images"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1992-05-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Elizabeth",
+                "rank": 1,
+                "lastname": "KOLBERT"
+            }
+        ],
+        "original": "By ELIZABETH KOLBERT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19fc18eb7c8105d6b4008",
+    "word_count": 788,
+    "slideshow_credits": null
+}

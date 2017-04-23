@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/06/us/the-race-for-congress-enemy-in-california-is-voter-apathy.html",
+    "snippet": "LEAD: The costliest Senate race in the country is almost over, and it seems that almost nobody has noticed it go by....",
+    "lead_paragraph": "LEAD: The costliest Senate race in the country is almost over, and it seems that almost nobody has noticed it go by.",
+    "abstract": null,
+    "print_page": "38",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Race for Congress; Enemy in California Is Voter Apathy"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCARTHY, LEO T"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1988-11-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd195ee8eb7c8105d6a27c0",
+    "word_count": 859,
+    "slideshow_credits": null
+}

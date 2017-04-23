@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/21/us/results-of-aids-experiment-are-retracted-after-inquiry.html",
+    "snippet": "Scientists from California have retracted the results of an AIDS experiment, contending that the principal researcher withheld data that contradicted their conclusions.   The retraction is being published in Thursday's issue of The New England Jou...",
+    "lead_paragraph": "Scientists from California have retracted the results of an AIDS experiment, contending that the principal researcher withheld data that contradicted their conclusions. The retraction is being published in Thursday's issue of The New England Journal of Medicine, which carried the original research in 1985.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Results of AIDS Experiment Are Retracted After Inquiry"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        }
+    ],
+    "pub_date": "1991-11-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd19dbe8eb7c8105d6b0370",
+    "word_count": 339,
+    "slideshow_credits": null
+}

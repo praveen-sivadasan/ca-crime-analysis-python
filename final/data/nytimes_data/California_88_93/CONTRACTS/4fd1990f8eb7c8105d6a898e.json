@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/27/business/futures-options-orange-juice-prices-rise-for-fifth-consecutive-day.html",
+    "snippet": "Orange juice futures prices rose yesterday on the New York Cotton Exchange, reflecting worries that heavy frost damage to the California orange crop will hurt juice supplies.   Frozen concentrated orange juice futures settled 1.7 cents to 3.9 cent...",
+    "lead_paragraph": "Orange juice futures prices rose yesterday on the New York Cotton Exchange, reflecting worries that heavy frost damage to the California orange crop will hurt juice supplies. Frozen concentrated orange juice futures settled 1.7 cents to 3.9 cents higher, with the contract for delivery in January at $1.181 a pound.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Orange Juice Prices Rise For Fifth Consecutive Day",
+        "kicker": "FUTURES/OPTIONS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NEW YORK COTTON EXCHANGE"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "FUTURES TRADING"
+        },
+        {
+            "name": "subject",
+            "value": "JUICES"
+        },
+        {
+            "name": "subject",
+            "value": "CONTRACTS"
+        },
+        {
+            "name": "subject",
+            "value": "ORANGES"
+        }
+    ],
+    "pub_date": "1990-12-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "By The Associated Press",
+        "organization": "The Associated Press"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1990f8eb7c8105d6a898e",
+    "word_count": "433",
+    "slideshow_credits": null
+}

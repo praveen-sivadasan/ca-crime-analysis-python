@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/03/us/63-days-after-its-cash-ran-out-california-passes-austere-budget.html",
+    "snippet": "California's protracted budget crisis sputtered to an unhappy end early this morning when the weary State Assembly capitulated to Gov. Pete Wilson and approved the final elements of an austere budget 63 days after the state ran out of cash.   But ...",
+    "lead_paragraph": "California's protracted budget crisis sputtered to an unhappy end early this morning when the weary State Assembly capitulated to Gov. Pete Wilson and approved the final elements of an austere budget 63 days after the state ran out of cash. But the final package was so tenuous, with a pitifully small cash reserve of only $435 million in a $57.4 billion budget, that fiscal experts here warned that the State Government was likely to go broke again by spring and have to go through yet another painful round of cutting, barring an unexpectedly strong recovery from recession.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "63 Days After Its Cash Ran Out, California Passes Austere Budget"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-09-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a1628eb7c8105d6b6c5e",
+    "word_count": 1425,
+    "slideshow_credits": null
+}

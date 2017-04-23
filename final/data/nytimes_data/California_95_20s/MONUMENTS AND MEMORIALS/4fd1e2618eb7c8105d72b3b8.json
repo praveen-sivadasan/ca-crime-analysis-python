@@ -1,0 +1,78 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/07/travel/tours-of-japanese-internment-camp.html",
+    "snippet": "The National Park Service has recently taken control of Manzanar National Historic Site, the internment camp in eastern California halfway between Los Angeles and Reno, where up to 10,000 people of Japanese ancestry were held during World War II. ...",
+    "lead_paragraph": "The National Park Service has recently taken control of Manzanar National Historic Site, the internment camp in eastern California halfway between Los Angeles and Reno, where up to 10,000 people of Japanese ancestry were held during World War II. The transfer of management brought with it a number of planned improvements, none of which are yet financed, for the 800-acre site. All that is left of the internment camp -- the best preserved of the 10 war relocation centers in the United States -- is a rickety auditorium, stone sentry posts, dusty streets, a rock garden and the foundations of barracks where Japanese-Americans and Japanese citizens lived from 1942 to 1945. The Park Service wants to turn the auditorium into an interpretive center for visitors, and restore some of the living quarters, guard towers and barbed-wire fence to their World War II conditions.",
+    "abstract": "National Park Service takes control of Manzanar National Historic Site, internment camp in California where thousands of Japanese were held during World War II; will restore some of camp for visitors; photo of memorial; tours offered by nearby Eastern California Museum noted (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tours of Japanese Internment Camp",
+        "kicker": "TRAVEL ADVISORY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EASTERN CALIFORNIA MUSEUM"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL PARK SERVICE"
+        },
+        {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+        },
+        {
+            "name": "subject",
+            "value": "MANZANAR NATIONAL HISTORIC SITE (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "JAPANESE-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "MONUMENTS AND MEMORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "PARKS AND OTHER RECREATION AREAS"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "WORLD WAR II (1939-45)"
+        }
+    ],
+    "pub_date": "1997-09-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Verne",
+                "middlename": "G.",
+                "lastname": "KOPYTOFF",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By VERNE G. KOPYTOFF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e2618eb7c8105d72b3b8",
+    "word_count": 240,
+    "slideshow_credits": null
+}

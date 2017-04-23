@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/10/us/california-scrambles-to-defends-its-bases-from-pentagon-ax.html",
+    "snippet": "Word that a new round of base closings would be concentrated in California has set off a week of clamorous activity by the state's elected leaders, who are reminding the Clinton Administration of its pledge to give special attention to the state's...",
+    "lead_paragraph": "Word that a new round of base closings would be concentrated in California has set off a week of clamorous activity by the state's elected leaders, who are reminding the Clinton Administration of its pledge to give special attention to the state's ailing economy, which threatens to stall the nation's recovery. The full-court press by California's leadership, including the Republican Governor, the two new Democrat Senators, a host of powerful committee chairmen in Congress and dozens of state lawmakers, is the most intense effort to advance a statewide agenda since the earthquake in 1989, when officials set aside partisan and parochial interests to seek Federal aid.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Scrambles to Defends Its Bases From Pentagon Ax"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "DELLUMS, RONALD V"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS (LABOR)"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1993-03-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c81d8eb7c8105d6fa5f3",
+    "word_count": 1155,
+    "slideshow_credits": null
+}

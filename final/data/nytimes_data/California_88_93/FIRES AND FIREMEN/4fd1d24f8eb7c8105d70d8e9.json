@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/31/us/californians-relieved-as-winds-and-fire-subside.html",
+    "snippet": "Hot winds that fed deadly wildfires around Southern California died overnight as unexpectedly as they had appeared, and a hunt intensified today for the arsonists who the authorities believe set at last 6 of 13 major blazes.   After four days of f...",
+    "lead_paragraph": "Hot winds that fed deadly wildfires around Southern California died overnight as unexpectedly as they had appeared, and a hunt intensified today for the arsonists who the authorities believe set at last 6 of 13 major blazes. After four days of fire that consumed 152,000 acres and 720 structures, firefighters raced to contain the remaining blazes before the predicted return of the Santa Ana winds on Monday or Tuesday. Arson investigators took advantage of the lull to sift through the ashes for clues and issued calls to the public to report any suspicious activities.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Californians Relieved as Winds and Fire Subside"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        },
+        {
+            "name": "subject",
+            "value": "ARSON"
+        },
+        {
+            "name": "subject",
+            "value": "WIND"
+        }
+    ],
+    "pub_date": "1993-10-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d24f8eb7c8105d70d8e9",
+    "word_count": 783,
+    "slideshow_credits": null
+}

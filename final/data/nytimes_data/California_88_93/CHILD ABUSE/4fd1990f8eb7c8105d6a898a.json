@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/12/us/parolee-who-set-fire-to-son-is-back-in-jail.html",
+    "snippet": "LEAD: Charles Rothenberg, who was imprisoned for setting fire to his son in 1983, is back in prison as a parole violator eight months after being paroled....",
+    "lead_paragraph": "LEAD: Charles Rothenberg, who was imprisoned for setting fire to his son in 1983, is back in prison as a parole violator eight months after being paroled.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Parolee Who Set Fire To Son Is Back in Jail"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ROTHENBERG, DAVID"
+        },
+        {
+            "name": "persons",
+            "value": "ROTHENBERG, CHARLES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "CHILD ABUSE"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        }
+    ],
+    "pub_date": "1990-09-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1990f8eb7c8105d6a898a",
+    "word_count": 178,
+    "slideshow_credits": null
+}

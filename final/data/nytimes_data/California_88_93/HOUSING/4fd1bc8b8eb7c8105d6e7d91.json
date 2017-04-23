@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/16/business/california-housing-dip.html",
+    "snippet": "Consumer fears about the recession and a scarcity of financing for developers helped to push new housing construction in California in November to its lowest level in eight years, an industry group reported today....",
+    "lead_paragraph": "Consumer fears about the recession and a scarcity of financing for developers helped to push new housing construction in California in November to its lowest level in eight years, an industry group reported today.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Housing Dip"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        }
+    ],
+    "pub_date": "1991-01-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc8b8eb7c8105d6e7d91",
+    "word_count": 34,
+    "slideshow_credits": null
+}

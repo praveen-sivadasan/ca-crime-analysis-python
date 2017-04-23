@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/02/us/switch-seen-as-station-agrees-to-show-debate.html",
+    "snippet": "LEAD: The CBS television network affiliate in Los Angeles, KCBS, announced yesterday that it had agreed to broadcast a debate between the contenders for the Democratic nomination for governor of California, Dianne Feinstein and John K. Van de Kamp...",
+    "lead_paragraph": "LEAD: The CBS television network affiliate in Los Angeles, KCBS, announced yesterday that it had agreed to broadcast a debate between the contenders for the Democratic nomination for governor of California, Dianne Feinstein and John K. Van de Kamp, on Sunday afternoon, May 20.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Switch Seen as Station Agrees to Show Debate"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "DEBATING"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-05-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1af058eb7c8105d6cf3c7",
+    "word_count": 253,
+    "slideshow_credits": null
+}

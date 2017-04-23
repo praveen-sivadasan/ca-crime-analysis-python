@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1995/04/12/us/new-prisons-cast-shadow-over-higher-education.html",
+    "snippet": "The hulking shape of San Quentin is not quite visible from the heights of the University of California campus on the other side of San Francisco Bay. But the prison has begun to loom ominously in the minds of professors and students here as they h...",
+    "lead_paragraph": "The hulking shape of San Quentin is not quite visible from the heights of the University of California campus on the other side of San Francisco Bay. But the prison has begun to loom ominously in the minds of professors and students here as they have come to believe that California's binge of prison building is being financed at the expense of the state's proud public university system. This year, for the first time, California will spend more on prisons than for its two university systems, the University of California and the California state universities, according to Geoffrey Long, the chief consultant to the State Assembly's Budget Committee.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "New Prisons Cast Shadow Over Higher Education"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        }
+    ],
+    "pub_date": "1995-04-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Fox",
+                "rank": 1,
+                "lastname": "BUTTERFIELD"
+            }
+        ],
+        "original": "By FOX BUTTERFIELD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e7e58eb7c8105d73549f",
+    "word_count": 1335,
+    "slideshow_credits": null
+}

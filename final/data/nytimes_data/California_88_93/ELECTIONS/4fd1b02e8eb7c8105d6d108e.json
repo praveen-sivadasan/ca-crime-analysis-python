@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/04/us/ex-california-governor-to-seek-the-presidency.html",
+    "snippet": "With a blast at \"monstrous\" political campaigns and a \"corrupt\" political system, Edmund G. Brown Jr. said today that he was dropping his bid for the Senate to open an exploratory candidacy for President. The former California Governor said he wan...",
+    "lead_paragraph": "With a blast at \"monstrous\" political campaigns and a \"corrupt\" political system, Edmund G. Brown Jr. said today that he was dropping his bid for the Senate to open an exploratory candidacy for President. The former California Governor said he wanted to serve as the voice for the disaffected and would accept no contribution larger than $100.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ex-California Governor To Seek the Presidency"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1991-09-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1b02e8eb7c8105d6d108e",
+    "word_count": 918,
+    "slideshow_credits": null
+}

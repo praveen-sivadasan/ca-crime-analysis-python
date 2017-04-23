@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/01/business/credit-markets-hard-lessons-on-competitive-bids.html",
+    "snippet": "If the recent scandals in the municipal market force more states and local governments to rely increasingly on competitive bidding in the sales of their tax-exempt bonds, it appears that Merrill Lynch & Company may already have an edge on its Wall...",
+    "lead_paragraph": "If the recent scandals in the municipal market force more states and local governments to rely increasingly on competitive bidding in the sales of their tax-exempt bonds, it appears that Merrill Lynch & Company may already have an edge on its Wall Street competitors. This advantage is evident in the rankings of underwriters for the first three quarters of the year. Merrill's lead in its competitive bidding victories was enough to beat Goldman, Sachs & Company to the top slot, although Goldman was No. 1 in negotiated bids.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Hard Lessons on Competitive Bids",
+        "kicker": "CREDIT MARKETS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GOLDMAN, SACHS & CO"
+        },
+        {
+            "name": "organizations",
+            "value": "MERRILL LYNCH & CO INC"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1993-10-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jonathan",
+                "rank": 1,
+                "lastname": "FUERBRINGER"
+            }
+        ],
+        "original": "By JONATHAN FUERBRINGER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e9e98eb7c8105d738c01",
+    "word_count": 875,
+    "slideshow_credits": null
+}

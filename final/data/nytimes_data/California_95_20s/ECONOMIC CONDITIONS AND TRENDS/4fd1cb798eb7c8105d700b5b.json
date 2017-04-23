@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/29/us/a-changing-california-emerges-from-recession.html",
+    "snippet": "New evidence shows that three years after the rest of the country, California has finally pulled out of its brutal recession, with job growth and incomes rising swiftly. There are even signs that the outflow of residents from the state has slowed ...",
+    "lead_paragraph": "New evidence shows that three years after the rest of the country, California has finally pulled out of its brutal recession, with job growth and incomes rising swiftly. There are even signs that the outflow of residents from the state has slowed sharply and may reverse in coming years. But California's economy has changed considerably and has been humbled by the extraordinary growth of the late 1980's.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Changing California Emerges From Recession"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "RECESSION AND DEPRESSION"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "INCOME"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1995-03-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "STERNGOLD"
+            }
+        ],
+        "original": "By JAMES STERNGOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cb798eb7c8105d700b5b",
+    "word_count": 1015,
+    "slideshow_credits": null
+}

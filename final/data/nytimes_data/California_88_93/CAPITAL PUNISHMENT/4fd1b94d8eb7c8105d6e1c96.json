@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/22/us/california-killer-loses-move-to-delay-execution.html",
+    "snippet": "A Federal appeals court has ruled that a condemned serial killer, David Mason, is mentally competent to abandon his appeals, and has effectively ordered a stay of execution lifted. Mr. Mason is scheduled to die in the gas chamber at San Quentin on...",
+    "lead_paragraph": "A Federal appeals court has ruled that a condemned serial killer, David Mason, is mentally competent to abandon his appeals, and has effectively ordered a stay of execution lifted. Mr. Mason is scheduled to die in the gas chamber at San Quentin on Tuesday. Unless overturned on an appeal by Mr. Mason's former lawyer, the decision Friday night by a three-judge panel of the United States Court of Appeals for the Ninth Circuit removes the last legal barrier to Mr. Mason's execution.",
+    "abstract": null,
+    "print_page": "31",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Killer Loses Move to Delay Execution"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MASON, DAVID H"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN QUENTIN PRISON"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1993-08-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b94d8eb7c8105d6e1c96",
+    "word_count": 674,
+    "slideshow_credits": null
+}

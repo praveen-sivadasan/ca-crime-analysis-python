@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/12/us/california-sees-first-encounter-in-senate-race.html",
+    "snippet": "Senator John Seymour and his Democratic opponent, Dianne Feinstein, traded personal accusations and disagreed on taxes, immigration policy and military spending cuts on Saturday in the first debate of their Senate campaign.   But Mr. Seymour, the ...",
+    "lead_paragraph": "Senator John Seymour and his Democratic opponent, Dianne Feinstein, traded personal accusations and disagreed on taxes, immigration policy and military spending cuts on Saturday in the first debate of their Senate campaign. But Mr. Seymour, the appointed Republican incumbent, and Ms. Feinstein, the former Mayor of San Francisco and former candidate for Governor, did have points of accord: they agreed on cutting Federal spending across the board, specifically for Congress, and agreed that job creation and the economy were their top priorities.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Sees First Encounter In Senate Race"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SEYMOUR, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1992-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d5ee8eb7c8105d714643",
+    "word_count": 410,
+    "slideshow_credits": null
+}

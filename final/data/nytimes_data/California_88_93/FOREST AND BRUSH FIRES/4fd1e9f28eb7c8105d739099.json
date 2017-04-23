@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/04/us/california-fires-fire-diverted-los-angeles-after-it-ravages-malibu-area.html",
+    "snippet": "One of the largest firefighting efforts ever undertaken in California succeeded early today in saving thickly populated areas of Los Angeles from a stubborn wildfire, but not before more than 200 homes and 35,000 acres were destroyed in the wealth...",
+    "lead_paragraph": "One of the largest firefighting efforts ever undertaken in California succeeded early today in saving thickly populated areas of Los Angeles from a stubborn wildfire, but not before more than 200 homes and 35,000 acres were destroyed in the wealthy beachside enclave of Malibu and nearby canyons. All night, fires of suspicious origin raged out of control until the Santa Ana winds from the desert abated this morning. As winds changed, black and orange banks of smoke parted a bit, revealing a scene of terrible desolation to those in a helicopter above. Vast tracts of rutted hills were blackened, sprinkled with white ash and littered with the forlorn ruins of once magnificent homes.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fire Diverted From Los Angeles After It Ravages the Malibu Area",
+        "kicker": "THE CALIFORNIA FIRES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "MALIBU (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "LOS ANGELES (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        }
+    ],
+    "pub_date": "1993-11-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e9f28eb7c8105d739099",
+    "word_count": 1313,
+    "slideshow_credits": null
+}

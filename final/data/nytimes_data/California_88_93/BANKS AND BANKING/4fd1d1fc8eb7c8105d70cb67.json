@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/23/business/giant-banks-will-little-guy-pay.html",
+    "snippet": "The proposed merger of BankAmerica and Security Pacific, the two largest banking companies in California, is the latest in a series of big-bank betrothals that promise cost savings, great riches for shareholders and power for the executives.    Co...",
+    "lead_paragraph": "The proposed merger of BankAmerica and Security Pacific, the two largest banking companies in California, is the latest in a series of big-bank betrothals that promise cost savings, great riches for shareholders and power for the executives. Consolidation in the banking industry is all the rage because everyone seems to win -- except, perhaps, the consumer and small-business borrowers.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Giant Banks: Will Little Guy Pay?"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SAVAGE, DONALD T"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL RESERVE SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "SMALL BUSINESS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1991-08-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "QUINT"
+            }
+        ],
+        "original": "By MICHAEL QUINT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d1fc8eb7c8105d70cb67",
+    "word_count": 1370,
+    "slideshow_credits": null
+}

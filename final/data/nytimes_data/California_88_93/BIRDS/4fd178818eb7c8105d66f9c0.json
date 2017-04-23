@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/04/29/us/condor-chick-is-progressing-with-hatching-possible-today.html",
+    "snippet": "LEAD: A California condor chick, the product of the first captive mating by the nearly extinct species, pecked at its shell for a second day today and progressed toward an expected hatching Friday or early Saturday, officials said....",
+    "lead_paragraph": "LEAD: A California condor chick, the product of the first captive mating by the nearly extinct species, pecked at its shell for a second day today and progressed toward an expected hatching Friday or early Saturday, officials said.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Condor Chick Is Progressing, With Hatching Possible Today"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN DIEGO WILD ANIMAL PARK"
+        },
+        {
+            "name": "subject",
+            "value": "CONDORS"
+        },
+        {
+            "name": "subject",
+            "value": "ENDANGERED AND EXTINCT SPECIES"
+        },
+        {
+            "name": "subject",
+            "value": "REPRODUCTION (BIOLOGICAL)"
+        },
+        {
+            "name": "subject",
+            "value": "BIRDS"
+        }
+    ],
+    "pub_date": "1988-04-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd178818eb7c8105d66f9c0",
+    "word_count": 179,
+    "slideshow_credits": null
+}

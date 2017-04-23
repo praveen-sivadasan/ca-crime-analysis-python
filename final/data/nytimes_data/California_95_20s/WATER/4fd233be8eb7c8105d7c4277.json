@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1999/12/15/us/national-news-briefs-california-pipeline-break-cuts-water-to-800000.html",
+    "snippet": "A pipeline break created a water shortage for nearly 800,000 Southern Californians today, and residents were asked to stop filling pools, watering lawns and washing clothes for at least a week.    ''This isn't a joke,'' said Dave Seymour of the Ra...",
+    "lead_paragraph": "A pipeline break created a water shortage for nearly 800,000 Southern Californians today, and residents were asked to stop filling pools, watering lawns and washing clothes for at least a week. ''This isn't a joke,'' said Dave Seymour of the Rancho Santa Margarita Water District. ''This really is a crisis. People are taking it very seriously. We've had people calling to tell us their neighbors are watering the lawns and washing their cars.''",
+    "abstract": "Pipeline break creates water shortage for nearly 800,000 residents of Orange County, Calif; officials plead for voluntary conservation (S)",
+    "print_page": "19",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; California Pipeline Break Cuts Water to 800,000"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PIPELINES"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        }
+    ],
+    "pub_date": "1999-12-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd233be8eb7c8105d7c4277",
+    "word_count": 140,
+    "slideshow_credits": null
+}

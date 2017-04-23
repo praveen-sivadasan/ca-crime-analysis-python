@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/17/business/company-news-delay-in-lawsuit-by-bat-bidder.html",
+    "snippet": "LEAD: A lawsuit against the State of California filed by the investment group trying to take over B.A.T. Industries P.L.C. has been delayed for two weeks, creating a potential roadblock to the buyout bid. A preliminary hearing has been rescheduled...",
+    "lead_paragraph": "LEAD: A lawsuit against the State of California filed by the investment group trying to take over B.A.T. Industries P.L.C. has been delayed for two weeks, creating a potential roadblock to the buyout bid. A preliminary hearing has been rescheduled to Sept. 11 from Aug. 28. It will consider whether the California Insurance Commissioner's jurisdiction over B.A.T.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Delay in Lawsuit By B.A.T. Bidder",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOYLAKE"
+        },
+        {
+            "name": "organizations",
+            "value": "BAT INDUSTRIES PLC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        }
+    ],
+    "pub_date": "1989-08-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "Reuters",
+        "original": "Reuters",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1963c8eb7c8105d6a3558",
+    "word_count": 186,
+    "slideshow_credits": null
+}

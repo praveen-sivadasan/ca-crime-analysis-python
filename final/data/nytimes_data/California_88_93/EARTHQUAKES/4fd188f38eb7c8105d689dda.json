@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/the-california-quake-rapid-transit-in-full-service.html",
+    "snippet": "LEAD: The Bay Area Rapid Transit system, a vital link between San Francisco and the East Bay, was back in full service today....",
+    "lead_paragraph": "LEAD: The Bay Area Rapid Transit system, a vital link between San Francisco and the East Bay, was back in full service today.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rapid Transit In Full Service",
+        "kicker": "THE CALIFORNIA QUAKE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BAY AREA RAPID TRANSIT SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "TRANSIT SYSTEMS"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd188f38eb7c8105d689dda",
+    "word_count": 168,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/10/us/national-news-briefs-634-million-in-damage-to-california-citrus-crop.html",
+    "snippet": "California's farmers lost an estimated $634 million in a cold snap last month that destroyed much of the citrus crop and may force layoffs of agricultural workers, officials said on Friday.    The California Department of Food and Agriculture said...",
+    "lead_paragraph": "California's farmers lost an estimated $634 million in a cold snap last month that destroyed much of the citrus crop and may force layoffs of agricultural workers, officials said on Friday. The California Department of Food and Agriculture said its preliminary estimate of the damage had increased to $634.1 million.",
+    "abstract": "California's farmers lose estimated $634 million in cold snap in December that destroyed much of citrus crop and may force layoffs of agricultural workers (S)",
+    "print_page": "15",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; $634 Million in Damage To California Citrus Crop"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "CITRUS FRUITS"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS AND JOB REDUCTIONS"
+        }
+    ],
+    "pub_date": "1999-01-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd223cf8eb7c8105d7a9914",
+    "word_count": 120,
+    "slideshow_credits": null
+}

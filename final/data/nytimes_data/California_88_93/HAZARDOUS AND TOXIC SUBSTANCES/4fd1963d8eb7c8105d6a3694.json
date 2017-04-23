@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/29/us/california-judge-rules-telephone-notice-on-toxic-products-is-inadequate.html",
+    "snippet": "LEAD: A California judge has ruled that a toll-free telephone number set up by manufacturers so consumers can find out about toxic substances in products does not meet the requirements of state law....",
+    "lead_paragraph": "LEAD: A California judge has ruled that a toll-free telephone number set up by manufacturers so consumers can find out about toxic substances in products does not meet the requirements of state law.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Judge Rules Telephone Notice on Toxic Products Is Inadequate"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 65 (CALIFORNIA INITIATIVE)"
+        }
+    ],
+    "pub_date": "1989-08-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1963d8eb7c8105d6a3694",
+    "word_count": 650,
+    "slideshow_credits": null
+}

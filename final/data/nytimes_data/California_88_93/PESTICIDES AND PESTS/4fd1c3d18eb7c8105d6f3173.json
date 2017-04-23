@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/06/us/california-gains-in-medfly-battle.html",
+    "snippet": "Agriculture officials expect to declare victory this week in the 16-month, $52 million campaign to eradicate the Mediterranean fruit fly from Southern California.    But the continued arrival of illegal fruit and vegetables, usually carried in tra...",
+    "lead_paragraph": "Agriculture officials expect to declare victory this week in the 16-month, $52 million campaign to eradicate the Mediterranean fruit fly from Southern California. But the continued arrival of illegal fruit and vegetables, usually carried in travelers' luggage, virtually insures future infestations of the insect, which destroys crops, officials said Sunday.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA GAINS IN MEDFLY BATTLE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "CITRUS FRUITS"
+        },
+        {
+            "name": "subject",
+            "value": "MEDITERRANEAN FRUIT FLY"
+        },
+        {
+            "name": "subject",
+            "value": "QUARANTINE"
+        }
+    ],
+    "pub_date": "1990-11-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c3d18eb7c8105d6f3173",
+    "word_count": 371,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/15/opinion/abroad-at-home-down-the-middle.html",
+    "snippet": "Pete Wilson, California's new Republican Governor, has one picture behind his desk: of Ronald Reagan. In his inaugural speech last month he hailed Mr. Reagan. But among former governors he also praised Democrat Pat Brown and Earl Warren, the great...",
+    "lead_paragraph": "Pete Wilson, California's new Republican Governor, has one picture behind his desk: of Ronald Reagan. In his inaugural speech last month he hailed Mr. Reagan. But among former governors he also praised Democrat Pat Brown and Earl Warren, the great liberal Republican. Mr. Wilson is coming on as something unusual in American politics: nonpartisan. In a rush of early actions there has been hardly a whiff of ideology. He put a Democrat in his cabinet, and he proposed new programs for prenatal and child care.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Down the Middle?",
+        "kicker": "ABROAD AT HOME"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        }
+    ],
+    "pub_date": "1991-02-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Anthony",
+                "rank": 1,
+                "lastname": "Lewis"
+            }
+        ],
+        "original": "By Anthony Lewis"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd19d7b8eb7c8105d6afbbd",
+    "word_count": 735,
+    "slideshow_credits": null
+}

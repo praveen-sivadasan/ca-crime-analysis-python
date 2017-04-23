@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/02/sports/california-drops-charges-against-lukas-and-4-others.html",
+    "snippet": "LEAD: Accusations against D. Wayne Lukas, Laz Barrera and three other thoroughbred trainers charging cocaine was present in horses they train were dismissed today....",
+    "lead_paragraph": "LEAD: Accusations against D. Wayne Lukas, Laz Barrera and three other thoroughbred trainers charging cocaine was present in horses they train were dismissed today.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Drops Charges Against Lukas and 4 Others"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WEBB, BRYAN"
+        },
+        {
+            "name": "persons",
+            "value": "LUKAS, D WAYNE"
+        },
+        {
+            "name": "persons",
+            "value": "BARRERA, ALBERT"
+        },
+        {
+            "name": "persons",
+            "value": "BARRERA, LAZ"
+        },
+        {
+            "name": "persons",
+            "value": "HEMMERICK, ANTHONY J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HORSE RACING BOARD, CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HORSE RACING"
+        },
+        {
+            "name": "subject",
+            "value": "THOROUGHBRED RACING"
+        },
+        {
+            "name": "subject",
+            "value": "COCAINE"
+        }
+    ],
+    "pub_date": "1989-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18bf18eb7c8105d68ef00",
+    "word_count": 281,
+    "slideshow_credits": null
+}

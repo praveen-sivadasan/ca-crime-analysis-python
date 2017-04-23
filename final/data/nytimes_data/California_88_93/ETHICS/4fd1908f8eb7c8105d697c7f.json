@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/03/us/lawmaker-is-seen-accepting-3000.html",
+    "snippet": "LEAD: Jurors today watched a videotape that showed a State Senator who is charged with bribery and extortion accepting a $3,000 check from an undercover Federal agent....",
+    "lead_paragraph": "LEAD: Jurors today watched a videotape that showed a State Senator who is charged with bribery and extortion accepting a $3,000 check from an undercover Federal agent.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "LAWMAKER IS SEEN ACCEPTING $3,000"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MONTOYA, JOSEPH"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "TRIALS"
+        },
+        {
+            "name": "subject",
+            "value": "BRIBERY"
+        },
+        {
+            "name": "subject",
+            "value": "EXTORTION"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1990-01-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1908f8eb7c8105d697c7f",
+    "word_count": 521,
+    "slideshow_credits": null
+}

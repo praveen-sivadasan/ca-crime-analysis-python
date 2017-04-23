@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1996/06/14/business/energy-dept-sees-lower-prices-at-the-pump.html",
+    "snippet": "Gasoline prices could drop as much as 10 cents a gallon this summer, the Energy Department said today.         The decline could be \"even more in California,\" Energy Secretary Hazel R. O'Leary said in releasing a study ordered by President Clinton...",
+    "lead_paragraph": "Gasoline prices could drop as much as 10 cents a gallon this summer, the Energy Department said today. The decline could be \"even more in California,\" Energy Secretary Hazel R. O'Leary said in releasing a study ordered by President Clinton on April 29.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Energy Dept. Sees Lower Prices at the Pump"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CURTIS, CHARLES"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "O'LEARY, HAZEL R"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ENERGY DEPARTMENT"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        }
+    ],
+    "pub_date": "1996-06-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Bloomberg",
+                "middlename": "Business",
+                "lastname": "News",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Bloomberg Business News"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f1308eb7c8105d747542",
+    "word_count": 459,
+    "slideshow_credits": null
+}

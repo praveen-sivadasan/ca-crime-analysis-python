@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1998/09/03/us/california-orders-large-recall-for-toyota.html",
+    "snippet": "California officials ordered the recall of 330,000 Toyota and Lexus vehicles today, citing a faulty computer emission control system.    The recall is the largest by the California Air Resources Board, whose emission standards are the nation's str...",
+    "lead_paragraph": "California officials ordered the recall of 330,000 Toyota and Lexus vehicles today, citing a faulty computer emission control system. The recall is the largest by the California Air Resources Board, whose emission standards are the nation's strictest, a board spokesman, Jerry Martin, said.",
+    "abstract": "California officials order recall of 330,000 Toyota and Lexus vehicles, citing faulty computer emission control system (S)",
+    "print_page": "29",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Orders Large Recall for Toyota"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LEXUS DIVISION OF TOYOTA MOTOR SALES USA"
+        },
+        {
+            "name": "organizations",
+            "value": "TOYOTA MOTOR CORP"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1998-09-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b875e338f0d86bcb2a52e9",
+    "word_count": "165",
+    "slideshow_credits": null
+}

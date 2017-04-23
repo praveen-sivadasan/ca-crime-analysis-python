@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/14/us/citing-medical-evidence-smog-california-lowers-threshold-for-its-health-alerts.html",
+    "snippet": "LEAD: Citing cumulative medical evidence that smog can cause serious injury even to healthy, vigorous adults, the California Air Resources Board ordered all local pollution control districts in the state today to issue health alerts at much lower ...",
+    "lead_paragraph": "LEAD: Citing cumulative medical evidence that smog can cause serious injury even to healthy, vigorous adults, the California Air Resources Board ordered all local pollution control districts in the state today to issue health alerts at much lower smog levels than before.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Citing Medical Evidence on Smog, California Lowers Threshold for Its Health Alerts"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SMOG"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1990-09-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1945b8eb7c8105d69f427",
+    "word_count": 787,
+    "slideshow_credits": null
+}

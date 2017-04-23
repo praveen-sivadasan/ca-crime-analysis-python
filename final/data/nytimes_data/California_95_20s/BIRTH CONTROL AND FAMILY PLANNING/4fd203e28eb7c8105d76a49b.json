@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1998/02/08/us/effort-to-cover-contraception-likely-to-fail.html",
+    "snippet": "Many medical groups and women's advocates have for years been concerned about what they call a gender gap in health coverage: Although health plans generally cover prescription drugs, most exclude contraceptives, which results in more out-of-pocke...",
+    "lead_paragraph": "Many medical groups and women's advocates have for years been concerned about what they call a gender gap in health coverage: Although health plans generally cover prescription drugs, most exclude contraceptives, which results in more out-of-pocket expenses for women than for men. But a closely watched effort in California to change coverage plans appears headed for defeat.",
+    "abstract": "Many medical groups and women's advocates have for years been concerned about what they call gender gap in health coverage: although health plans generally cover prescription drugs, most exclude contraceptives, which results in more out-of-pocket expenses for women than for men; but a closely watched effort in California to change coverage plans appears headed for defeat; Gov Pete Wilson must decide whether to sign legislation requiring health plans that cover prescription drugs to cover many contraceptives as well; Wilson spokesman says that Wilson is leaning strongly toward a veto (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Effort to Cover Contraception Likely to Fail"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "BIRTH CONTROL AND FAMILY PLANNING"
+        }
+    ],
+    "pub_date": "1998-02-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tamar",
+                "rank": 1,
+                "lastname": "LEWIN"
+            }
+        ],
+        "original": "By TAMAR LEWIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd203e28eb7c8105d76a49b",
+    "word_count": 662,
+    "slideshow_credits": null
+}

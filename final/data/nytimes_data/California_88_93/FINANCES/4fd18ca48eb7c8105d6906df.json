@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/17/business/finance-briefs-354588.html",
+    "snippet": "LEAD:  Debt...",
+    "lead_paragraph": "LEAD: Debt",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "FINANCE BRIEFS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA POLLUTION CONTROL FINANCING AUTHORITY"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1988-06-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd18ca48eb7c8105d6906df",
+    "word_count": 210,
+    "slideshow_credits": null
+}

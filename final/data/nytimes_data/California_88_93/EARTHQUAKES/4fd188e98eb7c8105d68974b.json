@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/18/us/earthquake-in-northern-california-deluge-of-calls-disrupts-service.html",
+    "snippet": "LEAD: Long-distance telephone communication into the San Francisco area was disrupted last night when millions of people across the country tried to reach relatives and friends after hearing of the earthquake that struck there....",
+    "lead_paragraph": "LEAD: Long-distance telephone communication into the San Francisco area was disrupted last night when millions of people across the country tried to reach relatives and friends after hearing of the earthquake that struck there.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "DELUGE OF CALLS DISRUPTS SERVICE",
+        "kicker": "EARTHQUAKE IN NORTHERN CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Calvin",
+                "rank": 1,
+                "lastname": "SIMS"
+            }
+        ],
+        "original": "By CALVIN SIMS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd188e98eb7c8105d68974b",
+    "word_count": 485,
+    "slideshow_credits": null
+}

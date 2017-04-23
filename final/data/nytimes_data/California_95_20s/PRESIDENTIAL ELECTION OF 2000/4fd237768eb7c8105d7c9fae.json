@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/13/us/2000-campaign-california-democrats-two-take-differing-tacks-sea-gore-support.html",
+    "snippet": "With the lopsided support of Democratic Party loyalists here, Vice President Al Gore rallied his party today with a sweeping condemnation of Bill Bradley as a quitter and a pessimist, a former senator who has run down the party and is not a real D...",
+    "lead_paragraph": "With the lopsided support of Democratic Party loyalists here, Vice President Al Gore rallied his party today with a sweeping condemnation of Bill Bradley as a quitter and a pessimist, a former senator who has run down the party and is not a real Democrat. Mr. Bradley by contrast spoke more loftily of party ideals but was timid and indirect. Sensing himself in the lion's den, he soft-pedaled his earlier criticisms of the vice president and depersonalized his assertions that Mr. Gore was too tainted by the fund-raising scandals of 1996 to win against the Republicans in the fall, especially against a possible challenge by Senator John McCain, whose rising popularity is starting to concern both Democratic camps.",
+    "abstract": "Vice Pres Al Gore and Bill Bradley address group of California Democrats in San Jose; Gore rallies well-disposed audience with a sweeping condemnation of Bradley as a quitter and a pessimist; Bradley by contrast speaks more loftily of party ideals but is timid and indirect, soft-pedaling his earlier criticism of Gore and depersonalizing his assertions that Gore is too tainted by fund-raising scandals of 1996 to win against Republicans in fall (M)",
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Two Take Differing Tacks In a Sea of Gore Support",
+        "kicker": "THE 2000 CAMPAIGN: THE CALIFORNIA DEMOCRATS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "persons",
+            "value": "BRADLEY, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN JOSE (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "2000-02-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Katharine",
+                "middlename": "Q.",
+                "lastname": "SEELYE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KATHARINE Q. SEELYE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd237768eb7c8105d7c9fae",
+    "word_count": 1061,
+    "slideshow_credits": null
+}

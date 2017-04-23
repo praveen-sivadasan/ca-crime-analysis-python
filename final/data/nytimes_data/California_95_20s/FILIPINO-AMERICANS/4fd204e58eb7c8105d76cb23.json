@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1998/01/29/us/minority-applications-rise-in-california-easing-fears.html",
+    "snippet": "Despite fears that abandoning affirmative action policies in California would sharply decrease the number of minority applicants to the University of California system, there has been a small but significant increase in applications from blacks, M...",
+    "lead_paragraph": "Despite fears that abandoning affirmative action policies in California would sharply decrease the number of minority applicants to the University of California system, there has been a small but significant increase in applications from blacks, Mexican-Americans, Indians and Filipino-Americans, largely reversing a two-year decline, the university reported yesterday. Applications fell among Hispanic students other than Mexican-Americans, among Asian-Americans and among whites.",
+    "abstract": "University of California says despite fears that abandoning affirmative action policies in state would sharply decrease number of minority applicants to the university, there has been small but significant increase in applications from blacks, Mexican-Americans, Indians and Filipino-Americans, largely reversing two-year decline (M)",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Minority Applications Rise In California, Easing Fears"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "INDIANS, AMERICAN"
+        },
+        {
+            "name": "subject",
+            "value": "MEXICAN-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "FILIPINO-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        }
+    ],
+    "pub_date": "1998-01-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "William",
+                "middlename": "H.",
+                "lastname": "HONAN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By WILLIAM H. HONAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd204e58eb7c8105d76cb23",
+    "word_count": 733,
+    "slideshow_credits": null
+}

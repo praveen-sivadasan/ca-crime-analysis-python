@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/22/opinion/california-giant-of-the-future.html",
+    "snippet": "LEAD: With California's June 5 primary just two weeks away, national and international attention is turning to America's megastate on the Pacific. California is in the midst of an unprecedented social experiment with vast ramifications....",
+    "lead_paragraph": "LEAD: With California's June 5 primary just two weeks away, national and international attention is turning to America's megastate on the Pacific. California is in the midst of an unprecedented social experiment with vast ramifications.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California: Giant of the Future. . ."
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1990-05-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bill",
+                "rank": 1,
+                "lastname": "Bradley"
+            }
+        ],
+        "original": "By Bill Bradley; Bill Bradley is author of the forthcoming ''The United States of California.''"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd19f7f8eb7c8105d6b347b",
+    "word_count": 686,
+    "slideshow_credits": null
+}

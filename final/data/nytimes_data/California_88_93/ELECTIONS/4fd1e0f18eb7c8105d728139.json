@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/21/us/trade-vote-effect-may-ebb-over-time.html",
+    "snippet": "Of all the politicians who President Clinton said had \"put their political careers on the line\" in voting for the North American Free Trade Agreement, Representative Sam Farr could have topped the list.   Mr. Farr, a Democrat from Carmel, Calif., ...",
+    "lead_paragraph": "Of all the politicians who President Clinton said had \"put their political careers on the line\" in voting for the North American Free Trade Agreement, Representative Sam Farr could have topped the list. Mr. Farr, a Democrat from Carmel, Calif., is a newcomer to Congress who barely made it in the first place. He had to fight off more than two dozen rivals in a primary before winning a special election in June.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "TRADE VOTE EFFECT MAY EBB OVER TIME"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FARR, SAM"
+        },
+        {
+            "name": "persons",
+            "value": "MONNING, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR UNIONS"
+        },
+        {
+            "name": "subject",
+            "value": "NORTH AMERICAN FREE TRADE AGREEMENT"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "TREATIES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1993-11-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "L.",
+                "lastname": "BERKE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD L. BERKE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e0f18eb7c8105d728139",
+    "word_count": 894,
+    "slideshow_credits": null
+}

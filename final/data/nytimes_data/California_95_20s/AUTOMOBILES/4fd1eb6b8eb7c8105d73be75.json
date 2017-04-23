@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1995/08/30/business/international-business-honda-meets-emission-rule-set-for-1997-in-california.html",
+    "snippet": "The Honda Motor Company said today that its new Civic subcompact model met strict emissions requirements set by California for 1997, making it the first gasoline-powered mass-production car to do so.   But also today, California announced it had t...",
+    "lead_paragraph": "The Honda Motor Company said today that its new Civic subcompact model met strict emissions requirements set by California for 1997, making it the first gasoline-powered mass-production car to do so. But also today, California announced it had taken a step that could lead to a delay or softening of its toughest emissions standard, requiring 2 percent of all new vehicles to emit no pollution from their tailpipes by 1998. Most auto makers reluctantly plan to meet that standard with electric vehicles.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Honda Meets Emission Rule Set for 1997 in California",
+        "kicker": "INTERNATIONAL BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HONDA MOTOR CO"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "BATTERIES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC VEHICLES"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1995-08-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "BENNET"
+            }
+        ],
+        "original": "By JAMES BENNET"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1eb6b8eb7c8105d73be75",
+    "word_count": 693,
+    "slideshow_credits": null
+}

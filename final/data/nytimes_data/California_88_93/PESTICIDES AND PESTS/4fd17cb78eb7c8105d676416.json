@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/19/us/chavez-plans-to-end-fast-sunday-at-mass.html",
+    "snippet": "LEAD: Cesar Chavez, the leader of the United Farm Workers, plans to end his fast Sunday at an outdoor mass at the union's compound here, a spokeswoman announced today....",
+    "lead_paragraph": "LEAD: Cesar Chavez, the leader of the United Farm Workers, plans to end his fast Sunday at an outdoor mass at the union's compound here, a spokeswoman announced today.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Chavez Plans to End Fast Sunday at Mass"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHAVEZ, CESAR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FARM WORKERS OF AMERICA, UNITED"
+        },
+        {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+        },
+        {
+            "name": "subject",
+            "value": "GRAPES"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "FASTING"
+        },
+        {
+            "name": "subject",
+            "value": "BOYCOTTS"
+        }
+    ],
+    "pub_date": "1988-08-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17cb78eb7c8105d676416",
+    "word_count": 214,
+    "slideshow_credits": null
+}

@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/05/style/chronicle-748491.html",
+    "snippet": "At 85, EDMUND G. (PAT) BROWN might be the oldest new prosecutor ever. But the former Governor of California wasn't taking a new job when he was sworn in Thursday as a Deputy District Attorney in Los Angeles County. Rather, he took the oath so he c...",
+    "lead_paragraph": "At 85, EDMUND G. (PAT) BROWN might be the oldest new prosecutor ever. But the former Governor of California wasn't taking a new job when he was sworn in Thursday as a Deputy District Attorney in Los Angeles County. Rather, he took the oath so he could swear in KATHLEEN BROWN , his daughter, as the state Treasurer. When Ms. Brown asked that her father do the honors on Monday in Sacramento, IRA REINER , the Los Angeles County District Attorney, agreed to make Mr. Brown an unpaid temporary prosecutor for the inauguration. California law requires that the swearing in of a state official be done by an acting judge or prosecutor. Ms. Brown also follows her brother, JERRY BROWN , in state government; he is a former Governor.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CHRONICLE"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CHRONICLE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, KATHLEEN"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G SR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        }
+    ],
+    "pub_date": "1991-01-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Susan",
+                "middlename": "Heller",
+                "lastname": "ANDERSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By SUSAN HELLER ANDERSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197e98eb7c8105d6a6990",
+    "word_count": 129,
+    "slideshow_credits": null
+}

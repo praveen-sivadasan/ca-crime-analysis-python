@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/20/us/babies-are-sought-for-organs-of-infant-who-is-brain-dead.html",
+    "snippet": "LEAD: Doctors and nurses continued their efforts today to find recipients for the organs of an infant born with only a brain stem who was kept on a respirator to preserve his organs for transplant....",
+    "lead_paragraph": "LEAD: Doctors and nurses continued their efforts today to find recipients for the organs of an infant born with only a brain stem who was kept on a respirator to preserve his organs for transplant.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "BABIES ARE SOUGHT FOR ORGANS OF INFANT WHO IS BRAIN DEAD"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LOMA LINDA UNIVERSITY MEDICAL CENTER"
+        },
+        {
+            "name": "subject",
+            "value": "TRANSPLANTS"
+        },
+        {
+            "name": "subject",
+            "value": "BABIES"
+        }
+    ],
+    "pub_date": "1988-02-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd176d08eb7c8105d66ce95",
+    "word_count": 332,
+    "slideshow_credits": null
+}

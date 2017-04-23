@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1997/02/28/us/planning-meeting-results-in-shooting.html",
+    "snippet": "Joe Thiemann is fatally shot in South Lake Tahoe, Calif, after quarrel with two men at regional planning meeting; photo (S)...",
+    "lead_paragraph": null,
+    "abstract": "Joe Thiemann is fatally shot in South Lake Tahoe, Calif, after quarrel with two men at regional planning meeting; photo (S)",
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Planning Meeting Results in Shooting"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "THIEMANN, JOE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        }
+    ],
+    "pub_date": "1997-02-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd1dad98eb7c8105d71aea9",
+    "word_count": 0,
+    "slideshow_credits": null
+}

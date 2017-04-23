@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/14/travel/c-corrections-920688.html",
+    "snippet": "LEAD: An article on Jan. 17 about northern California oysters characterized oysters incorrectly. They are mollusks....",
+    "lead_paragraph": "LEAD: An article on Jan. 17 about northern California oysters characterized oysters incorrectly. They are mollusks.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CORRECTIONS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "OYSTERS"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "FISH AND OTHER MARINE LIFE"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        }
+    ],
+    "pub_date": "1988-02-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Corrections",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd175cb8eb7c8105d66b1e5",
+    "word_count": 31,
+    "slideshow_credits": null
+}

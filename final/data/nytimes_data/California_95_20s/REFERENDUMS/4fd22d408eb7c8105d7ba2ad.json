@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/21/us/2000-campaign-voucher-issue-study-says-california-plan-would-aid-affluent.html",
+    "snippet": "A school voucher initiative on the California ballot this fall would, once fully implemented, give at least $2.6 billion in taxpayer money to families -- most of them affluent -- whose children already attend private schools, according to an acade...",
+    "lead_paragraph": "A school voucher initiative on the California ballot this fall would, once fully implemented, give at least $2.6 billion in taxpayer money to families -- most of them affluent -- whose children already attend private schools, according to an academic study released today. The initiative, Proposition 38, would make all the state's students eligible for a $4,000 voucher that could be used to defray private-school tuition. While the measure is intended, in part, to help low-income parents flee failing schools, the report by Policy Analysis for California Education -- a collaboration of professors at Stanford University and University of California at Berkeley -- suggests that the primary beneficiaries may be wealthy private-school students. Even some voucher advocates have criticized the initiative for not limiting the vouchers to impoverished families or struggling schools.",
+    "abstract": "Academic study finds California ballot measure to make all state's students eligible for $4,000 voucher that could be used to defray private-school tuition would give at least $2.6 billion to families, most of them affluent, whose children already attend private schools (M)",
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Study Says California Plan Would Aid Affluent",
+        "kicker": "THE 2000 CAMPAIGN: THE VOUCHER ISSUE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVATE AND SECTARIAN SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "VOUCHERS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "2000-09-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jodi",
+                "rank": 1,
+                "lastname": "WILGOREN"
+            }
+        ],
+        "original": "By JODI WILGOREN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd22d408eb7c8105d7ba2ad",
+    "word_count": 271,
+    "slideshow_credits": null
+}

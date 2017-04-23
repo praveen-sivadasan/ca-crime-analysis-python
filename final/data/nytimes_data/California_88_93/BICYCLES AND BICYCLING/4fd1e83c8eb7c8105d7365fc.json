@@ -1,0 +1,33 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/08/travel/c-corrections-302193.html",
+    "snippet": "An article on July 25 about cycling along the Northern California coast misstated the telephone number of Cafe Beaujolais in Mendocino. It is (707) 937-5614....",
+    "lead_paragraph": "An article on July 25 about cycling along the Northern California coast misstated the telephone number of Cafe Beaujolais in Mendocino. It is (707) 937-5614.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+        }
+    ],
+    "pub_date": "1993-08-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Corrections",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1e83c8eb7c8105d7365fc",
+    "word_count": 25,
+    "slideshow_credits": null
+}

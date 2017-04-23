@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/05/us/flood-warnings-follow-rain-across-northern-california.html",
+    "snippet": "More heavy rain soaked Northern California yesterday, leading to flood warnings in parts of the drought-stricken region.   In Butte County, north of Sacramento, sheriff's officers said a 6-year-old girl was missing on Monday night after she was sw...",
+    "lead_paragraph": "More heavy rain soaked Northern California yesterday, leading to flood warnings in parts of the drought-stricken region. In Butte County, north of Sacramento, sheriff's officers said a 6-year-old girl was missing on Monday night after she was swept into the swollen Concow Creek. Flood advisories were issued for the San Francisco Bay area, where driving rain fell yesterday, and winter storm warnings were in effect for the Sierra Nevada range, where heavy snow was falling.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Flood Warnings Follow Rain Across Northern California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1991-03-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "The Associated Press",
+        "original": "By The Associated Press",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc958eb7c8105d6e85b4",
+    "word_count": 75,
+    "slideshow_credits": null
+}

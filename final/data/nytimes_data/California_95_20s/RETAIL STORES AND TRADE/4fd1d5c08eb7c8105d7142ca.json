@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1995/12/28/business/company-news-federated-details-conversions-of-11-broadway-stores.html",
+    "snippet": "Federated Department Stores Inc. said yesterday that it would convert seven of its Broadway stores to Macy's stores and four others to Bloomingdale's stores. The Cincinnati-based retailer said it would spend more than $525 million to convert and r...",
+    "lead_paragraph": "Federated Department Stores Inc. said yesterday that it would convert seven of its Broadway stores to Macy's stores and four others to Bloomingdale's stores. The Cincinnati-based retailer said it would spend more than $525 million to convert and remodel its Broadway stores over the next three years. Federated bought the 82-store chain, based in Los Angeles, in October. The conversion increases Macy's presence in California and five other Western states. The Bloomingdale's stores, the first in California, will be open in November.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "FEDERATED DETAILS CONVERSIONS OF 11 BROADWAY STORES",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BROADWAY STORES INC"
+        },
+        {
+            "name": "organizations",
+            "value": "BLOOMINGDALE'S INC"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERATED DEPARTMENT STORES INC"
+        },
+        {
+            "name": "organizations",
+            "value": "MACY, R H, & CO INC"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "RETAIL STORES AND TRADE"
+        }
+    ],
+    "pub_date": "1995-12-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Bloomberg",
+                "middlename": "Business",
+                "lastname": "News",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "Bloomberg Business News"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d5c08eb7c8105d7142ca",
+    "word_count": 84,
+    "slideshow_credits": null
+}

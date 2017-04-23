@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/30/weekinreview/ideas-trends-a-milestone-in-the-fight-for-gay-rights-a-quiet-suburban-life.html",
+    "snippet": "The man seeking to become the first openly gay member of the California Congressional delegation lives in a suburban tract house here, not in a restored Victorian in San Francisco's Castro district or a funky bungalow in West Hollywood.   Like sub...",
+    "lead_paragraph": "The man seeking to become the first openly gay member of the California Congressional delegation lives in a suburban tract house here, not in a restored Victorian in San Francisco's Castro district or a funky bungalow in West Hollywood. Like suburbanites everywhere, he worries about his mortgage payments, chats with the neighbors about their roses, enjoys a weekend barbecue and goes to the city less often than he intended when he traded the urban bustle for the proverbial picket fence.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Milestone in the Fight for Gay Rights: A Quiet Suburban Life",
+        "kicker": "IDEAS & TRENDS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "NOLAN, TOM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE STYLES"
+        },
+        {
+            "name": "subject",
+            "value": "SUBURBS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1991-06-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week In Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c4268eb7c8105d6f39df",
+    "word_count": 1241,
+    "slideshow_credits": null
+}

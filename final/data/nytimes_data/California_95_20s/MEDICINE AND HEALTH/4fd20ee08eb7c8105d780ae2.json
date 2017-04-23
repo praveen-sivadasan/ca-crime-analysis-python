@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1997/04/04/us/california-joins-tobacco-accord.html",
+    "snippet": "California will be included in the Liggett Group's settlement of lawsuits by 22 other states that seek reimbursement for tobacco-related Medicaid expenses.    The agreement yesterday clears the way for California to obtain Liggett documents if it ...",
+    "lead_paragraph": "California will be included in the Liggett Group's settlement of lawsuits by 22 other states that seek reimbursement for tobacco-related Medicaid expenses. The agreement yesterday clears the way for California to obtain Liggett documents if it sues other tobacco companies.",
+    "abstract": "California will be included in Liggett Group's settlement of lawsuits by 22 other states that seek reimbursement for tobacco-related Medicaid expenses (S)",
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Joins Tobacco Accord"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LIGGETT GROUP INC"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICAID"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING AND TOBACCO"
+        },
+        {
+            "name": "subject",
+            "value": "LIABILITY FOR PRODUCTS"
+        }
+    ],
+    "pub_date": "1997-04-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Barnaby",
+                "middlename": "J.",
+                "lastname": "FEDER",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By BARNABY J. FEDER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20ee08eb7c8105d780ae2",
+    "word_count": 316,
+    "slideshow_credits": null
+}

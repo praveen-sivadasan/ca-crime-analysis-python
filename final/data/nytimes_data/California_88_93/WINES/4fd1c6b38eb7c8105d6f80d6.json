@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1992/11/15/magazine/wine-passing-the-jug.html",
+    "snippet": "Time was when a wine maker knew his place. If you fancied a jug wine, you bought Gallo. If you preferred a fine wine, you bought, well, almost anything else.   Now, whatever your choice may be, Ernest and Julio Gallo want to be your wine makers. A...",
+    "lead_paragraph": "Time was when a wine maker knew his place. If you fancied a jug wine, you bought Gallo. If you preferred a fine wine, you bought, well, almost anything else. Now, whatever your choice may be, Ernest and Julio Gallo want to be your wine makers. America is drinking less but drinking better, and Gallo is on top of the trend.",
+    "abstract": null,
+    "print_page": "48",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Passing the Jug",
+        "kicker": "WINE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GALLO, E & J, WINERY"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1992-11-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c6b38eb7c8105d6f80d6",
+    "word_count": 910,
+    "slideshow_credits": null
+}

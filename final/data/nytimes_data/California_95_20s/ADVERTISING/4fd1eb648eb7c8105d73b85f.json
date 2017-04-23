@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1995/08/29/business/the-media-business-advertising-addenda-insurer-picks-mccann-erickson.html",
+    "snippet": "Blue Shield of California in San Francisco has selected McCann-Erickson San Francisco, a unit of the Interpublic Group of Companies, to handle its account, which had been at Mandelbaum Mooney Ashley in San Francisco since June 1993. The billings w...",
+    "lead_paragraph": "Blue Shield of California in San Francisco has selected McCann-Erickson San Francisco, a unit of the Interpublic Group of Companies, to handle its account, which had been at Mandelbaum Mooney Ashley in San Francisco since June 1993. The billings were estimated at $10 million to $15 million. McCann San Francisco was awarded the account last week after a monthlong review that was narrowed to that agency and a second finalist, the J. Walter Thompson San Francisco unit of the WPP Group, after Mandelbaum Mooney declined to participate.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Insurer Picks McCann-Erickson",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MCCANN-ERICKSON SAN FRANCISCO"
+        },
+        {
+            "name": "organizations",
+            "value": "BLUE CROSS & BLUE SHIELD ASSN"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERPUBLIC GROUP OF COMPANIES INC"
+        },
+        {
+            "name": "organizations",
+            "value": "MANDELBAUM MOONEY ASHLEY"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        }
+    ],
+    "pub_date": "1995-08-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Stuart",
+                "rank": 1,
+                "lastname": "Elliott"
+            }
+        ],
+        "original": "By Stuart Elliott"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1eb648eb7c8105d73b85f",
+    "word_count": 93,
+    "slideshow_credits": null
+}

@@ -1,0 +1,74 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/19/business/the-media-business-newspapers-see-a-threat-of-spreading-sales-taxes.html",
+    "snippet": "AFTER being largely exempt from sales taxes on circulation, newspapers and magazines have come under mounting pressure from state legislatures looking for new revenues to balance budgets ravaged by the recession.   In July, California repealed its...",
+    "lead_paragraph": "AFTER being largely exempt from sales taxes on circulation, newspapers and magazines have come under mounting pressure from state legislatures looking for new revenues to balance budgets ravaged by the recession. In July, California repealed its long-established exemption on sales taxes for all periodicals, which means newspapers and magazines must now pay up to 8.25 percent in taxes on circulation revenues, plus bear the added administrative costs involved with such a tax.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Newspapers See a Threat Of Spreading Sales Taxes",
+        "kicker": "THE MEDIA BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "MEDIA BUSINESS PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "NEWSPAPERS"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "SALES TAX"
+        },
+        {
+            "name": "subject",
+            "value": "MAGAZINES"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLICATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1991-08-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Alex",
+                "middlename": "S.",
+                "lastname": "Jones",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Alex S. Jones"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c4298eb7c8105d6f3b91",
+    "word_count": 851,
+    "slideshow_credits": null
+}

@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/20/garden/new-craftsman-era-exhibits-in-southern-california.html",
+    "snippet": "LEAD: EARLY this century, when East Coast immigrants were seeking the sunny opportunities of Southern California, they took with them the ideas and furnishings of Gustav Stickley, Albert Hubbard and other philosophizing manufacturers of the Arts a...",
+    "lead_paragraph": "LEAD: EARLY this century, when East Coast immigrants were seeking the sunny opportunities of Southern California, they took with them the ideas and furnishings of Gustav Stickley, Albert Hubbard and other philosophizing manufacturers of the Arts and Crafts movement.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "New Craftsman-Era Exhibits in Southern California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FURNITURE"
+        },
+        {
+            "name": "subject",
+            "value": "SHOWS (EXHIBITS)"
+        }
+    ],
+    "pub_date": "1990-09-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Home Desk",
+    "section_name": "Home and Garden; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Rick",
+                "rank": 1,
+                "lastname": "MASHBURN"
+            }
+        ],
+        "original": "RICK MASHBURN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd199108eb7c8105d6a8a0e",
+    "word_count": 716,
+    "slideshow_credits": null
+}

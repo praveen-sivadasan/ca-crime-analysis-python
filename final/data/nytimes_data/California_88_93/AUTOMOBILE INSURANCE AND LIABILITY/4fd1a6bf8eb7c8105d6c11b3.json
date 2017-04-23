@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/03/business/auto-insurance-rate-rises-halted.html",
+    "snippet": "LEAD: The California insurance commissioner today barred automobile insurers from raising their rates for six months while the state grapples with how to put into effect a rate-cutting initiative approved by voters last year....",
+    "lead_paragraph": "LEAD: The California insurance commissioner today barred automobile insurers from raising their rates for six months while the state grapples with how to put into effect a rate-cutting initiative approved by voters last year.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Auto Insurance Rate Rises Halted"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GILLESPIE, ROXANI"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        }
+    ],
+    "pub_date": "1989-10-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a6bf8eb7c8105d6c11b3",
+    "word_count": 656,
+    "slideshow_credits": null
+}

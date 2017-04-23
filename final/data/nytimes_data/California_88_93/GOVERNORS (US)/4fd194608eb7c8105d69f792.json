@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/14/us/the-1990-campaign-ruling-sets-off-money-rush-in-california-governor-race.html",
+    "snippet": "LEAD: A California court's rejection of the state's limits on campaign contributions has led to a scramble for money and given new momentum to the Democratic candidate for governor, former Mayor Dianne Feinstein of San Francisco....",
+    "lead_paragraph": "LEAD: A California court's rejection of the state's limits on campaign contributions has led to a scramble for money and given new momentum to the Democratic candidate for governor, former Mayor Dianne Feinstein of San Francisco.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ruling Sets Off Money Rush In California Governor Race",
+        "kicker": "THE 1990 CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1990-10-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194608eb7c8105d69f792",
+    "word_count": 900,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/28/business/california-s-ratings-fall.html",
+    "snippet": "A leading credit-rating service lowered its ratings on California's bonds on Friday, saying the tardy state budget approved by Gov. Pete Wilson and the Legislature included a $1 billion \"de facto deficit.\"   Fitch's Investors Service lowered the r...",
+    "lead_paragraph": "A leading credit-rating service lowered its ratings on California's bonds on Friday, saying the tardy state budget approved by Gov. Pete Wilson and the Legislature included a $1 billion \"de facto deficit.\" Fitch's Investors Service lowered the rating from AA+ to AA after a meeting at the state Treasurer's office in Sacramento.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Ratings Fall"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FITCH INVESTORS SERVICE INC"
+        },
+        {
+            "name": "subject",
+            "value": "RATINGS AND RATING SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1992-09-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a3658eb7c8105d6babe7",
+    "word_count": 159,
+    "slideshow_credits": null
+}

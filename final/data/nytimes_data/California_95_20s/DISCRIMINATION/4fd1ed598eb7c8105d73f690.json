@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1999/08/23/opinion/editorial-observer-california-schools-after-affirmative-action.html",
+    "snippet": "When Californians voted to outlaw the use of race in public-college admissions, liberals viewed it as the end of both affirmative action and the quest for equal education for poor minority students. But the death of affirmative action has thrown a...",
+    "lead_paragraph": "When Californians voted to outlaw the use of race in public-college admissions, liberals viewed it as the end of both affirmative action and the quest for equal education for poor minority students. But the death of affirmative action has thrown a klieg light onto educational inequality. With minority students who would once have graduated from California's elite universities being shut out, political pressure is building for the state to use its budgetary and regulatory powers to bring urban schools into line with those in more affluent communities. The consensus for strong, state-level action has created a coalition of liberals and conservatives and is animating even Ward Connerly, the University of California Regent who masterminded Proposition 209, which ended affirmative action. He now seems torn between his hatred of affirmative action and the need to preserve a minority presence at the elite universities and in the professions that draw from them.",
+    "abstract": "Brent Staples's Editorial Observer column says death of affirmative action in California's public-college admissions has thrown spotlight onto educational inequality; says with minority students who would once have graduated from state's elite universities being shut out, pressure is building for state to use its budgetary and regulatory powers to bring more urban schools into line with those in more affluent communities (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Editorial Observer; California Schools, After Affirmative Action"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EQUAL EDUCATIONAL OPPORTUNITIES"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        }
+    ],
+    "pub_date": "1999-08-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Brent",
+                "rank": 1,
+                "lastname": "STAPLES"
+            }
+        ],
+        "original": "By BRENT STAPLES"
+    },
+    "type_of_material": "Editorial",
+    "_id": "4fd1ed598eb7c8105d73f690",
+    "word_count": 768,
+    "slideshow_credits": null
+}

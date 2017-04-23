@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/17/garden/can-a-green-candy-make-love-sweeter.html",
+    "snippet": "\" IT'S not easy being green\" is the lament of Kermit the Frog.    Well, cheer up Kermie! It seems Miss Piggy isn't the only one who finds green alluring....",
+    "lead_paragraph": "\" IT'S not easy being green\" is the lament of Kermit the Frog. Well, cheer up Kermie! It seems Miss Piggy isn't the only one who finds green alluring.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Can a Green Candy Make Love Sweeter?"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "M&M/MARS INC"
+        },
+        {
+            "name": "subject",
+            "value": "APHRODISIACS"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "COLOR"
+        },
+        {
+            "name": "subject",
+            "value": "CANDY"
+        }
+    ],
+    "pub_date": "1993-03-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Lena",
+                "rank": 1,
+                "lastname": "WILLIAMS"
+            }
+        ],
+        "original": "By LENA WILLIAMS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b8e18eb7c8105d6e123b",
+    "word_count": 828,
+    "slideshow_credits": null
+}

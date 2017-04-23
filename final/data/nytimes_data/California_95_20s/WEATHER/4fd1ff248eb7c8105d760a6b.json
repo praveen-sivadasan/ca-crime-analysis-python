@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/15/us/more-rainfall-in-california-raises-fears-of-new-floods.html",
+    "snippet": "A new storm moved into Northern California today, causing fears of more flooding as already swollen lakes and rivers rose to dangerous levels in some areas.   Farther south, a slackening of winds and torrential rain allowed emergency work crews to...",
+    "lead_paragraph": "A new storm moved into Northern California today, causing fears of more flooding as already swollen lakes and rivers rose to dangerous levels in some areas. Farther south, a slackening of winds and torrential rain allowed emergency work crews to gain some advantage in reopening roads and bridges in the Central Valley and Monterey County. As the waters receded, the cost of nearly a week of calamitous storms began to emerge in greater detail.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "More Rainfall in California Raises Fears of New Floods"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-03-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By KENNETH B. NOBLE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ff248eb7c8105d760a6b",
+    "word_count": 917,
+    "slideshow_credits": null
+}

@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1999/04/04/us/victory-by-california-assembly-candidate-is-first-for-greens.html",
+    "snippet": "When fellow Green Party members persuaded Audie Bock to run for the State Assembly last December, they told her she had a choice. She could run a symbolic campaign by putting her name on the ballot -- or she could campaign seriously.    ''I knew w...",
+    "lead_paragraph": "When fellow Green Party members persuaded Audie Bock to run for the State Assembly last December, they told her she had a choice. She could run a symbolic campaign by putting her name on the ballot -- or she could campaign seriously. ''I knew what I was up against when we started off with zero money and a few volunteers.'' said Ms. Bock, 53, who lives in Piedmont, a city bounded on all sides by Oakland. ''But I decided I wanted to get in there, to offer a true alternative to machine politics, to really do something and say something.''",
+    "abstract": "victory by california assembly",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Victory by California Assembly Candidate Is First for Greens"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HARRIS, ELIHU"
+        },
+        {
+            "name": "persons",
+            "value": "BOCK, AUDIE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GREEN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES AND PARLIAMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1999-04-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bill",
+                "rank": 1,
+                "lastname": "STAGGS"
+            }
+        ],
+        "original": "By BILL STAGGS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd224d48eb7c8105d7ab288",
+    "word_count": 578,
+    "slideshow_credits": null
+}

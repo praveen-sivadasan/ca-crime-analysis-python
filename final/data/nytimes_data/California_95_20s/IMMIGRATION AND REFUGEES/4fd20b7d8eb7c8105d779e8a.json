@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1999/04/25/us/fight-on-immigrant-measure-splits-california-democrats.html",
+    "snippet": "Last fall, when Cruz Bustamante, a softspoken Assemblyman from California's farm-rich Central Valley, was campaigning to become the first Hispanic official elected statewide in more than a century, he ran a series of television commercials that br...",
+    "lead_paragraph": "Last fall, when Cruz Bustamante, a softspoken Assemblyman from California's farm-rich Central Valley, was campaigning to become the first Hispanic official elected statewide in more than a century, he ran a series of television commercials that brought new meaning to the phrase ''low-key.'' In them, Mr. Bustamante talked quietly of parents and children and ended by saying, ''I'd appreciate your consideration for Lieutenant Governor.'' But this week in Sacramento, Lieutenant Governor Bustamante made a big noise by announcing that he not only opposed the efforts of his fellow Democrat, Gov. Gray Davis, to seek Federal court mediation in a lawsuit over Proposition 187 -- the ballot measure to curtail social services for illegal immigrants -- but would also file a friend-of-the-court brief aimed at blocking the Governor's efforts.",
+    "abstract": "California Democrats are divided on Proposition 187, voter-approved measure to curb social services for illegal immigrants; Lt Gov Cruz Bustamante and most other Hispanic officials oppose bid by Democratic Gov Gray Davis, who personally opposes measure, to have Federal court mediate in successful suit by measure's opponents; Bustamante comments, phone interview; Gray's advisers see his independence on issue as virtual declaration of war; photo (M)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fight on Immigrant Measure Splits California Democrats"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "persons",
+            "value": "BUSTAMANTE, CRUZ"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ARBITRATION, CONCILIATION AND MEDIATION"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        }
+    ],
+    "pub_date": "1999-04-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20b7d8eb7c8105d779e8a",
+    "word_count": 1002,
+    "slideshow_credits": null
+}

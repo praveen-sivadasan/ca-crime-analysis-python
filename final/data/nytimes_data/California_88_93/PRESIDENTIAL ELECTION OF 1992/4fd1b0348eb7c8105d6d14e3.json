@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/14/us/political-memo-california-s-democrats-take-cuomo-at-word.html",
+    "snippet": "A blistering attack on Republican policies, a fund-raising lunch for the California Democratic Party and a vigorous denial that he is interested in the White House marked Gov. Mario M. Cuomo's brief visit here today.    But unlike many previous tr...",
+    "lead_paragraph": "A blistering attack on Republican policies, a fund-raising lunch for the California Democratic Party and a vigorous denial that he is interested in the White House marked Gov. Mario M. Cuomo's brief visit here today. But unlike many previous trips, which have tended to revive Presidential speculation despite Mr. Cuomo's protestations, many of California's leading Democrats say they have begun to take the Governor at his word: That he is not campaigning for President.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Democrats Take Cuomo at Word",
+        "kicker": "POLITICAL MEMO"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CUOMO, MARIO M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1991-09-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Sam",
+                "middlename": "Howe",
+                "lastname": "VERHOVEK",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By SAM HOWE VERHOVEK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b0348eb7c8105d6d14e3",
+    "word_count": 871,
+    "slideshow_credits": null
+}

@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/30/weekinreview/cash-poor-but-wily-californians-live-by-their-chits.html",
+    "snippet": "California, so goes the cliche, is the wellspring of trends in nearly everything from chardonnays to beach sports to New Age music. Now California is pioneering again in something new: how to run a government without money.   Since July 1, unable ...",
+    "lead_paragraph": "California, so goes the cliche, is the wellspring of trends in nearly everything from chardonnays to beach sports to New Age music. Now California is pioneering again in something new: how to run a government without money. Since July 1, unable to pass a budget, the state has been handing out i.o.u.'s instead of cash to anyone it can.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cash-Poor but Wily Californians Live by Their Chits"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-08-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a10e8eb7c8105d6b6329",
+    "word_count": 817,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1995/02/11/us/condolences-with-a-bill.html",
+    "snippet": "Three months after Tiffane Spencer was killed in a car wreck, her parents got a letter from the state that began with condolences -- and ended with a bill of $1,645 for repairing the highway.   The girl's father, Warren Spencer, said, \"It's like, ...",
+    "lead_paragraph": "Three months after Tiffane Spencer was killed in a car wreck, her parents got a letter from the state that began with condolences -- and ended with a bill of $1,645 for repairing the highway. The girl's father, Warren Spencer, said, \"It's like, 'I'm sorry about your baby's death, but we had to clean up behind her, and we want you to pay.' \"",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Condolences With a Bill"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SPENCER, TIFFANE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1995-02-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1fdd38eb7c8105d75e079",
+    "word_count": "118",
+    "slideshow_credits": null
+}

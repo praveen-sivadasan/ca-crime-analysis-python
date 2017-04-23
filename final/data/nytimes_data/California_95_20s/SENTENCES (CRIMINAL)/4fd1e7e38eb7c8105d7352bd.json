@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/05/us/25-years-for-a-slice-of-pizza.html",
+    "snippet": "A 27-year-old man has been sentenced under California's \"three-strikes\" law to 25 years to life in prison for stealing a slice of pepperoni pizza last summer.   The defendant, Jerry Dewayne Williams, was convicted of felony petty theft in January ...",
+    "lead_paragraph": "A 27-year-old man has been sentenced under California's \"three-strikes\" law to 25 years to life in prison for stealing a slice of pepperoni pizza last summer. The defendant, Jerry Dewayne Williams, was convicted of felony petty theft in January for taking the pizza on July 30 from a group of children on a pier in Redondo Beach.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "25 Years for a Slice of Pizza"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUNGREN, DANIEL E"
+        },
+        {
+            "name": "persons",
+            "value": "WILLIAMS, JERRY DEWAYNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROBBERIES AND THEFTS"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        }
+    ],
+    "pub_date": "1995-03-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e7e38eb7c8105d7352bd",
+    "word_count": 300,
+    "slideshow_credits": null
+}

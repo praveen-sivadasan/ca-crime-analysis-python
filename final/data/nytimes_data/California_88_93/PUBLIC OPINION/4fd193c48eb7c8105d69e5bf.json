@@ -1,0 +1,93 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/19/us/washington-talk-unmasking-the-fallacy-of-the-women-s-vote.html",
+    "snippet": "LEAD: They say that in politics this is the year of the woman. Perhaps so. In an electorate yearning for something different, not being one of the boys can finally be an advantage. But it is also fast becoming clear that a political appeal based o...",
+    "lead_paragraph": "LEAD: They say that in politics this is the year of the woman. Perhaps so. In an electorate yearning for something different, not being one of the boys can finally be an advantage. But it is also fast becoming clear that a political appeal based on one's sex is no simple matter.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Washington Talk;   Unmasking the Fallacy Of the 'Women's Vote'"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FRANKOVIC, KATHLEEN"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "CBS INC"
+        },
+        {
+            "name": "subject",
+            "value": "MEN"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "VOTER BEHAVIOR"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION RESULTS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-06-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "ORESKES"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL ORESKES, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd193c48eb7c8105d69e5bf",
+    "word_count": 835,
+    "slideshow_credits": null
+}

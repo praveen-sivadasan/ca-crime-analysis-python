@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/08/business/insurers-profits-at-issue-after-ruling.html",
+    "snippet": "LEAD: The California Supreme Court ruling upholding the main provisions of a sweeping insurance-reform initiative has generated a bitter debate over what constitutes a fair profit for insurance companies....",
+    "lead_paragraph": "LEAD: The California Supreme Court ruling upholding the main provisions of a sweeping insurance-reform initiative has generated a bitter debate over what constitutes a fair profit for insurance companies.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Insurers' Profits at Issue After Ruling"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1989-05-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd183be8eb7c8105d6819d4",
+    "word_count": 996,
+    "slideshow_credits": null
+}

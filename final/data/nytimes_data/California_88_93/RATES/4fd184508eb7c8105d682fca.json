@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/03/business/7-insurers-told-to-justify-rates.html",
+    "snippet": "LEAD: California's Insurance Commissioner on Tuesday ordered seven of the state's largest insurance companies to show why they should not be forced to cut their rates by 20 percent. The commissioner, Roxani...",
+    "lead_paragraph": "LEAD: California's Insurance Commissioner on Tuesday ordered seven of the state's largest insurance companies to show why they should not be forced to cut their rates by 20 percent. The commissioner, Roxani",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "7 Insurers Told To Justify Rates"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GILLESPIE, ROXANI M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1989-08-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "Reuters",
+        "original": "Reuters",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd184508eb7c8105d682fca",
+    "word_count": 155,
+    "slideshow_credits": null
+}

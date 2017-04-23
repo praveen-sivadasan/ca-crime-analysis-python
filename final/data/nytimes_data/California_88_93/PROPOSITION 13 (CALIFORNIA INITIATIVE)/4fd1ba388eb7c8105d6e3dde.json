@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/10/us/beliefs-887092.html",
+    "snippet": "The most important vote in the United States this November may not be for the President, and it may take place in only one of the 50 states. Of course, calling California only one of the 50 states is like calling Michael Jordan only one of the Chi...",
+    "lead_paragraph": "The most important vote in the United States this November may not be for the President, and it may take place in only one of the 50 states. Of course, calling California only one of the 50 states is like calling Michael Jordan only one of the Chicago Bulls. If California were a separate nation, it would have the world's ninth largest economy. So when Californians vote on whether to become the only place in the world where it is unequivocally legal for doctors to kill terminally ill patients who request to die, the event will be of national if not international importance. If Californians pass the initiative, Proposition 161 -- and right now the polls suggest that they will -- no state that is linked to California by a simple airplane flight, no family that has friends or relatives there, will escape the impact.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Beliefs"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DEATH"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 13 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "MERCY DEATH (EUTHANASIA)"
+        }
+    ],
+    "pub_date": "1992-10-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Peter",
+                "rank": 1,
+                "lastname": "Steinfels"
+            }
+        ],
+        "original": "By Peter Steinfels"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ba388eb7c8105d6e3dde",
+    "word_count": 857,
+    "slideshow_credits": null
+}

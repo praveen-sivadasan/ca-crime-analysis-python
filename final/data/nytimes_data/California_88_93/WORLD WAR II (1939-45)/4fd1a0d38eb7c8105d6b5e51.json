@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/28/us/bill-on-internees-raises-new-alarm.html",
+    "snippet": "LEAD: A state legislator has raised concerns among Japanese-Americans in California by proposing a resolution to revise what schoolchildren are taught about the internment of Japanese-Americans during World War II....",
+    "lead_paragraph": "LEAD: A state legislator has raised concerns among Japanese-Americans in California by proposing a resolution to revise what schoolchildren are taught about the internment of Japanese-Americans during World War II.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "BILL ON INTERNEES RAISES NEW ALARM"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FERGUSON, GIL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "JAPANESE-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "WORLD WAR II (1939-45)"
+        }
+    ],
+    "pub_date": "1990-08-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a0d38eb7c8105d6b5e51",
+    "word_count": 815,
+    "slideshow_credits": null
+}

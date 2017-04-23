@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/06/us/drought-may-alter-face-of-california-as-it-spurs-showdown-over-water.html",
+    "snippet": "Once it seemed that there would always be plenty of water for Fred Starrh to irrigate the rich soil in Kern County on the western slopes of California's Central Valley. Come February, he would normally plow and irrigate for the cotton crop and wat...",
+    "lead_paragraph": "Once it seemed that there would always be plenty of water for Fred Starrh to irrigate the rich soil in Kern County on the western slopes of California's Central Valley. Come February, he would normally plow and irrigate for the cotton crop and water the alfalfa. But the state system of dams and reservoirs on which he has long depended cut off water to him and thousands of other farmers on Monday as drought tightened its grip on California. So he will not be growing any cotton, and maybe only one crop of alfalfa.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Drought May Alter Face Of California as It Spurs Showdown Over Water"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "IRRIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "COTTON"
+        },
+        {
+            "name": "subject",
+            "value": "FARMERS"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "ALFALFA"
+        }
+    ],
+    "pub_date": "1991-02-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19d748eb7c8105d6af6fd",
+    "word_count": 1304,
+    "slideshow_credits": null
+}

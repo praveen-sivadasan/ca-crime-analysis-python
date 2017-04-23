@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1996/08/07/opinion/fooling-all-the-people.html",
+    "snippet": "Arianna Huffington, writes Ed Rollins, ''was the most ruthless, unscrupulous, and ambitious person I'd met in 30 years in national politics -- not to mention that she sometimes seemed truly pathological.'' And that's the nice part! Mrs. Huffington...",
+    "lead_paragraph": "Arianna Huffington, writes Ed Rollins, ''was the most ruthless, unscrupulous, and ambitious person I'd met in 30 years in national politics -- not to mention that she sometimes seemed truly pathological.'' And that's the nice part! Mrs. Huffington -- wife of the defeated California senatorial candidate Michael -- is already issuing denials and threatening a lawsuit against Mr. Rollins, the former G.O.P. political consultant, whose burn-every-bridge memoir, ''Bare Knuckles and Back Rooms,'' is published today. Mr. Rollins's book, full of tales out of school about his clients and candid assessments of his own whoppers (on the Christine Whitman campaign, most famously), keeps you laughing. Or does until you remember how close to victory some of his most malevolent candidates came. For all the spice of Mr. Rollins's inside poop about bold-faced G.O.P. names, his tale is implicitly far harsher in its judgment of a public (and a sometimes compliant press) that falls for zillionaire lunatics and the artificial campaign images that consultants like him invent to sell them.",
+    "abstract": "Frank Rich Op-Ed column on Ed Rollins book, Bare Knuckles and Back Rooms, in which former Republican Party strategist paints less-than-flattering portraits of Arianna Huffington and husband Michael, narrowly defeated California senatorial candidate (M)",
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fooling All the People",
+        "kicker": "Journal"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "BARE KNUCKLES AND BACK ROOMS (BOOK)"
+        },
+        {
+            "name": "persons",
+            "value": "HUFFINGTON, ARIANNA STASSINOPOULOS"
+        },
+        {
+            "name": "persons",
+            "value": "ROLLINS, EDWARD J JR"
+        },
+        {
+            "name": "persons",
+            "value": "HUFFINGTON, MICHAEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "BOOKS AND LITERATURE"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1996-08-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Frank",
+                "rank": 1,
+                "lastname": "RICH"
+            }
+        ],
+        "original": "By FRANK RICH"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1f3818eb7c8105d74b914",
+    "word_count": 710,
+    "slideshow_credits": null
+}

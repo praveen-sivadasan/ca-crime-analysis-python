@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/03/magazine/the-way-we-live-now-9-03-00-questions-for-tim-draper-capital-suggestion.html",
+    "snippet": "Q: You made a fortune financing start-up firms like Hotmail. Now you're plunking down $20 million of your money to support a November ballot measure that would give all California schoolkids a $4,000 voucher to use at the school of their choice. T...",
+    "lead_paragraph": "Q: You made a fortune financing start-up firms like Hotmail. Now you're plunking down $20 million of your money to support a November ballot measure that would give all California schoolkids a $4,000 voucher to use at the school of their choice. That's $20 million just to support the initiative, not to build new schools or anything. Why? I felt somebody had to stand up for the kids and say, Hey, something's wrong. Our educational system is failing us. It's time for a change.",
+    "abstract": "Interview with Silicon Valley venture capitalist Tim Draper, who explains why he plans to invest $20 million to support California's school voucher measure; photo (M)",
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Way We Live Now: 9-03-00: Questions for Tim Draper; Capital Suggestion"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DRAPER, TIM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "VOUCHERS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "2000-09-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Education; Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matthew",
+                "rank": 1,
+                "lastname": "Miller"
+            }
+        ],
+        "original": "By Matthew Miller"
+    },
+    "type_of_material": "Interview",
+    "_id": "4fd23df78eb7c8105d7d4323",
+    "word_count": 622,
+    "slideshow_credits": null
+}

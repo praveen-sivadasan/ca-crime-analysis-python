@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/22/garden/overture-a-crisp-california-medley.html",
+    "snippet": "LEAD: WHEN Roland Shackelford, the wine maker at Chateau DeBaun in Santa Rosa, Calif., writes instructions for an assistant, they might read, ''Transfer 2,000 gallons of Overture from Debussy to Beethoven.''...",
+    "lead_paragraph": "LEAD: WHEN Roland Shackelford, the wine maker at Chateau DeBaun in Santa Rosa, Calif., writes instructions for an assistant, they might read, ''Transfer 2,000 gallons of Overture from Debussy to Beethoven.''",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Overture, a Crisp California Medley"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHATEAU DEBAUN"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1989-03-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Howard",
+                "middlename": "G.",
+                "lastname": "GOLDBERG",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By HOWARD G. GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18af08eb7c8105d68d1f5",
+    "word_count": 436,
+    "slideshow_credits": null
+}

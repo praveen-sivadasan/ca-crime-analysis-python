@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/24/science/cosmetic-surgeons-seek-new-frontiers.html",
+    "snippet": "To camouflage her skinny calves, the 30-year-old film producer from southern California always wore long skirts and \"felt like a freak\" when she played tennis or ran. For years, she lifted weights to improve the contour of her legs, to no avail.  ...",
+    "lead_paragraph": "To camouflage her skinny calves, the 30-year-old film producer from southern California always wore long skirts and \"felt like a freak\" when she played tennis or ran. For years, she lifted weights to improve the contour of her legs, to no avail. \"Doctors told me it's just the way your muscle is formed,\" she said in a recent telephone interview. \"But I was always self-conscious. I thought someday they're going to develop some way to help this.\"",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cosmetic Surgeons Seek New Frontiers"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGE, CHRONOLOGICAL"
+        },
+        {
+            "name": "subject",
+            "value": "MEN"
+        },
+        {
+            "name": "subject",
+            "value": "PLASTIC SURGERY"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        }
+    ],
+    "pub_date": "1991-09-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Elisabeth",
+                "rank": 1,
+                "lastname": "ROSENTHAL"
+            }
+        ],
+        "original": "By ELISABETH ROSENTHAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19c408eb7c8105d6ad797",
+    "word_count": 2247,
+    "slideshow_credits": null
+}

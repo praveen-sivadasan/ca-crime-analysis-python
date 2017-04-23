@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/11/business/california-court-delays-cuts-by-voters-in-insurance-rates.html",
+    "snippet": "LEAD: The California Supreme Court today delayed the start of substantial cuts in auto insurance and other coverage called for under a measure approved by the voters Tuesday....",
+    "lead_paragraph": "LEAD: The California Supreme Court today delayed the start of substantial cuts in auto insurance and other coverage called for under a measure approved by the voters Tuesday.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Court Delays Cuts By Voters in Insurance Rates"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-11-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Front Page; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17be18eb7c8105d674c64",
+    "word_count": 1156,
+    "slideshow_credits": null
+}

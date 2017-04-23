@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/27/opinion/valley-boy.html",
+    "snippet": "Talk about your grapes of wrath.    The Republican scold, who has been blaming voters, the liberal media and even the conservative media for his own anemic performance, is continuing his improbable quest to win the sunshine state....",
+    "lead_paragraph": "Talk about your grapes of wrath. The Republican scold, who has been blaming voters, the liberal media and even the conservative media for his own anemic performance, is continuing his improbable quest to win the sunshine state.",
+    "abstract": "Maureen Dowd Op-Ed column on Bob Dole's last stand in California; reports that although he shares a philosophy, 'whatever,' with valley girls, he is far too coiled to be a California guy, let alone emulate Ronald Reagan's flair (S)",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Valley Boy",
+        "kicker": "Liberties"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REAGAN, RONALD WILSON"
+        },
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-10-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1,
+                "firstname": "Maureen",
+                "lastname": "DOWD"
+            }
+        ],
+        "original": "By MAUREEN DOWD"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd208db8eb7c8105d77406c",
+    "word_count": 694,
+    "slideshow_credits": null
+}

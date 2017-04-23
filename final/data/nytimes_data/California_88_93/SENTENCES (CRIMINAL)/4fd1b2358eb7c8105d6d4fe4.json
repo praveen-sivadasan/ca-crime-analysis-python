@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/18/us/killer-of-7-given-a-death-sentence.html",
+    "snippet": "Ramon Salcido was sentenced today to die in the San Quentin gas chamber for the 1989 murders of his wife, two daughters and four other people.   \"I ask everyone to forgive me for the things that I have done,\" Mr. Salcido told Judge Reginald Littre...",
+    "lead_paragraph": "Ramon Salcido was sentenced today to die in the San Quentin gas chamber for the 1989 murders of his wife, two daughters and four other people. \"I ask everyone to forgive me for the things that I have done,\" Mr. Salcido told Judge Reginald Littrell of Sierra County Superior Court. \"I want to express that I repent for the things that have happened to the family that I loved the most, and for all the grief and pain I have caused.\"",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "KILLER OF 7 GIVEN A DEATH SENTENCE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SALCIDO, RAMON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "TRIALS"
+        }
+    ],
+    "pub_date": "1990-12-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b2358eb7c8105d6d4fe4",
+    "word_count": 340,
+    "slideshow_credits": null
+}

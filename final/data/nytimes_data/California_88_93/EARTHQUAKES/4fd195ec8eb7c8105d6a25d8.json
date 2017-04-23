@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/05/us/quake-was-centered-at-faults-intersection.html",
+    "snippet": "LEAD: The earthquake that jolted Southern California early Saturday was centered at the intersection of two faults, one of which caused a deadly aftershock more than a year ago, a seismologist said today....",
+    "lead_paragraph": "LEAD: The earthquake that jolted Southern California early Saturday was centered at the intersection of two faults, one of which caused a deadly aftershock more than a year ago, a seismologist said today.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake Was Centered At Faults' Intersection"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA INSTITUTE OF TECHNOLOGY"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1988-12-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd195ec8eb7c8105d6a25d8",
+    "word_count": 262,
+    "slideshow_credits": null
+}

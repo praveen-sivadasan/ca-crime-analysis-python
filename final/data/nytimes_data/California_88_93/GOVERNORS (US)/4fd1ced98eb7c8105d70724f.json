@@ -1,0 +1,71 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/05/us/1992-campaign-candidate-s-record-brown-opened-doors-but-failed-build-coalitions.html",
+    "snippet": "Edmund G. Brown Jr. left an unmistakable imprint on California in his two terms as Governor, with a record of far-sighted achievement when he could realize his own vision, but grand failure in matters requiring him to cooperate with other branches...",
+    "lead_paragraph": "Edmund G. Brown Jr. left an unmistakable imprint on California in his two terms as Governor, with a record of far-sighted achievement when he could realize his own vision, but grand failure in matters requiring him to cooperate with other branches of government. There is broad consensus here, where the Brown legacy can still provoke emotional debate, that the Governor's greatest accomplishment was opening the doors of government to women and minorities and truly integrating the state's highest offices, boards, commissions and judiciary. Mr. Brown served from 1975 through 1982, and his appointees have put in motion pioneering air quality standards, energy conservation programs and consumer protections that became models for the rest of the nation.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Candidate's Record; Brown Opened Doors but Failed to Build Coalitions"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, JERRY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-04-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 2,
+                "lastname": "BISHOP"
+            }
+        ],
+        "original": "By JANE GROSS with KATHERINE BISHOP"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1ced98eb7c8105d70724f",
+    "word_count": 2159,
+    "slideshow_credits": null
+}

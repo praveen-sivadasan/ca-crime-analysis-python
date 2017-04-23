@@ -1,0 +1,38 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/19/business/company-news-ohio-casualty-to-end-its-operations-in-california.html",
+    "snippet": "The Ohio Casualty Corporation, the nation's 30th-largest insurance company, said it plans to end all operations in California by 1993. The company, based in Hamilton, Ohio, said it had lost $50 million in California in the last two years, largely ...",
+    "lead_paragraph": "The Ohio Casualty Corporation, the nation's 30th-largest insurance company, said it plans to end all operations in California by 1993. The company, based in Hamilton, Ohio, said it had lost $50 million in California in the last two years, largely because of insurance revisions there. Costs for earthquake claims, major fires and other disasters so far this year have been among Ohio Casualty's highest in history, a spokeswoman, Cindy Denney, said. Ohio Casualty controls less than 1 percent of the California insurance market, she said.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "OHIO CASUALTY TO END ITS OPERATIONS IN CALIFORNIA",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "OHIO CASUALTY CORP"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        }
+    ],
+    "pub_date": "1992-06-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b5528eb7c8105d6daee9",
+    "word_count": 87,
+    "slideshow_credits": null
+}

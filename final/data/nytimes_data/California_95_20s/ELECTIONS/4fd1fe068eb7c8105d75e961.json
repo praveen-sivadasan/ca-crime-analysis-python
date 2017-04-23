@@ -1,0 +1,89 @@
+{
+    "web_url": "https://www.nytimes.com/1998/08/27/us/clinton-is-top-issue-in-a-california-race.html",
+    "snippet": "With a new poll showing their contest a virtual dead heat, Senator Barbara Boxer and State Treasurer Matt Fong traded jabs today over abortion, the death penalty and President Clinton's relationship with Monica S. Lewinsky.    Mr. Fong, a Republic...",
+    "lead_paragraph": "With a new poll showing their contest a virtual dead heat, Senator Barbara Boxer and State Treasurer Matt Fong traded jabs today over abortion, the death penalty and President Clinton's relationship with Monica S. Lewinsky. Mr. Fong, a Republican, repeatedly sought to paint Ms. Boxer, the Democratic incumbent, as a hypocrite for having been relatively circumspect in her initial comments about accusations that Mr. Clinton was involved with the former White House intern, while having strongly criticized Republicans like former Senator Bob Packwood and Justice Clarence Thomas over allegations of sexual harassment.",
+    "abstract": "Sen Barbara Boxer of California and her Republican opponent, State Treas Matt Fong, hold their first debate as new poll shows that their contest is virtual dead heat; Fong accuses Boxer, whose daughter, Nicole, is married to Hillary Rodham Clinton's brother, Tony, of hypocrisy in her comments about Clinton-Lewinsky matter; photo (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Clinton Is Top Issue in a California Race"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FONG, MATT"
+        },
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "persons",
+            "value": "BOXER, NICOLE"
+        },
+        {
+            "name": "persons",
+            "value": "RODHAM, TONY"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+        },
+        {
+            "name": "persons",
+            "value": "LEWINSKY, MONICA S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "DEBATING"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1998-08-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fe068eb7c8105d75e961",
+    "word_count": 811,
+    "slideshow_credits": null
+}

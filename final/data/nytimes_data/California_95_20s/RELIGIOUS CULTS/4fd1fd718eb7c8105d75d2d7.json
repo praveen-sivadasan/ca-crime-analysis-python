@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1997/03/31/us/searching-for-solace-in-the-hope-of-the-resurrection.html",
+    "snippet": "The Rev. H. L. Harvey's rich baritone reverberated off the nave's Corinthian columns and the tall stained-glass windows in brown and green at the New Friendship Baptist Church here this morning, as he spoke of Easter's significance to Christians: ...",
+    "lead_paragraph": "The Rev. H. L. Harvey's rich baritone reverberated off the nave's Corinthian columns and the tall stained-glass windows in brown and green at the New Friendship Baptist Church here this morning, as he spoke of Easter's significance to Christians: the death and resurrection of Jesus. ''Graveyards are not usually associated with joy and hope,'' Mr. Harvey said. ''If Easter is about anything, it is about the good news that came out of the graveyard.''",
+    "abstract": "Article profiles John Craig, member of Heaven's Gate cult who committed suicide with 38 others in California; he was formerly leading real estate developer in Durango, Colo, former member of Chamber of Commerce and was nearly elected to State Legislature in 1970's; photos (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Searching for Solace in the Hope of the Resurrection",
+        "kicker": "DEATH IN A CULT: THE SERVICES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CRAIG, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BROOKE, JAMES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEAVEN'S GATE"
+        },
+        {
+            "name": "subject",
+            "value": "RELIGIOUS CULTS"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "SUICIDES AND SUICIDE ATTEMPTS"
+        }
+    ],
+    "pub_date": "1997-03-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Keith",
+                "rank": 1,
+                "lastname": "BRADSHER"
+            }
+        ],
+        "original": "By KEITH BRADSHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fd718eb7c8105d75d2d7",
+    "word_count": 769,
+    "slideshow_credits": null
+}

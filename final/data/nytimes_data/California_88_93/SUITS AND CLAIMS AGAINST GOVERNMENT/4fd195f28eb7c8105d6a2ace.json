@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/08/us/california-high-court-to-hear-insurance-suit.html",
+    "snippet": "LEAD: The California Supreme Court said today that it would hear the insurance industry's lawsuit challenging the constitutionality of a voter-initiated ballot measure that would lead to a sweeping overhaul of the state's insurance laws....",
+    "lead_paragraph": "LEAD: The California Supreme Court said today that it would hear the insurance industry's lawsuit challenging the constitutionality of a voter-initiated ballot measure that would lead to a sweeping overhaul of the state's insurance laws.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California High Court to Hear Insurance Suit"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-12-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd195f28eb7c8105d6a2ace",
+    "word_count": 441,
+    "slideshow_credits": null
+}

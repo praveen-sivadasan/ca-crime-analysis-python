@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/13/dining/tastings-anderson-s-the-name.html",
+    "snippet": "COMPARED with some of California's better-known wine regions, the Anderson Valley doesn't get much attention, except when it's mistaken for the Alexander Valley. The Alexander, in northern Sonoma County, is home to many big wineries like Clos du B...",
+    "lead_paragraph": "COMPARED with some of California's better-known wine regions, the Anderson Valley doesn't get much attention, except when it's mistaken for the Alexander Valley. The Alexander, in northern Sonoma County, is home to many big wineries like Clos du Bois and Jordan. Anderson Valley, in Mendocino County, is roughly the same size as the Alexander but with far fewer grapes planted, and it is home mostly to small, little-known wineries that deserve a higher profile. Pinot noir in particular grows successfully in the Anderson's cool climate, but the valley may also be California's best area for German grapes like gewurztraminer and riesling. Chardonnay and zinfandel also do well.",
+    "abstract": "Tasstings column by Eric Asimov on wines from California's Anderson Valley; photo (S)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Anderson's the Name",
+        "kicker": "TASTINGS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "2000-09-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Dining and Wine; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 1,
+                "lastname": "Asimov"
+            }
+        ],
+        "original": "By Eric Asimov"
+    },
+    "type_of_material": "News",
+    "_id": "4fd22bc88eb7c8105d7b7b29",
+    "word_count": 367,
+    "slideshow_credits": null
+}

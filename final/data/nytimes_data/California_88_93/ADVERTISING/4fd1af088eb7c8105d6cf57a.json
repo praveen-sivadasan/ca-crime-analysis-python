@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/29/us/tv-transforms-crucial-california-race.html",
+    "snippet": "LEAD: California has long been a laboratory for observing the impact of television on politics, but rarely have the medium's power and its limits as a political tool been made so clear as in the race for governor here....",
+    "lead_paragraph": "LEAD: California has long been a laboratory for observing the impact of television on politics, but rarely have the medium's power and its limits as a political tool been made so clear as in the race for governor here.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "TV Transforms Crucial California Race"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-04-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "ORESKES"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL ORESKES, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1af088eb7c8105d6cf57a",
+    "word_count": 1090,
+    "slideshow_credits": null
+}

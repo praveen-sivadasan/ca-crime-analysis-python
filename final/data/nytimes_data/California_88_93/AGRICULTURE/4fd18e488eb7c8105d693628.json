@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1989/09/06/garden/new-pests-threaten-california-crops.html",
+    "snippet": "LEAD: Record numbers of exotic insects are invading Los Angeles County and threatening California's $16 billion-a-year farm economy....",
+    "lead_paragraph": "LEAD: Record numbers of exotic insects are invading Los Angeles County and threatening California's $16 billion-a-year farm economy.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "New Pests Threaten California Crops"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        }
+    ],
+    "pub_date": "1989-09-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e488eb7c8105d693628",
+    "word_count": 524,
+    "slideshow_credits": null
+}

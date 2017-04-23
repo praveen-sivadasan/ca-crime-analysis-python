@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/05/us/california-wins-sex-bias-pay-case.html",
+    "snippet": "LEAD: A Federal district judge ruled today that the State of California had not deliberately underpaid thousands of women in state jobs held predominantly by women. The ruling dealt an apparently decisive blow to the largest lawsuit concerning thi...",
+    "lead_paragraph": "LEAD: A Federal district judge ruled today that the State of California had not deliberately underpaid thousands of women in state jobs held predominantly by women. The ruling dealt an apparently decisive blow to the largest lawsuit concerning this issue in the country.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA WINS SEX BIAS PAY CASE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PATEL, MARILYN HALL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA STATE EMPLOYEES' ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT EMPLOYEES"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1989-10-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18f318eb7c8105d6953c7",
+    "word_count": 583,
+    "slideshow_credits": null
+}

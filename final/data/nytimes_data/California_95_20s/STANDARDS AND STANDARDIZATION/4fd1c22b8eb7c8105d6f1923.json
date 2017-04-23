@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1996/02/04/automobiles/betamax-redux-big-3-brawl-on-electric-cars.html",
+    "snippet": "THE Detroit auto makers will soon be selling electric cars in California, and Ford, Chrysler and General Motors say they want a common standard for how the cars plug in for recharging, just as their gasoline-powered cars have standard-sized filler...",
+    "lead_paragraph": "THE Detroit auto makers will soon be selling electric cars in California, and Ford, Chrysler and General Motors say they want a common standard for how the cars plug in for recharging, just as their gasoline-powered cars have standard-sized filler pipes that accept standardized gasoline nozzles. But an old-fashioned rivalry threatens to complicate the market even as it struggles to be born. General Motors, which has the most experience of the three with electric vehicles, designed its EV1 -- formerly known as the Impact -- with an inductive charger, which transmits energy in the form of an alternating magnetic current. The current comes out of a paddle that looks as if it came from a Ping-Pong table. The driver slips the paddle into a slot on the front of the car.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Betamax Redux: Big 3 Brawl on Electric Cars"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "FORD MOTOR CO"
+        },
+        {
+            "name": "organizations",
+            "value": "CHRYSLER CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC VEHICLES"
+        },
+        {
+            "name": "subject",
+            "value": "NEWMODELS, DESIGN AND PRODUCTS"
+        }
+    ],
+    "pub_date": "1996-02-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Automobiles",
+    "section_name": "Automobiles",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c22b8eb7c8105d6f1923",
+    "word_count": 717,
+    "slideshow_credits": null
+}

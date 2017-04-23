@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/22/us/admissions-change-will-alter-elite-campuses-experts-say.html",
+    "snippet": "While the state's Republican Governor, Pete Wilson, hailed as a \"historic achievement\" the elimination of affirmative action at the nine-campus University of California, academicians expressed concern today that minority enrollment at the system's...",
+    "lead_paragraph": "While the state's Republican Governor, Pete Wilson, hailed as a \"historic achievement\" the elimination of affirmative action at the nine-campus University of California, academicians expressed concern today that minority enrollment at the system's elite Berkeley and Los Angeles campuses would decline significantly. By a vote of 14 to 10, the university's governing Board of Regents, many of them appointed by Governor Wilson and his Republican predecessor, George Deukmejian, late Thursday struck down the use of race, sex, religion, color or national origin as criteria for admission to the university. A parallel measure on hiring and contracting passed 15 to 10.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Admissions Change Will Alter Elite Campuses, Experts Say"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        }
+    ],
+    "pub_date": "1995-07-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "William",
+                "middlename": "H.",
+                "lastname": "HONAN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By WILLIAM H. HONAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bfe38eb7c8105d6ee2df",
+    "word_count": 1197,
+    "slideshow_credits": null
+}

@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/california-quake-communications-straining-phone-system-survives-20-million-calls.html",
+    "snippet": "LEAD: The nation's telecommunications network was flooded Tuesday night by an estimated 20 million attempted telephone calls from people concerned about friends and family after the earthquake in the Bay area....",
+    "lead_paragraph": "LEAD: The nation's telecommunications network was flooded Tuesday night by an estimated 20 million attempted telephone calls from people concerned about friends and family after the earthquake in the Bay area.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Straining Phone System Survives 20 Million Calls",
+        "kicker": "THE CALIFORNIA QUAKE: COMMUNICATIONS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN TELEPHONE & TELEGRAPH CO INC"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "MARKOFF"
+            }
+        ],
+        "original": "By JOHN MARKOFF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd189888eb7c8105d68a81e",
+    "word_count": 621,
+    "slideshow_credits": null
+}

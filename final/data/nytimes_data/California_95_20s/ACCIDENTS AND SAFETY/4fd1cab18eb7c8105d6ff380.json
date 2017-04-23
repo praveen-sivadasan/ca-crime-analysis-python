@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1995/02/19/us/sailor-is-safe-off-mexico.html",
+    "snippet": "A sailor who sent out a distress signal during a storm in the Gulf of California was found safe aboard his boat and was continuing his voyage, the Coast Guard said on Friday.   A Coast Guard jet and a Mexican Navy ship located George Van Sickle an...",
+    "lead_paragraph": "A sailor who sent out a distress signal during a storm in the Gulf of California was found safe aboard his boat and was continuing his voyage, the Coast Guard said on Friday. A Coast Guard jet and a Mexican Navy ship located George Van Sickle and his dog aboard his 17-foot sailboat on Thursday afternoon, officials said at the Coast Guard's 11th District headquarters.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Sailor Is Safe Off Mexico"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN SICKLE, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "BOATS AND BOATING"
+        }
+    ],
+    "pub_date": "1995-02-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1cab18eb7c8105d6ff380",
+    "word_count": "88",
+    "slideshow_credits": null
+}

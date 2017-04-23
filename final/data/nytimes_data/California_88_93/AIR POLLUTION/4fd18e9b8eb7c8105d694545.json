@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/17/us/lockheed-fined-1-million-as-polluter.html",
+    "snippet": "LEAD: Air quality regulators have fined the Lockheed Corporation $1 million for violating anti-pollution rules in what is the largest penalty ever imposed by a regional pollution control agency here....",
+    "lead_paragraph": "LEAD: Air quality regulators have fined the Lockheed Corporation $1 million for violating anti-pollution rules in what is the largest penalty ever imposed by a regional pollution control agency here.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Lockheed Fined $1 Million as Polluter"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LOCKHEED CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1990-02-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e9b8eb7c8105d694545",
+    "word_count": 919,
+    "slideshow_credits": null
+}

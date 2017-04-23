@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/19/nyregion/c-corrections-192291.html",
+    "snippet": "An article yesterday about California's new state budget misstated the size of the tax increase. It is $7.3 billion....",
+    "lead_paragraph": "An article yesterday about California's new state budget misstated the size of the tax increase. It is $7.3 billion.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1991-07-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1af898eb7c8105d6d0196",
+    "word_count": 19,
+    "slideshow_credits": null
+}

@@ -1,0 +1,33 @@
+{
+    "web_url": "https://www.nytimes.com/1993/05/18/us/strong-quake-shakes-desert.html",
+    "snippet": "A strong earthquake rolled across a sparsely populated area northwest of Death Valley and was felt in much of California and Nevada, but no injuries or serious damage were reported. The quake measured 6.0 on the Richter scale and struck at 4:20 P....",
+    "lead_paragraph": "A strong earthquake rolled across a sparsely populated area northwest of Death Valley and was felt in much of California and Nevada, but no injuries or serious damage were reported. The quake measured 6.0 on the Richter scale and struck at 4:20 P.M., said Douglas Smith, a spokesman for the California Institute of Technology. It was felt from Las Vegas to Fresno to Los Angeles.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Strong Quake Shakes Desert"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1993-05-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1caf18eb7c8105d7001cc",
+    "word_count": 65,
+    "slideshow_credits": null
+}

@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/2000/11/10/us/california-gets-set-to-shift-on-sentencing-drug-users.html",
+    "snippet": "California's enormous prison system, the largest in the Western Hemisphere with more than 162,000 inmates, may be radically altered since voters on Tuesday overwhelmingly approved a measure that will sentence nonviolent drug offenders to treatment...",
+    "lead_paragraph": "California's enormous prison system, the largest in the Western Hemisphere with more than 162,000 inmates, may be radically altered since voters on Tuesday overwhelmingly approved a measure that will sentence nonviolent drug offenders to treatment instead of prison. Nearly one in three prisoners in California is serving time for a drug-related crime, more per capita than any other state. The new law, Proposition 36, puts California at the forefront of a national movement to change drug laws; it will send first- and second-time nonviolent drug offenders into treatment, reducing the prison population by as many as 36,000 inmates a year, according to the state's nonpartisan Legislative Analyst's Office.",
+    "abstract": "California voters overwhelmingly approve measure that will sentence nonviolent drug offenders to treatment instead of prison; nearly one in three prisoners in state is serving time for drug-related crime, more per capital than any other state; new law, Proposition 36, puts California at forefront of national movement to change drug laws; it will send first- and second-time nonviolent drug offenders into treatment, reducing prison population by as many as 36,000 inmates a year; measure was approved by 61 percent of voters despite strong opposition from virtually all of state's law enforcement officials, judges and some health care groups; photo (M)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Gets Set to Shift On Sentencing Drug Users"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "2000-11-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Evelyn",
+                "rank": 1,
+                "lastname": "NIEVES"
+            }
+        ],
+        "original": "By EVELYN NIEVES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd24cf18eb7c8105d7ed372",
+    "word_count": 980,
+    "slideshow_credits": null
+}

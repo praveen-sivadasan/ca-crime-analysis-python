@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/02/13/us/jerry-brown-wins-state-party-post.html",
+    "snippet": "LEAD: Edmund G. (Jerry) Brown Jr., the former Governor of California who has been alternately labeled a visionary and a ''space cadet,'' was elected chairman of the state Democratic Party late Saturday....",
+    "lead_paragraph": "LEAD: Edmund G. (Jerry) Brown Jr., the former Governor of California who has been alternately labeled a visionary and a ''space cadet,'' was elected chairman of the state Democratic Party late Saturday.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "JERRY BROWN WINS STATE PARTY POST"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G JR"
+        },
+        {
+            "name": "persons",
+            "value": "WESTLY, STEVEN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1989-02-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd182048eb7c8105d67eaa9",
+    "word_count": 550,
+    "slideshow_credits": null
+}

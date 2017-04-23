@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1996/07/30/us/carjack-sentence-death.html",
+    "snippet": "A gang member was sentenced to death today for killing two college students from Japan during a 1994 carjacking.         Raymond Oscar Butler, 20, was sentenced by Judge James Pierce of Superior Court, who agreed with a jury's April recommendation...",
+    "lead_paragraph": "A gang member was sentenced to death today for killing two college students from Japan during a 1994 carjacking. Raymond Oscar Butler, 20, was sentenced by Judge James Pierce of Superior Court, who agreed with a jury's April recommendation that the defendant receive the death penalty.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Carjack Sentence: Death"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MATSUURA, GO"
+        },
+        {
+            "name": "persons",
+            "value": "BUTLER, RAYMOND O"
+        },
+        {
+            "name": "persons",
+            "value": "ITO, TAKUMA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROBBERIES AND THEFTS"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITALPUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        }
+    ],
+    "pub_date": "1996-07-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e5fb8eb7c8105d7319a1",
+    "word_count": 110,
+    "slideshow_credits": null
+}

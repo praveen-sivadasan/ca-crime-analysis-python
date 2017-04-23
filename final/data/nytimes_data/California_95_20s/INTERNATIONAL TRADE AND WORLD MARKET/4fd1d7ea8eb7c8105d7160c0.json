@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1997/10/07/business/us-oilfield-will-be-sold-to-occidental.html",
+    "snippet": "The Federal Government moved to get out of the oil business yesterday by accepting a bid of $3.65 billion in cash from the Occidental Petroleum Corporation for the Government's share of a huge oilfield in California that was acquired in the early ...",
+    "lead_paragraph": "The Federal Government moved to get out of the oil business yesterday by accepting a bid of $3.65 billion in cash from the Occidental Petroleum Corporation for the Government's share of a huge oilfield in California that was acquired in the early 1900's to insure that the Navy had plenty of oil in reserve as it converted from coal. To help pay for the acquisition, Occidental said it would divest itself of some major assets, including Mid-Con, its natural gas pipeline subsidiary, which the company said would bring in about $3 billion. Though analysts said that Occidental was paying a steep price for the Government's 78 percent stake in the Elk Hills Naval Petroleum Reserve, as the field is known, the company's shares moved up sharply.",
+    "abstract": "Federal Government accepts bid of $3.65 billion in cash from Occidental Petroleum Corp for Government's 78 percent stake in Elk Hills Naval Petroleum Reserve, huge oilfield in California that was acquired in early 1900's to insure that Navy had enough oil in reserve as it converted from coal; Occidental plans to divest itself of some major assets to help pay for acquisition; analysts say Occidental is paying steep price for oilfield, but company's shares move up sharply; Navy has not relied on field in recent years, because world oil supplies have been plentiful; Occidental is interested in major reserves that might lie below area that has already been explored and developed; sale of Elk Hills will have no effect on United States Strategic Petroleum Reserve, which was set up in 1975 after Arab oil embargo to store oil for emergency; map (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. Oilfield Will Be Sold To Occidental"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "OCCIDENTAL PETROLEUM CORP"
+        },
+        {
+            "name": "subject",
+            "value": "NAVIES"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES STRATEGIC PETROLEUM RESERVE"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "ELK HILLS NAVAL PETROLEUM RESERVE"
+        },
+        {
+            "name": "subject",
+            "value": "EMBARGOES"
+        }
+    ],
+    "pub_date": "1997-10-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Agis",
+                "rank": 1,
+                "lastname": "SALPUKAS"
+            }
+        ],
+        "original": "By AGIS SALPUKAS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d7ea8eb7c8105d7160c0",
+    "word_count": 1087,
+    "slideshow_credits": null
+}

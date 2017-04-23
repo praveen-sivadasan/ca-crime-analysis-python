@@ -1,0 +1,80 @@
+{
+    "web_url": "https://www.nytimes.com/1996/03/08/us/tough-law-on-sentences-is-criticized.html",
+    "snippet": "Two years after California's tough \"three strikes and you're out\" law went into effect, twice as many defendants have been imprisoned under the law for marijuana possession as for murder, rape and kidnapping combined, according to a new study.    ...",
+    "lead_paragraph": "Two years after California's tough \"three strikes and you're out\" law went into effect, twice as many defendants have been imprisoned under the law for marijuana possession as for murder, rape and kidnapping combined, according to a new study. Overall, 85 percent of those receiving stiffer sentences had been convicted most recently of a nonviolent offense, the study found.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tough Law On Sentences Is Criticized"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CENTER FOR JUVENILE AND CRIMINAL JUSTICE"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "SEX CRIMES"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "KIDNAPPING"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "MARIJUANA"
+        }
+    ],
+    "pub_date": "1996-03-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Fox",
+                "rank": 1,
+                "lastname": "BUTTERFIELD"
+            }
+        ],
+        "original": "By FOX BUTTERFIELD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2063f8eb7c8105d76f5a8",
+    "word_count": 736,
+    "slideshow_credits": null
+}

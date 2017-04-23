@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1988/04/05/sports/opening-to-cheers-and-echoes-of-past.html",
+    "snippet": "LEAD: The Los Angeles Dodgers and the San Francisco Giants, who 11 days short of 30 years ago faced each other in the first major league baseball game played in California, opened the 1988 season today at Dodger Stadium amid appropriate festivitie...",
+    "lead_paragraph": "LEAD: The Los Angeles Dodgers and the San Francisco Giants, who 11 days short of 30 years ago faced each other in the first major league baseball game played in California, opened the 1988 season today at Dodger Stadium amid appropriate festivities before a sellout crowd of 50,813.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Opening to Cheers And Echoes of Past"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN FRANCISCO GIANTS"
+        },
+        {
+            "name": "organizations",
+            "value": "LOS ANGELES DODGERS"
+        },
+        {
+            "name": "subject",
+            "value": "BASEBALL"
+        }
+    ],
+    "pub_date": "1988-04-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Leonard",
+                "rank": 1,
+                "lastname": "KOPPETT"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By LEONARD KOPPETT, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17a108eb7c8105d671b4a",
+    "word_count": 807,
+    "slideshow_credits": null
+}

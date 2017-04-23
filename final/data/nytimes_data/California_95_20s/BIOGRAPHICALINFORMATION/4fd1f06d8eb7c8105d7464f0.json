@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1996/04/24/us/leading-computer-hacker-strikes-a-plea-agreement.html",
+    "snippet": "Kevin Mitnick, the country's most notorious computer hacker until he was tracked down in an electronic manhunt and arrested last year, has reached a plea bargain in which he has admitted possessing stolen cellular telephone devices and violating t...",
+    "lead_paragraph": "Kevin Mitnick, the country's most notorious computer hacker until he was tracked down in an electronic manhunt and arrested last year, has reached a plea bargain in which he has admitted possessing stolen cellular telephone devices and violating terms of probation that resulted from a previous computer break-in. The plea agreement on the two charges, which was reached with Federal prosecutors in Los Angeles on Monday, appears to have satisfied all the 23 Federal counts filed against the 32-year-old Mr. Mitnick so far. Sentencing on those two counts, the more serious of which carries a maximum term of 20 years in prison, is scheduled for July.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Leading Computer Hacker Strikes a Plea Agreement"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MITNICK, KEVIN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROBBERIES AND THEFTS"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "PLEA BARGAINING"
+        },
+        {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICALINFORMATION"
+        }
+    ],
+    "pub_date": "1996-04-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Technology; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Peter",
+                "middlename": "H.",
+                "lastname": "LEWIS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By PETER H. LEWIS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f06d8eb7c8105d7464f0",
+    "word_count": 496,
+    "slideshow_credits": null
+}

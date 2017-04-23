@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1999/07/06/business/chevron-sells-26-stake-in-oilfield.html",
+    "snippet": "The Chevron Corporation said last week that it had sold its stake in the Point Arguello field in California to Plains Resources Inc., marking the oil giant's exit from the state's offshore oil and gas operations.     Chevron, the nation's third-la...",
+    "lead_paragraph": "The Chevron Corporation said last week that it had sold its stake in the Point Arguello field in California to Plains Resources Inc., marking the oil giant's exit from the state's offshore oil and gas operations. Chevron, the nation's third-largest oil company, said the sale included its 26 percent share of the field, which is in Federal waters near Santa Barbara, along with an oil processing plant and connecting pipelines.",
+    "abstract": "Chevron Corp sells its 26 percent stake in offshore Point Arguello oil field, California, to Plains Resources Inc, along with oil processing plant and connecting pipelines (S)",
+    "print_page": "7",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Chevron Sells 26% Stake in Oilfield"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHEVRON CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "PLAINS RESOURCES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "PIPELINES"
+        },
+        {
+            "name": "subject",
+            "value": "OFFSHORE EXPLORATION AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        }
+    ],
+    "pub_date": "1999-07-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ea358eb7c8105d739cff",
+    "word_count": "160",
+    "slideshow_credits": null
+}

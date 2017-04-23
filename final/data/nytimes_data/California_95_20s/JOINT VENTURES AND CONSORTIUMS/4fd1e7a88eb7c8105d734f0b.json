@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/28/business/pacific-bell-mci-to-expand-internet-service.html",
+    "snippet": "The Internet is not just for computer companies any more. Two powerful telephone carriers, MCI and Pacific Bell, disclosed plans yesterday to offer a broad range of Internet services to businesses and individuals.   The MCI Telecommunications Corp...",
+    "lead_paragraph": "The Internet is not just for computer companies any more. Two powerful telephone carriers, MCI and Pacific Bell, disclosed plans yesterday to offer a broad range of Internet services to businesses and individuals. The MCI Telecommunications Corporation said it planned to take advantage of its international networks and brand name to become a national Internet service provider, offering residential and business customers dial-up access to the Internet, as well as special consumer software for using the Internet service known as the World Wide Web.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pacific Bell, MCI to Expand Internet Service"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUN MICROSYSTEMS INC"
+        },
+        {
+            "name": "organizations",
+            "value": "NETSCAPE COMMUNICATIONS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "CISCO SYSTEMS INC"
+        },
+        {
+            "name": "organizations",
+            "value": "MCI TELECOMMUNICATIONS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "JOINT VENTURES AND CONSORTIUMS"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNET (COMPUTER NETWORK)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRONIC INFORMATION SYSTEMS"
+        }
+    ],
+    "pub_date": "1995-03-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Peter",
+                "middlename": "H.",
+                "lastname": "LEWIS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By PETER H. LEWIS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e7a88eb7c8105d734f0b",
+    "word_count": 618,
+    "slideshow_credits": null
+}

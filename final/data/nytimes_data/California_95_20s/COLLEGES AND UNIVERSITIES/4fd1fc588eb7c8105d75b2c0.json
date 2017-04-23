@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1997/07/27/us/questions-of-race-run-deep-for-foe-of-preferences.html",
+    "snippet": "By society's measure, he emerged black from the gene pool, a peculiar arithmetic that Ward Connerly insists he has never understood.    ''One drop of blood does it,'' he said, reviewing the computation: 25 percent black plus 37.5 percent Irish plu...",
+    "lead_paragraph": "By society's measure, he emerged black from the gene pool, a peculiar arithmetic that Ward Connerly insists he has never understood. ''One drop of blood does it,'' he said, reviewing the computation: 25 percent black plus 37.5 percent Irish plus 25 percent French plus 12.5 percent Choctaw equals 100 percent black. ''I suppose I could claim to be Irish, but who wants to stand there and argue the point every time? So I'm black.''",
+    "abstract": "Special report Between Black and White profiles Wardell A Connerly; the 58-year-old millionaire businessman has become leading black opponent of racial preferences, first as a regent in the California university system and then as head of last year's statewide ballot measure banning state and local governments from using preferences in hiring, contracting and college admissions; photos (L)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Questions of Race Run Deep for Foe of Preferences",
+        "kicker": "BETWEEN BLACK AND WHITE -- A Special Report"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CONNERLY, WARDELL A"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1997-07-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Barry",
+                "rank": 1,
+                "lastname": "BEARAK"
+            }
+        ],
+        "original": "By BARRY BEARAK"
+    },
+    "type_of_material": "Special Report",
+    "_id": "4fd1fc588eb7c8105d75b2c0",
+    "word_count": 5296,
+    "slideshow_credits": null
+}

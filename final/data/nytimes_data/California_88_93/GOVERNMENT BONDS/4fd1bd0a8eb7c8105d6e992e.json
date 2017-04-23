@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1993/09/29/business/credit-markets-california-bonds-well-received.html",
+    "snippet": "The hunger for yields while interest rates remain low made for a nice deal for California yesterday.   The state, which has yet to put its fiscal problems behind it, sold $800 million in general obligation bonds in a competitive sale won by Merril...",
+    "lead_paragraph": "The hunger for yields while interest rates remain low made for a nice deal for California yesterday. The state, which has yet to put its fiscal problems behind it, sold $800 million in general obligation bonds in a competitive sale won by Merrill Lynch & Company.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Bonds Well Received",
+        "kicker": "CREDIT MARKETS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MERRILL LYNCH & CO"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1993-09-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jonathan",
+                "rank": 1,
+                "lastname": "FUERBRINGER"
+            }
+        ],
+        "original": "By JONATHAN FUERBRINGER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bd0a8eb7c8105d6e992e",
+    "word_count": 922,
+    "slideshow_credits": null
+}

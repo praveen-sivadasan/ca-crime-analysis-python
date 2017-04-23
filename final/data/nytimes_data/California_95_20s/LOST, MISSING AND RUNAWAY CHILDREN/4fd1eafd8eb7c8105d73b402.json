@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1998/06/15/us/national-news-briefs-lost-california-boy-found-in-good-condition.html",
+    "snippet": "A 4-year-old boy was found in good condition today after spending a chilly night lost high in the San Bernardino Mountains....",
+    "lead_paragraph": "A 4-year-old boy was found in good condition today after spending a chilly night lost high in the San Bernardino Mountains.",
+    "abstract": "Four-year-old Marcelino Sanchez is found in good condition after spending night lost high in San Bernardino Mountains in California; was found three miles from site where mother and boyfriend had camped (S)",
+    "print_page": "19",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Lost California Boy Found in Good Condition"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LOPEZ, MARCELINO"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "LOST, MISSING AND RUNAWAY CHILDREN"
+        }
+    ],
+    "pub_date": "1998-06-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1eafd8eb7c8105d73b402",
+    "word_count": "65",
+    "slideshow_credits": null
+}

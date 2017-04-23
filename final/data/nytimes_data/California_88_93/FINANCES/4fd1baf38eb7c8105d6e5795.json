@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/07/30/us/deadlock-is-broken-on-california-s-budget.html",
+    "snippet": "LEAD: The California Legislature, breaking a record 28-day deadlock, has sent Gov. George Deukmejian a $55 billion budget and 18 related bills on fees, taxes, savings, budget cutting and prisons....",
+    "lead_paragraph": "LEAD: The California Legislature, breaking a record 28-day deadlock, has sent Gov. George Deukmejian a $55 billion budget and 18 related bills on fees, taxes, savings, budget cutting and prisons.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Deadlock Is Broken on California's Budget"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1990-07-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1baf38eb7c8105d6e5795",
+    "word_count": 144,
+    "slideshow_credits": null
+}

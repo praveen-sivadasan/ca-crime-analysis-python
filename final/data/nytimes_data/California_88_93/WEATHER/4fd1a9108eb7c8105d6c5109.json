@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/07/us/cast-as-villains-in-drought-rice-farmers-defend-water-rights.html",
+    "snippet": "Any day now, the rice farmers in the Sacramento Valley will burn, disk, furrow, fertilize and flood their fields and plant the crop that has made them the arch-villains of California's drought.    These men say the work will be a welcome distracti...",
+    "lead_paragraph": "Any day now, the rice farmers in the Sacramento Valley will burn, disk, furrow, fertilize and flood their fields and plant the crop that has made them the arch-villains of California's drought. These men say the work will be a welcome distraction from the badgering of state officials who tried to the buy their water and the criticism of people from one end of California to the other who wonder why anyone is paid by the government to grow a monsoon crop in this desert landscape.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cast as Villains in Drought, Rice Farmers Defend Water Rights"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "GRAIN"
+        }
+    ],
+    "pub_date": "1991-04-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9108eb7c8105d6c5109",
+    "word_count": 1233,
+    "slideshow_credits": null
+}

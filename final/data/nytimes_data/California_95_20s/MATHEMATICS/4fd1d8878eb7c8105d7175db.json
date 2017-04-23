@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1997/12/14/weekinreview/class-wars-clashing-over-education-s-one-true-faith.html",
+    "snippet": "THE California Board of Education last week sought to settle a noisy dispute over how best to teach math to the state's 5.5 million public schoolchildren.    The board approved a set of standards for students in each grade, emphasizing memorizatio...",
+    "lead_paragraph": "THE California Board of Education last week sought to settle a noisy dispute over how best to teach math to the state's 5.5 million public schoolchildren. The board approved a set of standards for students in each grade, emphasizing memorization and basic computational skills over the ability to solve and explain analytical word problems, a method of instruction that has grown in popularity in recent years.",
+    "abstract": "Comment on polarized, ideological debates over education theory, such as current one in California on teaching of mathematics; observes that stark 'either-or' arguments ignore classroom reality, which is that teachers routinely employ many approaches to encourage learning; photos (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Class Wars; Clashing Over Education's One True Faith"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MATHEMATICS"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        }
+    ],
+    "pub_date": "1997-12-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Education; Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jacques",
+                "rank": 1,
+                "lastname": "STEINBERG"
+            }
+        ],
+        "original": "By JACQUES STEINBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d8878eb7c8105d7175db",
+    "word_count": 1298,
+    "slideshow_credits": null
+}

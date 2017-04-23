@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/03/us/student-who-sued-school-isn-t-required-to-cut-frog.html",
+    "snippet": "LEAD: A Federal district judge has dismissed a lawsuit brought by a high school student who refused to dissect a frog in biology class.He acted after the school agreed to let her view photographs of a dissected frog that died of natural causes to ...",
+    "lead_paragraph": "LEAD: A Federal district judge has dismissed a lawsuit brought by a high school student who refused to dissect a frog in biology class.He acted after the school agreed to let her view photographs of a dissected frog that died of natural causes to identify its body parts.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Student Who Sued School Isn't Required to Cut Frog"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REAL, MANUEL L"
+        },
+        {
+            "name": "persons",
+            "value": "GRAHAM, JENIFER"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "BIOLOGY AND BIOCHEMISTRY"
+        }
+    ],
+    "pub_date": "1988-08-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Science; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e008eb7c8105d692f8e",
+    "word_count": 325,
+    "slideshow_credits": null
+}

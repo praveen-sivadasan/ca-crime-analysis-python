@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/18/us/california-stalemate-ends-in-a-budget.html",
+    "snippet": "California's long stalemate over the largest budget gap ever faced by a state has ended with an unwieldy package of new taxes and cutbacks in a dramatic reversal of fortunes for a state that just three years ago was debating what to do with its su...",
+    "lead_paragraph": "California's long stalemate over the largest budget gap ever faced by a state has ended with an unwieldy package of new taxes and cutbacks in a dramatic reversal of fortunes for a state that just three years ago was debating what to do with its surplus. As a result, children must now pay taxes on candy, fees for the California State University system will rise by 20 percent, income taxes will go up for the very wealthy and for renters and the state will lay off large numbers of employees and cut back on services.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Stalemate Ends in a Budget"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1991-07-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a47a8eb7c8105d6bc7f9",
+    "word_count": 1473,
+    "slideshow_credits": null
+}

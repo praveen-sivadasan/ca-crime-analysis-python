@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1993/02/25/style/chronicle-415193.html",
+    "snippet": "Just in case there's anyone left in California who hasn't gotten the message about physical fitness, there's a new messenger. Gov. PETE WILSON announced yesterday that he was appointing ARNOLD SCHWARZENEGGER as chairman of his new Governor's Counc...",
+    "lead_paragraph": "Just in case there's anyone left in California who hasn't gotten the message about physical fitness, there's a new messenger. Gov. PETE WILSON announced yesterday that he was appointing ARNOLD SCHWARZENEGGER as chairman of his new Governor's Council on Physical Fitness and Sports. Other members of the council will include Sugar Ray Leonard, Tracy Austin, and Bruce Jenner.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CHRONICLE"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CHRONICLE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "SCHWARZENEGGER, ARNOLD"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EXERCISE"
+        }
+    ],
+    "pub_date": "1993-02-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Nadine",
+                "rank": 1,
+                "lastname": "BROZAN"
+            }
+        ],
+        "original": "By NADINE BROZAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1db878eb7c8105d71c4ba",
+    "word_count": 85,
+    "slideshow_credits": null
+}

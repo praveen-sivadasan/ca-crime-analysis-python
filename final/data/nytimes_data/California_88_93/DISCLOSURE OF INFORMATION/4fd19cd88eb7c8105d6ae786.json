@@ -1,0 +1,106 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/07/us/law-case-two-brothers-accused-killing-parents-may-test-secrecy-limit-patient.html",
+    "snippet": "LEAD: The nexus between psychotherapy and the law has never been a comfortable one. Psychiatrists and psychologists often see patients who are violence-prone, people who either have committed crimes or threaten to....",
+    "lead_paragraph": "LEAD: The nexus between psychotherapy and the law has never been a comfortable one. Psychiatrists and psychologists often see patients who are violence-prone, people who either have committed crimes or threaten to.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Case of Two Brothers Accused of Killing Parents May Test Secrecy Limit in Patient-Therapist Tie",
+        "kicker": "LAW"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "THE LAW PAGE (NYT)"
+        },
+        {
+            "name": "persons",
+            "value": "MENENDEZ, JOSE"
+        },
+        {
+            "name": "persons",
+            "value": "MENENDEZ, JOSEPH LYLE"
+        },
+        {
+            "name": "persons",
+            "value": "MENENDEZ, ERIK"
+        },
+        {
+            "name": "persons",
+            "value": "OZIEL, L JEROME"
+        },
+        {
+            "name": "persons",
+            "value": "MENENDEZ, KITTY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "RECORDINGS (AUDIO)"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "PSYCHOLOGY AND PSYCHOLOGISTS"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVACY, RIGHT OF"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "DISCLOSURE OF INFORMATION"
+        }
+    ],
+    "pub_date": "1990-09-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19cd88eb7c8105d6ae786",
+    "word_count": 1466,
+    "slideshow_credits": null
+}

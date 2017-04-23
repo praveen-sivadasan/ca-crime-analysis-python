@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/15/business/first-capital-unit-seized-in-california.html",
+    "snippet": "State regulators today seized the California insurance subsidiary of the First Capital Holdings Corporation after an attempt by Citibank, the troubled company's main lender, to force it into involuntary bankruptcy.   The California Insurance Commi...",
+    "lead_paragraph": "State regulators today seized the California insurance subsidiary of the First Capital Holdings Corporation after an attempt by Citibank, the troubled company's main lender, to force it into involuntary bankruptcy. The California Insurance Commissioner, John Garamendi, said he had taken the action to keep Citibank's claim from endangering the ability of the subsidiary, the First Capital Life Insurance Company, to pay policyholders. First Capital Holdings and its insurance units have been stung in recent months by defaults in their portfolios of \"junk bonds\" and by consumers' fears about the insurers' ability to honor their commitments.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "First Capital Unit Seized In California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST CAPITAL HOLDINGS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "CITIBANK"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST CAPITAL LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+        }
+    ],
+    "pub_date": "1991-05-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a32c8eb7c8105d6ba35b",
+    "word_count": 1002,
+    "slideshow_credits": null
+}

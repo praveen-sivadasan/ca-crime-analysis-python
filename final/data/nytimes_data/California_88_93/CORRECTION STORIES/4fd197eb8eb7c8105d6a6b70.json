@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/02/nyregion/c-corrections-943091.html",
+    "snippet": "An article on Thursday about proposals to restrict water use in California misidentified a state assemblyman. He is Chris Chandler....",
+    "lead_paragraph": "An article on Thursday about proposals to restrict water use in California misidentified a state assemblyman. He is Chris Chandler.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHANDLER, CHRIS"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1991-02-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd197eb8eb7c8105d6a6b70",
+    "word_count": 20,
+    "slideshow_credits": null
+}

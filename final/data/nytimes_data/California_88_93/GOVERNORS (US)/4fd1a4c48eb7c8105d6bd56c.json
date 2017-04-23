@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/25/us/california-s-governor-gets-a-fast-deal-making-start.html",
+    "snippet": "When he became Governor of California half a year ago, Pete Wilson brought with him a reputation as a pragmatic, moderate Republican, a politician singularly adept at forging compromises. Since then, he has indeed demonstrated that skill, some say...",
+    "lead_paragraph": "When he became Governor of California half a year ago, Pete Wilson brought with him a reputation as a pragmatic, moderate Republican, a politician singularly adept at forging compromises. Since then, he has indeed demonstrated that skill, some say all too well. In the long battle over bridging the state's $14.3 billion budget gap, Mr. Wilson vowed never to raise the income tax but did just that. He sought reform of workers' compensation laws as a price for his agreeing to new taxes, but settled for a minor change. He tried to suspend a voter-passed initiative that reserves 40 cents of every state dollar for education, but retreated under lobbying by the teachers' union.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Governor Gets A Fast, Deal-Making Start"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1991-07-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a4c48eb7c8105d6bd56c",
+    "word_count": 1794,
+    "slideshow_credits": null
+}

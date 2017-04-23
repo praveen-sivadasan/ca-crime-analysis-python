@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/30/business/technology-fuel-cells-finally-coming-of-age-or-too-good-to-be-true.html",
+    "snippet": "First developed in the 1960's for use in space, fuel cells have come down to earth. This month, the Pacific Gas and Electric Company, the northern California utility, started up the first complete power plant based on a molten carbonate fuel cell....",
+    "lead_paragraph": "First developed in the 1960's for use in space, fuel cells have come down to earth. This month, the Pacific Gas and Electric Company, the northern California utility, started up the first complete power plant based on a molten carbonate fuel cell. A fuel cell is a device that converts the energy of a fuel directly to electricity and heat, without combustion. Because there is no combustion, fuel cells give off few emissions; and because there are no moving parts, fuel cells are quiet. Although a fuel -- in this case natural gas -- is consumed, P.G.& E.'s fuel cell plant is about 50 percent more efficient than conventional gas-powered turbine power generators.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Technology; Fuel Cells: Finally Coming of Age or Too Good to Be True?"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ENERGY DEPARTMENT"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC GAS & ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "FUEL CELLS"
+        }
+    ],
+    "pub_date": "1991-06-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19bfb8eb7c8105d6aceeb",
+    "word_count": 1066,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/22/business/making-a-difference-of-stars-and-moonbeams.html",
+    "snippet": "HER father, Edmund G. (Pat) Brown, was Governor of California from 1959 to 1967. Her brother, Edmund G. (Jerry) Brown, held the same post from 1975 to 1983 and is now a Democratic Presidential candidate. But there are those in California political...",
+    "lead_paragraph": "HER father, Edmund G. (Pat) Brown, was Governor of California from 1959 to 1967. Her brother, Edmund G. (Jerry) Brown, held the same post from 1975 to 1983 and is now a Democratic Presidential candidate. But there are those in California political circles who believe that Kathleen Brown could prove to be the family's real star. Ms. Brown was elected California's Treasurer last year in her first run for statewide office. As Treasurer, she oversees the sale of state bonds and manages the state's investment portfolio. And she holds the job at a time when California faces its worst financial crisis in decades.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Making a Difference; Of Stars and Moonbeams"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, KATHLEEN"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, JERRY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        }
+    ],
+    "pub_date": "1991-12-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ca238eb7c8105d6fe1a1",
+    "word_count": 287,
+    "slideshow_credits": null
+}

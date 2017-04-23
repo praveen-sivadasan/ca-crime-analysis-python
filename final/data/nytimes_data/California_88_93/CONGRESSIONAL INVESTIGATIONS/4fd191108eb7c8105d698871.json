@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/15/us/drug-inquiry-was-quashed-house-report-charges.html",
+    "snippet": "LEAD: Federal officials quashed an inquiry into drug trafficking at the Lawrence Livermore National Laboratory in California just three days before the investigation reached the laboratory's most sensitive areas, and then they misled House investi...",
+    "lead_paragraph": "LEAD: Federal officials quashed an inquiry into drug trafficking at the Lawrence Livermore National Laboratory in California just three days before the investigation reached the laboratory's most sensitive areas, and then they misled House investigators, a Congressional report charges.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Drug Inquiry Was Quashed, House Report Charges"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LAWRENCE LIVERMORE NATIONAL LABORATORY"
+        },
+        {
+            "name": "organizations",
+            "value": "ENERGY, DEPARTMENT OF"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE COMMITTEE ON ENERGY AND COMMERCE"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "CONGRESSIONAL INVESTIGATIONS"
+        }
+    ],
+    "pub_date": "1988-06-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "States",
+                "middlename": "News",
+                "lastname": "Service",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By States News Service"
+    },
+    "type_of_material": "News",
+    "_id": "4fd191108eb7c8105d698871",
+    "word_count": 518,
+    "slideshow_credits": null
+}

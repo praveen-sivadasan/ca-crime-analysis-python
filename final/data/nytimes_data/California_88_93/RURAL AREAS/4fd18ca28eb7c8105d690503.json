@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/07/25/us/shift-to-urban-living-in-us-thins-the-ranks-of-hunters.html",
+    "snippet": "LEAD: The fir-covered slopes of the High Sierra of California are teeming with blacktailed and mule deer now, and when fall replaces summer here the hunters will come to shoot them just as surely as the winter snows will follow....",
+    "lead_paragraph": "LEAD: The fir-covered slopes of the High Sierra of California are teeming with blacktailed and mule deer now, and when fall replaces summer here the hunters will come to shoot them just as surely as the winter snows will follow.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Shift to Urban Living in U.S. Thins the Ranks of Hunters"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE STYLES"
+        },
+        {
+            "name": "subject",
+            "value": "LICENSES"
+        },
+        {
+            "name": "subject",
+            "value": "HUNTING AND TRAPPING"
+        },
+        {
+            "name": "subject",
+            "value": "RURAL AREAS"
+        }
+    ],
+    "pub_date": "1988-07-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18ca28eb7c8105d690503",
+    "word_count": 1512,
+    "slideshow_credits": null
+}

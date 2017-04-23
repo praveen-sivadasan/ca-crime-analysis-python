@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/25/us/johnny-carson-s-son-killed-in-auto-crash.html",
+    "snippet": "The son of Johnny Carson, host of \"Tonight,\" was killed last Friday after his car went off a rural road and fell 100 feet down an embankment, the authorities said today.   Richard Wolcott Carson, 39 years old, was thrown from his four-wheel-drive ...",
+    "lead_paragraph": "The son of Johnny Carson, host of \"Tonight,\" was killed last Friday after his car went off a rural road and fell 100 feet down an embankment, the authorities said today. Richard Wolcott Carson, 39 years old, was thrown from his four-wheel-drive vehicle, which then landed on its top in a culvert, said Russ Johnson of the California Highway Patrol. Mr. Johnson said Mr. Carson was killed instantly. Private funeral services were held Sunday in Los Angeles. The authorities said Mr. Carson was driving on a narrow service road adjacent to Highway 1 about 180 miles northwest of Los Angeles when he apparently became distracted. Richard Carson was one of three sons from his father's first marriage, to Joan Buckley. The others are Christopher, 40, and Cory, 38.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Johnny Carson's Son Killed in Auto Crash"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CARSON, JOHNNY"
+        },
+        {
+            "name": "persons",
+            "value": "CARSON, RICHARD WOLCOTT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1991-06-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1af898eb7c8105d6d01d6",
+    "word_count": 128,
+    "slideshow_credits": null
+}

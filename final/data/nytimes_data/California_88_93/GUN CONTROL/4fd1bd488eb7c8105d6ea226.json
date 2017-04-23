@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/24/us/in-california-a-lab-for-the-brady-bill-the-debate-on-guns-has-no-winner.html",
+    "snippet": "As looting and violence spread during last year's rioting, there was a near-riot at Art's Guns in suburban Canoga Park as scores of panicked people discovered they could not buy quick self-protection because of California's 15-day waiting period o...",
+    "lead_paragraph": "As looting and violence spread during last year's rioting, there was a near-riot at Art's Guns in suburban Canoga Park as scores of panicked people discovered they could not buy quick self-protection because of California's 15-day waiting period on gun sales. At the same time, rioters were breaking into gun stores and pawn shops throughout Los Angeles and carting away what officials now estimate were thousands of weapons of all sorts.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In California, a Lab for the Brady Bill, The Debate on Guns Has No Winner"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GUN CONTROL"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1993-11-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bd488eb7c8105d6ea226",
+    "word_count": 1158,
+    "slideshow_credits": null
+}

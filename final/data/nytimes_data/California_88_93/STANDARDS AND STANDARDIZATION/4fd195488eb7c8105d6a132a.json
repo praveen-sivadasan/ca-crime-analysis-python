@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/16/business/pollution-plan-in-california.html",
+    "snippet": "LEAD: The state Air Resources Board today approved, 8 to 0, a far-reaching plan to clean up air pollution in Southern California....",
+    "lead_paragraph": "LEAD: The state Air Resources Board today approved, 8 to 0, a far-reaching plan to clean up air pollution in Southern California.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pollution Plan In California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1989-08-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd195488eb7c8105d6a132a",
+    "word_count": 196,
+    "slideshow_credits": null
+}

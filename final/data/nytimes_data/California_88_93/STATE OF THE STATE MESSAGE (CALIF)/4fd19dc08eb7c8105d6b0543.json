@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/18/us/california-governor-tells-of-suffering-but-question-now-is-whose-was-it.html",
+    "snippet": "In his State of the State Message last week, did Gov. Pete Wilson invent a cast of brave California characters struggling with the recession? Even his press office did not seem to be sure today.   In a portion of the speech that he wrote, Mr. Wils...",
+    "lead_paragraph": "In his State of the State Message last week, did Gov. Pete Wilson invent a cast of brave California characters struggling with the recession? Even his press office did not seem to be sure today. In a portion of the speech that he wrote, Mr. Wilson gave a detailed account of a farm worker, a businessman and a carpenter who had impressed him with their suffering and determination. But when reporters tried to track them down, his press office said they did not exist but were composites.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Governor Tells of Suffering, But Question Now Is Whose Was It"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "STATE OF THE STATE MESSAGE (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1992-01-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19dc08eb7c8105d6b0543",
+    "word_count": 933,
+    "slideshow_credits": null
+}

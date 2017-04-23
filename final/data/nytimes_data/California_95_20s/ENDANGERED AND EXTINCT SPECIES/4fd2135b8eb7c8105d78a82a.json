@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/2000/04/04/science/observatory.html",
+    "snippet": "Butterfly's Light Show      All those Jumbotrons, Nasdaq-o-ramas and other giant TV screens in Times Square have one thing in common. They use combinations of just three colors -- blue, green and red, usually produced by light-emitting diodes -- t...",
+    "lead_paragraph": "Butterfly's Light Show All those Jumbotrons, Nasdaq-o-ramas and other giant TV screens in Times Square have one thing in common. They use combinations of just three colors -- blue, green and red, usually produced by light-emitting diodes -- to create the infinite palette that humans perceive. While it cannot display stock quotes, a male Indonesian butterfly uses much the same principle to produce the spectacular green color of its wings. It does not employ diodes, of course, but there is no pigment to speak of either. The color is the result of differing reflections of light.",
+    "abstract": "Researchers explain spectacular green colors of wings of male Indonesian butterfly; one of original group of 27 California condors that were captured in mid-1980's as part of effort to save birds from extinction will be released back to the wild; photo (M)",
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "OBSERVATORY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CONDORS"
+        },
+        {
+            "name": "subject",
+            "value": "ENDANGERED AND EXTINCT SPECIES"
+        },
+        {
+            "name": "subject",
+            "value": "BIRDS"
+        },
+        {
+            "name": "subject",
+            "value": "BUTTERFLIES AND MOTHS"
+        },
+        {
+            "name": "subject",
+            "value": "COLOR"
+        }
+    ],
+    "pub_date": "2000-04-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Henry",
+                "rank": 1,
+                "lastname": "FOUNTAIN"
+            }
+        ],
+        "original": "By HENRY FOUNTAIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2135b8eb7c8105d78a82a",
+    "word_count": 470,
+    "slideshow_credits": null
+}

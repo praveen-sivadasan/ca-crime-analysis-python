@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1989/01/29/us/california-bill-would-curb-cutting-of-redwoods.html",
+    "snippet": "LEAD: Citing accelerated cutting of redwoods by a lumber company, State Assemblyman Byron Sher says he will introduce legislation Monday to outlaw the practice of cutting down entire stands of ancient redwoods and impose civil fines of up to $50,0...",
+    "lead_paragraph": "LEAD: Citing accelerated cutting of redwoods by a lumber company, State Assemblyman Byron Sher says he will introduce legislation Monday to outlaw the practice of cutting down entire stands of ancient redwoods and impose civil fines of up to $50,000 for violations.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Bill Would Curb Cutting of Redwoods"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC LUMBER & SHIPPING CO"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "REDWOOD TREES"
+        },
+        {
+            "name": "subject",
+            "value": "TREES AND SHRUBS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1989-01-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17dad8eb7c8105d677e3d",
+    "word_count": 682,
+    "slideshow_credits": null
+}

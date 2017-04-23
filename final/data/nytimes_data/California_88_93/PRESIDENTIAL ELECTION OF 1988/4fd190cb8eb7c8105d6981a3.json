@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/10/us/the-elections-west-california-bush.html",
+    "snippet": "LEAD: With 47 electoral votes, California was the biggest prize of all on Tuesday, and both sides made a maximum effort in the closing days of the campaign. But Mr. Bush, riding the popularity of President Reagan, pulled out a close victory....",
+    "lead_paragraph": "LEAD: With 47 electoral votes, California was the biggest prize of all on Tuesday, and both sides made a maximum effort in the closing days of the campaign. But Mr. Bush, riding the popularity of President Reagan, pulled out a close victory.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA - BUSH",
+        "kicker": "THE ELECTIONS: WEST"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "MCCARTHY, LEO T"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1988-11-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd190cb8eb7c8105d6981a3",
+    "word_count": 304,
+    "slideshow_credits": null
+}

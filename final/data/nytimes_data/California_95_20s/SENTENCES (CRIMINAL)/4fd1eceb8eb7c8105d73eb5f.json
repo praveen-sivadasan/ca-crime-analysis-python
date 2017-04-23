@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/12/17/us/life-term-in-murder-case.html",
+    "snippet": "A man was sentenced to 25 years to life in prison on Friday for murdering a German tourist.         The man, Xou Yang, 20, pleaded guilty to murder and robbery in the May 16, 1994, shooting of Gisela Pfleger of Emmerich. Her husband, Klaus, was wo...",
+    "lead_paragraph": "A man was sentenced to 25 years to life in prison on Friday for murdering a German tourist. The man, Xou Yang, 20, pleaded guilty to murder and robbery in the May 16, 1994, shooting of Gisela Pfleger of Emmerich. Her husband, Klaus, was wounded in the robbery in the San Jacinto Mountains.",
+    "abstract": null,
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Life Term in Murder Case"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "YANG, XOU"
+        },
+        {
+            "name": "persons",
+            "value": "PFLEGER, GISELA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        }
+    ],
+    "pub_date": "1995-12-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1eceb8eb7c8105d73eb5f",
+    "word_count": 88,
+    "slideshow_credits": null
+}

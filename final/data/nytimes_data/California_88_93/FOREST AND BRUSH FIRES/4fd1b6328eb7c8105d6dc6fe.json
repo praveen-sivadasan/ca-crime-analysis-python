@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/20/us/california-fire-forces-thousands-to-flee-homes.html",
+    "snippet": "Thousands of people who live here in the rural Gold Rush region of Northern California were ordered by the authorities today to evacuate their homes, which are threatened by a heat-driven blaze that has already swept across more than 10,000 acres ...",
+    "lead_paragraph": "Thousands of people who live here in the rural Gold Rush region of Northern California were ordered by the authorities today to evacuate their homes, which are threatened by a heat-driven blaze that has already swept across more than 10,000 acres of rugged terrain. The evacuation will affect as many as 14,000 people who live along the Ebbetts Pass corridor, an 11-mile stretch of land accessible primarily by a two-lane highway that emergency workers want to keep clear for firefighting vehicles. The decision to evacuate the 14,000 came after about 3,000 people had already fled the area by Tuesday night.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Fire Forces Thousands to Flee Homes"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        }
+    ],
+    "pub_date": "1992-08-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b6328eb7c8105d6dc6fe",
+    "word_count": 370,
+    "slideshow_credits": null
+}

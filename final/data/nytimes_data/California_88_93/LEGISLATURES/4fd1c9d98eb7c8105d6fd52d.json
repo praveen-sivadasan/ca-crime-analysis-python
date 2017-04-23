@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/07/us/reagan-guest-stars-before-the-california-assembly.html",
+    "snippet": "In his first appearance at the Capitol since his terms as California Governor, a nostalgic Ronald Reagan today stepped lightly over the state's budget deficit and instead celebrated the California that \"encourages the dreamer in us all.\"   The 80-...",
+    "lead_paragraph": "In his first appearance at the Capitol since his terms as California Governor, a nostalgic Ronald Reagan today stepped lightly over the state's budget deficit and instead celebrated the California that \"encourages the dreamer in us all.\" The 80-year-old former President addressed a rare joint session of the state Legislature, at the invitation of the Democratic leadership of the Assembly, and used the occasion to tell self-deprecating jokes, campaign for the gun-control bill that is before Congress and commiserate without offering advice about the state's $12.6 billion budget deficit.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Reagan Guest Stars Before the California Assembly"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REAGAN, RONALD WILSON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1991-05-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c9d98eb7c8105d6fd52d",
+    "word_count": 546,
+    "slideshow_credits": null
+}

@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1998/12/19/us/38-vehicles-in-fatal-california-crash.html",
+    "snippet": "Photo of a paramedic treating victim of fiery, 38-vehicle crash on fog-shrouded Interstate 5 north of Sacramento; one person dies, and 10 people are injured...",
+    "lead_paragraph": null,
+    "abstract": "Photo of a paramedic treating victim of fiery, 38-vehicle crash on fog-shrouded Interstate 5 north of Sacramento; one person dies, and 10 people are injured",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "38 Vehicles in Fatal California Crash"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FOG"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1998-12-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd20c238eb7c8105d77b192",
+    "word_count": 0,
+    "slideshow_credits": null
+}

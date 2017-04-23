@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/22/us/manson-is-denied-parole.html",
+    "snippet": "Charles Manson, mastermind of one of the nation's most infamous mass murders, was denied parole today for the eighth time. The decision by the three-member board was unanimous. Mr. Manson, 57 years old, is permitted to seek parole every three year...",
+    "lead_paragraph": "Charles Manson, mastermind of one of the nation's most infamous mass murders, was denied parole today for the eighth time. The decision by the three-member board was unanimous. Mr. Manson, 57 years old, is permitted to seek parole every three years.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Manson Is Denied Parole"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MANSON, CHARLES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "MASS MURDERS"
+        }
+    ],
+    "pub_date": "1992-04-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ced38eb7c8105d706d21",
+    "word_count": 41,
+    "slideshow_credits": null
+}

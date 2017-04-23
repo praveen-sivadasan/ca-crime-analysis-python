@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/18/us/earthquake-in-northern-california-rumbling-near-sunset-dashes-vision-of-baseball.html",
+    "snippet": "LEAD: At 5:03 P.M. yesterday, Candlestick Park was filled with the light of the setting sun. The only rumble was from the 58,000 fans watching the San Francisco Giants and the Oakland Athletics warming up for the third game of the World Series....",
+    "lead_paragraph": "LEAD: At 5:03 P.M. yesterday, Candlestick Park was filled with the light of the setting sun. The only rumble was from the 58,000 fans watching the San Francisco Giants and the Oakland Athletics warming up for the third game of the World Series.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rumbling Near Sunset Dashes Vision of Baseball",
+        "kicker": "EARTHQUAKE IN NORTHERN CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CANDLESTICK PARK (SAN FRANCISCO)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "OAKLAND ATHLETICS"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN FRANCISCO GIANTS"
+        },
+        {
+            "name": "subject",
+            "value": "BASEBALL"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1aa3f8eb7c8105d6c7ad6",
+    "word_count": 757,
+    "slideshow_credits": null
+}

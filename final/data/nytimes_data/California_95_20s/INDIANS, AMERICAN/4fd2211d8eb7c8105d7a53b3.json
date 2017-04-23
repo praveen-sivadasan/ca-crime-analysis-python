@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/2000/04/06/nyregion/c-corrections-646164.html",
+    "snippet": "An article yesterday about the number of black, Hispanic and American Indian students accepted at the University of California, three years after the end of affirmative action there, referred imprecisely to the figures cited. They were for admissi...",
+    "lead_paragraph": "An article yesterday about the number of black, Hispanic and American Indian students accepted at the University of California, three years after the end of affirmative action there, referred imprecisely to the figures cited. They were for admission, not enrollment.",
+    "abstract": "Correction of Apr 5 article on number of black, Hispanic and American Indian students accepted at University of California, three years after the end of affirmative action there; figres cited were for admission, not enrollment",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "INDIANS, AMERICAN"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        }
+    ],
+    "pub_date": "2000-04-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Education; Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd2211d8eb7c8105d7a53b3",
+    "word_count": 40,
+    "slideshow_credits": null
+}

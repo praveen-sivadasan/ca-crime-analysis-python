@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/21/us/cal-state-chancellor-quits-in-dispute-over-raises.html",
+    "snippet": "LEAD: The head of the 20-campus California State University system abruptly submitted her resignation today after a dispute with the system's trustees over raises she had given herself and other top executives....",
+    "lead_paragraph": "LEAD: The head of the 20-campus California State University system abruptly submitted her resignation today after a dispute with the system's trustees over raises she had given herself and other top executives.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cal State Chancellor Quits in Dispute Over Raises"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REYNOLDS, ANN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA STATE UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "WAGES AND SALARIES"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        }
+    ],
+    "pub_date": "1990-04-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aef78eb7c8105d6cecd9",
+    "word_count": 501,
+    "slideshow_credits": null
+}

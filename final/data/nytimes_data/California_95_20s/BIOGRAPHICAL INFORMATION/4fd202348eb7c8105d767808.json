@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1999/11/17/us/democrats-retain-seat.html",
+    "snippet": "A Democratic state senator, Joe Baca, defeated a Republican businessman today in an election to replace the late Representative George E. Brown Jr., a Democratic lawmaker who died in July....",
+    "lead_paragraph": "A Democratic state senator, Joe Baca, defeated a Republican businessman today in an election to replace the late Representative George E. Brown Jr., a Democratic lawmaker who died in July.",
+    "abstract": "Democratic state senator Joe Baca defeats Elia Pirozzi, Republican businessman, in election in California to replace state Repr George E Brown Jr, Democratic lawmaker who died in July (S)",
+    "print_page": "22",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Democrats Retain Seat"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, GEORGE E JR"
+        },
+        {
+            "name": "persons",
+            "value": "BACA, JOE"
+        },
+        {
+            "name": "persons",
+            "value": "PIROZZI, ELIA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1999-11-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd202348eb7c8105d767808",
+    "word_count": 56,
+    "slideshow_credits": null
+}

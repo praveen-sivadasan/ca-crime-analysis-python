@@ -1,0 +1,96 @@
+{
+    "web_url": "https://www.nytimes.com/1995/04/21/business/court-awards-83-million-to-600-investors.html",
+    "snippet": "A California state court has awarded more than $83 million in damages to 600 investors in a series of collapsed real estate investments.   The case involved four limited partnership funds, meant to invest in real estate, that promised investors an...",
+    "lead_paragraph": "A California state court has awarded more than $83 million in damages to 600 investors in a series of collapsed real estate investments. The case involved four limited partnership funds, meant to invest in real estate, that promised investors an annual return of 15 percent. Between 1989 and 1992, $89 million was invested in the funds by 4,200 people, most of them retirees in Southern California.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Court Awards $83 Million to 600 Investors"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ROUNTREE, CHARLES"
+        },
+        {
+            "name": "persons",
+            "value": "CHRISTENSEN, MARVIN"
+        },
+        {
+            "name": "persons",
+            "value": "DICKERSON, RICHARD"
+        },
+        {
+            "name": "persons",
+            "value": "COLTON, DAVID A"
+        },
+        {
+            "name": "persons",
+            "value": "DORN, LAWRENCE V 3D"
+        },
+        {
+            "name": "persons",
+            "value": "MCDONALD, WILLIAM F"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HILL WILLIAMS DEVELOPMENT CORP"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "PARTNERSHIPS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "REAL ESTATE"
+        },
+        {
+            "name": "subject",
+            "value": "REAL ESTATE INVESTMENT TRUSTS (REIT)"
+        },
+        {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1995-04-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Saul",
+                "rank": 1,
+                "lastname": "HANSELL"
+            }
+        ],
+        "original": "By SAUL HANSELL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ef108eb7c8105d7431e6",
+    "word_count": 331,
+    "slideshow_credits": null
+}

@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1999/05/05/us/vietnam-veteran-executed-for-1980-murder.html",
+    "snippet": "Despite pleas for clemency from fellow Vietnam veterans, Manuel Pina Babbitt was executed early this morning at San Quentin prison for the 1980 murder of a 78-year-old woman.    Last Friday, Gov. Gray Davis, also a Vietnam veteran, denied Mr. Babb...",
+    "lead_paragraph": "Despite pleas for clemency from fellow Vietnam veterans, Manuel Pina Babbitt was executed early this morning at San Quentin prison for the 1980 murder of a 78-year-old woman. Last Friday, Gov. Gray Davis, also a Vietnam veteran, denied Mr. Babbitt's bid for clemency, despite pleas for mercy from thousands of veterans who believed that Mr. Babbitt's experiences during two tours of duty in the war, particularly during the 77-day siege at Khe Sanh, were at least partly responsible for his crime. He was awarded a Purple Heart while on death row.",
+    "abstract": "Manuel Pina Babbitt is executed at San Quentin for 1980 murder of 78-year-old Leah Schendel; clemency pleas from thousands of other Vietnam veterans are rejected by Gov Gray Davis, who served in Vietnam himself (S)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Vietnam Veteran Executed for 1980 Murder"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "persons",
+            "value": "SCHENDEL, LEAH"
+        },
+        {
+            "name": "persons",
+            "value": "BABBITT, MANNY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "VIETNAM WAR"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1999-05-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Evelyn",
+                "rank": 1,
+                "lastname": "NIEVES"
+            }
+        ],
+        "original": "By EVELYN NIEVES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fbe18eb7c8105d75aafe",
+    "word_count": 485,
+    "slideshow_credits": null
+}

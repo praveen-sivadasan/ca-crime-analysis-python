@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/1998/02/10/us/california-recovers-in-lull-between-storms.html",
+    "snippet": "Brilliant blue skies gave Californians a chance to dry out today, offering a respite from Pacific storms that have battered the coast like artillery barrages.    So far, the toll from a week of storms stands at 7 dead in California and 13 dead in ...",
+    "lead_paragraph": "Brilliant blue skies gave Californians a chance to dry out today, offering a respite from Pacific storms that have battered the coast like artillery barrages. So far, the toll from a week of storms stands at 7 dead in California and 13 dead in and around Tijuana, Mexico. From Northern California to Baja California, Mexico, about 2,000 buildings have been damaged or destroyed, and thousands of families have been evacuated to shelters.",
+    "abstract": "California enjoys respite from Pacific storms that have battered coast for days, leaving seven dead and about 2,000 buildings damaged or destroyed; forecasters expect new storm to hit coast on February 10; photo; map (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Recovers in Lull Between Storms"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        }
+    ],
+    "pub_date": "1998-02-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "BROOKE"
+            }
+        ],
+        "original": "By JAMES BROOKE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e57b8eb7c8105d730b79",
+    "word_count": 774,
+    "slideshow_credits": null
+}

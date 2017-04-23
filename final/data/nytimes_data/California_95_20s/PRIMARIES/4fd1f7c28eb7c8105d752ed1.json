@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1998/01/15/us/widow-to-face-gop-maverick-in-house-runoff.html",
+    "snippet": "In a blow to national Republican leaders, State Assemblyman Tom J. Bordonaro, a conservative maverick, edged the chosen candidate of his party's establishment in a special Congressional primary on Tuesday and will face the widow of Representative ...",
+    "lead_paragraph": "In a blow to national Republican leaders, State Assemblyman Tom J. Bordonaro, a conservative maverick, edged the chosen candidate of his party's establishment in a special Congressional primary on Tuesday and will face the widow of Representative Walter Capps in a runoff to fill the seat left vacant by Mr. Capps's death. The contest, the first Congressional election of 1998, has drawn national interest and independent spending by outside groups as a bellwether in the battle to control Congress.",
+    "abstract": "Assemblyman Tom J Bordonaro, conservative Republican maverick, wins runoff slot in special primary for Congressional seat from California left vacant by death of Rep Walter Capps; defeats Assemblyman Brooks Firestone, who was recruited by national Republican leaders to seek seat; will face Capps' widow, Lois Capps, Democrat, who won most votes in primary (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Widow to Face G.O.P. Maverick in House Runoff"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BORDONARO, TOM J"
+        },
+        {
+            "name": "persons",
+            "value": "CAPPS, WALTER"
+        },
+        {
+            "name": "persons",
+            "value": "CAPPS, LOIS"
+        },
+        {
+            "name": "persons",
+            "value": "FIRESTONE, BROOKS"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1998-01-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f7c28eb7c8105d752ed1",
+    "word_count": 483,
+    "slideshow_credits": null
+}

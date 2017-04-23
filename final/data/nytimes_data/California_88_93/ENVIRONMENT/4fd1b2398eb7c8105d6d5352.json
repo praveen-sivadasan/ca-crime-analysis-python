@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/12/us/drive-mounted-for-environment-vote.html",
+    "snippet": "LEAD: Amid signs that a far-reaching environmental measure on the California ballot is faltering, three national leaders of the environmental movement declared today that the state faced an environmental crisis. They announced the start of a door-...",
+    "lead_paragraph": "LEAD: Amid signs that a far-reaching environmental measure on the California ballot is faltering, three national leaders of the environmental movement declared today that the state faced an environmental crisis. They announced the start of a door-to-door drive for the measure.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Drive Mounted for Environment Vote"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b2398eb7c8105d6d5352",
+    "word_count": 1006,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/06/business/the-media-business-advertising-addenda-goodby-berlin-loses-honda-dealers-group.html",
+    "snippet": "The Northern California Honda Dealers Ad Association is looking for another advertising agency with Honda experience to replace the incumbent, Goodby, Berlin & Silverstein, San Francisco, on its $5 million to $6 million account.    The search bega...",
+    "lead_paragraph": "The Northern California Honda Dealers Ad Association is looking for another advertising agency with Honda experience to replace the incumbent, Goodby, Berlin & Silverstein, San Francisco, on its $5 million to $6 million account. The search began when Goodby, Berlin became a finalist in a review for the $90 million American Isuzu Motors account, said Jim McDonald, the association's head. Now that the agency has won the Isuzu account, he added, the association wants a new agency to \"be up and running\" in a matter of weeks.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Goodby, Berlin Loses Honda Dealers' Group",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN ISUZU MOTORS INC"
+        },
+        {
+            "name": "organizations",
+            "value": "HONDA MOTOR CO"
+        },
+        {
+            "name": "organizations",
+            "value": "GOODBY BERLIN & SILVERSTEIN INC"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "RETAIL STORES AND TRADE"
+        }
+    ],
+    "pub_date": "1991-09-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Stuart",
+                "rank": 1,
+                "lastname": "Elliott"
+            }
+        ],
+        "original": "By Stuart Elliott"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19c428eb7c8105d6ad8de",
+    "word_count": 117,
+    "slideshow_credits": null
+}

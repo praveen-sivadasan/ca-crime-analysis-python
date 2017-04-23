@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/26/opinion/california-makes-college-an-entitlement.html",
+    "snippet": "California's legislature has created a new educational entitlement: lots of kids will be going to college free of charge. Sound good? It isn't. It's likely to harm the great public universities of the state, as well as undermine California's drive...",
+    "lead_paragraph": "California's legislature has created a new educational entitlement: lots of kids will be going to college free of charge. Sound good? It isn't. It's likely to harm the great public universities of the state, as well as undermine California's drive for standards in elementary and secondary education. And it won't address the real problem: the inadequate academic preparation of too many high school graduates, particularly those from low-income families. Here's how the program works. Students who maintain a B average in high school are guaranteed a grant (called a Cal Grant) sufficient to cover the costs of attending a state college or university. Even those who plan to go to private institutions like Stanford University will receive impressive help in the form of vouchers worth up to $9,708 a year. Children of the rich won't qualify, but students don't have to be poor. The annual income ceiling for a family of four is $64,100; for a family of six, it's $74,100.",
+    "abstract": "Abigail Thernstrom Op-Ed article says creation of new educational entitlement by California Legislature is likely to harm state's great public universities, as well as state's drive for standards in elementary and secondary education; says move has failed to address real problem, namely, inadequate academic preparation of too many high school graduates, particularly those from low-income families (M)",
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Makes College an Entitlement"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EQUAL EDUCATIONAL OPPORTUNITIES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "TUITION"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        }
+    ],
+    "pub_date": "2000-09-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Abigail",
+                "rank": 1,
+                "lastname": "Thernstrom"
+            }
+        ],
+        "original": "By Abigail Thernstrom"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd21a1f8eb7c8105d798654",
+    "word_count": 722,
+    "slideshow_credits": null
+}

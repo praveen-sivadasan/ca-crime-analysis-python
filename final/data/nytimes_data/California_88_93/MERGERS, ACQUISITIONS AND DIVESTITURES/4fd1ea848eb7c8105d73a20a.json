@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/03/business/business-technology-pactel-wins-approval-to-sell-wireless-unit.html",
+    "snippet": "The Pacific Telesis Group cleared a major regulatory hurdle today when California regulators approved a much-awaited plan for the regional Bell company to spin off its wireless communications operations from its core local telephone business.   Th...",
+    "lead_paragraph": "The Pacific Telesis Group cleared a major regulatory hurdle today when California regulators approved a much-awaited plan for the regional Bell company to spin off its wireless communications operations from its core local telephone business. The decision by the California Public Utilities Commission is a victory for Pacific Telesis because it will allow the company to pursue an initial public offering for the new wireless company in December.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pactel Wins Approval To Sell Wireless Unit",
+        "kicker": "BUSINESS TECHNOLOGY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC TELESIS GROUP"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1993-11-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Calvin",
+                "rank": 1,
+                "lastname": "SIMS"
+            }
+        ],
+        "original": "By CALVIN SIMS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ea848eb7c8105d73a20a",
+    "word_count": 575,
+    "slideshow_credits": null
+}

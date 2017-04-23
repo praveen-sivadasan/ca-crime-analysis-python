@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1988/01/09/business/company-news-gm-job-cuts-may-be-eased.html",
+    "snippet": "LEAD: Slow sales of Pontiac Firebirds and Chevrolet Camaros have prompted the General Motors Corporation to elminate 1,900 jobs at a California assembly plant, but a new plan may save workers from permanent layoff, the nation's largest auto maker ...",
+    "lead_paragraph": "LEAD: Slow sales of Pontiac Firebirds and Chevrolet Camaros have prompted the General Motors Corporation to elminate 1,900 jobs at a California assembly plant, but a new plan may save workers from permanent layoff, the nation's largest auto maker said today.",
+    "abstract": null,
+    "print_page": "48",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "G.M. Job Cuts May Be Eased",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS (LABOR)"
+        }
+    ],
+    "pub_date": "1988-01-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "Reuters",
+        "organization": "Reuters"
+    },
+    "type_of_material": "News",
+    "_id": "52b8581538f0d8094087c379",
+    "word_count": "210",
+    "slideshow_credits": null
+}

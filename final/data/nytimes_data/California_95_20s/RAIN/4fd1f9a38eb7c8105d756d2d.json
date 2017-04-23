@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/15/us/lawmakers-will-convene-on-flood-relief.html",
+    "snippet": "Gov. Pete Wilson today summoned the State Legislature to convene in special session on Thursday to deal with problems caused by nearly two weeks of storms that finally seemed to be easing today.   Most warnings of floods and mudslides were lifted ...",
+    "lead_paragraph": "Gov. Pete Wilson today summoned the State Legislature to convene in special session on Thursday to deal with problems caused by nearly two weeks of storms that finally seemed to be easing today. Most warnings of floods and mudslides were lifted throughout the state today, but scattered rain kept residents and officials jittery.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Lawmakers Will Convene On Flood Relief"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-01-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f9a38eb7c8105d756d2d",
+    "word_count": 302,
+    "slideshow_credits": null
+}

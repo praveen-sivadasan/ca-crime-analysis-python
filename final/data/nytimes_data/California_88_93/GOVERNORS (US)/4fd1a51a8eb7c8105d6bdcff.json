@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/21/us/the-1990-election-no-clear-leader-in-california-race.html",
+    "snippet": "LEAD: They have dueled over limits on how long elected state officials may serve, crime and punishment, growth and environment, as well as taxation and spending. But the race between Pete Wilson and Dianne Feinstein for governor of California stan...",
+    "lead_paragraph": "LEAD: They have dueled over limits on how long elected state officials may serve, crime and punishment, growth and environment, as well as taxation and spending. But the race between Pete Wilson and Dianne Feinstein for governor of California stands just about where it started more than four months ago: deadlocked.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "NO CLEAR LEADER IN CALIFORNIA RACE",
+        "kicker": "THE 1990 ELECTION"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-10-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a51a8eb7c8105d6bdcff",
+    "word_count": 1413,
+    "slideshow_credits": null
+}

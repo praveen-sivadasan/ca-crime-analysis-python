@@ -1,0 +1,78 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/09/business/acquisition-of-lincoln-s-branches-set.html",
+    "snippet": "The story of the troubled Lincoln Savings and Loan Association moved one step closer to completion today when the Great Western Financial Corporation said it had agreed to acquire Lincoln's 28 branches from the Federal Government.    Great Western...",
+    "lead_paragraph": "The story of the troubled Lincoln Savings and Loan Association moved one step closer to completion today when the Great Western Financial Corporation said it had agreed to acquire Lincoln's 28 branches from the Federal Government. Great Western said it would pay $12.1 million for the branches, all in Southern California, and their $1 billion in deposits. The price was at the low end of what savings institutions have been paying to acquire branches and deposits. Great Western, based in Beverly Hills, Calif., is the nation's second-largest savings and loan company.",
+    "abstract": null,
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Acquisition Of Lincoln's Branches Set"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FIDEL, RAY C"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LINCOLN SAVINGS & LOAN ASSN"
+        },
+        {
+            "name": "organizations",
+            "value": "GREAT WESTERN FINANCIAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1991-03-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9158eb7c8105d6c5482",
+    "word_count": 446,
+    "slideshow_credits": null
+}

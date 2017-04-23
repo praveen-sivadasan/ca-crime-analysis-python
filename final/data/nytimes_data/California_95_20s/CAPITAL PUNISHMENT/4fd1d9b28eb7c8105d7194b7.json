@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1996/02/29/opinion/l-death-penalty-justice-078131.html",
+    "snippet": "To the Editor:         In his Feb. 27 letter lamenting California's execution of William G. Bonin, the so-called Freeway Killer, the Rev. Matthew R. Regan states that the execution is \"like the crimes of Mr. Bonin.\" Mr. Bonin didn't give his victi...",
+    "lead_paragraph": "To the Editor: In his Feb. 27 letter lamenting California's execution of William G. Bonin, the so-called Freeway Killer, the Rev. Matthew R. Regan states that the execution is \"like the crimes of Mr. Bonin.\" Mr. Bonin didn't give his victims a trial by their peers or multiple appeals before summarily killing them; his execution is in no way comparable. And had he been discovered, tried and executed upon his first murder, he could not have killed again.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Death Penalty Justice"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BONIN, WILLIAM G"
+        },
+        {
+            "name": "persons",
+            "value": "REGAN, MATTHEW R"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1996-02-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd1d9b28eb7c8105d7194b7",
+    "word_count": 84,
+    "slideshow_credits": null
+}

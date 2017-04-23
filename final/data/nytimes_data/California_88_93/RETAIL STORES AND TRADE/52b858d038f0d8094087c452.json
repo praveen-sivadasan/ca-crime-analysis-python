@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/01/business/company-news-ftc-tentatively-backs-lucky-pact.html",
+    "snippet": "LEAD: The Federal Trade Commission has tentatively accepted an agreement for the American Stores Company to acquire Lucky Stores Inc., but it said that American must sell up to 37 of its California stores. Under the proposed deal, American agreed ...",
+    "lead_paragraph": "LEAD: The Federal Trade Commission has tentatively accepted an agreement for the American Stores Company to acquire Lucky Stores Inc., but it said that American must sell up to 37 of its California stores. Under the proposed deal, American agreed to give up at least 31, and possibly as many as 37, California stores.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "F.T.C. Tentatively Backs Lucky Pact",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL TRADE COMMISSION"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN STORES INC"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "RETAIL STORES AND TRADE"
+        }
+    ],
+    "pub_date": "1988-06-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "Reuters",
+        "organization": "Reuters"
+    },
+    "type_of_material": "News",
+    "_id": "52b858d038f0d8094087c452",
+    "word_count": "166",
+    "slideshow_credits": null
+}

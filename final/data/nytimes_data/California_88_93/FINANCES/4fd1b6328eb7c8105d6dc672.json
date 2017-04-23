@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/06/us/in-budgetless-california-a-sense-of-business-as-usual.html",
+    "snippet": "On California's 36th day without a state budget, negotiations here are moving sluggishly, lawmakers are cranky, Gov. Pete Wilson's face is etched with strain and state workers are scrambling to cash the i.o.u.'s they are getting instead of paychec...",
+    "lead_paragraph": "On California's 36th day without a state budget, negotiations here are moving sluggishly, lawmakers are cranky, Gov. Pete Wilson's face is etched with strain and state workers are scrambling to cash the i.o.u.'s they are getting instead of paychecks. Today the Bank of America, the state's largest bank, stopped offering cash to its customers in exchange for the i.o.u.'s and several other banks are expected to follow suit at week's end.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In Budgetless California, a Sense of Business as Usual"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BANK OF AMERICA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT EMPLOYEES"
+        }
+    ],
+    "pub_date": "1992-08-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b6328eb7c8105d6dc672",
+    "word_count": 1258,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/16/us/2-girls-found-slain-bringing-to-7-the-toll-laid-to-winery-worker.html",
+    "snippet": "LEAD: Law-enforcement officers searching for a winery worker accused of killing his wife and four other people found the bodies of two of his daughters today....",
+    "lead_paragraph": "LEAD: Law-enforcement officers searching for a winery worker accused of killing his wife and four other people found the bodies of two of his daughters today.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "2 Girls Found Slain, Bringing to 7 the Toll Laid to Winery Worker"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SALCIDO, RAMON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        }
+    ],
+    "pub_date": "1989-04-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd194fa8eb7c8105d6a0751",
+    "word_count": 417,
+    "slideshow_credits": null
+}

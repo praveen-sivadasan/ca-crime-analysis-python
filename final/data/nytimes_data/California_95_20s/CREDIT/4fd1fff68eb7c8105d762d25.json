@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1995/05/02/business/company-news-pacific-telesis-and-pacific-bell-ratings-reviewed.html",
+    "snippet": "The Standard & Poor's Corporation said that it might cut its ratings outlook on about $5.1 billion of debt at Pacific Telesis Group and its Pacific Bell unit. The rating agency said yesterday that the review followed a decision by the California P...",
+    "lead_paragraph": "The Standard & Poor's Corporation said that it might cut its ratings outlook on about $5.1 billion of debt at Pacific Telesis Group and its Pacific Bell unit. The rating agency said yesterday that the review followed a decision by the California Public Utilities Commission that accelerates local phone competition in California. Pacific Telesis provides telecommunications services in California. Under the commission's decision, long-distance and cable-television companies can enter California's $4 billion local telephone market and compete against Pacific Bell.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "PACIFIC TELESIS AND PACIFIC BELL RATINGS REVIEWED",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC TELESIS GROUP"
+        },
+        {
+            "name": "organizations",
+            "value": "STANDARD & POOR'S CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "RATINGS AND RATING SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1995-05-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1fff68eb7c8105d762d25",
+    "word_count": 82,
+    "slideshow_credits": null
+}

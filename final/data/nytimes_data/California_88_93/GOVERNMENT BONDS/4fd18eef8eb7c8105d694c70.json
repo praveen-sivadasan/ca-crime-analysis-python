@@ -1,0 +1,34 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/03/business/finance-new-issues-california-bond-rate-higher-in-response-to-tax-rules.html",
+    "snippet": "LEAD: California's first issue of tax-exempt bonds with interest subject to the Federal alternative minimum income tax resulted in interest rates that were about half a percentage point higher than is traditional for the state's bonds, which are c...",
+    "lead_paragraph": "LEAD: California's first issue of tax-exempt bonds with interest subject to the Federal alternative minimum income tax resulted in interest rates that were about half a percentage point higher than is traditional for the state's bonds, which are completely exempt from Federal income tax.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Bond Rate Higher In Response to Tax Rules",
+        "kicker": "FINANCE/NEW ISSUES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1988-02-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd18eef8eb7c8105d694c70",
+    "word_count": 327,
+    "slideshow_credits": null
+}

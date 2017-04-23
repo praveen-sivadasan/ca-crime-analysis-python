@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/18/garden/wine-talk-715490.html",
+    "snippet": "LEAD: ARE you into ''fighting varietals''? This may sound like the name of a high-wire act or the nickname of a basketball team, but it actually describes a group of wines. Needless to say, they are American wines: where else in the world would wi...",
+    "lead_paragraph": "LEAD: ARE you into ''fighting varietals''? This may sound like the name of a high-wire act or the nickname of a basketball team, but it actually describes a group of wines. Needless to say, they are American wines: where else in the world would wines be described so pugnaciously?",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        }
+    ],
+    "pub_date": "1990-04-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd193408eb7c8105d69ce3a",
+    "word_count": 1152,
+    "slideshow_credits": null
+}

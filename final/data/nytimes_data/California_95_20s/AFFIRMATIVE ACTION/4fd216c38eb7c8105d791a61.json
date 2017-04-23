@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1998/03/13/us/national-news-briefs-california-formally-ends-contract-preferences.html",
+    "snippet": "Gov. Pete Wilson has formally terminated enforcement of a California law giving preferences in state contracting to businesses  owned by minorities and women.    Mr. Wilson, a Republican, had led the campaign to end affirmative action programs but...",
+    "lead_paragraph": "Gov. Pete Wilson has formally terminated enforcement of a California law giving preferences in state contracting to businesses owned by minorities and women. Mr. Wilson, a Republican, had led the campaign to end affirmative action programs but said he could not end them until an appellate court ruled them unconstitutional.",
+    "abstract": "Gov Pete Wilson formlaly terminates enforcement of California law giving preferences in state contracting to businesses owned by women and minorities (S)",
+    "print_page": "17",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; California Formally Ends Contract Preferences"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        }
+    ],
+    "pub_date": "1998-03-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd216c38eb7c8105d791a61",
+    "word_count": 86,
+    "slideshow_credits": null
+}

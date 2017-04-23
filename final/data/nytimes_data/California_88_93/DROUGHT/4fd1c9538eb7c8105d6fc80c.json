@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/09/business/cracks-in-california-s-economy.html",
+    "snippet": "The Gaylord Container Corporation is shutting two-thirds of its paper mill in Antioch, Calif., dismissing 330 of the 525 employees. The mill is no longer economically competitive, in part because of California's dire water shortage.   \"You cannot ...",
+    "lead_paragraph": "The Gaylord Container Corporation is shutting two-thirds of its paper mill in Antioch, Calif., dismissing 330 of the 525 employees. The mill is no longer economically competitive, in part because of California's dire water shortage. \"You cannot produce paper without water,\" said Walt E. Murray, a manager at the plant across the bay from San Francisco. \"Water itself is one of the highest-cost raw-material items. You go to the East Coast and that's not the case.\"",
+    "abstract": null,
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cracks in California's Economy"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1991-02-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANDREW POLLACK, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c9538eb7c8105d6fc80c",
+    "word_count": 1738,
+    "slideshow_credits": null
+}

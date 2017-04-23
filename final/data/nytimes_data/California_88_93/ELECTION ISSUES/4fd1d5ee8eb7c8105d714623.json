@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/29/business/business-and-health-competing-plans-for-californians.html",
+    "snippet": "CALIFORNIA, hit hard by a recession compounded by military cutbacks and permanently lost jobs in electronics, is giving special attention to health care policy and political issues. At least six million Californians do not have health insurance. W...",
+    "lead_paragraph": "CALIFORNIA, hit hard by a recession compounded by military cutbacks and permanently lost jobs in electronics, is giving special attention to health care policy and political issues. At least six million Californians do not have health insurance. With 9.8 percent unemployment, even more people are in danger of losing coverage. This week Gov. Pete Wilson is expected to sign a measure that would make it harder for insurers to raise premiums steeply for small businesses when an employee becomes seriously ill.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Business and Health; Competing Plans For Californians"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "BUSINESS AND HEALTH (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "GARAMENDI, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA MEDICAL ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1992-09-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Health; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Milt",
+                "rank": 1,
+                "lastname": "Freudenheim"
+            }
+        ],
+        "original": "By Milt Freudenheim"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d5ee8eb7c8105d714623",
+    "word_count": 803,
+    "slideshow_credits": null
+}

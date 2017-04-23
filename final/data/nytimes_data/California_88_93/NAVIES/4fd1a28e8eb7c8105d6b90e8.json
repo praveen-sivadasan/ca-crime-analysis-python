@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/15/us/navy-sub-sinks-a-tug-a-crewman-is-missing.html",
+    "snippet": "LEAD: A nuclear-powered submarine sailing underwater hit a tug cable today, sinking the tug and apparently drowning a tug crew member, naval officials said....",
+    "lead_paragraph": "LEAD: A nuclear-powered submarine sailing underwater hit a tug cable today, sinking the tug and apparently drowning a tug crew member, naval officials said.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Navy Sub Sinks a Tug; A Crewman Is Missing"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "SHIPS AND SHIPPING"
+        },
+        {
+            "name": "subject",
+            "value": "NAVIES"
+        },
+        {
+            "name": "subject",
+            "value": "TUGBOATS"
+        },
+        {
+            "name": "subject",
+            "value": "SUBMARINES"
+        }
+    ],
+    "pub_date": "1989-06-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "Reuters",
+        "organization": "Reuters"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a28e8eb7c8105d6b90e8",
+    "word_count": "155",
+    "slideshow_credits": null
+}

@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1997/07/16/garden/wine-talk-142018.html",
+    "snippet": "NIEBAUM-COPPOLA, the director Francis Ford Coppola's winery in the Napa Valley, has just released two new wines, a red and a white called simply Rosso and Bianco. In the material accompanying two samples, Mr. Coppola himself harks back to the simp...",
+    "lead_paragraph": "NIEBAUM-COPPOLA, the director Francis Ford Coppola's winery in the Napa Valley, has just released two new wines, a red and a white called simply Rosso and Bianco. In the material accompanying two samples, Mr. Coppola himself harks back to the simpler times that inspired them. ''When I was a child,'' he says, taking a deep breath, ''the happiest times for me were those holidays such as Thanksgiving and Christmas and all those occasions -- birthdays, anniversaries or just basic family get-togethers when all my uncles, aunts and cousins came to the home and there was laughter and plenty of kids and the people were united around the table with these extraordinary Italian dishes and wines.''",
+    "abstract": "Frank Prial on wealth of fine California wines in $10 to $15 price range (Wine Talk); photo (M)",
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk",
+        "kicker": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        }
+    ],
+    "pub_date": "1997-07-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1de548eb7c8105d721e20",
+    "word_count": 1057,
+    "slideshow_credits": null
+}

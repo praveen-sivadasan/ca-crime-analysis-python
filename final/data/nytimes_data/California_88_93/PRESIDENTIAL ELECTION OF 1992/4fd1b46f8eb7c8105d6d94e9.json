@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/24/us/the-1992-campaign-california-for-bush-california-seems-a-lost-cause.html",
+    "snippet": "Republicans have all but given up on winning California for President Bush, essentially writing off the largest electoral prize of all to Gov. Bill Clinton.   Although Mr. Bush carried California in 1988, he has never played particularly well on t...",
+    "lead_paragraph": "Republicans have all but given up on winning California for President Bush, essentially writing off the largest electoral prize of all to Gov. Bill Clinton. Although Mr. Bush carried California in 1988, he has never played particularly well on the West Coast, and his standing has sunk to historic lows in this state, where, on his watch, the economy has turned from the nation's most vibrant to a basket case. In addition, Republican messages on abortion and \"family values\" have alienated many voters.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: California; For Bush, California Seems a Lost Cause"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "PEROT, ROSS"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-09-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b46f8eb7c8105d6d94e9",
+    "word_count": 1216,
+    "slideshow_credits": null
+}

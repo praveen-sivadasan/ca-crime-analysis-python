@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/12/us/gay-protesters-march-on-california-capitol-to-protest-veto.html",
+    "snippet": null,
+    "lead_paragraph": null,
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Gay Protesters March on California Capitol to Protest Veto"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1991-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd1a5e88eb7c8105d6bf841",
+    "word_count": 0,
+    "slideshow_credits": null
+}

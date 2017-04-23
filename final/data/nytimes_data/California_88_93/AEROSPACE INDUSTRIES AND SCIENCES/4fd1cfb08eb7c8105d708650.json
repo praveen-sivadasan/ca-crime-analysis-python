@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/02/business/making-a-difference-going-to-bat-for-aerospace.html",
+    "snippet": "As the owner of a small military subcontractor scrambling to win new business at a time of declining Pentagon spending, Ronald L. Cedillos is angry about how California's elected officials are responding to the challenges facing the state's huge a...",
+    "lead_paragraph": "As the owner of a small military subcontractor scrambling to win new business at a time of declining Pentagon spending, Ronald L. Cedillos is angry about how California's elected officials are responding to the challenges facing the state's huge aerospace industry. Last week, Mr. Cedillos, who runs the Cedillos Testing Company of Long Beach, took a big step in organizing what he thinks could be a blistering political response. Mr. Cedillos, a major contributor to the Republican Party, helped set up a meeting between Gov. Pete Wilson, a Republican, and the heads of most of the state's major contractors, including Kent Kresa of Northrop and Daniel M. Tellep of Lockheed.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Making a Difference; Going to Bat For Aerospace"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CEDILLOS, RONALD L"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CEDILLOS TESTING CO"
+        },
+        {
+            "name": "subject",
+            "value": "AEROSPACE INDUSTRIES AND SCIENCES"
+        }
+    ],
+    "pub_date": "1991-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cfb08eb7c8105d708650",
+    "word_count": 272,
+    "slideshow_credits": null
+}

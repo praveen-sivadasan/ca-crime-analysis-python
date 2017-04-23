@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/29/us/the-1992-campaign-poll-perot-makes-strong-showing-in-survey-of-california-voters.html",
+    "snippet": "Although only about half of California voters know enough about him to express an opinion, Ross Perot would run neck-and-neck with President Bush here and slightly ahead of Gov. Bill Clinton of Arkansas if the election were held now, according to ...",
+    "lead_paragraph": "Although only about half of California voters know enough about him to express an opinion, Ross Perot would run neck-and-neck with President Bush here and slightly ahead of Gov. Bill Clinton of Arkansas if the election were held now, according to a Los Angeles Times poll published today. The latest in a series of recent public-opinion polls showing strong support for the Texas billionaire, the survey linked his popularity to widespread dissatisfaction with both major-party front-runners. Mr. Perot is considering an independent bid for the Presidency but has not declared a candidacy.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Poll; Perot Makes Strong Showing In Survey of California Voters"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "PEROT, ROSS"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LOS ANGELES TIMES"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "VOTER BEHAVIOR"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-04-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b3648eb7c8105d6d7044",
+    "word_count": 386,
+    "slideshow_credits": null
+}

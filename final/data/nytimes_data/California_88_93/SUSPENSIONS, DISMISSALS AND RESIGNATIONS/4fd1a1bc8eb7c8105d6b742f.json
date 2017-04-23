@@ -1,0 +1,113 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/07/us/supreme-court-roundup-us-is-faulted-in-denying-benefits-to-lung-diseased-miners.html",
+    "snippet": "LEAD: The Supreme Court ruled 5 to 4 today that the Federal Government had improperly denied benefits to tens of thousands of coal miners who developed symptoms of black lung disease in the 1970's....",
+    "lead_paragraph": "LEAD: The Supreme Court ruled 5 to 4 today that the Federal Government had improperly denied benefits to tens of thousands of coal miners who developed symptoms of black lung disease in the 1970's.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Supreme Court Roundup; U.S. Is Faulted in Denying Benefits to Lung-Diseased Miners"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SCALIA, ANTONIN"
+        },
+        {
+            "name": "persons",
+            "value": "MCNAMARA, EDWARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL SECURITY AGENCY"
+        },
+        {
+            "name": "organizations",
+            "value": "LABOR, DEPARTMENT OF"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "CHILD CUSTODY AND SUPPORT"
+        },
+        {
+            "name": "subject",
+            "value": "MINES AND MINING"
+        },
+        {
+            "name": "subject",
+            "value": "ADOPTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "COAL"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "BLACK LUNG DISEASE"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGITIMACY"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRIAL AND OCCUPATIONAL HAZARDS"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1988-12-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By LINDA GREENHOUSE, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a1bc8eb7c8105d6b742f",
+    "word_count": 1112,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/05/us/drought-forces-cutoff-of-water-to-vast-farmlands-in-california.html",
+    "snippet": "The huge water project built a generation ago to protect the fast-growing state against drought cut off all water to farmers today as a result of the worst drought in California history.   While not entirely unexpected, the move is a brutal blow t...",
+    "lead_paragraph": "The huge water project built a generation ago to protect the fast-growing state against drought cut off all water to farmers today as a result of the worst drought in California history. While not entirely unexpected, the move is a brutal blow to California's agricultural industry, the nation's largest, with economic conquences far worse than the December freeze.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Drought Forces Cutoff of Water To Vast Farmlands in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "IRRIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "FARMERS"
+        },
+        {
+            "name": "subject",
+            "value": "RESERVOIRS"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        }
+    ],
+    "pub_date": "1991-02-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc8b8eb7c8105d6e7d4e",
+    "word_count": 1133,
+    "slideshow_credits": null
+}

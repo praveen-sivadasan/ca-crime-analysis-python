@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/21/opinion/underdogs-favorites-and-california.html",
+    "snippet": "LEAD: Repeatedly, California's Presidential primary has been secondary. The state contains 1 of every 10 Americans and yet, time after time, the race for one party's nomination or the other has been settled before the first Tuesday in June, when C...",
+    "lead_paragraph": "LEAD: Repeatedly, California's Presidential primary has been secondary. The state contains 1 of every 10 Americans and yet, time after time, the race for one party's nomination or the other has been settled before the first Tuesday in June, when California voters cast their primary ballots.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Underdogs, Favorites and California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTIONS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-02-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd18b4e8eb7c8105d68dfe8",
+    "word_count": 572,
+    "slideshow_credits": null
+}

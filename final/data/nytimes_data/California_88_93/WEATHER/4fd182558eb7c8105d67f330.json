@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/29/business/california-vintners-in-a-bind.html",
+    "snippet": "LEAD: Erratic spring weather and two years of drought dramatically reduced this year's crop of northern California's premium grapes, putting the state's vintners in an economic bind. With grape prices tripling in the past year and a half, the vint...",
+    "lead_paragraph": "LEAD: Erratic spring weather and two years of drought dramatically reduced this year's crop of northern California's premium grapes, putting the state's vintners in an economic bind. With grape prices tripling in the past year and a half, the vintners can either raise wine prices and risk losing market share to imports, or hold prices down and lose profit margins.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Vintners in a Bind"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        }
+    ],
+    "pub_date": "1988-10-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd182558eb7c8105d67f330",
+    "word_count": 1433,
+    "slideshow_credits": null
+}

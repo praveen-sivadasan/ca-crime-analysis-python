@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1997/07/18/us/7500-california-nurses-strike-kaiser-permanente.html",
+    "snippet": "Thousands of nurses employed by the nation's largest medical services organization, Kaiser Permanente, walked off the job today to protest a breakdown in contract negotiations, their union said.     The strike, which was expected to continue on Fr...",
+    "lead_paragraph": "Thousands of nurses employed by the nation's largest medical services organization, Kaiser Permanente, walked off the job today to protest a breakdown in contract negotiations, their union said. The strike, which was expected to continue on Friday, involved 7,500 nurses at 47 Northern California hospitals and clinics. Kaiser said all of its hospitals and offices remained open despite the strike, but at reduced service levels. Its emergency rooms were fully staffed.",
+    "abstract": "7,500 nurses employed by Kaiser Permanente in Northern California walk off their jobs to protest breakdown in contract negotiations (S)",
+    "print_page": "15",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "7,500 California Nurses Strike Kaiser Permanente",
+        "kicker": "National News Briefs"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KAISER PERMANENTE"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "NURSING AND NURSES"
+        },
+        {
+            "name": "subject",
+            "value": "STRIKES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1997-07-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1fc548eb7c8105d75b0de",
+    "word_count": 111,
+    "slideshow_credits": null
+}

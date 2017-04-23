@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1997/11/03/world/the-jiang-visit-in-california-jiang-does-business-on-last-stop-of-us-visit.html",
+    "snippet": "From a high-tech satellite factory to a power lunch in Beverly Hills, President Jiang Zemin of China cheerfully promoted trans-Pacific commerce in California today, despite some noisy protests and a pointed warning from his host, Gov. Pete Wilson,...",
+    "lead_paragraph": "From a high-tech satellite factory to a power lunch in Beverly Hills, President Jiang Zemin of China cheerfully promoted trans-Pacific commerce in California today, despite some noisy protests and a pointed warning from his host, Gov. Pete Wilson, that ''the great elixir of individual freedom'' is the best recipe for economic growth. As Mr. Jiang wound up his weeklong visit to the United States with a stop in a state that accounts for more than a quarter of all American exports to China, he sat in the passenger seat of a Buick Regal -- the type that is to be built in China starting next year -- and then met privately with the Governor before gently pleading with business and political leaders for patience in resolving differences and improving ties.",
+    "abstract": "Pres Jiang Zemin of China winds up week-long tour of US with visit to California, where he is greeted by noisy protests; is welcomed by Gov Pete Wilson, who tells him human rights is best way to insure economic success; asks gathering of business and political leaders for patience in resolving differences and improving ties; visits Hughes Electronics Corp headquarters near Los Angeles; photos (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Jiang Does Business On Last Stop Of U.S. Visit",
+        "kicker": "THE JIANG VISIT: IN CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+        },
+        {
+            "name": "glocations",
+            "value": "CHINA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HUGHES ELECTRONICS CORP"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        },
+        {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+        }
+    ],
+    "pub_date": "1997-11-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World; Washington",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d8848eb7c8105d7173b9",
+    "word_count": 817,
+    "slideshow_credits": null
+}

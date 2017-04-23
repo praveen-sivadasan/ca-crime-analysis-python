@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/31/opinion/l-work-on-aids-and-fatherhood-still-theoretical-california-s-prop-102-059688.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Work on AIDS and Fatherhood Still Theoretical; California's Prop. 102"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DANNEMEYER, WILLIAM E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-10-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd1a02c8eb7c8105d6b4615",
+    "word_count": 443,
+    "slideshow_credits": null
+}

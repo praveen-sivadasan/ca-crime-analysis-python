@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/12/us/another-quake-in-california.html",
+    "snippet": "LEAD: A strong earthquake rocked a wide area of Southern California today, injuring at least 25 people and bringing on a fatal heart attack but apparently causing little damage....",
+    "lead_paragraph": "LEAD: A strong earthquake rocked a wide area of Southern California today, injuring at least 25 people and bringing on a fatal heart attack but apparently causing little damage.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Another Quake in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1988-02-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd176258eb7c8105d66ba07",
+    "word_count": 251,
+    "slideshow_credits": null
+}

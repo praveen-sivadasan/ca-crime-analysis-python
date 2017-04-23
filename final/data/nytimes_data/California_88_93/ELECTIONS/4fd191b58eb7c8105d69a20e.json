@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/20/opinion/l-registering-in-california-106690.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Registering in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MICHAELSON, ABRAHAM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REGISTRATION OF VOTERS"
+        },
+        {
+            "name": "subject",
+            "value": "POSTAL SERVICE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-03-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd191b58eb7c8105d69a20e",
+    "word_count": 106,
+    "slideshow_credits": null
+}

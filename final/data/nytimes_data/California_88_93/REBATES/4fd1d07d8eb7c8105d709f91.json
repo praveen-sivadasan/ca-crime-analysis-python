@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/18/business/allstate-sets-rebate-plan.html",
+    "snippet": "The Allstate Insurance Company said today that it had agreed to issue $110 million in rebates to California customers to comply with the state's rate rollback required under Proposition 103.   The rebates would average $66 for each auto policy, $2...",
+    "lead_paragraph": "The Allstate Insurance Company said today that it had agreed to issue $110 million in rebates to California customers to comply with the state's rate rollback required under Proposition 103. The rebates would average $66 for each auto policy, $26 for each homeowner policy and $206 for commercial policies, or about 5 percent of the annual premium, Allstate said.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Allstate Sets Rebate Plan"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALLSTATE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "REBATES"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 103 (CALIFORNIA INITIATIVE)"
+        }
+    ],
+    "pub_date": "1993-08-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d07d8eb7c8105d709f91",
+    "word_count": 138,
+    "slideshow_credits": null
+}

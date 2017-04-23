@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/12/us/washington-talk-execution-case-poses-classic-test-for-court.html",
+    "snippet": "LEAD: If a panel of Hollywood screenwriters - or law professors, for that matter - set out to create a case to test the premises of the current debate over death penalty appeals, they could hardly top the case of Robert Alton Harris....",
+    "lead_paragraph": "LEAD: If a panel of Hollywood screenwriters - or law professors, for that matter - set out to create a case to test the premises of the current debate over death penalty appeals, they could hardly top the case of Robert Alton Harris.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Washington Talk;   Execution Case Poses Classic Test for Court"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1990-04-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By LINDA GREENHOUSE, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd191ab8eb7c8105d6999dc",
+    "word_count": 1451,
+    "slideshow_credits": null
+}

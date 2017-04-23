@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/12/us/national-news-briefs-californians-are-asked-to-reduce-power-use.html",
+    "snippet": "State authorities declared another power alert today and asked residents and businesses to conserve energy because a heat wave has led to higher than anticipated demand.    The California Independent System Operator, which supplies power to about ...",
+    "lead_paragraph": "State authorities declared another power alert today and asked residents and businesses to conserve energy because a heat wave has led to higher than anticipated demand. The California Independent System Operator, which supplies power to about 75 percent of the state, declared a ''Stage 2 Emergency,'' which means the system is using about 95 percent of its power and has 5 percent or less in reserve.",
+    "abstract": "California authorities declare another power alert and ask residents and businesses to conserve energy because heat wave has led to higher than anticipated demand (S)",
+    "print_page": "16",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Californians Are Asked To Reduce Power Use"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "2000-08-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1fa5b8eb7c8105d75806c",
+    "word_count": 110,
+    "slideshow_credits": null
+}

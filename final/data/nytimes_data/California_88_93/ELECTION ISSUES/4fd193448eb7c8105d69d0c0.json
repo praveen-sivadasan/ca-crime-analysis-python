@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/02/us/in-california-bush-tries-to-close-gap-with-troubled-gop.html",
+    "snippet": "LEAD: On his second political foray into California in less than a month, President Bush cut a ribbon at a new prison today to show how tough Republicans are on crime, but he found a fast-growing state in political upheaval with a disoriented Repu...",
+    "lead_paragraph": "LEAD: On his second political foray into California in less than a month, President Bush cut a ribbon at a new prison today to show how tough Republicans are on crime, but he found a fast-growing state in political upheaval with a disoriented Republican Party.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In California, Bush Tries to Close Gap With Troubled G.O.P."
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-03-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd193448eb7c8105d69d0c0",
+    "word_count": 1131,
+    "slideshow_credits": null
+}

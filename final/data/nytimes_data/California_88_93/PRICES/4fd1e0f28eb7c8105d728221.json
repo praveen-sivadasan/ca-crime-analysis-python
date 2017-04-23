@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1993/12/08/garden/a-california-quake-70-for-white-wine.html",
+    "snippet": "MATANZAS CREEK WINERY, a Sonoma Valley estate, has introduced a chardonnay that carries a suggested retail price of $70, a record for a California white wine.   The wine, Journey, comes from the 1990 vintage. Matanzas Creek produced only 212 six-b...",
+    "lead_paragraph": "MATANZAS CREEK WINERY, a Sonoma Valley estate, has introduced a chardonnay that carries a suggested retail price of $70, a record for a California white wine. The wine, Journey, comes from the 1990 vintage. Matanzas Creek produced only 212 six-bottle cases of regular-size bottles and 82 six-bottle cases of magnums (the magnum costs $140). Most have been tightly rationed to selected retailers and restaurateurs around the country.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A California Quake: $70 for White Wine"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "MATANZAS CREEK WINERY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MATANZAS CREEK WINERY"
+        },
+        {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1993-12-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Howard",
+                "middlename": "G.",
+                "lastname": "GOLDBERG",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By HOWARD G. GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e0f28eb7c8105d728221",
+    "word_count": 714,
+    "slideshow_credits": null
+}

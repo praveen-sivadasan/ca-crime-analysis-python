@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1995/10/03/opinion/pete-wilson-s-california-quagmire.html",
+    "snippet": "Gov. Pete Wilson's withdrawal from the 1996 Presidential race will have deeper consequences for California than it had in the sea of Republican contenders, where his candidacy made hardly a ripple. What's far from certain, however, is which Pete W...",
+    "lead_paragraph": "Gov. Pete Wilson's withdrawal from the 1996 Presidential race will have deeper consequences for California than it had in the sea of Republican contenders, where his candidacy made hardly a ripple. What's far from certain, however, is which Pete Wilson will now occupy the Governor's office in the largest, most influential state. Will it be the tender, pragmatic moderate of 1990 who in his first successful race for Governor called for more social services and warned about the dangers of failing to make adequate investments in our children?",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pete Wilson's California Quagmire"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1995-10-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Peter",
+                "rank": 1,
+                "lastname": "Schrag"
+            }
+        ],
+        "original": "By Peter Schrag"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1d4d08eb7c8105d71274c",
+    "word_count": 501,
+    "slideshow_credits": null
+}

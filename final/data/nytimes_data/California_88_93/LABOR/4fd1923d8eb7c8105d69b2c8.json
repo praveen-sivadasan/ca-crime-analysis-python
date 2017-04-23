@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1989/02/26/business/what-s-new-in-day-care-partnerships-weave-security-blankets-for-working-parents.html",
+    "snippet": "LEAD: Having considered a child-care bill for the last 20 years without much progress, the Federal Government may not pass any of the 150 measures now before Congress anytime soon, especially in light of the budget deficit. But state initiatives t...",
+    "lead_paragraph": "LEAD: Having considered a child-care bill for the last 20 years without much progress, the Federal Government may not pass any of the 150 measures now before Congress anytime soon, especially in light of the budget deficit. But state initiatives to bolster child care are on the rise, and in many cases, are partnerships with industry.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Partnerships Weave Security Blankets for Working Parents",
+        "kicker": "WHAT'S NEW IN DAY CARE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BANK OF AMERICA NATIONAL TRUST & SAVINGS ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "CORPORATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DAY CARE CENTERS"
+        },
+        {
+            "name": "subject",
+            "value": "CHILD CARE"
+        }
+    ],
+    "pub_date": "1989-02-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Kirsten",
+                "middlename": "O.",
+                "lastname": "LUNDBERG",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KIRSTEN O. LUNDBERG; Kirsten O. Lundberg is a Boston-based writer"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1923d8eb7c8105d69b2c8",
+    "word_count": 578,
+    "slideshow_credits": null
+}

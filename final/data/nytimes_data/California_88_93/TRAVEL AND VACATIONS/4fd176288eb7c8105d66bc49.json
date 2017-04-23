@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/14/travel/going-for-the-gold-in-california.html",
+    "snippet": "LEAD: ON a small, grassy hill overlooking the ruins of Chinese Camp, an old mining settlement, stands St. Francis Xavier Roman Catholic church. The tombstones in its graveyard bear the names of Irish and English immigrants who crossed the Atlantic...",
+    "lead_paragraph": "LEAD: ON a small, grassy hill overlooking the ruins of Chinese Camp, an old mining settlement, stands St. Francis Xavier Roman Catholic church. The tombstones in its graveyard bear the names of Irish and English immigrants who crossed the Atlantic in search of gold. But the most arresting monument to those who sought riches here is the lush canopy of trees that covers much of the town.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Going for the Gold in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+        },
+        {
+            "name": "subject",
+            "value": "GOLD"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+        }
+    ],
+    "pub_date": "1988-02-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Travel",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "LINDSEY"
+            }
+        ],
+        "original": "By ROBERT LINDSEY; ROBERT LINDSEY is the chief West Coast correspondent for The Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd176288eb7c8105d66bc49",
+    "word_count": 2371,
+    "slideshow_credits": null
+}

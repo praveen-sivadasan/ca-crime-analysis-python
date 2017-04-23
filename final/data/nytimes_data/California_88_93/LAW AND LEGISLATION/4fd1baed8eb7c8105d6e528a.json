@@ -1,0 +1,85 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/21/us/men-and-women-in-office-on-parity-and-equality.html",
+    "snippet": "LEAD: When Dianne Feinstein made a campaign pledge to appoint women to half the posts in her administration, she set off a ruckus in the California governor's race that may end up reverberating in statehouses across the nation....",
+    "lead_paragraph": "LEAD: When Dianne Feinstein made a campaign pledge to appoint women to half the posts in her administration, she set off a ruckus in the California governor's race that may end up reverberating in statehouses across the nation.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Men and Women in Office: on Parity and Equality"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT EMPLOYEES"
+        }
+    ],
+    "pub_date": "1990-08-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1baed8eb7c8105d6e528a",
+    "word_count": 1367,
+    "slideshow_credits": null
+}

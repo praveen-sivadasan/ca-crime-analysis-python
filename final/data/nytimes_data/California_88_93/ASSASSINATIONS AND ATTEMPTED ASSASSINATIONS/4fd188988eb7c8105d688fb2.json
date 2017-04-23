@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/04/21/us/robert-kennedy-assassination-photos-burned.html",
+    "snippet": "LEAD: California has released voluminous files on the assassination of Robert F. Kennedy in 1968, including a document showing that 2,410 photographs that were evidence in the case were destroyed that year. A scholar who pushed for release of the ...",
+    "lead_paragraph": "LEAD: California has released voluminous files on the assassination of Robert F. Kennedy in 1968, including a document showing that 2,410 photographs that were evidence in the case were destroyed that year. A scholar who pushed for release of the files says the destruction is ''deeply suspicious'' and should be investigated.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Robert Kennedy Assassination Photos Burned"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "STONE, GREG"
+        },
+        {
+            "name": "persons",
+            "value": "KENNEDY, ROBERT FRANCIS"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ASSASSINATIONS AND ATTEMPTED ASSASSINATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PHOTOGRAPHS"
+        },
+        {
+            "name": "subject",
+            "value": "DISCLOSURE OF INFORMATION"
+        }
+    ],
+    "pub_date": "1988-04-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd188988eb7c8105d688fb2",
+    "word_count": 709,
+    "slideshow_credits": null
+}

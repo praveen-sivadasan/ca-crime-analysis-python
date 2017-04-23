@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/25/us/washington-talk-briefing-initials-first.html",
+    "snippet": "LEAD: The Defense Department, long suspected of fashioning an acronym for a program or weapon before actually giving it a name, appears to have outdone itself. Now comes Snort, which stands for Supersonic Naval Ordnance Research Track, a site in t...",
+    "lead_paragraph": "LEAD: The Defense Department, long suspected of fashioning an acronym for a program or weapon before actually giving it a name, appears to have outdone itself. Now comes Snort, which stands for Supersonic Naval Ordnance Research Track, a site in the California desert.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Washington Talk: Briefing; Initials First"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "WASHINGTON TALK PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1988-05-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Philip",
+                "middlename": "Shabecoff",
+                "lastname": "RICHARD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By PHILIP SHABECOFF & RICHARD HALLORAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190358eb7c8105d697113",
+    "word_count": 253,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/19/us/man-who-accused-brown-identifies-himself.html",
+    "snippet": "A former state police officer has identified himself as the source of allegations that drugs were used at the home of Edmund G. Brown Jr. when the Democratic Presidential candidate was Governor of California, The Los Angeles Times reported today. ...",
+    "lead_paragraph": "A former state police officer has identified himself as the source of allegations that drugs were used at the home of Edmund G. Brown Jr. when the Democratic Presidential candidate was Governor of California, The Los Angeles Times reported today. The former officer, James C. Pashley, 45 years old, said he was one of two men who appeared on ABC News with their faces obscured and said they saw evidence of marijuana and cocaine use in Mr. Brown's home after parties, the newspaper said. It said the network confirmed on Friday that Mr. Pashley was one of those it interviewed.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Man Who Accused Brown Identifies Himself"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PASHLEY, JAMES C"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-04-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ac1a8eb7c8105d6cb675",
+    "word_count": 141,
+    "slideshow_credits": null
+}

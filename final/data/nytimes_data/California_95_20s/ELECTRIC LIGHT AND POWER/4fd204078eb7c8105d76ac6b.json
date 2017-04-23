@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/10/opinion/reckonings-california-screaming.html",
+    "snippet": "California's deregulated power industry, in which producers can sell electricity for whatever the traffic will bear, was supposed to deliver cheaper, cleaner power. But instead the state faces an electricity shortage so severe that the governor ha...",
+    "lead_paragraph": "California's deregulated power industry, in which producers can sell electricity for whatever the traffic will bear, was supposed to deliver cheaper, cleaner power. But instead the state faces an electricity shortage so severe that the governor has turned off the lights on the official Christmas tree -- a shortage that has proved highly profitable to power companies, and raised suspicions of market manipulation. The experience raises questions about deregulation. And more broadly, it is a warning about the dangers of placing blind faith in markets. True, part of California's problem is an unexpected surge in electricity demand, the byproduct of a booming economy. It's possible that the crisis would have happened even without deregulation.",
+    "abstract": "Paul Krugman Op-Ed column on California's electricity shortage sees it raising questions about deregulation and dangers of placing blind faith in markets; cites concerns about artificially inflated prices (M)",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Reckonings; California Screaming"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "2000-12-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1,
+                "firstname": "Paul",
+                "lastname": "KRUGMAN"
+            }
+        ],
+        "original": "By PAUL KRUGMAN"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd204078eb7c8105d76ac6b",
+    "word_count": 643,
+    "slideshow_credits": null
+}

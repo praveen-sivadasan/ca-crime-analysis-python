@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/29/weekinreview/jan-22-28-pacific-wake-up-time-reports-of-this-speaker-s-demise-were-just-wrong.html",
+    "snippet": "Call him brutal, devious, even dictatorial -- but call him Mr. Speaker.   In a bitter, post-midnight session, Willie Lewis Brown Jr. reclaimed the speakership of the California Assembly last week, effectively reversing the November elections in wh...",
+    "lead_paragraph": "Call him brutal, devious, even dictatorial -- but call him Mr. Speaker. In a bitter, post-midnight session, Willie Lewis Brown Jr. reclaimed the speakership of the California Assembly last week, effectively reversing the November elections in which Democrats lost their majority in the 80-seat chamber.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Jan. 22-28: Pacific Wake-Up Time; Reports of This Speaker's Demise Were Just Wrong"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, WILLIE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES AND PARLIAMENTS"
+        }
+    ],
+    "pub_date": "1995-01-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Susan",
+                "middlename": "F.",
+                "lastname": "RASKY",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By SUSAN F. RASKY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e54d8eb7c8105d7305e3",
+    "word_count": 186,
+    "slideshow_credits": null
+}

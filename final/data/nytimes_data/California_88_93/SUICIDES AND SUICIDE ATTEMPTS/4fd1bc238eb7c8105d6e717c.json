@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1993/12/02/sports/two-former-navy-athletes-killed-by-fellow-graduate.html",
+    "snippet": "Alton Grizzard, the acclaimed Navy quarterback who set team career records for total offense from 1987 to 1990, and Kerry O'Neill, a 1993 Naval Academy graduate who set records in women's track, were shot to death by a fellow Academy graduate at a...",
+    "lead_paragraph": "Alton Grizzard, the acclaimed Navy quarterback who set team career records for total offense from 1987 to 1990, and Kerry O'Neill, a 1993 Naval Academy graduate who set records in women's track, were shot to death by a fellow Academy graduate at a California naval base early yesterday in what the police described as a possible love triangle. The gunman, George Smith, a 24-year-old Navy ensign from Huntington Beach, Calif., killed himself after shooting Grizzard and O'Neill, the police in Coronado, Calif., said. Smith was trained to work aboard nuclear-powered submarines, according to a Navy spokesman, Lieut. Comdr. Frank Thorp.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Two Former Navy Athletes Killed by Fellow Graduate"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "UNITED STATES NAVAL ACADEMY (ANNAPOLIS, MD)"
+        },
+        {
+            "name": "persons",
+            "value": "O'NEILL, KERRY"
+        },
+        {
+            "name": "persons",
+            "value": "SMITH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "GRIZZARD, ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNITED STATES NAVAL ACADEMY"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "SUICIDES AND SUICIDE ATTEMPTS"
+        }
+    ],
+    "pub_date": "1993-12-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "McG"
+            }
+        ],
+        "original": "By ROBERT McG. THOMAS Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc238eb7c8105d6e717c",
+    "word_count": 354,
+    "slideshow_credits": null
+}

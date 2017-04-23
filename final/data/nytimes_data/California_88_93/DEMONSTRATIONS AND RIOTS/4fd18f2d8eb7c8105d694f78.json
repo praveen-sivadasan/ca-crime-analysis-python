@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/08/us/protest-is-held-at-site-of-rights-chief-s-talk.html",
+    "snippet": "LEAD: Gay rights protesters held a demonstration today at a hotel where a conservative church group was running a symposium in which speakers warned that homosexuals are a threat to American culture....",
+    "lead_paragraph": "LEAD: Gay rights protesters held a demonstration today at a hotel where a conservative church group was running a symposium in which speakers warned that homosexuals are a threat to American culture.",
+    "abstract": null,
+    "print_page": "31",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Protest Is Held at Site Of Rights Chief's Talk"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ALLEN, WILLIAM BARCLAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TRADITIONAL VALUES, CALIFORNIA COALITION FOR"
+        },
+        {
+            "name": "organizations",
+            "value": "CIVIL RIGHTS COMMISSION"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1989-10-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18f2d8eb7c8105d694f78",
+    "word_count": 234,
+    "slideshow_credits": null
+}

@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/21/us/santa-ana-journal-drunken-drivers-visit-the-morgue.html",
+    "snippet": "LEAD: The nervous joking, what little there was, ended as the four young visitors to the coroner's office passed the body of a teen-age suicide victim on a wheeled table in the hallway. No one wanted to go first into the busy autopsy room....",
+    "lead_paragraph": "LEAD: The nervous joking, what little there was, ended as the four young visitors to the coroner's office passed the body of a teen-age suicide victim on a wheeled table in the hallway. No one wanted to go first into the busy autopsy room.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Santa Ana Journal; Drunken Drivers Visit the Morgue"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "DRUNKEN AND RECKLESS DRIVING"
+        }
+    ],
+    "pub_date": "1988-09-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "S.",
+                "lastname": "WILSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By DAVID S. WILSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17cb38eb7c8105d67619a",
+    "word_count": 720,
+    "slideshow_credits": null
+}

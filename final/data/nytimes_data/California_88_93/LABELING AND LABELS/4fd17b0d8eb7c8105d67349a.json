@@ -1,0 +1,81 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/05/us/california-chain-curbs-tobacco-sales.html",
+    "snippet": "LEAD: The largest supermarket chain in Southern California today ordered all cigars and pipe and chewing tobacco removed from its shelves because the tobacco companies that make the products had declined to place consumer warning labels on them....",
+    "lead_paragraph": "LEAD: The largest supermarket chain in Southern California today ordered all cigars and pipe and chewing tobacco removed from its shelves because the tobacco companies that make the products had declined to place consumer warning labels on them.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Chain Curbs Tobacco Sales"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "VONS COMPANIES"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "SUPERMARKETS"
+        },
+        {
+            "name": "subject",
+            "value": "CONTAINERS AND PACKAGING"
+        },
+        {
+            "name": "subject",
+            "value": "CIGARS"
+        },
+        {
+            "name": "subject",
+            "value": "LABELING AND LABELS"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1988-10-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17b0d8eb7c8105d67349a",
+    "word_count": 876,
+    "slideshow_credits": null
+}

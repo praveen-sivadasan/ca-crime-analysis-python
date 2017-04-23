@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/17/movies/it-s-still-a-hot-chase-on-a-very-cold-trail-for-a-hollywood-killer.html",
+    "snippet": "LEAD: ''Dear Desperate Desmond,'' the actress Mabel Normand wrote to the silent-film director William Desmond Taylor. ''Sorry I cannot dine with you tomorrow. But I have a previous engagement with a Hindoo Prince.'' She signed it ''Blessed Baby.''...",
+    "lead_paragraph": "LEAD: ''Dear Desperate Desmond,'' the actress Mabel Normand wrote to the silent-film director William Desmond Taylor. ''Sorry I cannot dine with you tomorrow. But I have a previous engagement with a Hindoo Prince.'' She signed it ''Blessed Baby.''",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "It's Still a Hot Chase On a Very Cold Trail For a Hollywood Killer"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "WHO KILLED WILLIAM DESMOND TAYLOR? (MOVIE)"
+        },
+        {
+            "name": "persons",
+            "value": "MINTER, MARY MILES"
+        },
+        {
+            "name": "persons",
+            "value": "TAYLOR, WILLIAM DESMOND"
+        },
+        {
+            "name": "persons",
+            "value": "NORMAND, MABLE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        }
+    ],
+    "pub_date": "1990-05-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Cultural Desk",
+    "section_name": "Movies; Arts",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Caryn",
+                "rank": 1,
+                "lastname": "JAMES"
+            }
+        ],
+        "original": "By CARYN JAMES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b9fa8eb7c8105d6e3769",
+    "word_count": 1501,
+    "slideshow_credits": null
+}

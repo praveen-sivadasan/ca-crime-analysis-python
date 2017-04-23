@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/30/magazine/open-house.html",
+    "snippet": "WILLIAM TURNBULL JR. KNOWS ABOUT NATURE AND ARCHITECTURE. Thirty years ago, he was one of the designers (along with the late Charles Moore) of Sea Ranch, a cluster of shingled beach sheds so essentially modest and in sync with their environment th...",
+    "lead_paragraph": "WILLIAM TURNBULL JR. KNOWS ABOUT NATURE AND ARCHITECTURE. Thirty years ago, he was one of the designers (along with the late Charles Moore) of Sea Ranch, a cluster of shingled beach sheds so essentially modest and in sync with their environment that they redefined the meaning of vacation architecture. Turnbull hasn't lost his knack for squeezing high drama out of simple structures. Only this time, instead of condos on windswept bluffs overlooking the Pacific, he has built a more idiosyncratic retreat for his family burrowed into a sloping valley of Northern California. Here, even the view from the kitchen sink (of the rugged peaks of Mount St. Helena) is spectacular.",
+    "abstract": null,
+    "print_page": "40",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Open House"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "TURNBULL, WILLIAM JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+        }
+    ],
+    "pub_date": "1995-07-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Julie",
+                "middlename": "V.",
+                "lastname": "IOVINE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By JULIE V. IOVINE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f29a8eb7c8105d749d40",
+    "word_count": 323,
+    "slideshow_credits": null
+}

@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1996/05/22/business/time-changing-model-s-l-home-savings-pushes-ahead-into-full-service-banking.html",
+    "snippet": "The bright California sun filters through the stained-glass windows, creating a reverential mood in this cavernous edifice. Decorated with elaborate mosaics,  bronze statues and lots of marble, it is a stolid temple of thrift -- one of many erecte...",
+    "lead_paragraph": "The bright California sun filters through the stained-glass windows, creating a reverential mood in this cavernous edifice. Decorated with elaborate mosaics, bronze statues and lots of marble, it is a stolid temple of thrift -- one of many erected by Home Savings of America in affluent suburbs like this one, outside Los Angeles, in the years after World War II. The ornate branches gathered enough of the growing wealth of Southern California to make Home Savings the nation's largest and in many ways most successful savings and loan. But on this spring afternoon, a slender banner dangling over a half-dozen tellers bears a simple announcement: \"We now offer home equity, automotive, personal loans and credit lines.\"",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Time Is Changing The Model S.& L.;Home Savings Pushes Ahead Into Full-Service Banking"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "RINEHART, CHARLES R"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOME SAVINGS OF AMERICA"
+        },
+        {
+            "name": "organizations",
+            "value": "AHMANSON, H F, & CO"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLS FARGO & CO"
+        },
+        {
+            "name": "organizations",
+            "value": "BANK OF AMERICA"
+        },
+        {
+            "name": "subject",
+            "value": "NAMES, ORGANIZATIONAL"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1996-05-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Saul",
+                "rank": 1,
+                "lastname": "HANSELL"
+            }
+        ],
+        "original": "By SAUL HANSELL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d3798eb7c8105d70fe94",
+    "word_count": 1707,
+    "slideshow_credits": null
+}

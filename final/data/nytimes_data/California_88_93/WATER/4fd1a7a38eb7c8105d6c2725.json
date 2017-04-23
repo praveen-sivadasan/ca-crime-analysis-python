@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/27/business/economic-scene-greening-california.html",
+    "snippet": "GOV. PETE WILSON'S first priority in California's water crisis is to keep the troops marching to the same drummer: \"North and South, coast and valley, urban and rural, we are in this together, and we are going to have to pull together to overcome ...",
+    "lead_paragraph": "GOV. PETE WILSON'S first priority in California's water crisis is to keep the troops marching to the same drummer: \"North and South, coast and valley, urban and rural, we are in this together, and we are going to have to pull together to overcome this drought.\" But Thomas Graff, a lawyer for the Environmental Defense Fund, thinks Mr. Wilson has more in mind than collective sacrifice. A little-noticed part of the Governor's drought action plan, he points out, contains the seeds of a broad reform of the water allocation system -- one that would make it possible for California's thirsty cities to meet their long-term needs without ruining the state's water-dependent farmers. The idea is to create a market for water, encouraging farmers to profit by selling it to non-agricultural customers who value it more.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Economic Scene; Greening California"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ECONOMIC SCENE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "FARMERS"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        }
+    ],
+    "pub_date": "1991-02-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Peter",
+                "rank": 1,
+                "lastname": "Passell"
+            }
+        ],
+        "original": "By Peter Passell"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7a38eb7c8105d6c2725",
+    "word_count": 799,
+    "slideshow_credits": null
+}

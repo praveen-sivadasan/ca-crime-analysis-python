@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/29/us/reporters-scrutinize-ads-as-they-used-to-speeches.html",
+    "snippet": "LEAD: Campaign television commercials, the central element of statewide campaigns here, are being scrutinized far more rigorously than in the past by California's political reporters....",
+    "lead_paragraph": "LEAD: Campaign television commercials, the central element of statewide campaigns here, are being scrutinized far more rigorously than in the past by California's political reporters.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Reporters Scrutinize Ads As They Used to Speeches"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1990-04-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "ORESKES"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL ORESKES, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1934c8eb7c8105d69d7d3",
+    "word_count": 445,
+    "slideshow_credits": null
+}

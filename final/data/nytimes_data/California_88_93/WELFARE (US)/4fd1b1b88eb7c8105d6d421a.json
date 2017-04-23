@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/11/us/california-proposes-cutting-aid-to-poor.html",
+    "snippet": "The Governor of California has proposed sweeping changes in welfare policy in the nation's most populated state that would slash grants to long-term recipients, use increased benefits as a way to encourage certain forms of behavior and limit payme...",
+    "lead_paragraph": "The Governor of California has proposed sweeping changes in welfare policy in the nation's most populated state that would slash grants to long-term recipients, use increased benefits as a way to encourage certain forms of behavior and limit payments to indigent families who move here from other states. Similar proposals are on the table in several other states, but none would affect as many people, involve as much money or inspire the kind of heated debate that is likely to occur here on sensitive issues of race and class.",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Proposes Cutting Aid to Poor"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "POPULATION SHIFTS"
+        }
+    ],
+    "pub_date": "1991-12-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b1b88eb7c8105d6d421a",
+    "word_count": 1208,
+    "slideshow_credits": null
+}

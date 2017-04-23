@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/11/us/the-1990-elections-california-politicians-reel-after-a-vote-limiting-terms.html",
+    "snippet": "On the same day they returned most incumbent legislators to office, the people of California voted to throw them all out, approving a ballot measure on term limits that exploded like an antipersonnel bomb in the Capitol here.    The ballot measure...",
+    "lead_paragraph": "On the same day they returned most incumbent legislators to office, the people of California voted to throw them all out, approving a ballot measure on term limits that exploded like an antipersonnel bomb in the Capitol here. The ballot measure, Proposition 140, which was approved Tuesday by a vote of about 52 percent to 48 percent, sets limits on the tenure of officeholders in the nation's most populous state and cuts the budget of its Legislature by nearly half.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Politicians Reel After a Vote Limiting Terms",
+        "kicker": "THE 1990 ELECTIONS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-11-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b2368eb7c8105d6d50d5",
+    "word_count": 1045,
+    "slideshow_credits": null
+}

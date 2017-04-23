@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1993/09/09/business/company-news-delays-stall-spinoff-of-pacific-telesis-cellular-unit.html",
+    "snippet": "A Pacific Telesis executive said yesterday that because of regulatory delays the company would not meet its December target date for completing the planned spinoff of its cellular operations, involving a widely anticipated billion-dollar sale of s...",
+    "lead_paragraph": "A Pacific Telesis executive said yesterday that because of regulatory delays the company would not meet its December target date for completing the planned spinoff of its cellular operations, involving a widely anticipated billion-dollar sale of stock. On Tuesday, an administrative law judge at the California Public Utilities Commission recommended that the commission undertake \"a full review\" and a comprehensive audit, and that Pacific Telesis prepare a detailed financial plan for the separated companies. The judge, Gregory Wheatland, also found that compensation was owed rate payers for the deal, with the amount to be determined in further hearings.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Delays Stall Spinoff of Pacific Telesis Cellular Unit",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC TELESIS GROUP"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS (CORPORATE)"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1993-09-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Anthony",
+                "rank": 1,
+                "lastname": "RAMIREZ"
+            }
+        ],
+        "original": "By ANTHONY RAMIREZ"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d0808eb7c8105d70a218",
+    "word_count": 621,
+    "slideshow_credits": null
+}

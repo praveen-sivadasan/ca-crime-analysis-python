@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1997/12/02/business/tiny-turbine-next-generator-company-hopes-its-small-unit-will-dominate-power.html",
+    "snippet": "Paul Craig, president of the Capstone Turbine Corporation, arrived at company headquarters here near dawn last year to find a stranger standing in the parking lot by one of Capstone's test products. Fearing that the man might damage the small powe...",
+    "lead_paragraph": "Paul Craig, president of the Capstone Turbine Corporation, arrived at company headquarters here near dawn last year to find a stranger standing in the parking lot by one of Capstone's test products. Fearing that the man might damage the small power generator, which was whining like a miniature jet engine, Mr. Craig confronted him. The stranger turned out to be Paolo Citterio, a young Italian food company executive who had recently seen a demonstration of Capstone's technology. ''I have been sitting here for an hour watching and listening to your machine,'' Mr. Citterio said. ''It makes my heart sing.''",
+    "abstract": "Makers of microturbines hope that their small, on-site generators might revolutionize power industry just as microchip did computer industry; interview with Paul Craig, chief executive of Capstone Turbine in Tarzana, California, on his hopes for microturbine as low-cost, low-polluting way to generate electricity on site; skeptics contend that small-scale generation of electricity will never be economical; with deregulation of electric power beginning in California on Jan 1, power industry in state has virtually abandoned idea of continuing to build expensive central power plants that take years to build; photo of Craig; table shows how microturbines compare with some other energy sources (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tiny Turbine: The Next Generator?; Company Hopes Its Small Unit Will Dominate Power Market"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CRAIG, PAUL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CAPSTONE TURBINE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "ENERGY AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "TURBINES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1997-12-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Laurence",
+                "rank": 1,
+                "lastname": "ZUCKERMAN"
+            }
+        ],
+        "original": "By LAURENCE ZUCKERMAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d88c8eb7c8105d717924",
+    "word_count": 1738,
+    "slideshow_credits": null
+}

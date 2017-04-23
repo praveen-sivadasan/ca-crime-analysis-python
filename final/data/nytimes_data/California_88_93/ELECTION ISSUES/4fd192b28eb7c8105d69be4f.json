@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/25/nyregion/c-corrections-364690.html",
+    "snippet": "LEAD: An article on Sunday about the California governorship campaign of Attorney General John K. Van de Kamp omitted part of his statement explaining the appearance of contradictions in his position on the death penalty....",
+    "lead_paragraph": "LEAD: An article on Sunday about the California governorship campaign of Attorney General John K. Van de Kamp omitted part of his statement explaining the appearance of contradictions in his position on the death penalty.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-05-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd192b28eb7c8105d69be4f",
+    "word_count": 154,
+    "slideshow_credits": null
+}

@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1993/01/28/business/company-news-government-agrees-to-sell-56-branches-of-homefed.html",
+    "snippet": "Regulators yesterday began the process of dismantling HomeFed Bank of San Diego, which became the nation's biggest savings and loan to fail when seized in July. Five California institutions agreed to pay a total of $34.7 million for HomeFed's 56 N...",
+    "lead_paragraph": "Regulators yesterday began the process of dismantling HomeFed Bank of San Diego, which became the nation's biggest savings and loan to fail when seized in July. Five California institutions agreed to pay a total of $34.7 million for HomeFed's 56 Northern and central California branches, which had $1.6 billion in deposits. For now, the Resolution Trust Corporation will continue to operate HomeFed's remaining 144 branches.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "GOVERNMENT AGREES TO SELL 56 BRANCHES OF HOMEFED",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOMEFED BANK"
+        },
+        {
+            "name": "organizations",
+            "value": "RESOLUTION TRUST CORP"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1993-01-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a42d8eb7c8105d6bc4b2",
+    "word_count": 122,
+    "slideshow_credits": null
+}

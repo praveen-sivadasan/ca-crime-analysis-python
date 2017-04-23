@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/28/business/technology-when-clean-air-methanol-powered-cars-hit-the-road.html",
+    "snippet": "The clean-air car of the future might operate like the five experimental Volvo 940 sedans now undergoing testing by California's South Coast Air Quality Management District. The cars burn a mixture of gasoline and methanol and have an electrically...",
+    "lead_paragraph": "The clean-air car of the future might operate like the five experimental Volvo 940 sedans now undergoing testing by California's South Coast Air Quality Management District. The cars burn a mixture of gasoline and methanol and have an electrically heated catalytic converter to treat the big blast of pollution that cars typically emit when a cold engine is started. Executives at Volvo Cars of North America say the vehicles are the only flexible-fuel, heated-catalyst cars on the road today. California air pollution control officials report that the Volvos appear to be the cleanest liquid-fueled vehicles they have ever tested. Preliminary tests indicate that emissions from the cars meet even California's upcoming standards for ultra-low emissions.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Technology; When Clean-Air, Methanol-Powered Cars Hit the Road"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "VOLVO AB"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "METHANOL"
+        },
+        {
+            "name": "subject",
+            "value": "ENGINES"
+        },
+        {
+            "name": "subject",
+            "value": "GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "CATALYTIC CONVERTERS"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1991-07-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "HOLUSHA"
+            }
+        ],
+        "original": "By JOHN HOLUSHA"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1af8b8eb7c8105d6d02ff",
+    "word_count": 1188,
+    "slideshow_credits": null
+}

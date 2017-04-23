@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1996/02/25/us/golden-gate-bridge-to-institute-suicide-patrols.html",
+    "snippet": "In their perennial struggle to deter would-be jumpers, Golden Gate Bridge officials have decided to rely on the human touch rather than build new physical barriers.         The bridge's board voted on Friday to institute an anti-suicide patrol so ...",
+    "lead_paragraph": "In their perennial struggle to deter would-be jumpers, Golden Gate Bridge officials have decided to rely on the human touch rather than build new physical barriers. The bridge's board voted on Friday to institute an anti-suicide patrol so that the 1.6-mile span could be kept under surveillance throughout the daylight hours, when people usually leap.",
+    "abstract": null,
+    "print_page": "32",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Golden Gate Bridge to Institute Suicide Patrols"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOLDEN GATE BRIDGE"
+        },
+        {
+            "name": "subject",
+            "value": "SUICIDES AND SUICIDE ATTEMPTS"
+        }
+    ],
+    "pub_date": "1996-02-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carey",
+                "rank": 1,
+                "lastname": "GOLDBERG"
+            }
+        ],
+        "original": "By CAREY GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d9aa8eb7c8105d718e3e",
+    "word_count": 471,
+    "slideshow_credits": null
+}

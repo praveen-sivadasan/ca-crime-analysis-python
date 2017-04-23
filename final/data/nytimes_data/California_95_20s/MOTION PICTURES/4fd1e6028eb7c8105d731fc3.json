@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1996/08/01/opinion/hollywood-babble-on.html",
+    "snippet": "That's entertainment.    Still, enjoyable as it was to see Bob Dole wag his finger at the overexposed Demi Moore, he wasted his time coming out here to preach about Hollywood values....",
+    "lead_paragraph": "That's entertainment. Still, enjoyable as it was to see Bob Dole wag his finger at the overexposed Demi Moore, he wasted his time coming out here to preach about Hollywood values.",
+    "abstract": "Maureen Dowd Op-Ed article compares movies with Presidential politics as she comments on Bob Dole's recent campaign visit to Hollywood (M)",
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Hollywood Babble On",
+        "kicker": "Liberties"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-08-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1,
+                "firstname": "Maureen",
+                "lastname": "DOWD"
+            }
+        ],
+        "original": "By MAUREEN DOWD"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1e6028eb7c8105d731fc3",
+    "word_count": 741,
+    "slideshow_credits": null
+}

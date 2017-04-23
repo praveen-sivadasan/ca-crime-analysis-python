@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/27/us/california-nears-budget-deadline-14-billion-short.html",
+    "snippet": "The nation's largest state is staggering toward the start of the new fiscal year Monday with an enormous budget shortage and growing signs that an elaborate compromise worked out by Gov. Pete Wilson may be starting to unravel.    An air of deepeni...",
+    "lead_paragraph": "The nation's largest state is staggering toward the start of the new fiscal year Monday with an enormous budget shortage and growing signs that an elaborate compromise worked out by Gov. Pete Wilson may be starting to unravel. An air of deepening crisis descended over the state capitol today as the Governor, a moderate Republican, closeted himself with leaders of the Democratic-controlled Senate and Assembly over the $14.3 billion shortage, which is by far the largest gap between spending and expected revenues ever faced by any state. The shortage is 30 percent of the state's general fund, which is the primary source for most essential services.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Nears Budget Deadline $14 Billion Short"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1991-06-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9f18eb7c8105d6c75f5",
+    "word_count": 1051,
+    "slideshow_credits": null
+}

@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/20/us/the-43rd-president-the-power-industry-bush-in-deep-waters-on-energy-policy.html",
+    "snippet": "With natural gas prices at an all-time high and Americans facing power shortages in some states, President-elect George W. Bush's plans for an energy policy have started to receive close scrutiny.    His most controversial idea during the campaign...",
+    "lead_paragraph": "With natural gas prices at an all-time high and Americans facing power shortages in some states, President-elect George W. Bush's plans for an energy policy have started to receive close scrutiny. His most controversial idea during the campaign -- opening Alaskan wilderness to drilling -- has enraged environmental advocates. And debate over the drilling has overshadowed other ideas Mr. Bush is considering that could have much wider impacts on energy supplies and the environment.",
+    "abstract": "News analysis: President-elect George W Bush's plans for an energy policy are receiving close scrutiny as natural gas prices reach all-time high and Americans face power shortages in some states; Bush has never presented much of a detailed plan, but appears to be focused on developing domestic resources; aides say Bush plans to look at opening up federal land for drilling, particularly for natural gas, which fuels more than 90 percent of nation's new electric power generation plants; photo (M)",
+    "print_page": "31",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 43rd PRESIDENT: THE POWER INDUSTRY; Bush in Deep Waters on Energy Policy"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "ENERGY AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "2000-12-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr.",
+                "firstname": "Richard",
+                "middlename": "A.",
+                "lastname": "OPPEL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Neela",
+                "rank": 2,
+                "lastname": "BANERJEE"
+            }
+        ],
+        "original": "By RICHARD A. OPPEL Jr. and NEELA BANERJEE"
+    },
+    "type_of_material": "An Analysis; News Analysis",
+    "_id": "4fd21bdb8eb7c8105d79b8e1",
+    "word_count": 858,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/26/us/california-timber-industry-rejects-logging-plan.html",
+    "snippet": "The prospects for an agreement to protect old forests and regulate logging in California dimmed somewhat today as the state's timber industry rejected a proposal put forward last week by several environmental groups and a large lumber company.    ...",
+    "lead_paragraph": "The prospects for an agreement to protect old forests and regulate logging in California dimmed somewhat today as the state's timber industry rejected a proposal put forward last week by several environmental groups and a large lumber company. The Timber Association of California, the trade group representing the state's lumber companies and timberland owners, instead issued its own proposal.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Timber Industry Rejects Logging Plan"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SIERRA PACIFIC INDUSTRIES INC"
+        },
+        {
+            "name": "organizations",
+            "value": "TIMBER ASSN OF CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SIERRA CLUB"
+        },
+        {
+            "name": "subject",
+            "value": "WOOD AND WOOD PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "CONSERVATION OF RESOURCES"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        }
+    ],
+    "pub_date": "1991-03-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANDREW POLLACK, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c9548eb7c8105d6fc8ed",
+    "word_count": 546,
+    "slideshow_credits": null
+}

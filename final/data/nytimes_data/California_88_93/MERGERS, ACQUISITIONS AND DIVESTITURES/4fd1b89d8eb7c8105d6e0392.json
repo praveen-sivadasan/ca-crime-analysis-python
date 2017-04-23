@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/10/business/acquisition-of-bat-is-set-back.html",
+    "snippet": "LEAD: California insurance regulators today delivered a severe setback to Sir James Goldsmith's $21 billion bid to acquire B.A.T. Industries by denying the proposed sale of Farmers Group Inc., the insurance subsidiary of B.A.T....",
+    "lead_paragraph": "LEAD: California insurance regulators today delivered a severe setback to Sir James Goldsmith's $21 billion bid to acquire B.A.T. Industries by denying the proposed sale of Farmers Group Inc., the insurance subsidiary of B.A.T.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Acquisition Of B.A.T. Is Set Back"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GOLDSMITH, JAMES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FARMERS GROUP INC"
+        },
+        {
+            "name": "organizations",
+            "value": "BAT INDUSTRIES PLC"
+        },
+        {
+            "name": "organizations",
+            "value": "AXA MIDI ASSURANCES"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        }
+    ],
+    "pub_date": "1990-04-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "LEV"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL LEV, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b89d8eb7c8105d6e0392",
+    "word_count": 831,
+    "slideshow_credits": null
+}

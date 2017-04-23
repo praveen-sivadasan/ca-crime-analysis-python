@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/24/us/nation-s-land-of-promise-enters-an-era-of-limits.html",
+    "snippet": "Almost from the time modern Americans discovered Southern California, it has been the ultimate symbol of hope, opportunity and escape: hope for the aged looking for a nice climate in which to retire; opportunity for those on the make; sunny escape...",
+    "lead_paragraph": "Almost from the time modern Americans discovered Southern California, it has been the ultimate symbol of hope, opportunity and escape: hope for the aged looking for a nice climate in which to retire; opportunity for those on the make; sunny escape for the beautiful and the indolent. But now, as the nation looks to this region for clues to the American future, utopian hopes have turned into cautionary tales.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Nation's Land of Promise Enters an Era of Limits"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "SURVEYS AND SERIES"
+        },
+        {
+            "name": "subject",
+            "value": "GEOGRAPHIC PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1993-08-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "Series",
+    "_id": "4fd1e8398eb7c8105d7363c5",
+    "word_count": 2272,
+    "slideshow_credits": null
+}

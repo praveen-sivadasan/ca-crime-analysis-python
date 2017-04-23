@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1997/05/06/business/state-of-california-sues-bankamerica-over-trust-funds.html",
+    "snippet": "The California Attorney General, Dan Lungren, sued the BankAmerica Corporation yesterday, accusing it of cheating state and local governments out of hundreds of millions of dollars by mishandling their bond fund trust accounts. The suit, filed fou...",
+    "lead_paragraph": "The California Attorney General, Dan Lungren, sued the BankAmerica Corporation yesterday, accusing it of cheating state and local governments out of hundreds of millions of dollars by mishandling their bond fund trust accounts. The suit, filed four days after BankAmerica was sued by San Francisco in a similar case, accuses the bank of conspiracy, unfair business practices and breach of contract, among other claims. BankAmerica's general counsel, James Roethe, said in a statement: ''This claim stems from unintentional errors the bank committed in handling municipal bond trust accounts. We stand ready to make full repayment to the state and to any bond issuer that was affected by these errors.''",
+    "abstract": "California Attorney General Dan Lungren sues BankAmerica Corp, accusing it of cheating state and local governments out of hundreds of millions of dollars by mishandling their bond fund trust account; suit accuses bank of conspiracy, unfair business practices and breach of contract, among other claims (S)",
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "STATE OF CALIFORNIA SUES BANKAMERICA OVER TRUST FUNDS",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUNGREN, DAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BANKAMERICA CORP"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "LOCAL GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1997-05-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f0dc8eb7c8105d746d52",
+    "word_count": 111,
+    "slideshow_credits": null
+}

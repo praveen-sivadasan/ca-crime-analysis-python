@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/06/opinion/l-competition-can-make-auto-insurance-affordable-556088.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "34",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Competition Can Make Auto Insurance Affordable"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HUNTER, J ROBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INSURANCE CONSUMER ORGANIZATION, NATIONAL"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1988-12-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd1a0818eb7c8105d6b5681",
+    "word_count": 521,
+    "slideshow_credits": null
+}

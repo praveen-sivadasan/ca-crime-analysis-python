@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/california-quake-digging-near-normal-life-resumes-for-many-san-francisco-after.html",
+    "snippet": "LEAD: The trolleys were running again today....",
+    "lead_paragraph": "LEAD: The trolleys were running again today.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Near Normal Life Resumes for Many in San Francisco After Flurry of Work",
+        "kicker": "THE CALIFORNIA QUAKE: DIGGING OUT"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CABLE CARS"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd196be8eb7c8105d6a4335",
+    "word_count": 1148,
+    "slideshow_credits": null
+}

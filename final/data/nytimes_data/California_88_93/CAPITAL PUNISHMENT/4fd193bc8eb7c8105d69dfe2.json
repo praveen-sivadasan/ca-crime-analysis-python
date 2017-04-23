@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/05/us/speedup-ordered-in-death-row-case.html",
+    "snippet": "LEAD: A Federal appeals court has ordered a speedup in the handling of the case of Robert Alton Harris, a convicted murderer whose stay of execution was backed by the Supreme Court on Monday....",
+    "lead_paragraph": "LEAD: A Federal appeals court has ordered a speedup in the handling of the case of Robert Alton Harris, a convicted murderer whose stay of execution was backed by the Supreme Court on Monday.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "SPEEDUP ORDERED IN DEATH ROW CASE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1990-04-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd193bc8eb7c8105d69dfe2",
+    "word_count": 392,
+    "slideshow_credits": null
+}

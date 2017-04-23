@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/10/17/us/california-limiting-cigarette-machines.html",
+    "snippet": "A bill to ban the sale of cigarettes from all vending machines except those in bars has been signed into law by Gov. Pete Wilson.   The law is intended to curb the sale of tobacco products to minors, said its sponsor, Assemblyman Curtis Tucker Jr....",
+    "lead_paragraph": "A bill to ban the sale of cigarettes from all vending machines except those in bars has been signed into law by Gov. Pete Wilson. The law is intended to curb the sale of tobacco products to minors, said its sponsor, Assemblyman Curtis Tucker Jr., a Democrat from Inglewood.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Limiting Cigarette Machines"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING AND TOBACCO"
+        },
+        {
+            "name": "subject",
+            "value": "VENDING MACHINES"
+        }
+    ],
+    "pub_date": "1995-10-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd2014a8eb7c8105d7653be",
+    "word_count": 114,
+    "slideshow_credits": null
+}

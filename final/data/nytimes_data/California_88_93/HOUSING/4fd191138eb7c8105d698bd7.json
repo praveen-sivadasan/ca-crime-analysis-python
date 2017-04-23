@@ -1,0 +1,38 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/29/business/finance-new-issues-california-housing-issue-is-of-2-types.html",
+    "snippet": "LEAD: The California Housing Finance Agency is tentatively offering $246.8 million of home mortgage revenue bonds through underwriters led by Merrill Lynch Capital Markets....",
+    "lead_paragraph": "LEAD: The California Housing Finance Agency is tentatively offering $246.8 million of home mortgage revenue bonds through underwriters led by Merrill Lynch Capital Markets.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Housing Issue Is of 2 Types",
+        "kicker": "FINANCE/NEW ISSUES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1988-06-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd191138eb7c8105d698bd7",
+    "word_count": 171,
+    "slideshow_credits": null
+}

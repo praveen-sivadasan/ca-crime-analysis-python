@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/08/us/the-1990-elections-california-wilson-the-election-won-plans-for-his-toughest-job.html",
+    "snippet": "Today, twenty-four years after he first got into politics as a young State Assemblyman from San Diego, Senator Pete Wilson returned to his hometown to prepare for what may be the toughest job of his life, governor of California.   And he did so di...",
+    "lead_paragraph": "Today, twenty-four years after he first got into politics as a young State Assemblyman from San Diego, Senator Pete Wilson returned to his hometown to prepare for what may be the toughest job of his life, governor of California. And he did so displaying the kind of methodical planning and reaching out to opponents that have marked the political career of the 57-year-old Republican lawyer. This morning, less than an hour after his Democratic rival, Dianne Feinstein, conceded defeat in San Francisco, Mr. Wilson praised her as a \"tough and dedicated\" candidate who made history as the first woman to run for governor of this state as the candidate of a major party.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1990 ELECTIONS: California; Wilson, the Election Won, Plans for His Toughest Job"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-11-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197108eb7c8105d6a4f43",
+    "word_count": 853,
+    "slideshow_credits": null
+}

@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1998/01/26/business/video-network-hopes-to-copy-success-of-spanish-language-radio.html",
+    "snippet": "Eduardo Caballero, an early promoter of Spanish-language radio, is again breaking new ground with a start-up Spanish music-video television network built from a string of low-power stations in the San Joaquin Valley and along the central coast of ...",
+    "lead_paragraph": "Eduardo Caballero, an early promoter of Spanish-language radio, is again breaking new ground with a start-up Spanish music-video television network built from a string of low-power stations in the San Joaquin Valley and along the central coast of California. Mas Musica Teve began 24-hour broadcasting in September from KSUV, a new broadcast station in Bakersfield. Its programming is a combination of glossy Spanish-language pop and Mexican country music videos that repeat throughout the day, along with in-studio segues by staff video jockeys. It hopes one day to add concert footage and interviews with Hispanic artists.",
+    "abstract": "Eduardo Caballero, early promoter of Spanish-language radio, is breaking new ground with start-up Spanish music-video television network built from string of low-power stations in San Joaquin Valley and along central coast of California; programming is combination of glossy Spanish-language pop and Mexican country music videos that repeat throughout day, along with in-studio segues by staff video jockeys; his station faces little competition so far, but MTV and VH1 intend to expand their programming with Spanish-language channels this summer; photo (M)",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Video Network Hopes to Copy Success of Spanish-Language Radio"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CABALLERO, EDUARDO"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "VH1"
+        },
+        {
+            "name": "organizations",
+            "value": "MUSIC TELEVISION NETWORKS INC"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH LANGUAGE"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        }
+    ],
+    "pub_date": "1998-01-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            }
+        ],
+        "original": "By ANDREA ADELSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd203d88eb7c8105d769d1c",
+    "word_count": 1062,
+    "slideshow_credits": null
+}

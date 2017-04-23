@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/01/business/market-place-drought-may-hurt-some-california-bonds.html",
+    "snippet": "The drought afflicting California is starting to send an uneasy rumble through the municipal bond market, as some analysts and investors question whether the long dry spell will make it harder for thousands of local government units to repay billi...",
+    "lead_paragraph": "The drought afflicting California is starting to send an uneasy rumble through the municipal bond market, as some analysts and investors question whether the long dry spell will make it harder for thousands of local government units to repay billions of dollars worth of bonds they sold to the public. These government units, including water districts, municipal utilities and public power projects, make money from selling water, treating waste water and generating hydroelectric power. Yet the markets have largely ignored the impact that nearly four years of below-average rainfall could have on the financial health of these borrowers.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Market Place; Drought May Hurt Some California Bonds"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "LOCAL GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1990-11-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By DIANA B. HENRIQUES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd199188eb7c8105d6a9009",
+    "word_count": 1009,
+    "slideshow_credits": null
+}

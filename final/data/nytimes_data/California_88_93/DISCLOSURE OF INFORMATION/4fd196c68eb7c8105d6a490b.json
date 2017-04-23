@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1989/09/29/us/gillette-settles-case-on-product-cancer-risk.html",
+    "snippet": "LEAD: The Gillette Company, maker of the Liquid Paper typewriter correction fluid, agreed today to remove a cancer-causing ingredient from it and to pay $300,000 in penalties and costs to settle a legal action by environmentalists....",
+    "lead_paragraph": "LEAD: The Gillette Company, maker of the Liquid Paper typewriter correction fluid, agreed today to remove a cancer-causing ingredient from it and to pay $300,000 in penalties and costs to settle a legal action by environmentalists.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Gillette Settles Case on Product Cancer Risk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GILLETTE CO"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+        },
+        {
+            "name": "subject",
+            "value": "CHEMICALS"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "TYPEWRITERS AND TYPEWRITING"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "DISCLOSURE OF INFORMATION"
+        }
+    ],
+    "pub_date": "1989-09-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd196c68eb7c8105d6a490b",
+    "word_count": 247,
+    "slideshow_credits": null
+}

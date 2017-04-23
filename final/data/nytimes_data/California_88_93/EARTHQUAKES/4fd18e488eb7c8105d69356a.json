@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/the-california-quake-prospects-bigger-one-is-believed-still-ahead.html",
+    "snippet": "LEAD: Despite the devastating effects of the earthquake Tuesday, it was not nearly as strong as either the great quake that struck San Francisco in 1906 or the great quake that most seismologists believe will strike the Bay area sooner or later....",
+    "lead_paragraph": "LEAD: Despite the devastating effects of the earthquake Tuesday, it was not nearly as strong as either the great quake that struck San Francisco in 1906 or the great quake that most seismologists believe will strike the Bay area sooner or later.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bigger One Is Believed Still Ahead",
+        "kicker": "THE CALIFORNIA QUAKE: PROSPECTS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Walter",
+                "rank": 1,
+                "lastname": "SULLIVAN"
+            }
+        ],
+        "original": "By WALTER SULLIVAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e488eb7c8105d69356a",
+    "word_count": 524,
+    "slideshow_credits": null
+}

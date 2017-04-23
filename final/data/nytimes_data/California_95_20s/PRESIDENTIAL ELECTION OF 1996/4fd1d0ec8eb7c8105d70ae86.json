@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1995/10/21/us/a-noncandidate-bradley-plans-an-issue-oriented-trip.html",
+    "snippet": "Senator Bill Bradley announced today that he planned to travel to California  next week to listen to people \"and try to figure out if some of my ideas about where people are, are correct.\"         When the New Jersey Democrat announced in August t...",
+    "lead_paragraph": "Senator Bill Bradley announced today that he planned to travel to California next week to listen to people \"and try to figure out if some of my ideas about where people are, are correct.\" When the New Jersey Democrat announced in August that he would not run for a fourth term in the Senate, he said he was considering an independent Presidential candidacy. Asked today if his travels were preliminary to a run for the White House, he said, \"This is not about a candidacy -- at this time.\" He continued, \"But it is about trying to reconnect the political process to people's lives.\"",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Noncandidate, Bradley Plans an Issue-Oriented Trip"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BRADLEY, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1995-10-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "CLYMER"
+            }
+        ],
+        "original": "By ADAM CLYMER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d0ec8eb7c8105d70ae86",
+    "word_count": 788,
+    "slideshow_credits": null
+}

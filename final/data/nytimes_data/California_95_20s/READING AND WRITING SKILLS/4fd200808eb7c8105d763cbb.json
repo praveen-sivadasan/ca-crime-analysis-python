@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1999/07/07/us/glitch-over-language-proficiency-mars-test-results-in-california.html",
+    "snippet": "California students made modest gains in every subject and nearly every grade in a test of basic skills this spring, according to results reported last week. But what seemed like a big victory for opponents of bilingual education evaporated when a...",
+    "lead_paragraph": "California students made modest gains in every subject and nearly every grade in a test of basic skills this spring, according to results reported last week. But what seemed like a big victory for opponents of bilingual education evaporated when a reporting error was found to have inflated the scores of non-English-speaking students. The error, discovered the day before the scores were to be posted on the Internet, made it look as if students with limited English had made sharp gains in the first school year since the state's voters banned bilingual education.",
+    "abstract": "California students made modest gains in every subject and nearly every grade in test of basic skills this spring; what seemed like big victory for opponents of bilingual education evaporated when reporting error was found to have inflated scores of non-English-speaking students (M)",
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Glitch Over Language Proficiency Mars Test Results in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BILINGUAL EDUCATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "READING AND WRITING SKILLS"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        }
+    ],
+    "pub_date": "1999-07-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            }
+        ],
+        "original": "By ANDREA ADELSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd200808eb7c8105d763cbb",
+    "word_count": 357,
+    "slideshow_credits": null
+}

@@ -1,0 +1,67 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/03/us/of-deukmejian-s-demise-and-the-party-s-fall-peril.html",
+    "snippet": "LEAD: The conjunction of state finance problems and Republican fiscal orthodoxy have all but eliminated whatever chance remained that Gov. George Deukmejian of California would be chosen as the Republican Vice-Presidential candidate, and they have...",
+    "lead_paragraph": "LEAD: The conjunction of state finance problems and Republican fiscal orthodoxy have all but eliminated whatever chance remained that Gov. George Deukmejian of California would be chosen as the Republican Vice-Presidential candidate, and they have perhaps hurt the party's chances of carrying the state this fall.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Of Deukmejian's Demise And the Party's Fall Peril"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "VICE PRESIDENTS AND VICE PRESIDENCY (US)"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1988-06-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr.",
+                "firstname": "R.",
+                "middlename": "W.",
+                "lastname": "APPLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By R. W. APPLE Jr., Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18ca58eb7c8105d690786",
+    "word_count": 1065,
+    "slideshow_credits": null
+}

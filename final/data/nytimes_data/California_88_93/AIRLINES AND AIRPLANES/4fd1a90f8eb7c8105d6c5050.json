@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/13/business/company-news-mcdonnell-hints-at-jet-project-move.html",
+    "snippet": "The McDonnell Douglas Corporation said it had run out of room to expand its Douglas Aircraft Company operations here and might have to produce its next-generation passenger jet outside California. The company said it might move the $3 billion MD-1...",
+    "lead_paragraph": "The McDonnell Douglas Corporation said it had run out of room to expand its Douglas Aircraft Company operations here and might have to produce its next-generation passenger jet outside California. The company said it might move the $3 billion MD-12X jet project to a state that offered more incentives. \"The probability is that we will go elsewhere,\" said Donald Snyder, general manager of the MD-12X program. A company spokesman, Don Hanson, said McDonnell was not considering shutting down its Douglas unit in Long Beach. \"What we're talking about is a new facility\" for the MD-12X, he said. McDonnell Douglas' board will decide by August where to manufacture the MD-12X, The Los Angeles Times reported.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "McDonnell Hints At Jet Project Move",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MCDONNELL DOUGLAS CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "MD-12 X AIRPLANE"
+        }
+    ],
+    "pub_date": "1991-03-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a90f8eb7c8105d6c5050",
+    "word_count": 116,
+    "slideshow_credits": null
+}

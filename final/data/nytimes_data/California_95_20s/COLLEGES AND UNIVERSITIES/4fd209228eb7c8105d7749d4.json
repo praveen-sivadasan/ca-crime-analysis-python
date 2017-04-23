@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1997/11/28/opinion/abroad-at-home-violins-in-the-wings.html",
+    "snippet": "''You have to distinguish between means and ends,'' Albert Carnesale said. ''What's important here is the end, diversity. Affirmative action is just one means to that end.''    Mr. Carnesale is the new Chancellor of the University of California at...",
+    "lead_paragraph": "''You have to distinguish between means and ends,'' Albert Carnesale said. ''What's important here is the end, diversity. Affirmative action is just one means to that end.'' Mr. Carnesale is the new Chancellor of the University of California at Los Angeles, a great public university in a diverse city. He moved here in July from Harvard, where he was dean of the Kennedy School and then provost. He arrived at a turning point for affirmative action in California.",
+    "abstract": "Anthony Lewis Op-Ed column on challenge of maintaining diversity at California's public colleges in wake of Proposition 209, which forbids giving preference in admissions on basis of race or ethnicity; quotes Albert Carnesale, new Chancellor of University of California at Los Angeles, on need for diversity; he feels colleges should be more engaged in high schools, to get more minorities eligible for college; Carnesale says applicants may be chosen for special skills or experiences, and in that way diversity can be achieved (M)",
+    "print_page": "39",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Abroad at Home; Violins In the Wings"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CARNESALE, ALBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "ADMISSIONS STANDARDS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        }
+    ],
+    "pub_date": "1997-11-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Anthony",
+                "rank": 1,
+                "lastname": "LEWIS"
+            }
+        ],
+        "original": "By ANTHONY LEWIS"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd209228eb7c8105d7749d4",
+    "word_count": 692,
+    "slideshow_credits": null
+}

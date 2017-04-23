@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1998/05/09/us/lettuce-is-available-but-costing-more-green.html",
+    "snippet": "As a rule, Mary Keselowsky of Oakhurst, N.J., serves salad to her husband and three children at dinner. But when the price of romaine lettuce recently climbed to $1.99 a head, double what Ms. Keselowsky usually pays for it, she refused to add it t...",
+    "lead_paragraph": "As a rule, Mary Keselowsky of Oakhurst, N.J., serves salad to her husband and three children at dinner. But when the price of romaine lettuce recently climbed to $1.99 a head, double what Ms. Keselowsky usually pays for it, she refused to add it to her shopping cart. Then, a few days later, finding no adequate substitute, she relented.",
+    "abstract": "Heavy rains attributed to El Nino that battered California in recent months have caused nationwide lettuce scarcity, driving up prices and often forcing consumers to settle for inferior quality; photos (M)",
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Lettuce Is Available, But Costing More Green"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EL NINO (PACIFIC OCEAN PHENOMENON)"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "LETTUCE"
+        }
+    ],
+    "pub_date": "1998-05-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Terry",
+                "rank": 1,
+                "lastname": "PRISTIN"
+            }
+        ],
+        "original": "By TERRY PRISTIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fb818eb7c8105d759dc0",
+    "word_count": 759,
+    "slideshow_credits": null
+}

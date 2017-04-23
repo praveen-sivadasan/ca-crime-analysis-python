@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/06/us/once-more-california-comes-close-to-running-out-of-electricity.html",
+    "snippet": "For the second time in as many days, power companies today were forced to shut down electricity to customers statewide as California came the closest it has this season to running out of power, state officials said.    As late as tonight, energy o...",
+    "lead_paragraph": "For the second time in as many days, power companies today were forced to shut down electricity to customers statewide as California came the closest it has this season to running out of power, state officials said. As late as tonight, energy officials were concerned that they would be forced to announce a last-resort emergency as power reserves crept close to a dangerous level of 1.5 percent, and utility companies would have been required to institute rolling hourlong blackouts in various parts of the state. Such last-resort steps have never been taken in California before.",
+    "abstract": "California utilities are forced to cut electric service to some large customers, who have agreed to cuts in exchange for lower rates, as state comes closest it has this season to running out of power; officials say they are on brink of instituting rolling hourlong blackouts in various parts of state; Californians have been plagued since last May by both shortage of electricity and high prices as result of deregulation (M)",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Once More, California Comes Close to Running Out of Electricity"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKOUTS (ELECTRICAL)"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "2000-12-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAURA M. HOLSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21d428eb7c8105d79dd18",
+    "word_count": 430,
+    "slideshow_credits": null
+}

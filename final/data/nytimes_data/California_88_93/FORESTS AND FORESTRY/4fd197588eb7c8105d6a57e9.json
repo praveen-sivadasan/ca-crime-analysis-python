@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/21/us/police-arrest-44-in-redwood-protest.html",
+    "snippet": "LEAD: Forty-four environmental protesters were arrested today as they blocked a logging truck loaded with cut trees in what was billed as the first in a series of militant protests against redwood logging in Northern California....",
+    "lead_paragraph": "LEAD: Forty-four environmental protesters were arrested today as they blocked a logging truck loaded with cut trees in what was billed as the first in a series of militant protests against redwood logging in Northern California.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Police Arrest 44 in Redwood Protest"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EARTH FIRST!"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        }
+    ],
+    "pub_date": "1990-06-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197588eb7c8105d6a57e9",
+    "word_count": 852,
+    "slideshow_credits": null
+}

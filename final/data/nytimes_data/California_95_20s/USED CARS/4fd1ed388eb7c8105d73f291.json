@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/18/business/decision-reduces-penalty-on-chrysler-in-california.html",
+    "snippet": "A California regulator yesterday ordered the Chrysler Corporation to halt shipments of cars and trucks to the state for 45 days -- rather than the 60 days that had been proposed -- as punishment for selling 116 used vehicles without disclosing tha...",
+    "lead_paragraph": "A California regulator yesterday ordered the Chrysler Corporation to halt shipments of cars and trucks to the state for 45 days -- rather than the 60 days that had been proposed -- as punishment for selling 116 used vehicles without disclosing that they had been repurchased under the state's ''lemon law.'' Chrysler said it intended to appeal the ruling to a state board that reviews disputes involving car makers. The penalty, the harshest so far by any state for violations of lemon laws, is scheduled to begin on Nov. 26, but could be delayed considerably or reversed during the appeal.",
+    "abstract": "California Department of Motor Vehicles orders Chrysler Corp to halt shipments of cars and trucks to the state for 45 days--rather than 60 days that had been proposed--as punishment for selling 116 used vehicles without disclosing that they had been repurchased under the state's 'lemon law'; Chrysler says it intends to appeal the ruling (M)",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Decision Reduces Penalty On Chrysler in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHRYSLER CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "TRUCKS AND TRUCKING"
+        },
+        {
+            "name": "subject",
+            "value": "USED CARS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1996-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            }
+        ],
+        "original": "By ANDREA ADELSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ed388eb7c8105d73f291",
+    "word_count": 396,
+    "slideshow_credits": null
+}

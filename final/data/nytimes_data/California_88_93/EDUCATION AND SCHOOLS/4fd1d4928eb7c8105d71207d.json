@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/20/us/report-in-california-recommends-customizing-high-school-studies.html",
+    "snippet": "Rejecting the traditional \"shopping mall\" approach of most high schools, a state-sponsored study group today recommended that California students be asked to take two years of a tougher core curriculum, then customize their studies in the last two...",
+    "lead_paragraph": "Rejecting the traditional \"shopping mall\" approach of most high schools, a state-sponsored study group today recommended that California students be asked to take two years of a tougher core curriculum, then customize their studies in the last two years to better prepare them for college or the workplace. The report, the result of a two-year study by a 69-member High School Task Force, proposes routing juniors and seniors into \"majors\" that would be organized either by career fields, like health care, or by academic disciplines, like the humanities. These focus areas could lead to college, further technical training or directly into a job. Students would have the option of changing paths.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Report in California Recommends Customizing High School Studies"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION (SECONDARY)"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        }
+    ],
+    "pub_date": "1992-03-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4928eb7c8105d71207d",
+    "word_count": 567,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1996/04/10/garden/wine-talk-063665.html",
+    "snippet": "THESE are not days of unalloyed joy in the California wine country. What with grape prices going through the roof, phylloxera-ravaged vineyards to replant, flat sales and many wineries on the block, the wine makers have more crises than a Joan Cra...",
+    "lead_paragraph": "THESE are not days of unalloyed joy in the California wine country. What with grape prices going through the roof, phylloxera-ravaged vineyards to replant, flat sales and many wineries on the block, the wine makers have more crises than a Joan Crawford movie. If none of this moves you to tears, wait until the next time you stop by your local purveyor for a bottle of something to spark up dinner. It won't take much aisle-wandering to realize that just about everything that was $10 on your last visit is $15 now.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1996-04-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1df5a8eb7c8105d724661",
+    "word_count": 1134,
+    "slideshow_credits": null
+}

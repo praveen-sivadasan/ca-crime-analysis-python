@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/03/opinion/topics-of-the-times-007-arrested.html",
+    "snippet": "LEAD: James Bond is a master at narrow escapes from life-threatening traps laid by his villainous enemies. It is perhaps less noticed that, no matter how fast he roars through mountain passes on winding two-lane highways, he also escapes traffic c...",
+    "lead_paragraph": "LEAD: James Bond is a master at narrow escapes from life-threatening traps laid by his villainous enemies. It is perhaps less noticed that, no matter how fast he roars through mountain passes on winding two-lane highways, he also escapes traffic cops. Sean Connery, the movies' original 007, isn't so lucky.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Topics of the Times;   007, Arrested"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "TOPICS OF THE TIMES (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "CONNERY, SEAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "SPEED LIMITS AND SPEEDING"
+        }
+    ],
+    "pub_date": "1990-03-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd19b698eb7c8105d6ac289",
+    "word_count": 226,
+    "slideshow_credits": null
+}

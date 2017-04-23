@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1998/06/27/us/supreme-court-double-jeopardy-sentencing-under-3-strikes-laws-deciding-whether.html",
+    "snippet": "The constitutional protection against double jeopardy does not ordinarily apply to criminal sentencing, the Supreme Court ruled today in a decision that removed a legal cloud from the operation of some states' ''three strikes'' sentencing laws.   ...",
+    "lead_paragraph": "The constitutional protection against double jeopardy does not ordinarily apply to criminal sentencing, the Supreme Court ruled today in a decision that removed a legal cloud from the operation of some states' ''three strikes'' sentencing laws. The 5-to-4 decision, upholding a ruling by the California Supreme Court, means that a state can have more than one chance to prove that a previous conviction qualifies as a ''strike'' that counts against a defendant in calculating an enhanced sentence for a new offense.",
+    "abstract": "Supreme Court, 5-4, rules constitutional protection against double jeopardy does not usually apply to criminal sentencing; decision removes legal cloud over some state 'three strikes' sentencing laws; upholds California Supreme Court ruling that state can have more than one chance to prove previous conviction counts against defendant in calculating enhanced sentence for new offense; Court refuses to hear challenge to Federal law barring Government from selling or renting 'sexually explicit material' on military property, suit brought by publisher of Penthouse magazine and others (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In Sentencing Under '3 Strikes' Laws, Deciding Whether Crime Is Strike Isn't Double Jeopardy",
+        "kicker": "THE SUPREME COURT: DOUBLE JEOPARDY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PENTHOUSE"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "PORNOGRAPHY AND OBSCENITY"
+        },
+        {
+            "name": "subject",
+            "value": "DOUBLE JEOPARDY"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1998-06-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20c578eb7c8105d77b725",
+    "word_count": 748,
+    "slideshow_credits": null
+}

@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/16/us/running-on-experience-on-welfare-then-off-it.html",
+    "snippet": "If elected to the House of Representatives in November, Lynn Woolsey promises to be Exhibit A for a nation struggling to contain welfare costs, hold absent fathers accountable for the support of their children and ease the passage of single mother...",
+    "lead_paragraph": "If elected to the House of Representatives in November, Lynn Woolsey promises to be Exhibit A for a nation struggling to contain welfare costs, hold absent fathers accountable for the support of their children and ease the passage of single mothers from public assistance to sustaining work. Ms. Woolsey, a Sonoma County Democrat who won a nine-way primary on June 2, would bring more than good intentions and a female sensibility to the discussion of these interlocking issues. She has lived them all, seen the social-welfare system in the most personal way and used it to boost herself and her family to self-reliance.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Running on Experience: On Welfare, Then Off It"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FILANTE, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "WOOLSEY, LYNN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        }
+    ],
+    "pub_date": "1992-06-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1cfdf8eb7c8105d709021",
+    "word_count": 1201,
+    "slideshow_credits": null
+}

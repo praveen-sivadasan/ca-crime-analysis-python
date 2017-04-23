@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1999/10/11/business/reporter-gets-a-subpoena-on-interview-in-95-killing.html",
+    "snippet": "A reporter for a magazine published by a civil rights group has been subpoenaed to provide tape recordings and notes of an interview with a defendant in a murder that may have been racially motivated.    The reporter is said to have told a Federal...",
+    "lead_paragraph": "A reporter for a magazine published by a civil rights group has been subpoenaed to provide tape recordings and notes of an interview with a defendant in a murder that may have been racially motivated. The reporter is said to have told a Federal investigator that the defendant acknowledged committing a murder. She is a writer for the quarterly magazine Intelligence Report, which covers right-wing extremists and is published by the Southern Poverty Law Center, a civil rights group that regularly holds seminars for law enforcement agents about trends and beliefs among hate groups. The magazine is circulated to about 150,000 contributors to the organization, which is based in Birmingham, Ala.",
+    "abstract": "Trish O'Kane, writer for quarterly magazine Intelligence Report, which is published by Southern Poverty Law Center, has been subpoenaed to provide tape recordings and notes of interview with Randall Lee Rojas, accused with two others of beating black man, Milton Walker Jr, to death in 1995 in California in allegedly racially motivated crime; she reportedly told Federal investigator that Rojas admitted committing a murder; prosecutors decided not to seek subpoena, which was sought by Rojas's co-defendants; magazine will fight subpoena (M)",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Reporter Gets A Subpoena On Interview In '95 Killing"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ROJAS, RANDALL LEE"
+        },
+        {
+            "name": "persons",
+            "value": "O'KANE, TRISH"
+        },
+        {
+            "name": "persons",
+            "value": "WALKER, MILTON JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTHERN POVERTY LAW CENTER"
+        },
+        {
+            "name": "organizations",
+            "value": "INTELLIGENCE REPORT"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+        }
+    ],
+    "pub_date": "1999-10-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christian",
+                "rank": 1,
+                "lastname": "BERTHELSEN"
+            }
+        ],
+        "original": "By CHRISTIAN BERTHELSEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd210b38eb7c8105d78548f",
+    "word_count": 337,
+    "slideshow_credits": null
+}

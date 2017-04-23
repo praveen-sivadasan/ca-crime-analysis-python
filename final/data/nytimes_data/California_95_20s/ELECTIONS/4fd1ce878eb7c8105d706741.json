@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1997/04/24/us/california-state-term-limits-overturned-by-federal-judge.html",
+    "snippet": "In the nation's first court ruling against term limits for state legislators, a Federal judge today overturned the limits approved by California voters in 1990, declaring that the measure's lifetime limits of six years in the State Assembly and ei...",
+    "lead_paragraph": "In the nation's first court ruling against term limits for state legislators, a Federal judge today overturned the limits approved by California voters in 1990, declaring that the measure's lifetime limits of six years in the State Assembly and eight in the State Senate were unconstitutional. The judge, Claudia Wilken of United States District Court in Oakland, said the state might be able to restrict the number of consecutive terms a legislator could serve. But she said the ballot initiative, Proposition 140, was impermissibly broad by imposing a lifetime limit of three two-year terms in the Assembly and two four-year terms in the Senate.",
+    "abstract": "Federal District Judge Claudia Wilken, in nation's first court ruling against term limits for state legislators, overturns limits approved by California voters in 1990; says measure's lifetime limits of six years in State Assembly and eight in State Senate are unconstitutional (M)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California State Term Limits Overturned by Federal Judge"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILKEN, CLAUDIA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES AND PARLIAMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "TERM LIMITS (POLITICAL OFFICE)"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1997-04-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ce878eb7c8105d706741",
+    "word_count": 799,
+    "slideshow_credits": null
+}

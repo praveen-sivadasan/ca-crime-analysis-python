@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/13/business/official-seeks-overhaul-of-california-insurance.html",
+    "snippet": "California's Insurance Commissioner today proposed a radical overhaul of the state's health insurance system, recommending the establishment of a government-industry partnership that would no longer tie coverage to employment.   The proposal, as o...",
+    "lead_paragraph": "California's Insurance Commissioner today proposed a radical overhaul of the state's health insurance system, recommending the establishment of a government-industry partnership that would no longer tie coverage to employment. The proposal, as outlined by Insurance Commissioner John Garamendi, a Democrat, centers on government-created corporations that would assess fees to be paid by companies and employees and use the proceeds to purchase health coverage for all residents of the state.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Official Seeks Overhaul Of California Insurance"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GARAMENDI, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1992-02-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Health; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1abbe8eb7c8105d6ca7b4",
+    "word_count": 574,
+    "slideshow_credits": null
+}

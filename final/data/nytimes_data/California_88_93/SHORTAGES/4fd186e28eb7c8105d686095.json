@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/15/us/california-faces-teacher-shortage.html",
+    "snippet": "LEAD: California schools are suffering from a severe shortage of bilingual teachers, leaving many districts unable to find enough qualified teachers to keep up with the sharply rising number of pupils who know little or no English....",
+    "lead_paragraph": "LEAD: California schools are suffering from a severe shortage of bilingual teachers, leaving many districts unable to find enough qualified teachers to keep up with the sharply rising number of pupils who know little or no English.",
+    "abstract": null,
+    "print_page": "33",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA FACES TEACHER SHORTAGE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "CHINESE-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "VIETNAMESE-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+        }
+    ],
+    "pub_date": "1988-12-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Louis",
+                "rank": 1,
+                "lastname": "FREEDBERG"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By LOUIS FREEDBERG, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd186e28eb7c8105d686095",
+    "word_count": 842,
+    "slideshow_credits": null
+}

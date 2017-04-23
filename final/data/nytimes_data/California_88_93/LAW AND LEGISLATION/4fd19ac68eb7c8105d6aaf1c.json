@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/07/10/us/journalists-lose-court-ruling.html",
+    "snippet": "LEAD: California's law protecting journalists from disclosing confidential sources of information does not exempt them from giving eyewitness accounts when called on to testify, a state appeals court has ruled....",
+    "lead_paragraph": "LEAD: California's law protecting journalists from disclosing confidential sources of information does not exempt them from giving eyewitness accounts when called on to testify, a state appeals court has ruled.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Journalists Lose Court Ruling"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS SOURCES, CONFIDENTIAL STATUS OF"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "DISCLOSURE OF INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1988-07-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd19ac68eb7c8105d6aaf1c",
+    "word_count": 321,
+    "slideshow_credits": null
+}

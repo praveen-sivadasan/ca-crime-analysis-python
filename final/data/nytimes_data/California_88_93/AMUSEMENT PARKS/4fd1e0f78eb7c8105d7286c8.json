@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1993/12/29/business/company-news-disney-says-it-still-plans-a-2d-southern-california-park.html",
+    "snippet": "The Walt Disney Company, bruised by the unprofitable Euro Disneyland, has not backed off from its plans to build a second theme park in Southern California, a company executive says.   Mounting losses from Euro Disneyland and the recent departure ...",
+    "lead_paragraph": "The Walt Disney Company, bruised by the unprofitable Euro Disneyland, has not backed off from its plans to build a second theme park in Southern California, a company executive says. Mounting losses from Euro Disneyland and the recent departure of a key executive have prompted speculation that Disney may be reassessing its plans for the proposed $3 billion Westcot park. High development costs have also raised doubts about the project.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Disney Says It Still Plans a 2d Southern California Park",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "DISNEY, WALT, COWALT DISNEY CO INC"
+        },
+        {
+            "name": "creative_works",
+            "value": "EURO DISNEYLAND SCA"
+        },
+        {
+            "name": "creative_works",
+            "value": "EURO DISNEYLAND (FRANCE)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DISNEY, WALT, CO"
+        },
+        {
+            "name": "organizations",
+            "value": "EURO DISNEYLAND"
+        },
+        {
+            "name": "subject",
+            "value": "AMUSEMENT PARKS"
+        }
+    ],
+    "pub_date": "1993-12-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e0f78eb7c8105d7286c8",
+    "word_count": "585",
+    "slideshow_credits": null
+}

@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/27/us/company-eases-its-policy-on-logging-of-redwoods.html",
+    "snippet": "LEAD: Under pressure from environmentalist groups, the Pacific Lumber Company said today that it would reverse its two-year-old policy of accelerated cutting of trees in virgin redwood forests....",
+    "lead_paragraph": "LEAD: Under pressure from environmentalist groups, the Pacific Lumber Company said today that it would reverse its two-year-old policy of accelerated cutting of trees in virgin redwood forests.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Company Eases Its Policy on Logging of Redwoods"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC LUMBER CO"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        }
+    ],
+    "pub_date": "1988-05-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17f368eb7c8105d67a025",
+    "word_count": 554,
+    "slideshow_credits": null
+}

@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1998/07/04/nyregion/c-corrections-728292.html",
+    "snippet": "An article on Thursday about Republicans who spoke before a national Hispanic organization misstated the number of the California proposition in June that called for abolishing bilingual education. It was 227. (Proposition 187 was a 1994 initiativ...",
+    "lead_paragraph": "An article on Thursday about Republicans who spoke before a national Hispanic organization misstated the number of the California proposition in June that called for abolishing bilingual education. It was 227. (Proposition 187 was a 1994 initiative to deny state services to illegal immigrants.)",
+    "abstract": "Correction of July 2 article misstated number of California proposition that called for abolishing bilingual education ; it was was Proposition 227, not 187",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 227 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "BILINGUAL EDUCATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 187 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-07-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Education; Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1eb018eb7c8105d73b68a",
+    "word_count": 44,
+    "slideshow_credits": null
+}

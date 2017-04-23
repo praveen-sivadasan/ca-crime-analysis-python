@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/24/business/a-reform-plan-in-california.html",
+    "snippet": "A commission appointed by Gov. Pete Wilson to study California's deteriorating economy issued a stark warning today that the state faces a long-term decline in its competitiveness unless it undertakes sweeping reforms.   The bipartisan commission,...",
+    "lead_paragraph": "A commission appointed by Gov. Pete Wilson to study California's deteriorating economy issued a stark warning today that the state faces a long-term decline in its competitiveness unless it undertakes sweeping reforms. The bipartisan commission, which was headed by Peter V. Ueberroth, concluded that California \"has real problems, and they are only going to get worse.\"",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Reform Plan In California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "UEBERROTH, PETER V"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1992-04-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ced88eb7c8105d707128",
+    "word_count": 185,
+    "slideshow_credits": null
+}

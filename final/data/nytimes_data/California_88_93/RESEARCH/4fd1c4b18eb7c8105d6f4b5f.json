@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/03/science/california-finds-lead-exposure-could-affect-1-of-5-children.html",
+    "snippet": "A study has found that one in five California preschool children has enough lead in the blood to impede learning, impair reading skills and cause behavioral problems that could increase the chances of failure later in life.   State documents obtai...",
+    "lead_paragraph": "A study has found that one in five California preschool children has enough lead in the blood to impede learning, impair reading skills and cause behavioral problems that could increase the chances of failure later in life. State documents obtained by The Sacramento Bee also show that more than a decade after California passed some of the nation's toughest safety rules, tens of thousands of California workers, including painters, plumbers, mechanics, factory workers and wine makers, are exposed to dangerous levels of lead daily.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Finds Lead Exposure Could Affect 1 of 5 Children"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POISONING AND POISONS"
+        },
+        {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+        },
+        {
+            "name": "subject",
+            "value": "LEAD"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        }
+    ],
+    "pub_date": "1991-09-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Health",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c4b18eb7c8105d6f4b5f",
+    "word_count": 631,
+    "slideshow_credits": null
+}

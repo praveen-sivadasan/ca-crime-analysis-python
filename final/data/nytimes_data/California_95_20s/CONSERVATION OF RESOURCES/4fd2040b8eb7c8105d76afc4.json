@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/24/business/private-sector-a-lightning-rod-in-california.html",
+    "snippet": "WHEN a water shortage gripped California in the mid-1990's, Stephen L. Baum took to showering in a bucket. He would stand in the bucket under the shower, get wet, shut off the faucet, soap up, rinse and flush the toilet with the accumulated water....",
+    "lead_paragraph": "WHEN a water shortage gripped California in the mid-1990's, Stephen L. Baum took to showering in a bucket. He would stand in the bucket under the shower, get wet, shut off the faucet, soap up, rinse and flush the toilet with the accumulated water. Mr. Baum, the chairman of Sempra Energy, has asked his customers to take the same kind of conservation steps in response to the the current crisis gripping California -- spiraling natural-gas prices, coupled with an unprecedented shortage of electricity that has been widely attributed to a chaotic deregulation of the state's utility industry.",
+    "abstract": "Stephen L Baum, chairman of Sempra Energy, in California, copes with state's disarray in energy deregulation; he favors both conservation and new approaches to deregulation; photo (M)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Lightning Rod in California",
+        "kicker": "PRIVATE SECTOR"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BAUM, STEPHEN L"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SEMPRA ENERGY CO"
+        },
+        {
+            "name": "subject",
+            "value": "CONSERVATION OF RESOURCES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "2000-12-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Money and Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Barbara",
+                "rank": 1,
+                "lastname": "WHITAKER"
+            }
+        ],
+        "original": "By BARBARA WHITAKER"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd2040b8eb7c8105d76afc4",
+    "word_count": 1037,
+    "slideshow_credits": null
+}

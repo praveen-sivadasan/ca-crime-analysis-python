@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1998/07/06/business/tabloid-offers-reward-and-gets-small-thanks.html",
+    "snippet": "Trial watchers here are saying People of the State of California v. Mikail Markhasev may not have come to pass were it not for The National Enquirer.    In the prosecution of Mr. Markhasev, the man accused of killing Bill Cosby's son, Ennis, there...",
+    "lead_paragraph": "Trial watchers here are saying People of the State of California v. Mikail Markhasev may not have come to pass were it not for The National Enquirer. In the prosecution of Mr. Markhasev, the man accused of killing Bill Cosby's son, Ennis, there have been two critical pieces of evidence: a .38-caliber Taurus revolver said to be the murder weapon and a series of letters the prosecutors say the defendant wrote after his arrest.",
+    "abstract": "Key evidence against Mikail Markhasev, charged with California murder of Bill Cosby's son, Ennis, was uncovered with help of $100,000 reward offered by National Enquirer; Enquirer editor Steve Coz says Bill Cosby first suggested reward and polic and prosecutors supported it, despite potential negative impact on justice system; photos (M)",
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tabloid Offers Reward And Gets Small Thanks"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MARKHASEV, MIKHAIL"
+        },
+        {
+            "name": "persons",
+            "value": "COSBY, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "COZ, STEVE"
+        },
+        {
+            "name": "persons",
+            "value": "COSBY, ENNIS"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL ENQUIRER"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "REWARDS"
+        }
+    ],
+    "pub_date": "1998-07-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christian",
+                "rank": 1,
+                "lastname": "BERTHELSEN"
+            }
+        ],
+        "original": "By CHRISTIAN BERTHELSEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dff38eb7c8105d725f9b",
+    "word_count": 764,
+    "slideshow_credits": null
+}

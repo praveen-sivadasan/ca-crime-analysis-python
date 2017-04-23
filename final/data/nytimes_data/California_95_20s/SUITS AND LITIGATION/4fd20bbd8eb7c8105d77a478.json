@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/2000/11/01/dining/wine-talk-a-tangle-of-vines-and-lawsuits.html",
+    "snippet": "A ROSE by any other name may smell as sweet. And so may a grapevine. But don't tell that to Chuck Wagner Jr.    Mr. Wagner is the president and winemaker at Caymus Vineyards in the Napa Valley in California. Someone sold him a bunch of roussanne v...",
+    "lead_paragraph": "A ROSE by any other name may smell as sweet. And so may a grapevine. But don't tell that to Chuck Wagner Jr. Mr. Wagner is the president and winemaker at Caymus Vineyards in the Napa Valley in California. Someone sold him a bunch of roussanne vines a few years ago, and he was looking forward to making $75-a-bottle wines from them. Until someone else told him they were not roussanne at all but viognier. Now, Mr. Wagner is suing the seller for $7 million.",
+    "abstract": "Lawsuits are filed in California over viognier vines that were falsely sold as roussanne vines; drawing (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Tangle of Vines and Lawsuits",
+        "kicker": "WINE TALK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "2000-11-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Dining and Wine; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20bbd8eb7c8105d77a478",
+    "word_count": 1254,
+    "slideshow_credits": null
+}

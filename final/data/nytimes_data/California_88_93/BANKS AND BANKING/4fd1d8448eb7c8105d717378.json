@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1992/12/22/business/company-news-s-l-suit-by-california.html",
+    "snippet": "A California official filed a lawsuit today seeking to recover an estimated $64 million in forgotten deposits that have been confiscated by the Federal agency that seizes insolvent savings and loans.   In the suit, the State Controller, Gray Davis...",
+    "lead_paragraph": "A California official filed a lawsuit today seeking to recover an estimated $64 million in forgotten deposits that have been confiscated by the Federal agency that seizes insolvent savings and loans. In the suit, the State Controller, Gray Davis, asked the Federal District Court here to order the Resolution Trust Corporation to return to state authorities the contents of an estimated 100,000 inactive accounts from 55 failed California institutions.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "S.&L. Suit By California",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "RESOLUTION TRUST CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1992-12-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d8448eb7c8105d717378",
+    "word_count": 255,
+    "slideshow_credits": null
+}

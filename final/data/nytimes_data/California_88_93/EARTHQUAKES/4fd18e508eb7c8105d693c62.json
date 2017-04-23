@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/the-california-quake-the-northwest-seattle-to-examine-bridges-and-freeways.html",
+    "snippet": "LEAD: State engineers said today that they would conduct a study to see if some of the old two-tiered bridges and freeways in Seattle, a city with geography and structures similiar to San Francisco's, should be redesigned to meet stricter standard...",
+    "lead_paragraph": "LEAD: State engineers said today that they would conduct a study to see if some of the old two-tiered bridges and freeways in Seattle, a city with geography and structures similiar to San Francisco's, should be redesigned to meet stricter standards.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Seattle to Examine Bridges and Freeways",
+        "kicker": "THE CALIFORNIA QUAKE: THE NORTHWEST"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "glocations",
+            "value": "WASHINGTON (STATE)"
+        },
+        {
+            "name": "glocations",
+            "value": "SEATTLE (WASH)"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "BRIDGES AND TUNNELS"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Timothy",
+                "rank": 1,
+                "lastname": "EGAN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By TIMOTHY EGAN, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e508eb7c8105d693c62",
+    "word_count": 336,
+    "slideshow_credits": null
+}

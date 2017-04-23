@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/15/us/california-crisis-poses-a-threat-to-poor-patients.html",
+    "snippet": "A day after a court ruling that prevents California from paying hospitals, doctors, nursing homes, hospices and other heath-care providers while the state has no budget, despair overcame the Rev. Chauncey Staten today at the Metropolitan Hospice h...",
+    "lead_paragraph": "A day after a court ruling that prevents California from paying hospitals, doctors, nursing homes, hospices and other heath-care providers while the state has no budget, despair overcame the Rev. Chauncey Staten today at the Metropolitan Hospice he founded for terminal AIDS and cancer patients here. \"I went into this business to make them more comfortable in the last stages of their lives,\" he said today. \"And the government is so nonchalant about it. Our leaders have lost touch with people.\"",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Crisis Poses a Threat To Poor Patients"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "NURSING HOMES"
+        }
+    ],
+    "pub_date": "1992-08-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a1158eb7c8105d6b6875",
+    "word_count": 735,
+    "slideshow_credits": null
+}

@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/26/us/battle-for-california-campus-waged-far-from-urban-glow.html",
+    "snippet": "LEAD: Demographers say the future of California lies here in the vast and fertile Central Valley, far from the overcrowded and glamorous coastal cities. And it is therefore in places like Fresno, where the fields of cotton and raisin grapes penetr...",
+    "lead_paragraph": "LEAD: Demographers say the future of California lies here in the vast and fertile Central Valley, far from the overcrowded and glamorous coastal cities. And it is therefore in places like Fresno, where the fields of cotton and raisin grapes penetrate the city limits, that the battle over where to put the next campus of the University of California has been joined.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Battle for California Campus Waged Far From Urban Glow"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA, UNIVERSITY OF"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "ASIAN-AMERICANS"
+        }
+    ],
+    "pub_date": "1988-11-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd191648eb7c8105d699596",
+    "word_count": 1480,
+    "slideshow_credits": null
+}

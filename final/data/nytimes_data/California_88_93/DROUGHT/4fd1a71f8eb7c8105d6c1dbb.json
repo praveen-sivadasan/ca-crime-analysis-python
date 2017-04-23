@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/30/us/san-francisco-journal-when-skies-are-blue-so-are-the-forecasters.html",
+    "snippet": "After four years of drought, with the state's reservoirs as dry as mud flats, weather forecasters here are swamped with angry calls and letters every time they say it's a beautiful day because the sun is bright and the sky is blue.    \"Folks are s...",
+    "lead_paragraph": "After four years of drought, with the state's reservoirs as dry as mud flats, weather forecasters here are swamped with angry calls and letters every time they say it's a beautiful day because the sun is bright and the sky is blue. \"Folks are so sensitive that you don't even dare say a day like today is 'nice,' \" said Bob Haulman, the morning weatherman for KPIX-TV, the CBS affiliate in the San Francisco Bay Area. \"So what do you call a day that's sunny and 60 degrees? Do you call it a terrible day? A sort-of-O.K. day? It puts limits on you.\"",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "San Francisco Journal; When Skies Are Blue, So Are the Forecasters"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        }
+    ],
+    "pub_date": "1990-11-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a71f8eb7c8105d6c1dbb",
+    "word_count": 766,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/07/business/industry-bid-for-insurer-is-rejected.html",
+    "snippet": "The California Insurance Commissioner today rejected a revised bid for the Executive Life Insurance Company from a group backed by the insurance industry and said he would choose instead between two other competing offers.    The commissioner, Joh...",
+    "lead_paragraph": "The California Insurance Commissioner today rejected a revised bid for the Executive Life Insurance Company from a group backed by the insurance industry and said he would choose instead between two other competing offers. The commissioner, John Garamendi, said the industry group had failed to come up with sufficient financial backing to make sure that it could handle any further substantial declines in the value of Executive Life's huge junk bond portfolio.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Industry Bid For Insurer Is Rejected"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GARAMENDI, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HELLMAN & FRIEDMAN"
+        },
+        {
+            "name": "organizations",
+            "value": "ALTUS FINANCE"
+        },
+        {
+            "name": "organizations",
+            "value": "MUTUELLE ASSURANCE ARTISANALE DE FRANCE"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        }
+    ],
+    "pub_date": "1991-11-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a8b88eb7c8105d6c4d7f",
+    "word_count": 744,
+    "slideshow_credits": null
+}

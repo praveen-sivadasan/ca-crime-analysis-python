@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1993/02/10/us/wrestling-health-care-costs-to-the-mat.html",
+    "snippet": "From his third-floor office in a sleek building near the domed Capitol of California, Tom J. Elkin is a commander in the war against the ever-rising costs of health care.   \"I know what is a reasonable price for a compact disk or a refrigerator,\" ...",
+    "lead_paragraph": "From his third-floor office in a sleek building near the domed Capitol of California, Tom J. Elkin is a commander in the war against the ever-rising costs of health care. \"I know what is a reasonable price for a compact disk or a refrigerator,\" he said. \"But what is accessible health care worth? I don't know yet what a fair price is for the product we're buying. That's what we're after.\"",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wrestling Health-Care Costs to the Mat"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ELKIN, TOM J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA PUBLIC EMPLOYEES RETIREMENT SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1993-02-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1db8c8eb7c8105d71c7b0",
+    "word_count": 1542,
+    "slideshow_credits": null
+}

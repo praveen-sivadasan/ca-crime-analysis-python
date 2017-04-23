@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1999/02/27/us/lumber-company-rejects-deal-to-preserve-redwoods.html",
+    "snippet": "In a surprising turn after years of complex negotiations, the Pacific Lumber Company has rejected a $480 million deal to create a public preserve from ancient redwood forests.    The deal, brokered by Federal and state officials, to spare the 8,00...",
+    "lead_paragraph": "In a surprising turn after years of complex negotiations, the Pacific Lumber Company has rejected a $480 million deal to create a public preserve from ancient redwood forests. The deal, brokered by Federal and state officials, to spare the 8,000-acre tract known Headwaters Forest and two smaller ancient groves 250 miles north of here began to unravel last week, when Pacific Lumber balked at provisions that would protect delicate streams and wildlife habitats throughout the company's property.",
+    "abstract": "Pacific Lumber Co, in surprise move after years of complex talks, rejects $480 million deal to create public preserve from northern California's ancient redwood forests; cites Gov Gray Davis's refusal to ease proposed 50-year curbs on its logging rights; move stuns Federal and state officials; Interior Sec Bruce Babbitt and Davis score decision; $250 million Congress set aside for Federal share of deal expires soon (M)",
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Lumber Company Rejects Deal to Preserve Redwoods"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BABBITT, BRUCE"
+        },
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC LUMBER CO"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "REDWOOD TREES"
+        },
+        {
+            "name": "subject",
+            "value": "FEDERAL AID (US)"
+        }
+    ],
+    "pub_date": "1999-02-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Evelyn",
+                "rank": 1,
+                "lastname": "NIEVES"
+            }
+        ],
+        "original": "By EVELYN NIEVES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20d808eb7c8105d77dcbd",
+    "word_count": 753,
+    "slideshow_credits": null
+}

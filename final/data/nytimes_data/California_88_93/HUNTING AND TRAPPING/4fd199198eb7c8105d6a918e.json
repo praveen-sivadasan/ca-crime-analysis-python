@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/27/nyregion/c-corrections-878190.html",
+    "snippet": "An article on Friday about animal rights advocates and their confrontations with hunters referred incorrectly to hunting regulations in California. For two years there has been a moratorium on bow hunting of black bears; bow hunting in general has...",
+    "lead_paragraph": "An article on Friday about animal rights advocates and their confrontations with hunters referred incorrectly to hunting regulations in California. For two years there has been a moratorium on bow hunting of black bears; bow hunting in general has not been outlawed.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HUNTING AND TRAPPING"
+        },
+        {
+            "name": "subject",
+            "value": "CRUELTY TO ANIMALS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1990-11-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd199198eb7c8105d6a918e",
+    "word_count": 42,
+    "slideshow_credits": null
+}

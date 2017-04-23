@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1988/03/25/sports/sports-people-facing-the-charges.html",
+    "snippet": "LEAD: Lloyd Bloom, the sports agent facing extradition from California in connection with misdemeanor charges concerning his dealings with two former University of Alabama basketball players, has agreed to surrender to Alabama authorities. Bloom w...",
+    "lead_paragraph": "LEAD: Lloyd Bloom, the sports agent facing extradition from California in connection with misdemeanor charges concerning his dealings with two former University of Alabama basketball players, has agreed to surrender to Alabama authorities. Bloom will surrender because, according to his attorney, Mike Trope, ''he does not want a fugitive status hanging over his head.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Facing the Charges",
+        "kicker": "SPORTS PEOPLE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BLOOM, LLOYD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALABAMA, UNIVERSITY OF"
+        },
+        {
+            "name": "subject",
+            "value": "EXTRADITION"
+        },
+        {
+            "name": "subject",
+            "value": "BASKETBALL"
+        }
+    ],
+    "pub_date": "1988-03-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd18ba08eb7c8105d68e64d",
+    "word_count": 139,
+    "slideshow_credits": null
+}

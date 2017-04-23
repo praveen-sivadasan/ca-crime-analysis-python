@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/31/travel/winter-in-the-sun-unwinding-the-california-way.html",
+    "snippet": "MAKING a reservation for a weekend at Two Bunch Palms provided the first clue about the desert spa, so popular with the Hollywood crowd.   \"Is there a dress code in the evening?\" I asked....",
+    "lead_paragraph": "MAKING a reservation for a weekend at Two Bunch Palms provided the first clue about the desert spa, so popular with the Hollywood crowd. \"Is there a dress code in the evening?\" I asked.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "UNWINDING THE CALIFORNIA WAY",
+        "kicker": "WINTER IN THE SUN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CAPONE, AL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TWO BUNCH PALMS"
+        },
+        {
+            "name": "subject",
+            "value": "SPAS"
+        },
+        {
+            "name": "subject",
+            "value": "NYTRAVEL"
+        }
+    ],
+    "pub_date": "1993-10-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Travel",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By BERNARD WEINRAUB;"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d24f8eb7c8105d70d8d0",
+    "word_count": 2027,
+    "slideshow_credits": null
+}

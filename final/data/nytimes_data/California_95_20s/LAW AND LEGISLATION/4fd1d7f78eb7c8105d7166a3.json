@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1997/10/08/us/us-appeals-court-overturns-law-limiting-legislators-terms-in-california.html",
+    "snippet": "A Federal appeals court in San Francisco today struck down California's tough law on legislative term limits. The ruling was issued seven years after the measure was approved by 51 percent of the state's voters in a hard-fought ballot initiative a...",
+    "lead_paragraph": "A Federal appeals court in San Francisco today struck down California's tough law on legislative term limits. The ruling was issued seven years after the measure was approved by 51 percent of the state's voters in a hard-fought ballot initiative at a time when term-limit fever was sweeping the country. If today's 2-to-1 decision by the United States Court of Appeals for the Ninth Circuit stands, it would appear to allow many veteran legislators from across California who are now threatened by term limits to seek re-election next year.",
+    "abstract": "Federal appeals court strikes down California's tough law on legislative term limits; ruling would allow many veteran lawmakers to seek re-election next year (S)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. Appeals Court Overturns Law Limiting Legislators' Terms in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES AND PARLIAMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "TERM LIMITS (POLITICAL OFFICE)"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1997-10-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Don",
+                "rank": 1,
+                "lastname": "TERRY"
+            }
+        ],
+        "original": "By DON TERRY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d7f78eb7c8105d7166a3",
+    "word_count": 552,
+    "slideshow_credits": null
+}

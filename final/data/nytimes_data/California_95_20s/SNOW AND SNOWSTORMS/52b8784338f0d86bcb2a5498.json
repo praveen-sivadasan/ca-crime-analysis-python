@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1999/04/15/us/national-news-briefs-4-charged-in-deaths-of-immigrants-in-storm.html",
+    "snippet": "Four men accused of smuggling immigrants into the country during a surprise snowstorm east of here that left eight people dead were charged today in two of the deaths....",
+    "lead_paragraph": "Four men accused of smuggling immigrants into the country during a surprise snowstorm east of here that left eight people dead were charged today in two of the deaths.",
+    "abstract": "Four men accused of smuggling Mexican immigrants across border with Calif near San Diego are charged in deaths of two immigrants, out of eight who died, in surprise snowstorm in mountains (S)",
+    "print_page": "20",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; 4 Charged in Deaths Of Immigrants in Storm"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "SNOW AND SNOWSTORMS"
+        }
+    ],
+    "pub_date": "1999-04-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b8784338f0d86bcb2a5498",
+    "word_count": "79",
+    "slideshow_credits": null
+}

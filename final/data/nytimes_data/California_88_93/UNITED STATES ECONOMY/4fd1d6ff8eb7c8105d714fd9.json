@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1992/12/10/business/fed-survey-finds-an-upturn-but-an-uneven-one.html",
+    "snippet": "The economy is improving modestly but unevenly across the country, with retailers expressing optimism about the holiday season, the Federal Reserve said today.   In its periodic assessment of the state of the economy, the central bank said almost ...",
+    "lead_paragraph": "The economy is improving modestly but unevenly across the country, with retailers expressing optimism about the holiday season, the Federal Reserve said today. In its periodic assessment of the state of the economy, the central bank said almost all regions were experiencing \"a slight to moderate pickup in some or all sectors of the economy\" while noting specifically that California was doing worse than other states.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fed Survey Finds an Upturn, but an Uneven One"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL RESERVE SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1992-12-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Steven",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By STEVEN GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d6ff8eb7c8105d714fd9",
+    "word_count": 698,
+    "slideshow_credits": null
+}

@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/21/business/a-political-fight-marks-a-coming-of-age-for-a-silicon-valley-titan.html",
+    "snippet": "Think of it as the end of innocence for Silicon Valley.    At 7:30 on a recent Monday morning some 30 chief executives and venture capitalists crowded into the boardroom of Kleiner Perkins Caufield & Byers, the Valley's most prestigious venture ca...",
+    "lead_paragraph": "Think of it as the end of innocence for Silicon Valley. At 7:30 on a recent Monday morning some 30 chief executives and venture capitalists crowded into the boardroom of Kleiner Perkins Caufield & Byers, the Valley's most prestigious venture capital firm. The understated corporate decorum was marred only by a huge red and white ''No on Prop. 211'' banner hanging against the far wall.",
+    "abstract": "Silicon Valley's top executives launch campaign to defeat California's Proposition 211, which would lower barrier to class-action lawsuits in cases where stock fraud is charged and would leave corporate directors and officers personally liable when juries award damages; lawyers pushing the proposition see it as way to defend savings of retirees from those who would lure them into high-flying, hard-crashing world of technology stocks, often with misinformation or inadequate disclosure of risk; but opponents see it as threat that could cripple nation's technology heartland; leader of campaign to defeat Proposition 211 is L John Doerr, venture capitalist who has history of nurturing technology start-ups that developed into entire new industries; photos (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Political Fight Marks a Coming of Age for a Silicon Valley Titan"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DOERR, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "CLASS-ACTION SUITS"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1996-10-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "MARKOFF"
+            }
+        ],
+        "original": "By JOHN MARKOFF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ed368eb7c8105d73f101",
+    "word_count": 1403,
+    "slideshow_credits": null
+}

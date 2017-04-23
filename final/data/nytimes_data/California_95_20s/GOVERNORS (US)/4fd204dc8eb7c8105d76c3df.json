@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1998/01/22/nyregion/c-corrections-204250.html",
+    "snippet": "An article yesterday about Senator Dianne Feinstein's decision against running for governor of California misstated the situation of State Senator John Vasconcellos. Mr. Vasconcellos, a Democrat, is exploring the possibility of running; he has not...",
+    "lead_paragraph": "An article yesterday about Senator Dianne Feinstein's decision against running for governor of California misstated the situation of State Senator John Vasconcellos. Mr. Vasconcellos, a Democrat, is exploring the possibility of running; he has not declared his candidacy.",
+    "abstract": "Correction of Jan 21 article on Sen Dianne Feinstein's decision not to run for California governor",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1998-01-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd204dc8eb7c8105d76c3df",
+    "word_count": 38,
+    "slideshow_credits": null
+}

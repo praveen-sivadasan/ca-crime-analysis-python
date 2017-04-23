@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/26/business/california-court-widens-limit-on-employee-suits.html",
+    "snippet": "LEAD: In another California court victory for employers, the state's Supreme Court today made retroactive an earlier decision that restricts the right of people dismissed from jobs to sue their former employers for damages....",
+    "lead_paragraph": "LEAD: In another California court victory for employers, the state's Supreme Court today made retroactive an earlier decision that restricts the right of people dismissed from jobs to sue their former employers for damages.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Court Widens Limit on Employee Suits"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "NEWMAN, ROBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EMERSON RADIO CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "SUPREME COURTS (STATE)"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1989-05-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a2908eb7c8105d6b924e",
+    "word_count": 604,
+    "slideshow_credits": null
+}

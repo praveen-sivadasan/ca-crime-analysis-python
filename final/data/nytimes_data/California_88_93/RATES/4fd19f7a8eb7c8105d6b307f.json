@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/10/us/california-judge-offers-plan-on-profit-rates-of-insurers.html",
+    "snippet": "LEAD: An administrative law judge here has recommended that insurance companies be allowed rates of profit that some Californians believe could overturn the insurance revolution that the state's voters started in 1988....",
+    "lead_paragraph": "LEAD: An administrative law judge here has recommended that insurance companies be allowed rates of profit that some Californians believe could overturn the insurance revolution that the state's voters started in 1988.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Judge Offers Plan On Profit Rates of Insurers"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FERNANDEZ, WILLIAM J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-05-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f7a8eb7c8105d6b307f",
+    "word_count": 133,
+    "slideshow_credits": null
+}

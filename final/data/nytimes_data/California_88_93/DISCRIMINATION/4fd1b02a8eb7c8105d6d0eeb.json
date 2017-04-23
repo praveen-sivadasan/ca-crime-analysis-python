@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/15/us/battle-set-on-gay-rights-in-california.html",
+    "snippet": "The Legislature has set the stage for an emotional and bruising political confrontation between homosexuals and religious fundamentalists in California with the final passage Friday of a bill barring discrimination against homosexuals in employmen...",
+    "lead_paragraph": "The Legislature has set the stage for an emotional and bruising political confrontation between homosexuals and religious fundamentalists in California with the final passage Friday of a bill barring discrimination against homosexuals in employment. But in one of their last acts of business on Friday, state lawmakers killed a measure that would have shaken up the 1992 national Presidential sweepstakes by moving up California's primary from one of the last in the nation to one of the first.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Battle Set on Gay Rights in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1991-09-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b02a8eb7c8105d6d0eeb",
+    "word_count": 996,
+    "slideshow_credits": null
+}

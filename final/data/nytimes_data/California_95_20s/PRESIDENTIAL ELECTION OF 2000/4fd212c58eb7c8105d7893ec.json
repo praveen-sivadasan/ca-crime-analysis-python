@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/2000/03/01/us/the-2000-campaign-california-loser-take-all-possibility-fuels-debate.html",
+    "snippet": "Picture this: Senator John McCain wins more total votes than George W. Bush in the California primary next Tuesday, as some polls here suggest is possible. California's secretary of state, Bill Jones, a Republican who also happens to be Mr. McCain...",
+    "lead_paragraph": "Picture this: Senator John McCain wins more total votes than George W. Bush in the California primary next Tuesday, as some polls here suggest is possible. California's secretary of state, Bill Jones, a Republican who also happens to be Mr. McCain's most prominent California supporter, would certify him, under state law, as the Republican winner of the state's blanket primary, in which the names of all candidates appear on the same ballot, regardless of party. Simple? Not.",
+    "abstract": "California's 162 Republican delegates will go to candidate who receives most Republican votes, not necessarily candidate who receives most total votes; Gov George W Bush has maintained 2-to-1 lead over Sen John McCain among Republicans in California (M)",
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "'Loser Take All' Possibility Fuels Debate",
+        "kicker": "THE 2000 CAMPAIGN: CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "2000-03-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd212c58eb7c8105d7893ec",
+    "word_count": 864,
+    "slideshow_credits": null
+}

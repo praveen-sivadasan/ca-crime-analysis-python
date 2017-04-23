@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/09/garden/wine-talk-next-in-california-wine-italian-style.html",
+    "snippet": "CABERNET and chardonnay; chardonnay and cabernet. Do you get the impression that they are the only wine grapes that matter in this country?   They are not, of course, but it often seems that way. More than 600 chardonnays are being made in the Uni...",
+    "lead_paragraph": "CABERNET and chardonnay; chardonnay and cabernet. Do you get the impression that they are the only wine grapes that matter in this country? They are not, of course, but it often seems that way. More than 600 chardonnays are being made in the United States, and perhaps 400 cabernet sauvignons: no one seems to know for sure.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Next in California: Wine, Italian Style?",
+        "kicker": "WINE TALK"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PEPI, ROBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1991-01-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197e48eb7c8105d6a659d",
+    "word_count": 1300,
+    "slideshow_credits": null
+}

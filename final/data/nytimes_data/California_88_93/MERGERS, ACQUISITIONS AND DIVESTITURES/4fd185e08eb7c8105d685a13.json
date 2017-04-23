@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/24/business/order-on-merger-amended.html",
+    "snippet": "LEAD: Justice Sandra Day O'Connor of the United States Supreme Court today amended an order she had issued on Monday, blocking the $2.5 billion merger of American Stores Inc. of Salt Lake City and Lucky Stores Inc. of Dublin, Calif, until the cour...",
+    "lead_paragraph": "LEAD: Justice Sandra Day O'Connor of the United States Supreme Court today amended an order she had issued on Monday, blocking the $2.5 billion merger of American Stores Inc. of Salt Lake City and Lucky Stores Inc. of Dublin, Calif, until the court decides whether to hear an appeal by California's Attorney General, In her amended order, Justice O'Connor reinstated a requirement that the state post a bond to appeal the case.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Order on Merger Amended"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "O'CONNOR, SANDRA DAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN STORES INC"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        }
+    ],
+    "pub_date": "1989-08-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd185e08eb7c8105d685a13",
+    "word_count": 322,
+    "slideshow_credits": null
+}

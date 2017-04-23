@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1999/10/18/us/california-quake-reveals-an-active-fault.html",
+    "snippet": "The earthquake on Saturday in California exposed a fault line previously considered inactive and proved a perfect test for the United States  Geological Survey's new quake data network, geologists said today.    The 7.0-magnitude quake, which stru...",
+    "lead_paragraph": "The earthquake on Saturday in California exposed a fault line previously considered inactive and proved a perfect test for the United States Geological Survey's new quake data network, geologists said today. The 7.0-magnitude quake, which struck at 2:46 A.M. Saturday near Ludlow, about 100 miles east of Los Angeles, caused minor injuries and light damage.",
+    "abstract": "Earthquake in California on October 16 revealed fault line previously considered inactive and was perfect test for US Geological Survey's new quake data network (S)",
+    "print_page": "17",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Quake Reveals an Active Fault"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNITED STATES GEOLOGICAL SURVEY"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1999-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd22d098eb7c8105d7b9bbe",
+    "word_count": 177,
+    "slideshow_credits": null
+}

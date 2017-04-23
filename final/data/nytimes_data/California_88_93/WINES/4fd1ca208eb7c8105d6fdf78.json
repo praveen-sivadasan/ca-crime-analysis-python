@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/17/magazine/wine-an-american-original.html",
+    "snippet": "YOU WOULDN'T DRINK Chianti on Bastille Day, would you? Or Scotch on March 17? So how could you think of drinking some kind of foreign wine on that totally American, Norman Rockwellian festival we call Thanksgiving?    What do you mean, there's no ...",
+    "lead_paragraph": "YOU WOULDN'T DRINK Chianti on Bastille Day, would you? Or Scotch on March 17? So how could you think of drinking some kind of foreign wine on that totally American, Norman Rockwellian festival we call Thanksgiving? What do you mean, there's no decent all-American wine? If you've got the turkey, I've got a wine for you: it's called zinfandel.",
+    "abstract": null,
+    "print_page": "70",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "An American Original",
+        "kicker": "WINE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1991-11-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ca208eb7c8105d6fdf78",
+    "word_count": 884,
+    "slideshow_credits": null
+}

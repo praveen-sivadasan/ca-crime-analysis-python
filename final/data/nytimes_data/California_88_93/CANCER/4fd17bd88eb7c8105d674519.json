@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/01/us/california-sues-to-force-tobacco-warnings.html",
+    "snippet": "LEAD: The State Attorney General today sued 25 manufacturers and eight retailers of noncigarette tobacco products in an effort to force compliance with a state law requiring warnings to consumers whenever they are exposed to cancer-causing chemica...",
+    "lead_paragraph": "LEAD: The State Attorney General today sued 25 manufacturers and eight retailers of noncigarette tobacco products in an effort to force compliance with a state law requiring warnings to consumers whenever they are exposed to cancer-causing chemicals.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "California Sues to Force Tobacco Warnings"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABELS AND LABELING"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        }
+    ],
+    "pub_date": "1988-10-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "Reuters",
+        "original": "Reuters",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17bd88eb7c8105d674519",
+    "word_count": 292,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/04/us/bus-driver-picket-killed-at-station.html",
+    "snippet": "LEAD: Amid reports of scattered violence around the country in the strike against Greyhound Lines, a picketing driver was struck and killed yesterday by a bus driven by a temporary driver in California....",
+    "lead_paragraph": "LEAD: Amid reports of scattered violence around the country in the strike against Greyhound Lines, a picketing driver was struck and killed yesterday by a bus driven by a temporary driver in California.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "BUS DRIVER PICKET KILLED AT STATION"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GREYHOUND LINES INC"
+        },
+        {
+            "name": "subject",
+            "value": "BUSES"
+        },
+        {
+            "name": "subject",
+            "value": "STRIKES"
+        }
+    ],
+    "pub_date": "1990-03-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "By The Associated Press",
+        "organization": "The Associated Press"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b9998eb7c8105d6e2353",
+    "word_count": "645",
+    "slideshow_credits": null
+}

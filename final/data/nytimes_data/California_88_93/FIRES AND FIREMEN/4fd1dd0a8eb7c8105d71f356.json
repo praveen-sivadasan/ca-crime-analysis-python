@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/18/us/brush-fires-in-california-force-300-to-flee.html",
+    "snippet": "Brush and forest fires driven by hot, dry wind threatened rural homes in California's Gold Rush country yesterday, forcing more than 300 people to flee. In Oregon, firefighters encircled the two largest fires, but lightning started new fires there...",
+    "lead_paragraph": "Brush and forest fires driven by hot, dry wind threatened rural homes in California's Gold Rush country yesterday, forcing more than 300 people to flee. In Oregon, firefighters encircled the two largest fires, but lightning started new fires there. The largest fires still out of control in California had swept across 1,200 acres of brush and grass in Calaveras County in the foothills of the Sierra Nevada, about 50 miles southeast of Sacramento. Its cause was unknown.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Brush Fires in California Force 300 to Flee"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        }
+    ],
+    "pub_date": "1992-08-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1dd0a8eb7c8105d71f356",
+    "word_count": "198",
+    "slideshow_credits": null
+}

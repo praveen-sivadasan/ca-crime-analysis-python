@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/08/weekinreview/the-nation-in-california-political-prestidigitation.html",
+    "snippet": "HOW swiftly and smoothly Dick Gephardt and Newt Gingrich accomplished it in Washington. A few gracious words, a symbolic passing of the gavel and, presto change-o, a new House Speaker and an end to 40 years of Democratic rule.   Here in California...",
+    "lead_paragraph": "HOW swiftly and smoothly Dick Gephardt and Newt Gingrich accomplished it in Washington. A few gracious words, a symbolic passing of the gavel and, presto change-o, a new House Speaker and an end to 40 years of Democratic rule. Here in California, political revolution is proving a little more complicated and a great deal more entertaining. Two months after Republicans gained narrow control of the 80-member State Assembly and a day before the Republican Governor, Pete Wilson, is to deliver the State of the State address in its ornate green chamber, just who will run the place, and how, remains an open question.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In California, Political Prestidigitation",
+        "kicker": "THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, WILLIE"
+        },
+        {
+            "name": "persons",
+            "value": "BRULTE, JAMES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES AND PARLIAMENTS"
+        }
+    ],
+    "pub_date": "1995-01-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Susan",
+                "middlename": "F.",
+                "lastname": "RASKY",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By SUSAN F. RASKY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b9198eb7c8105d6e1797",
+    "word_count": 1053,
+    "slideshow_credits": null
+}

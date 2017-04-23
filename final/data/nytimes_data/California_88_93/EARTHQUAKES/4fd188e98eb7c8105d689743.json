@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/18/us/earthquake-in-northern-california-area-of-quake-was-pegged-as-risky.html",
+    "snippet": "LEAD: The earthquake that shook Northern California tonight occurred on a segment of the San Andreas fault that geologists had identified two years ago as one of those most at risk of a major quake in the near future....",
+    "lead_paragraph": "LEAD: The earthquake that shook Northern California tonight occurred on a segment of the San Andreas fault that geologists had identified two years ago as one of those most at risk of a major quake in the near future.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Area of Quake Was Pegged as Risky",
+        "kicker": "EARTHQUAKE IN NORTHERN CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd188e98eb7c8105d689743",
+    "word_count": 749,
+    "slideshow_credits": null
+}

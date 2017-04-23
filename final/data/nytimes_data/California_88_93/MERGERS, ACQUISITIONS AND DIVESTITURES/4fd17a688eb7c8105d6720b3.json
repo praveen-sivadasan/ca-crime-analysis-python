@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/13/business/company-news-fieldstone-in-deal-for-bce-holdings.html",
+    "snippet": "LEAD: The Fieldstone Company, a San Diego home builder, said it had agreed to buy most of the Southern California land holdings of the BCE Development Corporation for $250 million. The holdings include 2,700 acres near the La Costa Spa and Resort ...",
+    "lead_paragraph": "LEAD: The Fieldstone Company, a San Diego home builder, said it had agreed to buy most of the Southern California land holdings of the BCE Development Corporation for $250 million. The holdings include 2,700 acres near the La Costa Spa and Resort in Carlsbad, Calif. The deal includes the purchase of the land near La Costa, where 3,000 houses are planned;a stake in a resort development on Catalina Island, offshore California, and an option to become an equal partner with BCE in a 1,200-acre northern San",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "COMPANY NEWS Fieldstone in Deal For BCE Holdings"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BCE DEVELOPMENT CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "FIELDSTONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        }
+    ],
+    "pub_date": "1988-08-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17a688eb7c8105d6720b3",
+    "word_count": 227,
+    "slideshow_credits": null
+}

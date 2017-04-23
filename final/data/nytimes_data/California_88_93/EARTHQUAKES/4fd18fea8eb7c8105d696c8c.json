@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/the-california-quake-flashback-16-reliving-the-terror-of-a-quake.html",
+    "snippet": "LEAD: For 16 children now living in this area and receiving medical treatment, the violent earthquake here was the second shock hurled at them by fate in 10 months. They also lived, and suffered, through the earthquake that devastated Armenia last...",
+    "lead_paragraph": "LEAD: For 16 children now living in this area and receiving medical treatment, the violent earthquake here was the second shock hurled at them by fate in 10 months. They also lived, and suffered, through the earthquake that devastated Armenia last Dec. 7.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "16 Reliving The Terror Of a Quake",
+        "kicker": "THE CALIFORNIA QUAKE: FLASHBACK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "ARMENIA"
+        },
+        {
+            "name": "glocations",
+            "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Joseph",
+                "rank": 1,
+                "lastname": "DURSO"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JOSEPH DURSO, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18fea8eb7c8105d696c8c",
+    "word_count": 611,
+    "slideshow_credits": null
+}

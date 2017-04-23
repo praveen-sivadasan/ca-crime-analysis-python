@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/26/us/the-1992-campaign-white-house-bush-goes-west-criticism-of-message-follows.html",
+    "snippet": "President Bush carried his re-election campaign west today, only to run into the same assertion voiced by some supporters elsewhere: that he lacked substance and conviction.    It was all the more stinging because it appeared to come from a most u...",
+    "lead_paragraph": "President Bush carried his re-election campaign west today, only to run into the same assertion voiced by some supporters elsewhere: that he lacked substance and conviction. It was all the more stinging because it appeared to come from a most unlikely source, former President Ronald Reagan. And Mr. Bush's political advisers rushed to rebut it.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: White House; Bush Goes West; Criticism of Message Follows"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "REAGAN, RONALD WILSON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-02-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "WINES"
+            }
+        ],
+        "original": "By MICHAEL WINES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1abc48eb7c8105d6cac73",
+    "word_count": 529,
+    "slideshow_credits": null
+}

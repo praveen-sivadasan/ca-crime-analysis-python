@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/13/garden/wine-talk-819493.html",
+    "snippet": "JOSEPH PHELPS opened the doors to his handsome Napa Valley winery in 1973. The next year, Walter Schug, his wine maker at the time, produced California's first blend of traditional Bordeaux grape varieties under a proprietary name. The wine was ca...",
+    "lead_paragraph": "JOSEPH PHELPS opened the doors to his handsome Napa Valley winery in 1973. The next year, Walter Schug, his wine maker at the time, produced California's first blend of traditional Bordeaux grape varieties under a proprietary name. The wine was called Insignia, and for almost two decades, it has been among the true elites of California red wines. Last week, Mr. Phelps came to New York to offer a 10-year retrospective of Insignia, which included every vintage from 1982 to 1991.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PHELPS, JOSEPH"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1993-10-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ad5d8eb7c8105d6cd4d8",
+    "word_count": 1130,
+    "slideshow_credits": null
+}

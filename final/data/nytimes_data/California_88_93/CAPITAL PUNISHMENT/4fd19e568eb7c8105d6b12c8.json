@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/31/us/california-execution-stayed-state-is-appealing-to-high-court.html",
+    "snippet": "LEAD: California's first execution in 23 years was blocked today when a Federal appeals court judge said Robert Alton Harris, convicted in 1979 of the murder of two teen-age boys, might not have had adequate psychiatric help at his trial....",
+    "lead_paragraph": "LEAD: California's first execution in 23 years was blocked today when a Federal appeals court judge said Robert Alton Harris, convicted in 1979 of the murder of two teen-age boys, might not have had adequate psychiatric help at his trial.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Execution Stayed: State Is Appealing to High Court"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "NOONAN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1990-03-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19e568eb7c8105d6b12c8",
+    "word_count": 820,
+    "slideshow_credits": null
+}

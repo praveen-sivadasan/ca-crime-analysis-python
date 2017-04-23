@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/04/business/the-media-business-advertising-addenda-california-puts-lottery-in-review.html",
+    "snippet": "Amid plunging sales of its lottery tickets and a substantial cut in its advertising budget, the California State Lottery has placed its $25 million account into review. The decision came two years into a four-year assignment awarded to Dailey & As...",
+    "lead_paragraph": "Amid plunging sales of its lottery tickets and a substantial cut in its advertising budget, the California State Lottery has placed its $25 million account into review. The decision came two years into a four-year assignment awarded to Dailey & Associates, Los Angeles. Philip Joanou, Dailey's chairman and chief executive, said yesterday that he doubted whether the agency would participate in another lottery review after winning several previous ones over the last five years.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Puts Lottery in Review",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LOTTERIES"
+        }
+    ],
+    "pub_date": "1992-03-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Geraldine",
+                "rank": 1,
+                "lastname": "Fabrikant"
+            }
+        ],
+        "original": "By Geraldine Fabrikant"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b5048eb7c8105d6da277",
+    "word_count": 152,
+    "slideshow_credits": null
+}

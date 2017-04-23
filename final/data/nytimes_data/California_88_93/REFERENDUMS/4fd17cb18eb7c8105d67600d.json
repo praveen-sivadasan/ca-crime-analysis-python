@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/18/us/court-overturns-curb-on-taxes-in-california.html",
+    "snippet": "LEAD: A state appellate court has overturned a 1986 voter-initiated referendum that would have required voters to approve all taxes imposed by local governments....",
+    "lead_paragraph": "LEAD: A state appellate court has overturned a 1986 voter-initiated referendum that would have required voters to approve all taxes imposed by local governments.",
+    "abstract": null,
+    "print_page": "52",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Court Overturns Curb On Taxes in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-09-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17cb18eb7c8105d67600d",
+    "word_count": 279,
+    "slideshow_credits": null
+}

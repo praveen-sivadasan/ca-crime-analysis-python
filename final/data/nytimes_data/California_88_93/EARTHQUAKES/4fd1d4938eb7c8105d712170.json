@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/26/us/powerful-quake-shakes-california.html",
+    "snippet": "A powerful earthquake rattled the northern coast of California yesterday, sending shock waves north into Oregon, east into Nevada and as far south as San Francisco.    The quake knocked pedestrians to the ground, snapped gas lines and ignited fire...",
+    "lead_paragraph": "A powerful earthquake rattled the northern coast of California yesterday, sending shock waves north into Oregon, east into Nevada and as far south as San Francisco. The quake knocked pedestrians to the ground, snapped gas lines and ignited fires. The authorities said 45 people were injured, including eight who were hospitalized, The Associated Press reported, and state officials estimated damage at $3.5 million.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "POWERFUL QUAKE SHAKES CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1992-04-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Dennis",
+                "rank": 1,
+                "lastname": "HEVESI"
+            }
+        ],
+        "original": "By DENNIS HEVESI"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4938eb7c8105d712170",
+    "word_count": 673,
+    "slideshow_credits": null
+}

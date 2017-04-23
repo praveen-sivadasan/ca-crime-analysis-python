@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/2000/11/04/us/2000-campaign-president-after-next-best-thing-clinton-carefully-praises-gore.html",
+    "snippet": "The crowd yelled, ''Four more years! Four more years!'' and their cheers brought a huge smile to President Clinton.     But pleased as he might have been by his reception here and in nearby Oakland today, Mr. Clinton carefully avoided a repeat of ...",
+    "lead_paragraph": "The crowd yelled, ''Four more years! Four more years!'' and their cheers brought a huge smile to President Clinton. But pleased as he might have been by his reception here and in nearby Oakland today, Mr. Clinton carefully avoided a repeat of his declaration on Thursday that Vice President Al Gore would be the ''next best thing'' to a third term. Instead, he roared through Northern California, making a more spirited argument for his vice president than Mr. Gore sometimes makes for himself.",
+    "abstract": "Pres Clinton campaigns for Vice Pres Al Gore in Northern California, carefully avoiding repeat of his declaration last week that Gore would be 'next best thing' to third Clinton term; Gore campaign officials deny that Clinton's remark angered them; photo (M)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "After 'Next Best' Thing, Clinton Carefully Praises Gore",
+        "kicker": "THE 2000 CAMPAIGN: THE PRESIDENT"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "2000-11-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "E.",
+                "lastname": "SANGER",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By DAVID E. SANGER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20a788eb7c8105d777903",
+    "word_count": 686,
+    "slideshow_credits": null
+}

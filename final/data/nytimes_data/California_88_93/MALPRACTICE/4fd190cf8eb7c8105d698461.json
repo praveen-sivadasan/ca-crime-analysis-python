@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/09/us/charges-face-divorce-lawyer.html",
+    "snippet": "LEAD: The state bar of California has filed seven additional charges of professional misconduct against Marvin Mitchelson, the divorce lawyer who established the principle that unmarried people may be entitled to some of their lovers' property....",
+    "lead_paragraph": "LEAD: The state bar of California has filed seven additional charges of professional misconduct against Marvin Mitchelson, the divorce lawyer who established the principle that unmarried people may be entitled to some of their lovers' property.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Charges Face Divorce Lawyer"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MITCHELSON, MARVIN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MALPRACTICE"
+        }
+    ],
+    "pub_date": "1988-11-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "S.",
+                "lastname": "WILSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By DAVID S. WILSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190cf8eb7c8105d698461",
+    "word_count": 420,
+    "slideshow_credits": null
+}

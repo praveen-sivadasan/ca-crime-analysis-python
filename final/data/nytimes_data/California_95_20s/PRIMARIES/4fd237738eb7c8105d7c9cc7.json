@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/2000/03/08/us/2000-campaign-biggest-state-gore-claims-popular-vote-harbinger-results-november.html",
+    "snippet": "If California's jungle primary was the first harbinger of the general election, Al Gore today claimed he was the king of beasts, with surveys of voters showing he finished first among contenders listed on the same blanket ballot regardless of part...",
+    "lead_paragraph": "If California's jungle primary was the first harbinger of the general election, Al Gore today claimed he was the king of beasts, with surveys of voters showing he finished first among contenders listed on the same blanket ballot regardless of party. But the surveys showed George W. Bush was a close second, and the overall news from the polls was more good than great for Mr. Gore, suggesting an advantage, but not a lock, for him in November in the most-populous state.",
+    "abstract": "Surveys show that Vice Pres Al Gore and Gov George W Bush each won support of about 3 in 10 voters in California, with Gore slightly ahead; photo (M)",
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Gore Claims Popular Vote Is Harbinger of Results In the November Election",
+        "kicker": "THE 2000 CAMPAIGN: THE BIGGEST STATE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "persons",
+            "value": "BRADLEY, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-03-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd237738eb7c8105d7c9cc7",
+    "word_count": 1064,
+    "slideshow_credits": null
+}

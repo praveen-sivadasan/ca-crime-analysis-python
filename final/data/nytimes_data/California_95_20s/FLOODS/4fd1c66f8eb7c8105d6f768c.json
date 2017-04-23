@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/11/us/storms-pound-california-destruction-spreads-south.html",
+    "snippet": "Torrential rains flooded California without letup today, sending rivers surging over their banks, closing highways and railroads and forcing thousands of people to evacuate areas threatened by rising waters and mudslides. Tonight, President Clinto...",
+    "lead_paragraph": "Torrential rains flooded California without letup today, sending rivers surging over their banks, closing highways and railroads and forcing thousands of people to evacuate areas threatened by rising waters and mudslides. Tonight, President Clinton issued a disaster declaration for 24 counties in California After battering Northern California for days, the brunt of the warm winter storm swept south. In some places, officials said, the deluge was the worst in 30 years.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Storms Pound California; Destruction Spreads South"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-01-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c66f8eb7c8105d6f768c",
+    "word_count": 931,
+    "slideshow_credits": null
+}

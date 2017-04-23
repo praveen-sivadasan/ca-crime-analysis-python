@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/24/us/sniffing-out-the-big-one-in-every-little-temblor.html",
+    "snippet": "Along with jittery nerves and a few broken windows, Wednesday night's earthquake generated a warning from seismic experts that the Big One could be imminent.   The earthquake's size, its proximity to the volatile San Andreas fault and local geolog...",
+    "lead_paragraph": "Along with jittery nerves and a few broken windows, Wednesday night's earthquake generated a warning from seismic experts that the Big One could be imminent. The earthquake's size, its proximity to the volatile San Andreas fault and local geologic history made it a plausible candidate for being a foreshock to the Big One, the catastrophic earthquake that is expected to strike the region in the next few decades, said Dr. Lucile M. Jones, a seismologist at the United States Geological Survey in Pasadena and a leading authority on the San Andreas fault.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sniffing Out the Big One In Every Little Temblor"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1992-04-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f228eb7c8105d6b2b8f",
+    "word_count": 790,
+    "slideshow_credits": null
+}

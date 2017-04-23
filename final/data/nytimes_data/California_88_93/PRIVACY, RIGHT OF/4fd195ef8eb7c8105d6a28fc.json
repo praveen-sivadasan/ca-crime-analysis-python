@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/07/us/battle-over-aids-disclosure-ignites-in-california.html",
+    "snippet": "LEAD: A ballot measure that could carry sweeping national implications in fighting the spread of AIDS has moved to the forefront in the final days of the 1988 election campaign in California....",
+    "lead_paragraph": "LEAD: A ballot measure that could carry sweeping national implications in fighting the spread of AIDS has moved to the forefront in the final days of the 1988 election campaign in California.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Battle Over AIDS Disclosure Ignites in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVACY, RIGHT OF"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-11-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd195ef8eb7c8105d6a28fc",
+    "word_count": 1082,
+    "slideshow_credits": null
+}

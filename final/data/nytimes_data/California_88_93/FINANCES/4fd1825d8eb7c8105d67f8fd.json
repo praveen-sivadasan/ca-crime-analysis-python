@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/19/us/campaign-trail-fame-is-fleeting-in-hollywood.html",
+    "snippet": "LEAD: Hollywood and Washington collided the other night, and the results were a little bruising and a little funny....",
+    "lead_paragraph": "LEAD: Hollywood and Washington collided the other night, and the results were a little bruising and a little funny.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fame Is Fleeting In Hollywood",
+        "kicker": "CAMPAIGN TRAIL"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "RICHARDS, ANN"
+        },
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "persons",
+            "value": "MIDLER, BETTE"
+        },
+        {
+            "name": "persons",
+            "value": "QUAYLE, DAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "POLITICAL CAUCUS, HOLLWOOD WOMEN'S"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        }
+    ],
+    "pub_date": "1988-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bernard",
+                "rank": 1,
+                "lastname": "WEINRAUB"
+            }
+        ],
+        "original": "By BERNARD WEINRAUB"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1825d8eb7c8105d67f8fd",
+    "word_count": 388,
+    "slideshow_credits": null
+}

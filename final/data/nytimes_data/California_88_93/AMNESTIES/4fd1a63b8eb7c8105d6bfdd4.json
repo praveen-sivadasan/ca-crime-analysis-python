@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/14/us/legalized-aliens-seen-as-unprepared.html",
+    "snippet": "LEAD: Two recent surveys of newly legalized immigrants in California have found such low levels of education, employment and fluency in English that investigators warn that current levels of Federal and state assistance will prove inadequate in as...",
+    "lead_paragraph": "LEAD: Two recent surveys of newly legalized immigrants in California have found such low levels of education, employment and fluency in English that investigators warn that current levels of Federal and state assistance will prove inadequate in assimilating them.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Legalized Aliens Seen as Unprepared"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+        },
+        {
+            "name": "subject",
+            "value": "FEDERAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+        },
+        {
+            "name": "subject",
+            "value": "AMNESTIES"
+        }
+    ],
+    "pub_date": "1989-08-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a63b8eb7c8105d6bfdd4",
+    "word_count": 926,
+    "slideshow_credits": null
+}

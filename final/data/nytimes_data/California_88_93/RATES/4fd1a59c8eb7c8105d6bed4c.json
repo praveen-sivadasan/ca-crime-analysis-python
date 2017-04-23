@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/02/opinion/l-consumers-win-a-victory-on-auto-insurance-policy-scarcity-coming-082889.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Consumers Win a Victory on Auto Insurance; Policy Scarcity Coming"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "OLSEN, DAVID A"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1989-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd1a59c8eb7c8105d6bed4c",
+    "word_count": 261,
+    "slideshow_credits": null
+}

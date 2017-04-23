@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1998/12/21/business/media-talk-former-journalist-is-cited-with-contempt.html",
+    "snippet": "A former reporter for a Southern California newspaper has been cited with contempt and sentenced to jail for refusing to disclose a source to the authorities. If an appeals court upholds the citation, he would be the first journalist jailed for pr...",
+    "lead_paragraph": "A former reporter for a Southern California newspaper has been cited with contempt and sentenced to jail for refusing to disclose a source to the authorities. If an appeals court upholds the citation, he would be the first journalist jailed for protecting a source in more than two decades in California, a state generally seen as having the strongest so-called shield laws for journalists. In 1996, as a reporter for The Inland Valley Daily Bulletin an Ontario, Calif., newspaper with a circulation of 67,000 that is a member of the Donrey Media Group, John Rezendes-Herrick wrote a series of articles about how a small agribusiness concern called the Cadiz Land Company, was able to get financing to acquire a much larger company; he based his reporting in part on tips and documents provided by a confidential source.",
+    "abstract": "John Rezendes-Herrick, former reporter for Inland Valley Daily Bulletin, is cited with contempt and sentenced to jail for refusing to tell grand jury source for his 1996 series of articles on how Cadiz Land Co got financing to acquire much larger company; would be first journalist jailed for protecting source in over 20 years in California; sentence has been postponed pending appeal; case may depend on outcome of another case challenging state's strong shield laws protecting news source confidentiality; photo (M)",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Media Talk; Former Journalist Is Cited With Contempt"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REZENDES-HERRICK, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CADIZ LAND CO"
+        },
+        {
+            "name": "organizations",
+            "value": "INLAND VALLEY DAILY BULLETIN"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS SOURCES, CONFIDENTIAL STATUS OF"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "CONTEMPT ACTIONS"
+        }
+    ],
+    "pub_date": "1998-12-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christian",
+                "rank": 1,
+                "lastname": "BERTHELSEN"
+            }
+        ],
+        "original": "By CHRISTIAN BERTHELSEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21c128eb7c8105d79bd25",
+    "word_count": 442,
+    "slideshow_credits": null
+}

@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/23/realestate/focus-california-pension-funds-for-one-family-houses.html",
+    "snippet": "THE recent decision by the California Public Employees Retirement System to invest $375 million in the construction of one-family houses within the state is being welcomed by builders here, who have been squeezed by a severe shortage of financing....",
+    "lead_paragraph": "THE recent decision by the California Public Employees Retirement System to invest $375 million in the construction of one-family houses within the state is being welcomed by builders here, who have been squeezed by a severe shortage of financing. The first large-scale investment by a public pension fund in residential construction is being watched closely by builders across the country, who think it could spur similar moves by public pension funds in other states and open up a potentially huge source of new financing.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Focus: California; Pension Funds for One-Family Houses"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA PUBLIC EMPLOYEES RETIREMENT SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "PENSION FUNDS"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        }
+    ],
+    "pub_date": "1992-02-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Real Estate Desk",
+    "section_name": "Real Estate",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ac188eb7c8105d6cb414",
+    "word_count": 1202,
+    "slideshow_credits": null
+}

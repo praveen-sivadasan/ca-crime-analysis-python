@@ -1,0 +1,89 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/11/us/california-opens-all-out-war-on-tobacco-and-its-marketing.html",
+    "snippet": "LEAD: In one of the nation's most aggressive anti-smoking efforts, the State of California today began a multimillion-dollar advertising campaign that will be paid for by the smokers themselves through cigarette taxes....",
+    "lead_paragraph": "LEAD: In one of the nation's most aggressive anti-smoking efforts, the State of California today began a multimillion-dollar advertising campaign that will be paid for by the smokers themselves through cigarette taxes.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Opens All-Out War On Tobacco and Its Marketing"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "TEENAGERS"
+        },
+        {
+            "name": "subject",
+            "value": "SALES TAX"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING"
+        },
+        {
+            "name": "subject",
+            "value": "CIGARETTES"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        }
+    ],
+    "pub_date": "1990-04-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1af018eb7c8105d6cf207",
+    "word_count": 960,
+    "slideshow_credits": null
+}

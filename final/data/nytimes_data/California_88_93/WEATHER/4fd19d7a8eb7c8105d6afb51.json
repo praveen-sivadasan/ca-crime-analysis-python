@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/01/us/rain-provides-relief-and-problems-for-a-parched-california.html",
+    "snippet": "A welcome series of storms has brought rain to California the last two days, causing residents to engage in all sorts of activities that, after five years of drought, had become unusual.   Raincoats have been dragged from the backs of closets and ...",
+    "lead_paragraph": "A welcome series of storms has brought rain to California the last two days, causing residents to engage in all sorts of activities that, after five years of drought, had become unusual. Raincoats have been dragged from the backs of closets and small children are learning the joys of stomping in puddles.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rain Provides Relief, and Problems, for a Parched California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        }
+    ],
+    "pub_date": "1991-03-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19d7a8eb7c8105d6afb51",
+    "word_count": 529,
+    "slideshow_credits": null
+}

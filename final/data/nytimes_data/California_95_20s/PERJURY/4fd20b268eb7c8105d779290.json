@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1998/11/19/nyregion/c-corrections-925217.html",
+    "snippet": "A chart on Tuesday with a front-page article about perjury cases in state and Federal courts showed incorrect figures in some editions for felony prosecutions in California from 1993 to 1997. The numbers were duplicates of those for Federal prosec...",
+    "lead_paragraph": "A chart on Tuesday with a front-page article about perjury cases in state and Federal courts showed incorrect figures in some editions for felony prosecutions in California from 1993 to 1997. The numbers were duplicates of those for Federal prosecutions for major offenses. The correct numbers for prosecutions in California are 326,768 in 1997, 328,168 in 1996, 345,125 in 1995, 342,321 in 1994 and 345,469 in 1993.",
+    "abstract": "Nov 17 chart with article about perjury cases in state and Federal courts showed incorrect figures for felony prosecutions in California from 1993 to 1997",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "PERJURY"
+        }
+    ],
+    "pub_date": "1998-11-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd20b268eb7c8105d779290",
+    "word_count": 67,
+    "slideshow_credits": null
+}

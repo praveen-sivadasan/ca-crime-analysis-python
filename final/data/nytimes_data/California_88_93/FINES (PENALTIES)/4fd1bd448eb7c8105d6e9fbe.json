@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/26/us/shipping-company-assessed-largest-election-fine-ever.html",
+    "snippet": "State and local officials have levied an $895,000 fine against a foreign-owned shipping company that admitted funneling laundered money to dozens of politicians since 1989, including the gubernatorial campaigns of Gov. Pete Wilson and Dianne Feins...",
+    "lead_paragraph": "State and local officials have levied an $895,000 fine against a foreign-owned shipping company that admitted funneling laundered money to dozens of politicians since 1989, including the gubernatorial campaigns of Gov. Pete Wilson and Dianne Feinstein. Officials said the fine on Tuesday against the Evergreen America Corporation was the largest for a political ethics violation in the nation's history. The previous record, also in California, was $292,500 in 1988 against William Bryan, a Sacramento County Supervisor, for failure to disclose economic interests.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Shipping Company Assessed Largest Election Fine Ever"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EVERGREEN AMERICA CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SHIPS AND SHIPPING"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "MONEY LAUNDERING"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1993-08-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1bd448eb7c8105d6e9fbe",
+    "word_count": 701,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/24/us/political-giants-deflated-in-california.html",
+    "snippet": "In the past, the January after an election was usually a happy time for powerful Democratic lawmakers as they came to receive choice committee assignments and other political plums from Willie L. Brown Jr., the Speaker of the California State Asse...",
+    "lead_paragraph": "In the past, the January after an election was usually a happy time for powerful Democratic lawmakers as they came to receive choice committee assignments and other political plums from Willie L. Brown Jr., the Speaker of the California State Assembly. But this week, some of this state's most important and longest-lived politicians emerged from Mr. Brown's office pale and drawn after hearing that the cupboard is bare, that they are forced to slash and trim their staffs and sacrifice some of the other perquisites that have helped them rise to power. Similar painful cuts are taking place in the State Senate.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Political Giants Deflated in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, WILLIE L JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1991-01-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c3ce8eb7c8105d6f3049",
+    "word_count": 1256,
+    "slideshow_credits": null
+}

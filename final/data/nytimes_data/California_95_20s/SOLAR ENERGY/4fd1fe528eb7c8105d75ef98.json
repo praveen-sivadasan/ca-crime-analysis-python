@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1997/05/19/us/solar-power-in-big-leap-in-california.html",
+    "snippet": "A California electric utility has signed a big contract to buy solar cells that the utility and the Department of Energy say will push the cells' cost down to a competitive level by 2002.    The utility, the Sacramento Municipal Utility District, ...",
+    "lead_paragraph": "A California electric utility has signed a big contract to buy solar cells that the utility and the Department of Energy say will push the cells' cost down to a competitive level by 2002. The utility, the Sacramento Municipal Utility District, will buy 10 megawatts of solar cells by 2002, enough to supply hundreds of houses. The total is small by the standards of conventional power plants, but experts say it is the largest purchase ever by a utility of solar cells, which make electricity from sunlight. The type that the utility district will buy, thin-film silicon, is similar to what pocket calculators run on.",
+    "abstract": "Sacramento Municipal Utility District signs contract to buy 10 megawatts of solar cells by 2002, and cost of cells is expected to be pushed down to competitive level through economies of scale possible with a long-term contract; will put 300 square feet to 500 square feet of cells on roofs of about 4,000 customers, and these will produce about three kilowatts of power during the day; cells will come from Energy Photovoltaics of Princeton, NJ (M)",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Solar Power In Big Leap In California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ENERGY PHOTOVOLTAICS"
+        },
+        {
+            "name": "organizations",
+            "value": "SACRAMENTO MUNICIPAL UTILITY"
+        },
+        {
+            "name": "subject",
+            "value": "SOLAR ENERGY"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "1997-05-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fe528eb7c8105d75ef98",
+    "word_count": 539,
+    "slideshow_credits": null
+}

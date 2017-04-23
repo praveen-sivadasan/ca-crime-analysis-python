@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1988/04/30/style/a-quick-spin-in-the-fast-lane.html",
+    "snippet": "LEAD: Even if you can't afford to buy the car of your dreams, you may still be able to drive it. At least for a day....",
+    "lead_paragraph": "LEAD: Even if you can't afford to buy the car of your dreams, you may still be able to drive it. At least for a day.",
+    "abstract": null,
+    "print_page": "56",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Quick Spin in the Fast Lane"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CONSUMER'S WORLD PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "RENTING AND LEASING"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1988-04-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Deborah",
+                "rank": 1,
+                "lastname": "BLUMENTHAL"
+            }
+        ],
+        "original": "By DEBORAH BLUMENTHAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1787d8eb7c8105d66f55e",
+    "word_count": 1083,
+    "slideshow_credits": null
+}

@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/29/magazine/class-struggle.html",
+    "snippet": "ON A LEAFY SIDE STREET IN THE Los Angeles suburb of Glendale, parents and children are playing out the American ritual of going back to school. The youngsters, still adjusting to the unfamiliar surroundings of classes at the Columbus Elementary Sc...",
+    "lead_paragraph": "ON A LEAFY SIDE STREET IN THE Los Angeles suburb of Glendale, parents and children are playing out the American ritual of going back to school. The youngsters, still adjusting to the unfamiliar surroundings of classes at the Columbus Elementary School, clutch glossy new textbooks. About 30 of them file into John Robertson's fifth-grade classroom, where the walls are decorated with Presidential portraits, diagrams of the 50 states and Navajo sand drawings. From all appearances, a traditional setting. But appearances are deceiving. That becomes evident when Robertson addresses his charges, with names like Aram, Razmik, Sarkis, Su Chin, Pierre and Angela. The classroom, a typical one in the new California, is filled with immigrant children from Soviet Armenia, Mexico, El Salvador, Korea and Hong Kong, plus a few Americans. At the rear, a Filipino-American teacher's aide, Nanette Morales, prepares to help Armenian and Korean children learn English.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Class Struggle"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUGHTON MIFFLIN CO"
+        },
+        {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "HISTORY"
+        }
+    ],
+    "pub_date": "1991-09-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "BY ROBERT REINHOLD;"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1acbb8eb7c8105d6cc42c",
+    "word_count": 4775,
+    "slideshow_credits": null
+}

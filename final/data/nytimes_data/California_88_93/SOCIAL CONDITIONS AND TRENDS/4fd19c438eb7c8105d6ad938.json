@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/16/us/they-came-to-california-for-the-good-life-now-they-re-looking-elsewhere.html",
+    "snippet": "The enormous migration to California from other states, which brought profound political and economic consequences over the last decade, appears to have slowed substantially.    Demographers and geographers attribute the slowing largely to the rec...",
+    "lead_paragraph": "The enormous migration to California from other states, which brought profound political and economic consequences over the last decade, appears to have slowed substantially. Demographers and geographers attribute the slowing largely to the recession, which has hit California particularly hard, leaving its once-robust economy to bring up the rear of the national recovery. But they also point to many other factors, including high housing costs, air pollution, traffic congestion, crime, deteriorating social services and fear of earthquakes and other disasters.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "They Came to California for the Good Life; Now They're Looking Elsewhere"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "POPULATION"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "POPULATION SHIFTS"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        }
+    ],
+    "pub_date": "1991-10-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19c438eb7c8105d6ad938",
+    "word_count": 1619,
+    "slideshow_credits": null
+}

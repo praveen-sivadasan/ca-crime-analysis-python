@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/30/us/fiscal-crisis-could-handcuff-wilson-in-california.html",
+    "snippet": "With the state's deficit expected to rise into the billions of dollars next year, California's incoming Governor, Pete Wilson, will take office in January facing a fiscal crisis that could severely restrict his adminstration's programs.    Mr. Wil...",
+    "lead_paragraph": "With the state's deficit expected to rise into the billions of dollars next year, California's incoming Governor, Pete Wilson, will take office in January facing a fiscal crisis that could severely restrict his adminstration's programs. Mr. Wilson, who must present an outline of a balanced budget on Jan. 10, three days after he takes office, did not rule out the possibility of some form of new taxes in his recent campaign for the office.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fiscal Crisis Could Handcuff Wilson in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1990-11-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19d308eb7c8105d6af4ea",
+    "word_count": 661,
+    "slideshow_credits": null
+}

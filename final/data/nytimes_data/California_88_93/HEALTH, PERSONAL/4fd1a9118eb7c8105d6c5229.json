@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/12/sports/sports-people-horse-racing-shoemaker-recovering.html",
+    "snippet": "Bill Shoemaker, partially paralyzed in an auto accident, was reported to be alert and responsive, but remained in critical condition yesterday at Centinela Hospital Medical Center in Inglewood, Calif. Tests showed his blood-alcohol level was nearl...",
+    "lead_paragraph": "Bill Shoemaker, partially paralyzed in an auto accident, was reported to be alert and responsive, but remained in critical condition yesterday at Centinela Hospital Medical Center in Inglewood, Calif. Tests showed his blood-alcohol level was nearly twice the legal limit the night of the crash and authorities prepared to file drunken driving charges against him. Shoemaker had a blood-alcohol content of 0.13 when his Ford Bronco tumbled down a freeway embankment Monday night in San Dimas. The legal limit is 0.08.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Shoemaker Recovering",
+        "kicker": "SPORTS PEOPLE: HORSE RACING"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "SPORTS PEOPLE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "SHOEMAKER, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "HORSE RACING"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH, PERSONAL"
+        },
+        {
+            "name": "subject",
+            "value": "DRUNKEN AND RECKLESS DRIVING"
+        }
+    ],
+    "pub_date": "1991-04-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Health; Sports",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a9118eb7c8105d6c5229",
+    "word_count": 85,
+    "slideshow_credits": null
+}

@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/11/us/hospital-workers-in-california-approve-pay-offer-ending-strike.html",
+    "snippet": "LEAD: Workers at the nation's largest health maintenance organization voted on Monday to approve a reworked contract offer, ending a weeklong strike by 11,000 nurses, technicians and maintenance workers....",
+    "lead_paragraph": "LEAD: Workers at the nation's largest health maintenance organization voted on Monday to approve a reworked contract offer, ending a weeklong strike by 11,000 nurses, technicians and maintenance workers.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Hospital Workers in California Approve Pay Offer, Ending Strike"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KAISER PERMANENTE"
+        },
+        {
+            "name": "organizations",
+            "value": "SERVICE WORKERS INTERNATIONAL UNION"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "CONTRACTS"
+        },
+        {
+            "name": "subject",
+            "value": "STRIKES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "HOSPITALS"
+        }
+    ],
+    "pub_date": "1990-04-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd191f38eb7c8105d69a893",
+    "word_count": 379,
+    "slideshow_credits": null
+}

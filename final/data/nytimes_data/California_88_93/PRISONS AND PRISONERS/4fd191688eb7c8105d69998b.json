@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/01/16/us/inmates-find-ways-to-lock-anger-inside.html",
+    "snippet": "LEAD: For the last six weeks, 15 prison inmates have assembled daily in a classroom here to consider the harm they have caused others, including the strangers they have assaulted, robbed or raped and the family members they have abused, stigmatize...",
+    "lead_paragraph": "LEAD: For the last six weeks, 15 prison inmates have assembled daily in a classroom here to consider the harm they have caused others, including the strangers they have assaulted, robbed or raped and the family members they have abused, stigmatized or left abandoned.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Inmates Find Ways to Lock Anger Inside"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEUEL VOCATIONAL INSTITUTION"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        }
+    ],
+    "pub_date": "1989-01-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd191688eb7c8105d69998b",
+    "word_count": 1270,
+    "slideshow_credits": null
+}

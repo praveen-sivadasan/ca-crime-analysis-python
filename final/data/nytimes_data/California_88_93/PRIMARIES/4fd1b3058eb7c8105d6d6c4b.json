@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/01/us/1992-campaign-campaign-notebook-campaigning-sundays-brings-different-bill.html",
+    "snippet": "Bill Clinton likes to campaign in black churches so much that it occasionally seems that he is toying with a calling more spiritual than political.   Some call these little talks sermons. And when Mr. Clinton weaves scriptural references into his ...",
+    "lead_paragraph": "Bill Clinton likes to campaign in black churches so much that it occasionally seems that he is toying with a calling more spiritual than political. Some call these little talks sermons. And when Mr. Clinton weaves scriptural references into his standard campaign speech on Sunday mornings, some members of the press corps have a different name for the Arkansas Governor: Reverend Bill.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Campaign Notebook; Campaigning on Sundays Brings Out a Different Bill Clinton"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-06-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Gwen",
+                "rank": 1,
+                "lastname": "IFILL"
+            }
+        ],
+        "original": "By GWEN IFILL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b3058eb7c8105d6d6c4b",
+    "word_count": 928,
+    "slideshow_credits": null
+}

@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/03/us/a-resurgent-california-finds-all-that-glitters-is-its-future.html",
+    "snippet": "When demographers at the California Department of Finance finished their annual analysis of drivers' licenses last month, they found a shining nugget of good news for the Golden State: for the first time since 1991, more Americans moved to Califor...",
+    "lead_paragraph": "When demographers at the California Department of Finance finished their annual analysis of drivers' licenses last month, they found a shining nugget of good news for the Golden State: for the first time since 1991, more Americans moved to California than left it to live in other states. Last week, the California Association of Realtors turned up another cheery statistic: sales of existing homes rose 11.2 percent in July compared with the same month last year, the highest year-to-year increase since 1989 and five times the national increase for July.",
+    "abstract": "California is in throes of economic boom, with strong position in almost all growth industries; more Americans have moved there than have left to live elsewhere, for first time since 1991, and sales of existing homes rose 11.2 percent in July 1997--highest year-to-year increase since 1989 and five times national increase for July; annual job growth rate is nearly 3 percent, compared with 2.3 percent nationally and 1.4 percent in Middle Atlantic States; state has nearly half million more jobs than before recession of early 1990's; map; charts (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Resurgent California Finds All That Glitters Is Its Future"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1997-09-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd200d18eb7c8105d764681",
+    "word_count": 1359,
+    "slideshow_credits": null
+}

@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/03/us/skirmish-in-anti-drug-war-california-vs-doonesbury.html",
+    "snippet": "There are drug wars, and there are drug wars. And then, it appears, there are the pretty-much-symbolic drug-related spats.    Marching bravely into the cultural swamp where Dan Quayle once bogged down in combat with the television single mother Mu...",
+    "lead_paragraph": "There are drug wars, and there are drug wars. And then, it appears, there are the pretty-much-symbolic drug-related spats. Marching bravely into the cultural swamp where Dan Quayle once bogged down in combat with the television single mother Murphy Brown, California's Attorney General, Dan Lungren, has taken his fight against the medical use of marijuana to Zonker Harris, the laid-back hero of the comic strip ''Doonesbury.''",
+    "abstract": "California Atty Gen Dan Lungren assails Doonesbury comic strip and its creator Garry Trudeau after Lungren is identified with some exaggeration as man who shut down Cannabis Buyer's Club, where people suffering from terminal illnesses can buy marijuana; photo (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Skirmish in Anti-Drug War: California vs. 'Doonesbury'"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUNGREN, DAN"
+        },
+        {
+            "name": "persons",
+            "value": "TRUDEAU, GARRY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CANNABIS BUYERS CLUB"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "MARIJUANA"
+        },
+        {
+            "name": "subject",
+            "value": "COMIC BOOKS AND STRIPS"
+        }
+    ],
+    "pub_date": "1996-10-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ccd38eb7c8105d703b57",
+    "word_count": 784,
+    "slideshow_credits": null
+}

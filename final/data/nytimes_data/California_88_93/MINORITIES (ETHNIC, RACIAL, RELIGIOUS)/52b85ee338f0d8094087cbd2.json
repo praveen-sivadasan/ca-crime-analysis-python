@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/07/us/california-governor-signs-bill-toughening-bias-penalties.html",
+    "snippet": "Gov. today Pete Wilson signed legislation increasing the penalties for threatening any person because of his or her race, religion or sexual orientation.   The bill also increases penalties for property damage or injuries motivated by prejudice....",
+    "lead_paragraph": "Gov. today Pete Wilson signed legislation increasing the penalties for threatening any person because of his or her race, religion or sexual orientation. The bill also increases penalties for property damage or injuries motivated by prejudice.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Governor Signs Bill Toughening Bias Penalties"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "THREATS AND THREATENING MESSAGES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "RACIAL RELATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1991-10-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b85ee338f0d8094087cbd2",
+    "word_count": "89",
+    "slideshow_credits": null
+}

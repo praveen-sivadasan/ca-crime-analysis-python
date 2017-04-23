@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/03/business/interest-rate-payoff-on-california-iou-s.html",
+    "snippet": "The inability of California to pay all its bills in cash is a black mark against its reputation in financial markets, but there is a silver lining for people and businesses who are issued i.o.u.'s instead of cash.    If the recipients of the i.o.u...",
+    "lead_paragraph": "The inability of California to pay all its bills in cash is a black mark against its reputation in financial markets, but there is a silver lining for people and businesses who are issued i.o.u.'s instead of cash. If the recipients of the i.o.u.'s hold the check-like pieces of paper, the state has promised to pay a 5 percent interest rate, which is much higher than the annual rate they could earn on a short-term bank deposit. If the i.o.u.'s are deposited or cashed at a bank, the bank will receive the 5 percent rate.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Interest-Rate Payoff on California I.O.U.'s"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        }
+    ],
+    "pub_date": "1992-07-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "QUINT"
+            }
+        ],
+        "original": "By MICHAEL QUINT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dd098eb7c8105d71f242",
+    "word_count": 398,
+    "slideshow_credits": null
+}

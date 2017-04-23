@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/08/us/judge-rules-doctors-can-discuss-marijuana-use.html",
+    "snippet": "A federal judge in San Francisco ruled today that federal officials may not interfere with the freedom of California doctors and patients to discuss the potential medical benefits of marijuana, or of doctors to recommend its therapeutic use, under...",
+    "lead_paragraph": "A federal judge in San Francisco ruled today that federal officials may not interfere with the freedom of California doctors and patients to discuss the potential medical benefits of marijuana, or of doctors to recommend its therapeutic use, under the terms of a state ballot initiative approved by voters in 1996. The ruling by Judge William Alsup of Federal District Court came in a class-action lawsuit filed against top Clinton administration officials, including Attorney General Janet Reno, in 1997, seeking to block them from prosecuting or removing the prescription licenses of any doctors who endorsed marijuana's potential benefits in treating patients with painful illnesses like AIDS and cancer.",
+    "abstract": "Judge Wililam Alsum rules in San Francisco that federal officials may not interfere with freedom of California doctors and patients to discuss potential medical benefits of marijuana, or of doctors to recommend its therapeutic use under terms of ballot initiative approved in 1996 (S)",
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Judge Rules Doctors Can Discuss Marijuana Use"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ALSUM, WILLIAM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DOCTORS"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG LEGALIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "MARIJUANA"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "2000-09-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20a6d8eb7c8105d77706e",
+    "word_count": 362,
+    "slideshow_credits": null
+}

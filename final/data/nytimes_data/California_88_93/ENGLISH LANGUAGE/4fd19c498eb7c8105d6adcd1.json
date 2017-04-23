@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/11/us/immigrants-protest-veto-on-english-classes.html",
+    "snippet": "About 2,500 people took to the streets on Saturday to protest Gov. Pete Wilson's veto of legislation that would have financed English-language classes for immigrants.   The protesters carried banners in both Spanish and English that read: \"For Pet...",
+    "lead_paragraph": "About 2,500 people took to the streets on Saturday to protest Gov. Pete Wilson's veto of legislation that would have financed English-language classes for immigrants. The protesters carried banners in both Spanish and English that read: \"For Pete's Sake, Remember the Hispanic Voters\" and \"Governor Wilson, When You Deny Us English You Cripple Your Work Force.\"",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Immigrants Protest Veto on English Classes"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        },
+        {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+        }
+    ],
+    "pub_date": "1991-11-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd19c498eb7c8105d6adcd1",
+    "word_count": 247,
+    "slideshow_credits": null
+}

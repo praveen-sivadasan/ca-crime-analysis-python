@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/14/weekinreview/ideas-trends-radar-detectors-banned-if-your-car-your-castle-can-it-be-besieged.html",
+    "snippet": "LEAD: Over the years since the national 55-mile-an-hour speed limit was imposed, it has been lifted to 65 in some states and has come to be commonly flouted in others, particularly with the proliferation of radar detectors. Though few states have ...",
+    "lead_paragraph": "LEAD: Over the years since the national 55-mile-an-hour speed limit was imposed, it has been lifted to 65 in some states and has come to be commonly flouted in others, particularly with the proliferation of radar detectors. Though few states have seen fit to outlaw the devices, which warn drivers when they are coming under police radar surveillance, one of the nation's largest auto insurers, the Geico",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "IDEAS & TRENDS: Radar Detectors Banned;   If Your Car Is Your Castle, Can It Be Besieged?"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GEICO CORP"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "RADAR"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1990-10-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Eric",
+                "middlename": "N.",
+                "lastname": "BERG",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By ERIC N. BERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a5198eb7c8105d6bdc6b",
+    "word_count": 536,
+    "slideshow_credits": null
+}

@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1998/12/15/business/company-news-san-diego-gas-agrees-to-sell-power-plant.html",
+    "snippet": "The San Diego Gas and Electric Company, an electric utility owned by the Sempra Energy Company, agreed yesterday to sell a power plant to Dynegy Inc., based in Houston, and NRG Energy Inc., a subsidiary of the Northern States Power Company, based ...",
+    "lead_paragraph": "The San Diego Gas and Electric Company, an electric utility owned by the Sempra Energy Company, agreed yesterday to sell a power plant to Dynegy Inc., based in Houston, and NRG Energy Inc., a subsidiary of the Northern States Power Company, based in Minneapolis, for $356 million as part of the deregulation in California's electricity market. Dynegy and NRG Energy are paying almost four times book value for the plant in Carlsbad, Calif., and some additional capacity. This is the third power-plant acquisition by the Dynegy-NRG Energy joint venture. San Diego Gas, California's third-largest electric utility, plans to focus on delivering power over its transmission lines.",
+    "abstract": "San Diego Gas & Electric Co, electric utility owned by Sempra Energy Co, agrees to sell power plant to Dynegy Inc, based in Houston, and NRG Energy Inc, subsidiary of Northern States Power Co, for $356 million as part of deregulation of California's electricity market (S)",
+    "print_page": "6",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "SAN DIEGO GAS AGREES TO SELL POWER PLANT",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DYNEGY INC"
+        },
+        {
+            "name": "organizations",
+            "value": "NRG ENERGY INC"
+        },
+        {
+            "name": "organizations",
+            "value": "SEMPRA ENERGY CO"
+        },
+        {
+            "name": "organizations",
+            "value": "NORTHERN STATES POWER CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN DIEGO GAS & ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1998-12-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd21c1f8eb7c8105d79c6fd",
+    "word_count": 108,
+    "slideshow_credits": null
+}

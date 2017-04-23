@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/23/us/young-inmates-form-airborne-firefighter-force.html",
+    "snippet": "LEAD: It was the dawning of Day 3 for the thousand-acre wildfire burning in the rocky northern ridges of the San Jacinto Mountains....",
+    "lead_paragraph": "LEAD: It was the dawning of Day 3 for the thousand-acre wildfire burning in the rocky northern ridges of the San Jacinto Mountains.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Young Inmates Form Airborne Firefighter Force"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        },
+        {
+            "name": "subject",
+            "value": "HELICOPTERS"
+        }
+    ],
+    "pub_date": "1988-08-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "S.",
+                "lastname": "WILSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By DAVID S. WILSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19c978eb7c8105d6adda0",
+    "word_count": 811,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1999/04/25/us/human-remains-found-on-suspect-s-land.html",
+    "snippet": "Human remains have been found on the property of a convicted rapist who is a suspect in the disappearances of two college students, the police said on Friday.    The remains of one person were discovered about 150 miles northwest of Los Angeles on...",
+    "lead_paragraph": "Human remains have been found on the property of a convicted rapist who is a suspect in the disappearances of two college students, the police said on Friday. The remains of one person were discovered about 150 miles northwest of Los Angeles on the remote property of the suspect, Rex Allen Krebs, Capt. Bart Topham said.",
+    "abstract": "Human remains are found on remote California property of Rex Allen Krebs, convicted rapist suspected in disappearances of college students Aundria Crawford and Rachel Newhouse; Krebs is being held for parole violations (S)",
+    "print_page": "28",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Human Remains Found on Suspect's Land"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KREBS, REX ALLEN"
+        },
+        {
+            "name": "persons",
+            "value": "CRAWFORD, AUNDRIA"
+        },
+        {
+            "name": "persons",
+            "value": "NEWHOUSE, RACHEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "MISSING PERSONS"
+        }
+    ],
+    "pub_date": "1999-04-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e87e8eb7c8105d736f6c",
+    "word_count": 176,
+    "slideshow_credits": null
+}

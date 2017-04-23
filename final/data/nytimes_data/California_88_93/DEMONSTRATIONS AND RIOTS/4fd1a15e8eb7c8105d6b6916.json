@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/21/us/california-budget-crisis-gets-angrier.html",
+    "snippet": null,
+    "lead_paragraph": null,
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Budget Crisis Gets Angrier"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        }
+    ],
+    "pub_date": "1992-08-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd1a15e8eb7c8105d6b6916",
+    "word_count": 0,
+    "slideshow_credits": null
+}

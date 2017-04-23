@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/27/us/different-areas-breed-different-quakes.html",
+    "snippet": "The earthquakes that rumbled through Northern California over the weekend are not related to the ones that shook up Southern California several days earlier, scientists say.   The two events happened more than 500 miles apart and, the scientists s...",
+    "lead_paragraph": "The earthquakes that rumbled through Northern California over the weekend are not related to the ones that shook up Southern California several days earlier, scientists say. The two events happened more than 500 miles apart and, the scientists said, occurred on different kinds of fault zones driven by different forces deep in the earth.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Different Areas Breed Different Quakes"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1992-04-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ced48eb7c8105d706e0c",
+    "word_count": 558,
+    "slideshow_credits": null
+}

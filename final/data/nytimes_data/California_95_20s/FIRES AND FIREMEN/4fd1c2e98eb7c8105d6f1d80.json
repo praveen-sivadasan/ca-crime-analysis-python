@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1996/02/07/nyregion/c-corrections-027588.html",
+    "snippet": "Because of an editing error, an article on Sunday about the origin of the 1913 fire that gutted Jack London's house in Glen Ellen, Calif., misstated the publication date of his essay \"The House Beautiful.\" It was 1906, not 1960....",
+    "lead_paragraph": "Because of an editing error, an article on Sunday about the origin of the 1913 fire that gutted Jack London's house in Glen Ellen, Calif., misstated the publication date of his essay \"The House Beautiful.\" It was 1906, not 1960.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LONDON, JACK"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1996-02-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1c2e98eb7c8105d6f1d80",
+    "word_count": 40,
+    "slideshow_credits": null
+}

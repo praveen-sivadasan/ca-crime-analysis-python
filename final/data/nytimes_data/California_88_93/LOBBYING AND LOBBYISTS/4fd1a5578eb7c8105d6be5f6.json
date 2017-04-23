@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/14/us/spared-2-base-closings-californians-lobby-on.html",
+    "snippet": "California's elected leaders claimed a partial victory this weekend in their effort to save military bases in the state and began a fierce second-round lobbying battle to spare at least one other base here from closing.   Two California bases were...",
+    "lead_paragraph": "California's elected leaders claimed a partial victory this weekend in their effort to save military bases in the state and began a fierce second-round lobbying battle to spare at least one other base here from closing. Two California bases were granted a reprieve on Friday by Defense Secretary Les Aspin, at least for the time being: the huge McClellan Air Force Base in Sacramento and the Presidio of Monterey, home to the Army's esteemed language school. Mr. Aspin has also recommended trimming, but not closing, March Air Force Base in Riverside County.",
+    "abstract": null,
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Spared 2 Base Closings, Californians Lobby On"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "LOBBYING AND LOBBYISTS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1993-03-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a5578eb7c8105d6be5f6",
+    "word_count": 941,
+    "slideshow_credits": null
+}

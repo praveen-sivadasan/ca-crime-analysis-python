@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/14/us/national-news-briefs-california-lawmakers-decide-to-cut-taxes.html",
+    "snippet": "California lawmakers approved a $1.7 billion, three-year tax cut package early today, capping a flurry of activity in the final hours of the Legislature's 1997 session....",
+    "lead_paragraph": "California lawmakers approved a $1.7 billion, three-year tax cut package early today, capping a flurry of activity in the final hours of the Legislature's 1997 session.",
+    "abstract": "California lawmakers approve $1.7 billion, three-year tax cut package in final hours of Legislature's 1997 session (S)",
+    "print_page": "33",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; California Lawmakers Decide to Cut Taxes"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1997-09-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd202908eb7c8105d768260",
+    "word_count": 88,
+    "slideshow_credits": null
+}

@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1996/12/24/us/u-s-judge-blocks-enforcing-of-law-over-preferences.html",
+    "snippet": "A Federal judge here barred the State of California today from enforcing a recent ballot initiative intended to roll back affirmative action programs in the state, a decision that will probably send the law on to a court battle that could last for...",
+    "lead_paragraph": "A Federal judge here barred the State of California today from enforcing a recent ballot initiative intended to roll back affirmative action programs in the state, a decision that will probably send the law on to a court battle that could last for years. In issuing a preliminary injunction issued late this afternoon, the Chief Judge of the Federal District Court in San Francisco, Thelton E. Henderson, ruled that opponents of the ballot initiative would probably prevail in their argument that the measure violated the Constitution by denying equal treatment to women and minorities.",
+    "abstract": "Judge Thelton E Henderson bars State of California from enforcing Proposition 209, ballot initiative that rolls back affirmative action programs in the state, ruling that the opponents of the proposition will probably prevail in the argument that it violates Constitution by denying equal treatment to women and minorities; supporters of the initiative pledge a swift appeal; contend Henderson should be disqualified from hearing case on ground that as a former board member of American Civil Liberties Union, he biased in favor of the civil rights groups and that he acted improperly in taking over the case from a colleague (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U. S. JUDGE BLOCKS ENFORCING OF LAW OVER PREFERENCES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HENDERSON, THELTON E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1996-12-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dad78eb7c8105d71acd0",
+    "word_count": 1001,
+    "slideshow_credits": null
+}

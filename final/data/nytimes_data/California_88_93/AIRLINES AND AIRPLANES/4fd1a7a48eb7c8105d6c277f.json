@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/17/us/plane-crash-kills-country-musicians.html",
+    "snippet": "Seven members of the country-western singer Reba McEntire's band, along with her road manager and two pilots, were killed early today when their private plane crashed in a mountain area near the Mexican border.   The crash, which left no survivors...",
+    "lead_paragraph": "Seven members of the country-western singer Reba McEntire's band, along with her road manager and two pilots, were killed early today when their private plane crashed in a mountain area near the Mexican border. The crash, which left no survivors, occurred shortly after the Hawker Sidley aircraft had taken off from Brown Field, a private airport about 15 miles southeast of San Diego. Miss McEntire had performed with her band in San Diego on Friday night.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "PLANE CRASH KILLS COUNTRY MUSICIANS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCENTIRE, REBA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "MUSIC"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVATE AIRCRAFT"
+        }
+    ],
+    "pub_date": "1991-03-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7a48eb7c8105d6c277f",
+    "word_count": 247,
+    "slideshow_credits": null
+}

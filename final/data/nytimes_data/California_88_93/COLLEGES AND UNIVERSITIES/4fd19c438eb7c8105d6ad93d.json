@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/16/education/bargains-end-at-public-colleges-as-states-force-tuition-increases.html",
+    "snippet": "Bargain-rate tuitions for students at state-run colleges and universities have been a source of hope for American families, regardless of their incomes, but the crisis in state financing is pushing lawmakers across the nation to raise tuitions and...",
+    "lead_paragraph": "Bargain-rate tuitions for students at state-run colleges and universities have been a source of hope for American families, regardless of their incomes, but the crisis in state financing is pushing lawmakers across the nation to raise tuitions and force students who can afford it to pay more. Pressed by the recession and budget deficits, states have been unable to fully support their colleges with tax revenues and are increasingly looking to tuition to cover more of the cost of a student's education. Last year, tuition at public colleges increased by 12 percent, the biggest single-year jump since 1983, according to figures released yesterday by The College Board.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bargains End at Public Colleges As States Force Tuition Increases"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "EDUCATION PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF VERMONT"
+        },
+        {
+            "name": "organizations",
+            "value": "BENNINGTON COLLEGE"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "TUITION"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "INCOME"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1991-10-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": null,
+    "section_name": "Education",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Anthony",
+                "rank": 1,
+                "lastname": "DePALMA"
+            }
+        ],
+        "original": "By ANTHONY DePALMA"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19c438eb7c8105d6ad93d",
+    "word_count": 1258,
+    "slideshow_credits": null
+}

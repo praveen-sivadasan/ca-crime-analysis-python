@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/28/us/perot-spending-more-on-ads-than-any-candidate-before.html",
+    "snippet": "Since re-entering the Presidential race at the beginning of the month, Ross Perot has embarked on what is likely to prove to be, week by week, the most expensive political advertising campaign in the history of the country.    In the first two wee...",
+    "lead_paragraph": "Since re-entering the Presidential race at the beginning of the month, Ross Perot has embarked on what is likely to prove to be, week by week, the most expensive political advertising campaign in the history of the country. In the first two weeks of this month, Mr. Perot spent $24 million on commercials. According to campaign disclosures received Monday by the Federal Election Commission, he spent almost $10.8 million over the next 10days. On Monday night alone, he spent almost $1 million for an hourlong paid program on ABC.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Perot Spending More on Ads Than Any Candidate Before"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "PEROT, ROSS"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-10-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Elizabeth",
+                "rank": 1,
+                "lastname": "KOLBERT"
+            }
+        ],
+        "original": "By ELIZABETH KOLBERT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a3648eb7c8105d6bab2a",
+    "word_count": 1108,
+    "slideshow_credits": null
+}

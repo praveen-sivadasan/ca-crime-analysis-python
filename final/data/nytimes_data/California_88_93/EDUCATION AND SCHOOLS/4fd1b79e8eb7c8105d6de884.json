@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/02/us/california-hurdle-is-school-spending.html",
+    "snippet": "Negotiators for the State Legislature entered intense talks with Gov. Pete Wilson's staff today to resolve a dispute over future state support for public schools, the last remaining hurdle to ending California's two-month budget crisis.   People o...",
+    "lead_paragraph": "Negotiators for the State Legislature entered intense talks with Gov. Pete Wilson's staff today to resolve a dispute over future state support for public schools, the last remaining hurdle to ending California's two-month budget crisis. People on both sides familiar with the negotiations said they were trying to find some face-saving concessions to offer Speaker Willie L. Brown Jr. and the fractious Democratic-controlled Assembly as inducement to vote for the main elements of the Republican Governor's plan.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA HURDLE IS SCHOOL SPENDING"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-09-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b79e8eb7c8105d6de884",
+    "word_count": 774,
+    "slideshow_credits": null
+}

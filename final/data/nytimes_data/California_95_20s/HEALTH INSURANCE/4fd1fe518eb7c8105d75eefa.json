@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1997/06/24/us/clinton-in-talk-to-mayors-sketches-a-vision-for-cities.html",
+    "snippet": "As he hopscotched among California fund-raising events, President Clinton alighted today at an elementary school to promote his ideas for children's health care and at the annual  gathering of the United States Conference of Mayors to unveil some ...",
+    "lead_paragraph": "As he hopscotched among California fund-raising events, President Clinton alighted today at an elementary school to promote his ideas for children's health care and at the annual gathering of the United States Conference of Mayors to unveil some modest initiatives -- and some grand dreams -- for cities. At the Mar Vista Elementary School here, Mr. Clinton attended a ceremony where the medical services giant Kaiser Permanente announced that it would provide $100 million over five years to help pay for health coverage for as many as 50,000 California children from low-income families.",
+    "abstract": "Pres Clinton promotes ideas for children's health care during fund-raising events in California; visits annual gathering of United States Conference of Mayors, where he unveils some modest initiatives for cities; attends ceremony in Los Angeles, where Kaiser Permanente, medical services, giant announces plan to provide $100 million over next five years for health coverage for as many as 50,000 California children from low-income families (M)",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Clinton, in Talk to Mayors, Sketches a Vision for Cities"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KAISER PERMANENTE"
+        },
+        {
+            "name": "subject",
+            "value": "MAYORS"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "URBAN AREAS"
+        }
+    ],
+    "pub_date": "1997-06-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "BENNET"
+            }
+        ],
+        "original": "By JAMES BENNET"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fe518eb7c8105d75eefa",
+    "word_count": 889,
+    "slideshow_credits": null
+}

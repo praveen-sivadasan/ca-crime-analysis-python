@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/27/style/chronicle-727790.html",
+    "snippet": "GAYLE WILSON asked WAYNE NEWTON , who graduated from high school with her in 1960 in North Phoenix, Ariz., to do a little something for the inauguration of her husband, PETE WILSON , the Governor-elect of California. So Mr. Newton, 48 years old, w...",
+    "lead_paragraph": "GAYLE WILSON asked WAYNE NEWTON , who graduated from high school with her in 1960 in North Phoenix, Ariz., to do a little something for the inauguration of her husband, PETE WILSON , the Governor-elect of California. So Mr. Newton, 48 years old, who was junior class president when she was class secretary, will be the featured entertainer at Mr. Wilson's inaugural gala on Jan. 6 at the Arco Arena in Sacramento, Calif. Others scheduled to appear are CHARLTON HESTON and ARNOLD SCHWARZENEGGER. They were active Wilson supporters during the campaign. The inaugural show, with tickets selling for $120 and $125, will help finance the inaugural ceremonies on Jan. 7.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CHRONICLE"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CHRONICLE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "NEWTON, WAYNE"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INAUGURATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PARTIES (SOCIAL)"
+        }
+    ],
+    "pub_date": "1990-12-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Susan",
+                "middlename": "Heller",
+                "lastname": "ANDERSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By SUSAN HELLER ANDERSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c3ca8eb7c8105d6f2e1a",
+    "word_count": 110,
+    "slideshow_credits": null
+}

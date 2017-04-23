@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1999/11/13/business/company-news-bp-amoco-and-california-reach-accord-on-merger.html",
+    "snippet": "The British energy giant BP Amoco P.L.C. and Gov. Gray Davis of California said late on Thursday that they had agreed to resolve the state's concerns over the company's proposed takeover of Atlantic Richfield Company, which is based in Los Angeles...",
+    "lead_paragraph": "The British energy giant BP Amoco P.L.C. and Gov. Gray Davis of California said late on Thursday that they had agreed to resolve the state's concerns over the company's proposed takeover of Atlantic Richfield Company, which is based in Los Angeles. BP Amoco said it would keep ARCO's policy of pricing gasoline consistently around 5 cents below its competitors and would phase out MTBE, a gasoline additive found to pollute water supplies, a year earlier than mandated by the state. BP's actions calmed Mr. Davis's fears that the company's $27 billion takeover of ARCO could adversely affect West Coast oil and fuel pricing competition.",
+    "abstract": "BP Amoco PLC and California Gov Gray Davis agree to resolve state's concerns over company's proposed takeover of Atlantic Richfield Co; Davis feared BP Amoco's takeover of ARCO could adversely affect West Coast oil and fuel pricing competition (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "BP AMOCO AND CALIFORNIA REACH ACCORD ON MERGER",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BP AMOCO PLC"
+        },
+        {
+            "name": "organizations",
+            "value": "ATLANTIC RICHFIELD CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        }
+    ],
+    "pub_date": "1999-11-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd22d088eb7c8105d7b9b23",
+    "word_count": 106,
+    "slideshow_credits": null
+}

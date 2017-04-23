@@ -1,0 +1,78 @@
+{
+    "web_url": "https://www.nytimes.com/1998/11/05/us/1998-elections-congress-california-victory-shines-light-shift-population.html",
+    "snippet": "Lieut. Gov. Gray Davis, the Democratic Party's first white male nominee for governor of California since 1978, won that prize for his party for the first time in those 20 years on Tuesday by piecing together a broad coalition that cut across virtu...",
+    "lead_paragraph": "Lieut. Gov. Gray Davis, the Democratic Party's first white male nominee for governor of California since 1978, won that prize for his party for the first time in those 20 years on Tuesday by piecing together a broad coalition that cut across virtually all voter groups, including two-thirds of moderates and half of whites. But when the next history of California politics is written, Mr. Davis's election may also be seen as an important milestone on the steady path toward the moment when the demographics of California's electorate -- long disproportionately white -- catch up with the demographics of its increasingly diverse and Hispanic population.",
+    "abstract": "Article discusses Lieut Gov Gray Davis, Democratic Party's first white male nominee for governor of California since 1978, defeating his Republican opponent State Atty Gen Daniel E Lungren; Assemblyman Cruz M Bustamante wins race to succeed Davis as Lt Gov, becoming first Hispanic officials to be elected statewide in more than 120 years (M)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Victory Shines Light on Shift In Population",
+        "kicker": "THE 1998 ELECTIONS: CONGRESS -- CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUNGREN, DANIEL E"
+        },
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "persons",
+            "value": "BUSTAMANTE, CRUZ M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LIEUTENANT GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION RESULTS"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        }
+    ],
+    "pub_date": "1998-11-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd216a68eb7c8105d791163",
+    "word_count": 548,
+    "slideshow_credits": null
+}

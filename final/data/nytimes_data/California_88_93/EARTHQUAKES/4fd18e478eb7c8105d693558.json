@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/california-quake-epicenter-santa-cruz-grieves-tries-cope-with-loss-much-business.html",
+    "snippet": "LEAD: Fifteen miles south of the epicenter of the California earthquake, the scene today in the streets of Santa Cruz was a surrealistic mixture of festivity and grief....",
+    "lead_paragraph": "LEAD: Fifteen miles south of the epicenter of the California earthquake, the scene today in the streets of Santa Cruz was a surrealistic mixture of festivity and grief.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Santa Cruz Grieves and Tries to Cope With Loss of Much of Business Area",
+        "kicker": "THE CALIFORNIA QUAKE: THE EPICENTER"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SANTA CRUZ (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKOUTS (ELECTRICAL)"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e478eb7c8105d693558",
+    "word_count": 1151,
+    "slideshow_credits": null
+}

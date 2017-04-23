@@ -1,0 +1,67 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/07/us/democrat-penalized-by-church-in-abortion-stand-wins-election.html",
+    "snippet": "LEAD: A Democrat who had been barred by the Roman Catholic Bishop here from receiving communion because of her support for abortion rights won election to the California Senate Tuesday night. The result tipped the balance of the Legislature in fav...",
+    "lead_paragraph": "LEAD: A Democrat who had been barred by the Roman Catholic Bishop here from receiving communion because of her support for abortion rights won election to the California Senate Tuesday night. The result tipped the balance of the Legislature in favor of abortion rights for the first time in several years.",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Democrat Penalized by Church In Abortion Stand Wins Election"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KILLEA, LUCY"
+        },
+        {
+            "name": "persons",
+            "value": "MAHER, LEO T"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+        },
+        {
+            "name": "subject",
+            "value": "ABORTION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1989-12-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By Special to The New Yorke Times, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aa848eb7c8105d6c8272",
+    "word_count": 991,
+    "slideshow_credits": null
+}

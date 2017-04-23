@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/05/us/candidates-viewing-california-primary-as-a-dress-rehearsal-for-november.html",
+    "snippet": "LEAD: It might have seemed pointless on the surface, but Vice President Bush arrived in California today to open his campaign for the state's Republican Presidential primary. On the Democratic side, the Rev. Jesse Jackson is to follow Thursday and...",
+    "lead_paragraph": "LEAD: It might have seemed pointless on the surface, but Vice President Bush arrived in California today to open his campaign for the state's Republican Presidential primary. On the Democratic side, the Rev. Jesse Jackson is to follow Thursday and Gov. Michael S. Dukakis of Massachusetts will arrive a week later.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Candidates Viewing California Primary as a Dress Rehearsal for November"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "persons",
+            "value": "JACKSON, JESSE L"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1988-05-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18cf98eb7c8105d69110e",
+    "word_count": 1219,
+    "slideshow_credits": null
+}

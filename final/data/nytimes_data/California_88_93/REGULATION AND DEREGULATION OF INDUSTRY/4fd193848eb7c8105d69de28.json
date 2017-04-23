@@ -1,0 +1,94 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/12/business/savings-debacle-case-study-special-report-one-savings-institution-came-apart.html",
+    "snippet": "LEAD: Carl M. Rheuban founded First Network Savings Bank in 1983, and for six years poured its Government-insured deposits into questionable real estate deals, a solar energy company and even a ''museum of magic'' in the savings and loan instituti...",
+    "lead_paragraph": "LEAD: Carl M. Rheuban founded First Network Savings Bank in 1983, and for six years poured its Government-insured deposits into questionable real estate deals, a solar energy company and even a ''museum of magic'' in the savings and loan institution's headquarters here.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE SAVINGS DEBACLE: A CASE STUDY - A SPECIAL REPORT:   How One Savings Institution Came Apart"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HALE, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "RHEUBAN, CARL M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST NETWORK SAVINGS BANK"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY AND ORGANIZATION PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "INVESTMENT STRATEGIES"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-06-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Front Page; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "Special Report",
+    "_id": "4fd193848eb7c8105d69de28",
+    "word_count": 2622,
+    "slideshow_credits": null
+}

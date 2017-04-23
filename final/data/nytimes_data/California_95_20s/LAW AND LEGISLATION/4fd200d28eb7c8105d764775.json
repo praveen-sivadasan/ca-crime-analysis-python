@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/05/us/justices-allow-an-anti-bias-law-to-go-into-effect.html",
+    "snippet": "The Supreme Court today refused an emergency request to block California from enforcing its new anti-affirmative-action law, which took effect a week ago.    The Court's action, taken without comment, does not foreclose a further review of the law...",
+    "lead_paragraph": "The Supreme Court today refused an emergency request to block California from enforcing its new anti-affirmative-action law, which took effect a week ago. The Court's action, taken without comment, does not foreclose a further review of the law later this fall. When their new term begins next month, the Justices will consider whether to hear a constitutional challenge to the law, known as Proposition 209. The law was adopted in a voter referendum last November and was upheld in April by the United States Court of Appeals for the Ninth Circuit, in San Francisco. Last week the appellate court issued an order permitting the law to take effect.",
+    "abstract": "Supreme Court refuses, without comment, to stay California's enforcement of new anti-affirmative-action law; action does not preclude hearing of constitutional challenge (S)",
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Justices Allow an Anti-Bias Law to Go Into Effect"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1997-09-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd200d28eb7c8105d764775",
+    "word_count": 461,
+    "slideshow_credits": null
+}

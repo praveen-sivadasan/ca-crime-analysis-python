@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/06/us/california-high-court-rules-against-club-on-membership.html",
+    "snippet": "LEAD: The state Supreme Court today allowed the California Coastal Commission to require that an exclusive club in the Los Angeles area pledge that it will not discriminate in exchange for permission to develop beach property....",
+    "lead_paragraph": "LEAD: The state Supreme Court today allowed the California Coastal Commission to require that an exclusive club in the Los Angeles area pledge that it will not discriminate in exchange for permission to develop beach property.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California High Court Rules Against Club on Membership"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "JONATHAN CLUB"
+        },
+        {
+            "name": "subject",
+            "value": "BEACHES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1988-05-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd191128eb7c8105d698a74",
+    "word_count": 215,
+    "slideshow_credits": null
+}

@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/26/us/doubts-rising-on-election-in-california-gingrich-says.html",
+    "snippet": "Speaker Newt Gingrich suggested today  that evidence of voter fraud was  mounting in the election of Representative Loretta Sanchez, the Democrat who defeated Robert K. Dornan, an incumbent Republican, in  California last year. The accusation outr...",
+    "lead_paragraph": "Speaker Newt Gingrich suggested today that evidence of voter fraud was mounting in the election of Representative Loretta Sanchez, the Democrat who defeated Robert K. Dornan, an incumbent Republican, in California last year. The accusation outraged Democrats and prompted them to rally anew around Ms. Sanchez. ''We now have proof of a sufficient number of non-citizens voting that it may well have affected at least one election for Congress,'' Mr. Gingrich said at a breakfast with reporters, alluding to the Sanchez-Dornan race.",
+    "abstract": "Speaker Newt Gingrich says evidence of voter fraud is mounting in election of Rep Loretta Sanchez, Democrat who defeated Robert K Dornan, incumbent Republican, in California last year; accusation outrages Democrats and prompts them to rally around Sanchez (M)",
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Doubts Rising On Election In California, Gingrich Says"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SANCHEZ, LORETTA"
+        },
+        {
+            "name": "persons",
+            "value": "DORNAN, ROBERT K"
+        },
+        {
+            "name": "persons",
+            "value": "GINGRICH, NEWT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1997-09-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Lizette",
+                "rank": 1,
+                "lastname": "ALVAREZ"
+            }
+        ],
+        "original": "By LIZETTE ALVAREZ"
+    },
+    "type_of_material": "News",
+    "_id": "4fd211938eb7c8105d7869d1",
+    "word_count": 489,
+    "slideshow_credits": null
+}

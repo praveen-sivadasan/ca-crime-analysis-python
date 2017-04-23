@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/13/us/california-s-senate-passes-gay-rights-bill.html",
+    "snippet": "The State Senate has approved legislation that would bar job discrimination against homosexuals, setting the stage for a difficult political decision by Gov. Pete Wilson on whether to cast a veto.    The Senate's approval came Wednesday on a vote ...",
+    "lead_paragraph": "The State Senate has approved legislation that would bar job discrimination against homosexuals, setting the stage for a difficult political decision by Gov. Pete Wilson on whether to cast a veto. The Senate's approval came Wednesday on a vote of 25 to 10 and sent the bill back to the Assembly, which passed a broader version in June but is expected to go along with the Senate measure.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Senate Passes Gay Rights Bill"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "HIRING AND PROMOTION"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1991-09-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d33b8eb7c8105d70ee95",
+    "word_count": 236,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1998/11/15/us/political-briefing-california-scrambles-after-measure-fails.html",
+    "snippet": "Ever since California voters defeated an obscure ballot measure called Proposition 3 on Election Day, the state's election officials and party leaders have had an almost panicky look about them. Here's why:    Under rules established by the Democr...",
+    "lead_paragraph": "Ever since California voters defeated an obscure ballot measure called Proposition 3 on Election Day, the state's election officials and party leaders have had an almost panicky look about them. Here's why: Under rules established by the Democratic and Republican national parties, delegates to Presidential nominating conventions must be chosen in closed primaries and caucuses -- that is, primaries and caucuses in which Democrats vote only for Democrats, and Republicans vote only for Republicans.",
+    "abstract": "Comment on political ramifications of decision by California voters, rejecting Proposition 3 to return to closed primary system for choosing Presidential candidates (S)",
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Scrambles After Measure Fails",
+        "kicker": "POLITICAL BRIEFING"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTIONS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-11-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "By B. Drummond Ayres Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20d828eb7c8105d77ddd6",
+    "word_count": 366,
+    "slideshow_credits": null
+}

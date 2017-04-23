@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/07/business/new-unleaded-premium-gas-from-arco.html",
+    "snippet": "LEAD: ARCO, the largest seller of gasoline in Southern California, introduced a new unleaded premium today that it says emits fewer pollutants into the air than other fuels of its type....",
+    "lead_paragraph": "LEAD: ARCO, the largest seller of gasoline in Southern California, introduced a new unleaded premium today that it says emits fewer pollutants into the air than other fuels of its type.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "New Unleaded Premium Gas From ARCO"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ATLANTIC RICHFIELD CO"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1990-09-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "LEV"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL LEV, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b15c8eb7c8105d6d35f8",
+    "word_count": 437,
+    "slideshow_credits": null
+}

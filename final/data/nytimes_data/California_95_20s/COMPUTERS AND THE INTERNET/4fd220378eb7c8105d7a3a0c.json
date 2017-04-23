@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/2000/01/22/us/national-news-briefs-notorious-hacker-is-freed-from-prison.html",
+    "snippet": "After five years in prison, one of the nation's most notorious computer hackers was released today on the condition that he avoid computers, modems, cell phones and anything else that could give him Internet access for the next three years.    The...",
+    "lead_paragraph": "After five years in prison, one of the nation's most notorious computer hackers was released today on the condition that he avoid computers, modems, cell phones and anything else that could give him Internet access for the next three years. The hacker, Kevin Mitnick, 36, caused millions of dollars in damage by tampering with corporate and university computers, prosecutors said.",
+    "abstract": "Notorious hacker Kevin Mitnick is released from California prison after five years, on condition he stay away from computers and Internet for next three years(S)",
+    "print_page": "16",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Notorious Hacker Is Freed From Prison"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MITNICK, KEVIN D"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTER SECURITY"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+        }
+    ],
+    "pub_date": "2000-01-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd220378eb7c8105d7a3a0c",
+    "word_count": 166,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/02/us/us-food-program-tightens-its-belt-and-millions-on-welfare-feel-pinch.html",
+    "snippet": "LEAD: Among the millions of people affected by cutbacks in Federal food allotments for the poor is Marquell Rose, age 2, a boy whose future is already defined by the hardships he will face....",
+    "lead_paragraph": "LEAD: Among the millions of people affected by cutbacks in Federal food allotments for the poor is Marquell Rose, age 2, a boy whose future is already defined by the hardships he will face.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. Food Program Tightens Its Belt And Millions on Welfare Feel Pinch"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DIET AND NUTRITION"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "BABIES"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        }
+    ],
+    "pub_date": "1990-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1937a8eb7c8105d69d897",
+    "word_count": 1001,
+    "slideshow_credits": null
+}

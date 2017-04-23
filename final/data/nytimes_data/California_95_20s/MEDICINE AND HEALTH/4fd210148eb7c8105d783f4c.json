@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1999/10/12/us/california-to-set-level-of-staffing-for-nursing-care.html",
+    "snippet": "Over the objections of the state's health care industry, Gov. Gray Davis has signed a bill that will make California the first state to require hospitals to meet fixed nurse-to-patient ratios, in an effort to force higher quality care and combat c...",
+    "lead_paragraph": "Over the objections of the state's health care industry, Gov. Gray Davis has signed a bill that will make California the first state to require hospitals to meet fixed nurse-to-patient ratios, in an effort to force higher quality care and combat cost-cutting measures in the place where managed care was born. Mr. Davis signed the new law, backed by the state nurses' union, over the weekend as part of a last batch of bills from this year's legislative session. The session also produced a package of measures that the Democratic Governor signed last month, expanding patients' access to mental health care and their rights to sue their health insurers for punitive damages and seek outside reviews of decisions denying coverage.",
+    "abstract": "Calif Gov Gray Davis, over objections of state's health care industry, signs bill making state first to require hospitals to meet fixed nurse-to-patient ratios; move is effort to force higher quality care and combat cost-cutting measures in place where managed care was born; bill, backed by state's nurses' union, does not specify minimum nurse-to-patient ratios, but instead requires State Dept of Health Services to set such standards for general, psychiatric and special hospitals (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA TO SET LEVEL OF STAFFING FOR NURSING CARE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS AND MANAGED CARE"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "NURSING AND NURSES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1999-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd210148eb7c8105d783f4c",
+    "word_count": 1112,
+    "slideshow_credits": null
+}

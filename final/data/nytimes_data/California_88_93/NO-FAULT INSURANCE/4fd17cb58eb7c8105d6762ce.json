@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/16/us/car-insurance-industry-fights-consumer-revolt-in-california.html",
+    "snippet": "LEAD: What stands to be the costliest election race in American history except for the one for the Presidency is gathering force in California - and no one is even running for office....",
+    "lead_paragraph": "LEAD: What stands to be the costliest election race in American history except for the one for the Presidency is gathering force in California - and no one is even running for office.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Car Insurance Industry Fights Consumer Revolt in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "NO-FAULT INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTINS"
+        }
+    ],
+    "pub_date": "1988-08-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17cb58eb7c8105d6762ce",
+    "word_count": 1746,
+    "slideshow_credits": null
+}

@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/10/us/potent-new-pest-hits-california-harming-crops.html",
+    "snippet": "In 30 years of farming the Imperial Valley, Ben C. Abatti and his brother Tony have fought every kind of natural and economic foe, but nothing like the poinsettia sweet potato whitefly.    Mr. Abatti has just finished plowing under his entire melo...",
+    "lead_paragraph": "In 30 years of farming the Imperial Valley, Ben C. Abatti and his brother Tony have fought every kind of natural and economic foe, but nothing like the poinsettia sweet potato whitefly. Mr. Abatti has just finished plowing under his entire melon crop, turned into pitiful shriveled and rotted fruits by the tiny but voracious creature. And, farm experts say, the misfortune of farmers like Mr. Abatti will soon translate into shortages and higher prices in markets as far away as New York in the Thanksgiving and Christmas holidays.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Potent New Pest Hits California, Harming Crops"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "MELONS"
+        },
+        {
+            "name": "subject",
+            "value": "SWEET POTATO WHITEFLY"
+        },
+        {
+            "name": "subject",
+            "value": "VEGETABLES"
+        }
+    ],
+    "pub_date": "1991-11-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a5e68eb7c8105d6bf6ca",
+    "word_count": 1159,
+    "slideshow_credits": null
+}

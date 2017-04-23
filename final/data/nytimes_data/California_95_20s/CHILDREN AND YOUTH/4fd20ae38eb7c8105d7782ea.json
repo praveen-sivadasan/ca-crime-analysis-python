@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1998/02/22/us/all-together-but-on-their-own.html",
+    "snippet": "Photo of blind children from Braille Institute of Orange County, Calif, learning to roller skate...",
+    "lead_paragraph": null,
+    "abstract": "Photo of blind children from Braille Institute of Orange County, Calif, learning to roller skate",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "All Together, but on Their Own"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BRAILLE INSTITUTE"
+        },
+        {
+            "name": "subject",
+            "value": "ROLLER SKATING"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "BLINDNESS"
+        }
+    ],
+    "pub_date": "1998-02-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd20ae38eb7c8105d7782ea",
+    "word_count": 0,
+    "slideshow_credits": null
+}

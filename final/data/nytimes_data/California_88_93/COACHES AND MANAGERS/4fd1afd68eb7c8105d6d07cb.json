@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/01/sports/baseball-notebook-one-gm-goes-out-of-his-way-for-team.html",
+    "snippet": "Last Monday, Pat Gillick had lunch in Bellevue, Wash., then drove 300 miles round trip for dinner in Yakima, Wash. Before he completed his three-day trip, the Toronto Blue Jays' general manager stopped in California cities like Stockton, Whittier ...",
+    "lead_paragraph": "Last Monday, Pat Gillick had lunch in Bellevue, Wash., then drove 300 miles round trip for dinner in Yakima, Wash. Before he completed his three-day trip, the Toronto Blue Jays' general manager stopped in California cities like Stockton, Whittier and Riverside. This was not a see-the-West-Coast's-obscure-cities tour arranged by Greyhound. Gillick went west to visit half a dozen of his younger players, a highly unusual trip for a general manager.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "One G.M. Goes Out Of His Way for Team",
+        "kicker": "BASEBALL: NOTEBOOK"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GILLICK, PAT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TORONTO BLUE JAYS"
+        },
+        {
+            "name": "subject",
+            "value": "BASEBALL"
+        },
+        {
+            "name": "subject",
+            "value": "COACHES AND MANAGERS"
+        }
+    ],
+    "pub_date": "1991-12-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Murray",
+                "rank": 1,
+                "lastname": "CHASS"
+            }
+        ],
+        "original": "By MURRAY CHASS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1afd68eb7c8105d6d07cb",
+    "word_count": 1459,
+    "slideshow_credits": null
+}

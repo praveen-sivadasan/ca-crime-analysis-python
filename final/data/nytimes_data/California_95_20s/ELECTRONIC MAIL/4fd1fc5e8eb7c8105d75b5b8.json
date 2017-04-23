@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1997/08/25/business/courts-beginning-to-make-order-on-frontiers-of-cyberspace.html",
+    "snippet": "When a New York software company, LaRonde Technical Consulting, was sued recently in California, the company argued that the case was not within the jurisdiction of California's courts. It was an age-old legal claim, with a high-technology twist: ...",
+    "lead_paragraph": "When a New York software company, LaRonde Technical Consulting, was sued recently in California, the company argued that the case was not within the jurisdiction of California's courts. It was an age-old legal claim, with a high-technology twist: The company said it could not be sued in the state because its dealings with the California plaintiff had been largely through electronic mail. In a strongly worded opinion issued earlier this month, a California appellate court disagreed. It said state courts could hold jurisdiction over parties whose transactions in California were largely done via E-mail and the telephone.",
+    "abstract": "California appellate court recently found that state courts could hold jurisdiction over parties whose transactions in California were largely done via E-mail and telephone; case touches on larger issue of jurisdiction and cyberspace, where many unresolved questions are not as clear-cut as those surrounding E-mail; among these are questions about how courts will view other parts of Internet, including sites on World Wide Web and File Transfer Protocol and Telnet sites; ultimately, answers will dictate not just where courts have jurisdiction, but what governments have right to tax and regulate Internet businesses (M)",
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Courts Beginning to Make Order on Frontiers of Cyberspace"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRONIC MAIL"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNET AND WORLD WIDE WEB"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1997-08-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matt",
+                "rank": 1,
+                "lastname": "RICHTEL"
+            }
+        ],
+        "original": "By MATT RICHTEL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fc5e8eb7c8105d75b5b8",
+    "word_count": 770,
+    "slideshow_credits": null
+}

@@ -1,0 +1,78 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/14/us/education-schools-accused-of-cheating-on-california-tests.html",
+    "snippet": "LEAD: Education officials in California have uncovered incidents dating to 1985 in which school personnel in 45 public elementary schools changed answers on standardized state tests that measure a school's progress in reading, writing and mathemat...",
+    "lead_paragraph": "LEAD: Education officials in California have uncovered incidents dating to 1985 in which school personnel in 45 public elementary schools changed answers on standardized state tests that measure a school's progress in reading, writing and mathematics. Officials said more schools might be guilty of cheating.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Schools Accused of Cheating on California Tests",
+        "kicker": "EDUCATION"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "EDUCATION PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MATHEMATICS"
+        },
+        {
+            "name": "subject",
+            "value": "READING"
+        },
+        {
+            "name": "subject",
+            "value": "WRITING AND WRITERS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION (PRIMARY)"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "CHEATING"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        }
+    ],
+    "pub_date": "1988-09-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Lee",
+                "middlename": "A.",
+                "lastname": "DANIELS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By LEE A. DANIELS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd195878eb7c8105d6a1d58",
+    "word_count": 695,
+    "slideshow_credits": null
+}

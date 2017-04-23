@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/12/us/2-california-representatives-say-they-will-not-run-again.html",
+    "snippet": "United States Representatives Edward R. Roybal and Mervyn M. Dymally, Democrats who between them have served in Congress for four decades, announced on Monday that they would not seek re-election.   Mr. Roybal, the 75-year-old dean of Los Angeles'...",
+    "lead_paragraph": "United States Representatives Edward R. Roybal and Mervyn M. Dymally, Democrats who between them have served in Congress for four decades, announced on Monday that they would not seek re-election. Mr. Roybal, the 75-year-old dean of Los Angeles's Hispanic elected officials, cited the poor health of his wife.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "2 California Representatives Say They Will Not Run Again"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DYMALLY, MERVYN M"
+        },
+        {
+            "name": "persons",
+            "value": "ROYBAL, EDWARD R"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1992-02-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d4968eb7c8105d7123ae",
+    "word_count": 71,
+    "slideshow_credits": null
+}

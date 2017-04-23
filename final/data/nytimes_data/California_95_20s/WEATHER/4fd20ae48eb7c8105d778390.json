@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1998/02/24/us/california-hit-by-strongest-storm-of-season.html",
+    "snippet": "The strongest storm of a waterlogged season hit an already drenched California today, worsening flooding, causing more mud slides and imperiling dozens of homes.    Since the beginning of the month, storms have hit California every few days in wha...",
+    "lead_paragraph": "The strongest storm of a waterlogged season hit an already drenched California today, worsening flooding, causing more mud slides and imperiling dozens of homes. Since the beginning of the month, storms have hit California every few days in what meteorologists partly attribute to the Pacific weather system El Nino.",
+    "abstract": "Strongest storm of waterlogged season hits already drenched state of California, worsening flooding, causing more mud slides and imperiling dozens of homes (S)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Hit by Strongest Storm of Season"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1998-02-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd20ae48eb7c8105d778390",
+    "word_count": 224,
+    "slideshow_credits": null
+}

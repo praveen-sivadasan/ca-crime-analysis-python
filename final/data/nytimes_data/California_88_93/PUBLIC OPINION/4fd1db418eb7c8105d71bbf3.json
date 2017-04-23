@@ -1,0 +1,71 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/24/us/the-1992-campaign-california-perot-dominates-california-race-that-he-s-not-in.html",
+    "snippet": "Ross Perot is threatening to steal the California primary, too.   In a week of unrelieved good news for the Texas billionaire on the national scene, he also hogged the spotlight in the country's largest state, which holds its election in 10 days, ...",
+    "lead_paragraph": "Ross Perot is threatening to steal the California primary, too. In a week of unrelieved good news for the Texas billionaire on the national scene, he also hogged the spotlight in the country's largest state, which holds its election in 10 days, on June 2. The Los Angeles Times poll confirmed what the California Poll had said the week before: the maverick independent is leading President Bush and Gov. Bill Clinton of Arkansas, the likely Democratic Presidential nominee.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Perot Dominates California Race That He's Not In",
+        "kicker": "THE 1992 CAMPAIGN: CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "PEROT, ROSS"
+        },
+        {
+            "name": "persons",
+            "value": "FIELD, MERVIN D"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "CALIFORNIA POLL"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-05-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr",
+                "firstname": "R.",
+                "middlename": "W.",
+                "lastname": "APPLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By R. W. APPLE Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1db418eb7c8105d71bbf3",
+    "word_count": 1566,
+    "slideshow_credits": null
+}

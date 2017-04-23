@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/30/us/hermosa-beach-journal-long-after-summer-fades-lifeguards-carry-on.html",
+    "snippet": "LEAD: In the winter, from the beaches along Santa Monica Bay, snow is sometimes visible atop distant mountains. But for the lifeguards who patrol the ocean shores of Los Angeles County, the sun never sets on summer....",
+    "lead_paragraph": "LEAD: In the winter, from the beaches along Santa Monica Bay, snow is sometimes visible atop distant mountains. But for the lifeguards who patrol the ocean shores of Los Angeles County, the sun never sets on summer.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Hermosa Beach Journal; Long After Summer Fades, Lifeguards Carry On"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WAGES AND SALARIES"
+        },
+        {
+            "name": "subject",
+            "value": "LIFEGUARDS"
+        }
+    ],
+    "pub_date": "1988-12-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "S.",
+                "lastname": "WILSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By DAVID S. WILSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd191618eb7c8105d699307",
+    "word_count": 771,
+    "slideshow_credits": null
+}

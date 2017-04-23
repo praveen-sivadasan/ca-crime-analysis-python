@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/18/us/clinton-visits-sites-of-disasters.html",
+    "snippet": "Touring the California communities where natural disasters have struck, President Clinton today pointed to his Administration's provision of billions in Federal aid as evidence that Government can work.   From the Northridge section of Los Angeles...",
+    "lead_paragraph": "Touring the California communities where natural disasters have struck, President Clinton today pointed to his Administration's provision of billions in Federal aid as evidence that Government can work. From the Northridge section of Los Angeles, the epicenter of last year's earthquake, to the small town of Roseville north of here, where streets were still muddy from this month's flooding, Mr. Clinton expressed admiration at residents' efforts to overcome their plight, and he reminded them of Washington's help.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Clinton Visits Sites of Disasters"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1995-01-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Douglas",
+                "rank": 1,
+                "lastname": "JEHL"
+            }
+        ],
+        "original": "By DOUGLAS JEHL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c6768eb7c8105d6f7974",
+    "word_count": 281,
+    "slideshow_credits": null
+}

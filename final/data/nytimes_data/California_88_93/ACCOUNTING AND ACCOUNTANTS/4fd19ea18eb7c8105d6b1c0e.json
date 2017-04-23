@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/06/business/california-might-void-ernst-license.html",
+    "snippet": "The State of California's licensing board is seeking to revoke Ernst & Young's license to practice accounting because one of its two predecessor firms had audited the failed Lincoln Savings and Loan Association.    Ernst & Young was formed last ye...",
+    "lead_paragraph": "The State of California's licensing board is seeking to revoke Ernst & Young's license to practice accounting because one of its two predecessor firms had audited the failed Lincoln Savings and Loan Association. Ernst & Young was formed last year by the merger of Ernst & Whinney and Arthur Young. Lincoln Savings and Loan, a subsidiary of the American Continental Corporation, had been an audit client of Arthur Young in 1986 and 1987.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Might Void Ernst License"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LINCOLN SAVINGS & LOAN ASSN"
+        },
+        {
+            "name": "organizations",
+            "value": "ERNST & YOUNG"
+        },
+        {
+            "name": "subject",
+            "value": "ACCOUNTING AND ACCOUNTANTS"
+        },
+        {
+            "name": "subject",
+            "value": "LICENSES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-12-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Alison",
+                "middlename": "Leigh",
+                "lastname": "COWAN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By ALISON LEIGH COWAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19ea18eb7c8105d6b1c0e",
+    "word_count": 434,
+    "slideshow_credits": null
+}

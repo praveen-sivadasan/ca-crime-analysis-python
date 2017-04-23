@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/07/04/garden/wine-talk-114990.html",
+    "snippet": "LEAD: It seems only fitting, on Independence Day that we forgo what used to be known as the Old World and set out a few of our own good wines for consideration. Traditionally, this is an occasion to talk about ''picnic wines'' and such. The fact i...",
+    "lead_paragraph": "LEAD: It seems only fitting, on Independence Day that we forgo what used to be known as the Old World and set out a few of our own good wines for consideration. Traditionally, this is an occasion to talk about ''picnic wines'' and such. The fact is that even in summer we sit down fully clothed at a table for most meals, and if wine is drunk it is not going to differ markedly from what we drink in winter.",
+    "abstract": null,
+    "print_page": "42",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1990-07-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b0988eb7c8105d6d1f73",
+    "word_count": 1151,
+    "slideshow_credits": null
+}

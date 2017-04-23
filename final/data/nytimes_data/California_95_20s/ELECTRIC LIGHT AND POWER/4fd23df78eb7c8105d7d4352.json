@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/18/business/economy-industry-the-challenge-for-utilities-increase-capacity-and-efficiency.html",
+    "snippet": "The nation hit its biggest pothole yet on the long road to deregulation of the utility industry this past summer when electricity shortages in California sent wholesale power prices soaring.     Stunned consumers revolted as the local utility in S...",
+    "lead_paragraph": "The nation hit its biggest pothole yet on the long road to deregulation of the utility industry this past summer when electricity shortages in California sent wholesale power prices soaring. Stunned consumers revolted as the local utility in San Diego passed the costs on to them, and other utilities in the state sought permission to do the same in their areas of service. Politicians blasted the industry, and regulators were plunged into what promises to be a lengthy battle over proposed price controls and other measures to ease the pain.",
+    "abstract": "Focus on outlook for deregulation of electric power industry in light of recent problems in California, when shortages sent wholesale power prices soaring; analysts expect deregulation advocates to pay more attention to consumer protection measures for next couple of years (Special section); graphs; photo (M)",
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Challenge for Utilities: Increase Capacity and Efficiency",
+        "kicker": "ECONOMY & INDUSTRY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "2000-12-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Barnaby",
+                "middlename": "J.",
+                "lastname": "FEDER",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By BARNABY J. FEDER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd23df78eb7c8105d7d4352",
+    "word_count": 1252,
+    "slideshow_credits": null
+}

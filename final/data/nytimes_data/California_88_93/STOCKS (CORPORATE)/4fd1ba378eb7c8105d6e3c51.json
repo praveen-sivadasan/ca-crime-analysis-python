@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1992/12/10/business/company-news-wells-fargo-shares-up-on-real-estate-hopes.html",
+    "snippet": "Wells Fargo & Company shares hit a three-month high yesterday as the stock continued to trade on speculation that the California real estate market is improving, analysts said. \"Some people feel the California real estate market has bottomed out,\"...",
+    "lead_paragraph": "Wells Fargo & Company shares hit a three-month high yesterday as the stock continued to trade on speculation that the California real estate market is improving, analysts said. \"Some people feel the California real estate market has bottomed out,\" said Paul Mackey, analyst at Dean Witter Reynolds. The bank has the highest real estate exposure of any bank, at 30 percent of its assets, he said.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "WELLS FARGO SHARES UP ON REAL ESTATE HOPES",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLS FARGO & CO"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS (CORPORATE)"
+        },
+        {
+            "name": "subject",
+            "value": "REAL ESTATE"
+        }
+    ],
+    "pub_date": "1992-12-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ba378eb7c8105d6e3c51",
+    "word_count": 101,
+    "slideshow_credits": null
+}

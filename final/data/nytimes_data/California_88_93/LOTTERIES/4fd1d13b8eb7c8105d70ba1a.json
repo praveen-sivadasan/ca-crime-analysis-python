@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/24/business/the-media-business-advertising-addenda-california-lottery-selects-thompson.html",
+    "snippet": "The California State Lottery named J. Walter Thompson, San Francisco, as its advertising agency for a three-year contract with billings estimated at $25 million. The account was previously handled by Dailey & Associates in Los Angeles.    In a tel...",
+    "lead_paragraph": "The California State Lottery named J. Walter Thompson, San Francisco, as its advertising agency for a three-year contract with billings estimated at $25 million. The account was previously handled by Dailey & Associates in Los Angeles. In a telephone interview yesterday, a lottery spokeswoman in Sacramento confirmed a report in this week's Advertising Age that listed the other finalists as Foote, Cone & Belding, San Francisco, and Grey Advertising and McCann-Erickson, both of Los Angeles. She said that the review had been prompted by the lottery's plans to offer new games and change its marketing strategy.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Lottery Selects Thompson",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "THOMPSON, J WALTER, CO"
+        },
+        {
+            "name": "subject",
+            "value": "LOTTERIES"
+        },
+        {
+            "name": "subject",
+            "value": "ACCOUNT CHANGES"
+        }
+    ],
+    "pub_date": "1992-06-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "Bryant"
+            }
+        ],
+        "original": "By Adam Bryant"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d13b8eb7c8105d70ba1a",
+    "word_count": 129,
+    "slideshow_credits": null
+}

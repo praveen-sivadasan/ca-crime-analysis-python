@@ -1,0 +1,92 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/08/us/california-sets-up-3-centers-for-basic-scientific-research.html",
+    "snippet": "Entering an arena where the federal government has largely shaped the nation's agenda, Gov. Gray Davis of California today announced the establishment of three major research institutions dedicated to nanotechnology, biotechnology, and telecommuni...",
+    "lead_paragraph": "Entering an arena where the federal government has largely shaped the nation's agenda, Gov. Gray Davis of California today announced the establishment of three major research institutions dedicated to nanotechnology, biotechnology, and telecommunications and computing. The effort, which will create the California Institutes for Science and Innovation, will be underwritten by $300 million in state funds over four years and more than twice that amount from corporate sponsors.",
+    "abstract": "California Gov Gray Davis announces establishment of three major research institutions dedicated to nanotechnology, biotechnology and telecommunications and computing; California Institutes for Science and Innovation will get $300 million in state funds over four years and more than twice that amount from corporate sponsors; aim is to enhance state's competitiveness; institute locations noted (M)",
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Sets Up 3 Centers for Basic Scientific Research"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA INSTITUTE FOR BIOENGINEERING"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA INSTITUTES FOR SCIENCE AND INNOVATION"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA NANOSYSTEMS INSTITUTE"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA INSTITUTE FOR TELECOMMUNICATIONS"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOLOGY AND BIOCHEMISTRY"
+        },
+        {
+            "name": "subject",
+            "value": "SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "BIOTECHNOLOGY"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+        }
+    ],
+    "pub_date": "2000-12-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Technology; Science; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "MARKOFF"
+            }
+        ],
+        "original": "By JOHN MARKOFF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21d3f8eb7c8105d79db6c",
+    "word_count": 732,
+    "slideshow_credits": null
+}

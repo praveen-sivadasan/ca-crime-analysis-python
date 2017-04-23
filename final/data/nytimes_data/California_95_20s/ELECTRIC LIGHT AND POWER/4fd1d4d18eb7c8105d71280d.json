@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1995/11/17/business/company-news-utility-reorganizes-to-prepare-for-deregulation.html",
+    "snippet": "SCEcorp yesterday announced a reorganization aimed at preparing its Southern  California Edison subsidiary -- the nation's second-largest electric company --  for state deregulation. Under the plan, the electric utility would be divided into five ...",
+    "lead_paragraph": "SCEcorp yesterday announced a reorganization aimed at preparing its Southern California Edison subsidiary -- the nation's second-largest electric company -- for state deregulation. Under the plan, the electric utility would be divided into five business units, as of Jan. 1. The announcement came less than two weeks after the Pacific Gas and Electric Company said that it would divide its power plants and power lines into separate units.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "UTILITY REORGANIZES TO PREPARE FOR DEREGULATION",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTHERN CALIFORNIA EDISON CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SCECORP"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION ANDDEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "1995-11-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Bloomberg",
+                "middlename": "Business",
+                "lastname": "News",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "Bloomberg Business News"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4d18eb7c8105d71280d",
+    "word_count": 70,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/13/us/california-man-found-guilty-in-killings-of-16.html",
+    "snippet": "LEAD: Randy Kraft, a computer programmer accused of leading a double life as a brutalizer and killer of 37 young men in three states, was convicted of 16 murders today....",
+    "lead_paragraph": "LEAD: Randy Kraft, a computer programmer accused of leading a double life as a brutalizer and killer of 37 young men in three states, was convicted of 16 murders today.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Man Found Guilty in Killings of 16"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KRAFT, RANDY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "SEX CRIMES"
+        },
+        {
+            "name": "subject",
+            "value": "TRIALS"
+        },
+        {
+            "name": "subject",
+            "value": "SERIAL MURDERS"
+        }
+    ],
+    "pub_date": "1989-05-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd195008eb7c8105d6a0ac6",
+    "word_count": 307,
+    "slideshow_credits": null
+}

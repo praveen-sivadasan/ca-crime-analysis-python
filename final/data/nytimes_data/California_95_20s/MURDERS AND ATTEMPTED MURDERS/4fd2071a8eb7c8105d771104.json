@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1996/05/04/us/the-killer-of-3-strangers-is-executed.html",
+    "snippet": "A 48-year-old man who had said, \"I love to kill,\" after murdering three strangers, was executed here early today.         The inmate, Keith Williams, was injected with lethal drugs at 12:03 A.M. at San Quentin State Prison. Mr. Williams was declar...",
+    "lead_paragraph": "A 48-year-old man who had said, \"I love to kill,\" after murdering three strangers, was executed here early today. The inmate, Keith Williams, was injected with lethal drugs at 12:03 A.M. at San Quentin State Prison. Mr. Williams was declared dead five minutes later. The Supreme Court had denied his appeal two hours earlier.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Killer Of 3 Strangers Is Executed"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILLIAMS, KEITH"
+        },
+        {
+            "name": "persons",
+            "value": "MEZA, LOURDES"
+        },
+        {
+            "name": "persons",
+            "value": "VARGAS, MIGUEL"
+        },
+        {
+            "name": "persons",
+            "value": "VARGAS, SALVADOR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1996-05-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd2071a8eb7c8105d771104",
+    "word_count": 299,
+    "slideshow_credits": null
+}

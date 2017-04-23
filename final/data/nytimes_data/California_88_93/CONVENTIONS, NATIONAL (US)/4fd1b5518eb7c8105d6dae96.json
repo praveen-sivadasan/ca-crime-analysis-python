@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/19/style/evening-hours-convention-fever.html",
+    "snippet": "When delegates came for cocktails, Macy's got it....",
+    "lead_paragraph": "When delegates came for cocktails, Macy's got it.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Convention Fever",
+        "kicker": "EVENING HOURS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "MACY, R H, & CO INC"
+        },
+        {
+            "name": "subject",
+            "value": "CONVENTIONS, NATIONAL (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PARTIES (SOCIAL)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-07-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Styles of The Times",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b5518eb7c8105d6dae96",
+    "word_count": 10,
+    "slideshow_credits": null
+}

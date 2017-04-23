@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/28/business/wells-fargo-shuts-offices.html",
+    "snippet": "Wells Fargo & Company, which relied heavily on lending for real estate and highly indebted companies to become one of the country's most profitable banks in the 1980's, is closing seven loan production offices in California and other parts of the ...",
+    "lead_paragraph": "Wells Fargo & Company, which relied heavily on lending for real estate and highly indebted companies to become one of the country's most profitable banks in the 1980's, is closing seven loan production offices in California and other parts of the country. \"The level of acceptable business being generated in the offices to be closed was not enough to justify the expense,\" said Mary Essary, a bank spokeswoman. She said the bank would keep 14 offices specializing in commercial real estate lending, and three specializing in corporate lending.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wells Fargo Shuts Offices"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLS FARGO & CO"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        }
+    ],
+    "pub_date": "1990-11-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b2388eb7c8105d6d5278",
+    "word_count": 202,
+    "slideshow_credits": null
+}

@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/07/nyregion/doctor-arrested-in-rape-and-murder-of-woman.html",
+    "snippet": "A 28-year-old doctor has been arrested on charges of giving a woman a fatal dose of chloroform and then raping her in a California motel last August, the authorities said today.   After a bail hearing here this afternoon, the suspect, Samson G. Du...",
+    "lead_paragraph": "A 28-year-old doctor has been arrested on charges of giving a woman a fatal dose of chloroform and then raping her in a California motel last August, the authorities said today. After a bail hearing here this afternoon, the suspect, Samson G. Dubria, said through a court-appointed lawyer that he was not guilty and eager to return to California to contest the murder and rape charges. He was arrested Thursday night.",
+    "abstract": null,
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Doctor Arrested in Rape and Murder of Woman"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DUBRIA, SAMSON G"
+        },
+        {
+            "name": "persons",
+            "value": "KLAPPER, JENNIFER"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "SEX CRIMES"
+        },
+        {
+            "name": "subject",
+            "value": "CHLOROFORM"
+        }
+    ],
+    "pub_date": "1991-12-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York and Region",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "HANLEY"
+            }
+        ],
+        "original": "By ROBERT HANLEY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c9968eb7c8105d6fcd35",
+    "word_count": 336,
+    "slideshow_credits": null
+}

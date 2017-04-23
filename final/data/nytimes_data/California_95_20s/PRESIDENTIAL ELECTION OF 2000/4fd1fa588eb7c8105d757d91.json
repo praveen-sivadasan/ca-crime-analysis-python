@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/11/us/2000-campaign-texas-governor-bush-joined-mccain-tour-west.html",
+    "snippet": "With an eye toward independent-minded voters here and elsewhere on the West Coast, Gov. George W. Bush and Senator John McCain today joined forces on the campaign trail for the first time in the 2000 presidential race, burying their once-bitter ri...",
+    "lead_paragraph": "With an eye toward independent-minded voters here and elsewhere on the West Coast, Gov. George W. Bush and Senator John McCain today joined forces on the campaign trail for the first time in the 2000 presidential race, burying their once-bitter rivalry under a resolve to put a Republican in the White House. Mr. McCain had wanted passionately to be that man, and his appearance beside Mr. Bush in California, Oregon and Washington this week could be seen as the latest chapter in a tale of political resignation.",
+    "abstract": "Gov George W Bush and Sen John McCain join forces on campaign trail for first time in 2000 presidential race, burying their once-bitter rivalry for three-day tour of West Coast; photo (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bush Is Joined By McCain On a Tour Of the West",
+        "kicker": "THE 2000 CAMPAIGN: THE TEXAS GOVERNOR"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "2000-08-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Frank",
+                "rank": 1,
+                "lastname": "BRUNI"
+            }
+        ],
+        "original": "By FRANK BRUNI"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fa588eb7c8105d757d91",
+    "word_count": 895,
+    "slideshow_credits": null
+}

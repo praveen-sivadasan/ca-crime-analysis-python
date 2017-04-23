@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/01/us/tax-battle-in-california-reaches-supreme-court.html",
+    "snippet": "From her modest bungalow set back behind a lawn with a sycamore tree here, Stephanie Nordlinger is leading the counter-revolution against the great California tax revolt.   In 1978, California voters ignited a national anti-tax fever by passing a ...",
+    "lead_paragraph": "From her modest bungalow set back behind a lawn with a sycamore tree here, Stephanie Nordlinger is leading the counter-revolution against the great California tax revolt. In 1978, California voters ignited a national anti-tax fever by passing a landslide amendment to the state Constitution known as Proposition 13. The immediate result was to halt the rapid tax increases that were driving some Californians out of their houses. But a long-term consequence has been enormous disparities between taxes paid by longtime residents and new buyers like Ms. Nordlinger, who say they are shouldering a tax burden that is unfair and unconstitutional.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tax Battle in California Reaches Supreme Court"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "NORDLINGER, STEPHANIE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 13 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY TAXES"
+        }
+    ],
+    "pub_date": "1992-03-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ac198eb7c8105d6cb535",
+    "word_count": 1141,
+    "slideshow_credits": null
+}

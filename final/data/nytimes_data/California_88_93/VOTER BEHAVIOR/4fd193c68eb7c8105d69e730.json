@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/12/us/apathy-and-disaffection-on-the-rise-among-california-voters.html",
+    "snippet": "LEAD: California voters may have made national waves by nominating Dianne Feinstein to run for governor and passing a ballot proposition to raise taxes, but Ethan J. Henderson had nothing to do with it....",
+    "lead_paragraph": "LEAD: California voters may have made national waves by nominating Dianne Feinstein to run for governor and passing a ballot proposition to raise taxes, but Ethan J. Henderson had nothing to do with it.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Apathy and Disaffection on the Rise Among California Voters"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "APATHY"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "VOTER BEHAVIOR"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-06-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd193c68eb7c8105d69e730",
+    "word_count": 1090,
+    "slideshow_credits": null
+}

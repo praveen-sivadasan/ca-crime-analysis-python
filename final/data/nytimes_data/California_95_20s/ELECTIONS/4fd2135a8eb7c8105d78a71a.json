@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/2000/06/27/us/supreme-court-freedom-association-court-strikes-down-california-primary-placing.html",
+    "snippet": "The Supreme Court invalidated California's blanket primary today, calling it a ''stark repudiation of freedom of political association'' that stripped political parties of the ability to control their own nominating process and define their identi...",
+    "lead_paragraph": "The Supreme Court invalidated California's blanket primary today, calling it a ''stark repudiation of freedom of political association'' that stripped political parties of the ability to control their own nominating process and define their identity. Under the California system, an extreme version of the more common open primary, all voters, regardless of their party membership, get a single ballot from which they can select among candidates of any party affiliation: a Republican for governor, for example, and a Libertarian for the State Assembly. Alaska and Washington are the only other states with such a system.",
+    "abstract": "Supreme Court, in 7-2 ruling, invalidates California's blanket primary system, calling it 'stark repudiation' of freedom of political association that strips political parties of ability to control their own nomination process and define their identity; under state's system, all voters regardless of party membership receive single ballot from which they can select among candidates of any party (M)",
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Court Strikes Down California Primary Placing All Parties on a Single Ballot",
+        "kicker": "THE SUPREME COURT: FREEDOM OF ASSOCIATION"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-06-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2135a8eb7c8105d78a71a",
+    "word_count": 832,
+    "slideshow_credits": null
+}

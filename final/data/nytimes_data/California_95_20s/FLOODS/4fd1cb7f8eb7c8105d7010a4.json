@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/15/garden/floods-effect-on-food-prices.html",
+    "snippet": "THIS week's flooding in California will affect the price of produce that consumers buy in coming weeks, but the increases may be only short term and may not go into effect in all stores immediately.    Some wholesales prices have already gone up. ...",
+    "lead_paragraph": "THIS week's flooding in California will affect the price of produce that consumers buy in coming weeks, but the increases may be only short term and may not go into effect in all stores immediately. Some wholesales prices have already gone up. Prices for lettuce from California's Central Valley, inundated in that region's worst storm of this century, have increased from $6 a carton last Friday to $9 yesterday. Prices for broccoli have about doubled, from $8 a carton to between $14 and $18.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Floods' Effect on Food Prices"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "VEGETABLES"
+        },
+        {
+            "name": "subject",
+            "value": "FRUIT"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-03-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Florence",
+                "rank": 1,
+                "lastname": "FABRICANT"
+            }
+        ],
+        "original": "By FLORENCE FABRICANT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cb7f8eb7c8105d7010a4",
+    "word_count": 864,
+    "slideshow_credits": null
+}

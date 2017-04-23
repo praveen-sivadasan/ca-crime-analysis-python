@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/25/nyregion/c-corrections-812892.html",
+    "snippet": "An article yesterday about the earthquake on Wednesday in California and a list of previous California quakes gave an incorrect date in some editions for one in the San Francisco Bay area in 1989. It occurred on Oct. 17, not Oct. 18....",
+    "lead_paragraph": "An article yesterday about the earthquake on Wednesday in California and a list of previous California quakes gave an incorrect date in some editions for one in the San Francisco Bay area in 1989. It occurred on Oct. 17, not Oct. 18.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1992-04-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1b26f8eb7c8105d6d5675",
+    "word_count": 42,
+    "slideshow_credits": null
+}

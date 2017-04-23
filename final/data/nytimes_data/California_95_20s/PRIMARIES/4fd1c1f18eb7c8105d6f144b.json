@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1995/10/30/opinion/essay-dole-vs-powell-california-dreamin.html",
+    "snippet": "Let's assume Colin Powell declares his Republican candidacy in two weeks and  takes a pass on the rightist Iowa caucuses. Let's assume New Hampshire independents register Republican to help Powell win there in February.         Assume further that...",
+    "lead_paragraph": "Let's assume Colin Powell declares his Republican candidacy in two weeks and takes a pass on the rightist Iowa caucuses. Let's assume New Hampshire independents register Republican to help Powell win there in February. Assume further that in the following week, Dole is able to sink Gramm and Pat Buchanan in Arizona, the first test in the West, and draws their hard-right supporters to him. Dole might then further his comeback as the authentic conservative in the Southern primaries and in Al D'Amato's New York.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Essay;Dole vs. Powell: California Dreamin'"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "POWELL, COLIN L"
+        },
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1995-10-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "William",
+                "rank": 1,
+                "lastname": "SAFIRE"
+            }
+        ],
+        "original": "By WILLIAM SAFIRE"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1c1f18eb7c8105d6f144b",
+    "word_count": 683,
+    "slideshow_credits": null
+}

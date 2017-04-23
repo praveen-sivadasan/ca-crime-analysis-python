@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/the-california-quake-relief-agencies-accepting-funds.html",
+    "snippet": "LEAD: Interaction, a voluntary relief assistance group supported by the Federal Government, has issued the following list of agencies to which money may be sent to assist earthquake victims:...",
+    "lead_paragraph": "LEAD: Interaction, a voluntary relief assistance group supported by the Federal Government, has issued the following list of agencies to which money may be sent to assist earthquake victims:",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Relief Agencies Accepting Funds",
+        "kicker": "THE CALIFORNIA QUAKE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERACTION"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd188f38eb7c8105d689dd2",
+    "word_count": 216,
+    "slideshow_credits": null
+}

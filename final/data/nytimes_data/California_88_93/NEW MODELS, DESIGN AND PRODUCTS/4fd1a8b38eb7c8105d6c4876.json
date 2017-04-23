@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/12/business/market-place-device-to-save-infants-lifts-medical-hope-and-investors.html",
+    "snippet": "A small California medical-equipment company is stirring hopes both in the medical community and on Wall Street. It is developing a device that could reduce the risk that babies will be born with brain damage because of oxygen deprivation during d...",
+    "lead_paragraph": "A small California medical-equipment company is stirring hopes both in the medical community and on Wall Street. It is developing a device that could reduce the risk that babies will be born with brain damage because of oxygen deprivation during delivery. The device, known as a fetal oximeter, would measure the oxygen content in fetal blood during labor and delivery. It might also allow women to avoid Caesarean sections that are performed because it appears the fetus is suffering from lack of oxygen, although in some cases they are not.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Market Place; Device to Save Infants Lifts Medical Hope, and Investors"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "MARKET PLACE (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NELLCOR INC"
+        },
+        {
+            "name": "subject",
+            "value": "BIRTH DEFECTS"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY AND ORGANIZATION PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        }
+    ],
+    "pub_date": "1991-12-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a8b38eb7c8105d6c4876",
+    "word_count": 1128,
+    "slideshow_credits": null
+}

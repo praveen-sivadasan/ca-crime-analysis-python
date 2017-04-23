@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/10/us/water-and-wind-batter-northern-california.html",
+    "snippet": "Heavy rain continued to inundate Northern California today, pushing rivers over their banks, forcing thousands of people to flee, cutting power to thousands more and tearing giant redwood trees from the sodden ground. A garbage collector in Monter...",
+    "lead_paragraph": "Heavy rain continued to inundate Northern California today, pushing rivers over their banks, forcing thousands of people to flee, cutting power to thousands more and tearing giant redwood trees from the sodden ground. A garbage collector in Monterey County was killed when winds knocked a tree onto his truck. Gov. Pete Wilson declared a state of emergency for Sonoma, Lake and Tehama Counties and National Guardsmen were called out to to help evacuation and rescue efforts.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Water and Wind Batter Northern California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-01-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1caad8eb7c8105d6ff003",
+    "word_count": "344",
+    "slideshow_credits": null
+}

@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/27/us/campaign-fund-ruling-adds-fuel-to-contest-for-california-governor.html",
+    "snippet": "LEAD: The tightly contested race for governor of California was thrown into confusion today after a ruling Tuesday by a Federal judge that invalidated the state's limits on campaign contributions....",
+    "lead_paragraph": "LEAD: The tightly contested race for governor of California was thrown into confusion today after a ruling Tuesday by a Federal judge that invalidated the state's limits on campaign contributions.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Campaign Fund Ruling Adds Fuel To Contest for California Governor"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-09-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194608eb7c8105d69f7d4",
+    "word_count": 1120,
+    "slideshow_credits": null
+}

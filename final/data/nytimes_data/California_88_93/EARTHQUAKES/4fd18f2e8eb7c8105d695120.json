@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/california-quake-response-plan-rescuers-find-parallels-recent-disaster-drill.html",
+    "snippet": "LEAD: Federal disaster relief officials said today that they were finding what they called eerie similarities between the earthquake on Tuesday and the scenario they enacted in a major drill just over two months ago....",
+    "lead_paragraph": "LEAD: Federal disaster relief officials said today that they were finding what they called eerie similarities between the earthquake on Tuesday and the scenario they enacted in a major drill just over two months ago.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rescuers Find Parallels To Recent Disaster Drill",
+        "kicker": "THE CALIFORNIA QUAKE: RESPONSE PLAN"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18f2e8eb7c8105d695120",
+    "word_count": 842,
+    "slideshow_credits": null
+}

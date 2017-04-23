@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/25/magazine/wine-original-zin.html",
+    "snippet": "In London some years back, the writer Hugh Johnson and a few of his friends decided to form a club for fans of American wines. They called it the Zinfandel Club.   They probably drank more cabernet sauvignon and chardonnay than they did zinfandel,...",
+    "lead_paragraph": "In London some years back, the writer Hugh Johnson and a few of his friends decided to form a club for fans of American wines. They called it the Zinfandel Club. They probably drank more cabernet sauvignon and chardonnay than they did zinfandel, but they did pick the perfect American name. The word \"zinfandel\" sounds like it might be an instrument in a gypsy orchestra, or a thoroughbred the Aga Khan is running at Auteuil, but in fact it's a grape -- and the only Vitis vinifera grape discovered in America.",
+    "abstract": null,
+    "print_page": "88",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine; ORIGINAL ZIN"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1990-11-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "BY FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b4c08eb7c8105d6d9e0d",
+    "word_count": 916,
+    "slideshow_credits": null
+}

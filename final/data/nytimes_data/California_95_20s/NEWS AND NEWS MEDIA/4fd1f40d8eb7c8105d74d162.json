@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/13/us/tv-political-news-in-california-is-shrinking-study-confirms.html",
+    "snippet": "For years, politicians in California have argued that television news here gives them short shrift, and a new study by the Annenberg School for Communication at the University of Southern California has more than confirmed their complaint.    The ...",
+    "lead_paragraph": "For years, politicians in California have argued that television news here gives them short shrift, and a new study by the Annenberg School for Communication at the University of Southern California has more than confirmed their complaint. The survey, of the last three months of last fall's campaign for governor, found that less than one-third of 1 percent of local television news was devoted to that race.",
+    "abstract": "Study by Annenberg School for Communications at University of Southern California confirms complaints made over the years by California politicians that television news in state gives them short shrift; survey, of last three months of last fall's campaign for governor, finds that less than one-third of 1 percent of local television news was devoted to that race (M)",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "TV Political News in California Is Shrinking, Study Confirms"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF SOUTHERN CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1999-01-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f40d8eb7c8105d74d162",
+    "word_count": 559,
+    "slideshow_credits": null
+}

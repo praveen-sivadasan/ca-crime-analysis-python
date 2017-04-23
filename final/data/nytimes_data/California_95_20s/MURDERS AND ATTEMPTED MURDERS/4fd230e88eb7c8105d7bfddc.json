@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1999/09/15/us/national-news-briefs-man-kills-3-at-hospital-where-his-mother-died.html",
+    "snippet": "A gunman said to have been angered by his mother's death stormed into a hospital today and opened fire, killing three employees, the police said.    The police said the rampage ended when the suspect, identified as Dung Trinh, 43, was grabbed by p...",
+    "lead_paragraph": "A gunman said to have been angered by his mother's death stormed into a hospital today and opened fire, killing three employees, the police said. The police said the rampage ended when the suspect, identified as Dung Trinh, 43, was grabbed by people inside the hospital and held until the police arrived. A gun was recovered.",
+    "abstract": "Dung Trinh, apparently angered by his mother's death, opens gun fire in West Anaheim Medical Center, Calif, killing three employees (S)",
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Man Kills 3 at Hospital Where His Mother Died"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "TRINH, DUNG"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WEST ANAHEIM MEDICAL CENTER"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        }
+    ],
+    "pub_date": "1999-09-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd230e88eb7c8105d7bfddc",
+    "word_count": 119,
+    "slideshow_credits": null
+}

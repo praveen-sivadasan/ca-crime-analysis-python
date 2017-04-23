@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/26/us/california-musters-scientific-forces-to-halt-fruit-fly-invasion.html",
+    "snippet": "LEAD: Experts are again using pesticides, traps and swarms of sterile flies to put down an infestation by the Mediterranean fruit fly in Southern California....",
+    "lead_paragraph": "LEAD: Experts are again using pesticides, traps and swarms of sterile flies to put down an infestation by the Mediterranean fruit fly in Southern California.",
+    "abstract": null,
+    "print_page": "33",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Musters Scientific Forces to Halt Fruit Fly Invasion"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "MEDITERRANEAN FRUIT FLY"
+        }
+    ],
+    "pub_date": "1989-11-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aadf8eb7c8105d6c916f",
+    "word_count": 442,
+    "slideshow_credits": null
+}

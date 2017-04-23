@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/12/us/2-california-bases-spared-from-list-of-military-cuts.html",
+    "snippet": "Throwing a bone to California, an economically depressed and politically crucial state, Defense Secretary Les Aspin has decided to spare two military installations there that had been on the armed services' list of those that should close, senior ...",
+    "lead_paragraph": "Throwing a bone to California, an economically depressed and politically crucial state, Defense Secretary Les Aspin has decided to spare two military installations there that had been on the armed services' list of those that should close, senior Pentagon officials said today. But Mr. Aspin, ignoring pleas from dozens of lawmakers and communities nationwide, plans to recommend on Friday that about 30 other major installations be closed and as many as 150 other depots and smaller sites be consolidated or reduced. Acknowledging the importance of the base-closing issue, President Clinton visited a Maryland factory today and announced a plan to ease conversions from military to civilian manufacture. [ Page A14. ]",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "2 CALIFORNIA BASES SPARED FROM LIST OF MILITARY CUTS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ASPIN, LES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "MCCLELLAN AIR FORCE BASE (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "MONTEREY PRESIDIO (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1993-03-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 1,
+                "lastname": "SCHMITT"
+            }
+        ],
+        "original": "By ERIC SCHMITT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ca588eb7c8105d6fea9c",
+    "word_count": 962,
+    "slideshow_credits": null
+}

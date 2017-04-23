@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/09/us/the-1992-campaign-women-primary-victories-bring-year-of-the-woman-closer.html",
+    "snippet": "Last Tuesday's California primary, in which two women won Democratic Senate nominations and 16 nonincumbent women of both parties won House nominations, has convinced officials of women's political organizations that the hour of their breakthrough...",
+    "lead_paragraph": "Last Tuesday's California primary, in which two women won Democratic Senate nominations and 16 nonincumbent women of both parties won House nominations, has convinced officials of women's political organizations that the hour of their breakthrough is at hand. \"This is no longer some isolated emotional triumph of women backed by women,\" said Harriett Woods of the National Women's Political Caucus. \"This is a whole state changing its mind at once. This represents a watershed shift in public attitudes.\"",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Women; Primary Victories Bring Year of the Woman Closer"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1992-06-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr",
+                "firstname": "R.",
+                "middlename": "W.",
+                "lastname": "APPLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By R. W. APPLE Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b3028eb7c8105d6d69f6",
+    "word_count": 1310,
+    "slideshow_credits": null
+}

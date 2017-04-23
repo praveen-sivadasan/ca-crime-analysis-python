@@ -1,0 +1,74 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/04/business/company-news-allstate-settles-suit-by-former-manager.html",
+    "snippet": "A former senior manager for the Allstate Insurance Company has reached an out-of-court settlement of his lawsuit accusing company executives of \"redlining\" minorities and evading insurance laws passed by California voters. Jeffrey E. Callaway decl...",
+    "lead_paragraph": "A former senior manager for the Allstate Insurance Company has reached an out-of-court settlement of his lawsuit accusing company executives of \"redlining\" minorities and evading insurance laws passed by California voters. Jeffrey E. Callaway declined to provide details of his settlement.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "ALLSTATE SETTLES SUIT BY FORMER MANAGER",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALLSTATE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS (IN US)"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "REDLINING"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 103 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1993-08-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b9558eb7c8105d6e1fc4",
+    "word_count": 103,
+    "slideshow_credits": null
+}

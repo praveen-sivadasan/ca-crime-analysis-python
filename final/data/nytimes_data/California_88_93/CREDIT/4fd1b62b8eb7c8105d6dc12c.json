@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/24/us/2d-big-bank-sets-iou-deadline-for-california.html",
+    "snippet": "California's budget crisis deepened today when the Bank of America, the nation's second-largest bank and the biggest in the state, said that on Aug. 5 it would stop accepting the i.o.u.'s the state has been issuing employees and other creditors wh...",
+    "lead_paragraph": "California's budget crisis deepened today when the Bank of America, the nation's second-largest bank and the biggest in the state, said that on Aug. 5 it would stop accepting the i.o.u.'s the state has been issuing employees and other creditors while Gov. Pete Wilson and legislators fight over the $11 billion deficit. Later, Wells Fargo Bank, the state's second-largest bank, reiterated its position that it would stop accepting the i.o.u.'s, or \"registered warrants,\" dated after July 31.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "2d Big Bank Sets I.O.U. Deadline For California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLS FARGO BANK"
+        },
+        {
+            "name": "organizations",
+            "value": "BANK OF AMERICA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-07-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "MARKOFF"
+            }
+        ],
+        "original": "By JOHN MARKOFF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b62b8eb7c8105d6dc12c",
+    "word_count": 668,
+    "slideshow_credits": null
+}

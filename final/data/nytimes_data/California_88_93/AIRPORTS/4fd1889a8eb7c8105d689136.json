@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1988/03/16/us/limits-suggested-at-major-airports.html",
+    "snippet": "LEAD: The Department of Transportation proposed yesterday that the major airports, which handle 95 percent of the nation's passengers, be required to install card systems to limit access to restricted areas....",
+    "lead_paragraph": "LEAD: The Department of Transportation proposed yesterday that the major airports, which handle 95 percent of the nation's passengers, be required to install card systems to limit access to restricted areas.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "LIMITS SUGGESTED AT MAJOR AIRPORTS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TRANSPORTATION, DEPARTMENT OF"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC SOUTHWEST AIRLINES"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "AIRPORTS"
+        },
+        {
+            "name": "subject",
+            "value": "SECURITY AND WARNING SYSTEMS"
+        }
+    ],
+    "pub_date": "1988-03-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 1,
+                "lastname": "WITKIN"
+            }
+        ],
+        "original": "By RICHARD WITKIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1889a8eb7c8105d689136",
+    "word_count": 403,
+    "slideshow_credits": null
+}

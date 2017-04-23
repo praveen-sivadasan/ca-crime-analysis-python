@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/25/us/the-2000-campaign-the-arizona-senator-mccain-courts-republicans-old-and-new.html",
+    "snippet": "J. Daniel Price is a silver-haired retired insurance executive, a courtly man who calls himself a ''fifth-generation Abe Lincoln Republican.'' Until today, he supported George W. Bush.    ''John McCain just won my vote for the Republican Party,'' ...",
+    "lead_paragraph": "J. Daniel Price is a silver-haired retired insurance executive, a courtly man who calls himself a ''fifth-generation Abe Lincoln Republican.'' Until today, he supported George W. Bush. ''John McCain just won my vote for the Republican Party,'' Mr. Price said moments after watching the Arizona senator rip through his stump speech this morning before 1,500 people at California State University at Sacramento. ''I'm persuaded this man can go to Washington and not cave in to special interest groups.''",
+    "abstract": "Sen John McCain campaigns in California, whose 162 delegates he considers all but indispensable to his chances of winning Republican nomination; photo (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "McCain Courts Republicans, Old and New",
+        "kicker": "THE 2000 CAMPAIGN: THE ARIZONA SENATOR"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-02-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "David",
+                "rank": 1,
+                "lastname": "BARSTOW"
+            }
+        ],
+        "original": "By DAVID BARSTOW"
+    },
+    "type_of_material": "News",
+    "_id": "4fd220358eb7c8105d7a3902",
+    "word_count": 639,
+    "slideshow_credits": null
+}

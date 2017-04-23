@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/09/us/the-1988-elections-west-california.html",
+    "snippet": "LEAD: Mr. Bush took an early lead in California, the nation's largest state, where late polls had shown the race to be very close. President Reagan made a last-minute foray to the state on Monday to shore up the Vice President....",
+    "lead_paragraph": "LEAD: Mr. Bush took an early lead in California, the nation's largest state, where late polls had shown the race to be very close. President Reagan made a last-minute foray to the state on Monday to shore up the Vice President.",
+    "abstract": null,
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1988 ELECTIONS: West; CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SENATE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION RESULTS"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSE OF REPRESENTIVES (US)"
+        }
+    ],
+    "pub_date": "1988-11-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd195f08eb7c8105d6a29b8",
+    "word_count": 287,
+    "slideshow_credits": null
+}

@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/05/opinion/abroad-at-home-wreck-or-rescue.html",
+    "snippet": "This is a year of anger in politics. Voters are angry at economic misery, at politicians who give themselves perks, at institutions that do not work. They are in a mood to punish, to destroy.   Jerry Brown fits that mood. He comes on as a Savonaro...",
+    "lead_paragraph": "This is a year of anger in politics. Voters are angry at economic misery, at politicians who give themselves perks, at institutions that do not work. They are in a mood to punish, to destroy. Jerry Brown fits that mood. He comes on as a Savonarola who would purge an impure system. And if there is a real Jerry Brown underneath the various political masks, it may be something like that: Savonarola.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Abroad at Home; Wreck Or Rescue?"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-04-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Anthony",
+                "rank": 1,
+                "lastname": "LEWIS"
+            }
+        ],
+        "original": "By ANTHONY LEWIS"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd19f248eb7c8105d6b2cce",
+    "word_count": 693,
+    "slideshow_credits": null
+}

@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/19/us/adopting-drug-babies-special-report-child-rearing-stormy-when-drugs-cloud-birth.html",
+    "snippet": "LEAD: Couples who become adoptive and foster parents of drug-exposed babies often find that rearing them is vastly more difficult than experts had predicted....",
+    "lead_paragraph": "LEAD: Couples who become adoptive and foster parents of drug-exposed babies often find that rearing them is vastly more difficult than experts had predicted.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Adopting Drug Babies    A Special Report;   Child-Rearing Is Stormy When Drugs Cloud Birth"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PREGNANCY AND OBSTETRICS"
+        },
+        {
+            "name": "subject",
+            "value": "FOSTER CARE"
+        },
+        {
+            "name": "subject",
+            "value": "ADOPTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1990-05-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b9ee8eb7c8105d6e2d73",
+    "word_count": 2334,
+    "slideshow_credits": null
+}

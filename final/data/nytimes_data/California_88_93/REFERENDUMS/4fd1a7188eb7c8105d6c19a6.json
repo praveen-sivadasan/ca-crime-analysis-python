@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/25/us/judges-trim-back-measure-on-crime.html",
+    "snippet": "The California Supreme Court today struck down part of a voter-approved initiative that would have stripped California defendants of any rights that are not provided in the United States Constitution.   The court upheld most of the initiative, Pro...",
+    "lead_paragraph": "The California Supreme Court today struck down part of a voter-approved initiative that would have stripped California defendants of any rights that are not provided in the United States Constitution. The court upheld most of the initiative, Proposition 115, but struck down its broadest provision, which would have repealed rights for criminal defendants that are specifically granted under the State Constitution.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "JUDGES TRIM BACK MEASURE ON CRIME"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TRIALS"
+        },
+        {
+            "name": "subject",
+            "value": "CONSTITUTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1990-12-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7188eb7c8105d6c19a6",
+    "word_count": 436,
+    "slideshow_credits": null
+}

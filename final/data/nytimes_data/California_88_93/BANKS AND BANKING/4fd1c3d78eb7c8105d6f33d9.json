@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/30/business/market-place-california-banks-bad-times-near.html",
+    "snippet": "REAL estate values in California, a bastion of strength compared with New England and other parts of the East Coast, are deteriorating rapidly and may become the next problem for the nation's banking industry, analysts say.    While California ban...",
+    "lead_paragraph": "REAL estate values in California, a bastion of strength compared with New England and other parts of the East Coast, are deteriorating rapidly and may become the next problem for the nation's banking industry, analysts say. While California bankers and economists have predicted a mild downturn, other analysts have recently begun predicting more severe problems. When California's weakness hurts local banks and filters through to other sectors of the economy, as occurred in New England, the chances of a severe national recession are greatly increased, they said.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Market Place; California Banks: Bad Times Near?"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "MARKET PLACE (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REAL ESTATE"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-10-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "Quint"
+            }
+        ],
+        "original": "By Michael Quint"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c3d78eb7c8105d6f33d9",
+    "word_count": 827,
+    "slideshow_credits": null
+}

@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/28/us/the-1992-campaign-the-democrats-clinton-resists-being-labeled-a-liberal.html",
+    "snippet": "Gov. Bill Clinton told members of the National Urban League today that Republican efforts to characterize the Democratic Presidential ticket as liberal were a \"load of bull we've been paralyzed with for too long.\"    Mr. Clinton, who spent the wee...",
+    "lead_paragraph": "Gov. Bill Clinton told members of the National Urban League today that Republican efforts to characterize the Democratic Presidential ticket as liberal were a \"load of bull we've been paralyzed with for too long.\" Mr. Clinton, who spent the weekend traveling in California and Washington state in search of support from voters who backed President Bush in 1988 and Ronald Reagan in 1980 and 1984, preached a message of self-sufficiency and fiscal conservatism that he said should appeal to traditional Democratic constituencies as well.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: The Democrats; Clinton Resists Being Labeled a Liberal"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL URBAN LEAGUE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-07-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Gwen",
+                "rank": 1,
+                "lastname": "IFILL"
+            }
+        ],
+        "original": "By GWEN IFILL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a1688eb7c8105d6b6f9e",
+    "word_count": 1088,
+    "slideshow_credits": null
+}

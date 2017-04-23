@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1995/05/31/business/market-place-pacific-telesis-its-rivals-say-is-crying-wolf-about-regulators.html",
+    "snippet": "TO hear its executives tell it, the Pacific Telesis Group has been knocked flat on its back by onerous state regulations. But rival telephone companies say the Baby Bell is like a basketball player who falls melodramatically on the hardwood in hop...",
+    "lead_paragraph": "TO hear its executives tell it, the Pacific Telesis Group has been knocked flat on its back by onerous state regulations. But rival telephone companies say the Baby Bell is like a basketball player who falls melodramatically on the hardwood in hopes of a drawing a foul. On May 15, Pacific Telesis disclosed that its 1995 earnings would be about 10 percent lower than the previous year's. The San Francisco-based company blamed the California Public Utilities Commission, which lowered its rates and opened the state's lucrative local toll market to competition from the AT&T Corporation, the MCI Communications Corporation and the Sprint Corporation at the beginning of the year.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Market Place; Pacific Telesis, its rivals say, is crying wolf about regulators."
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "MARKET PLACE (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AT&T CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "SPRINT CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "MCI COMMUNICATIONS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC TELESIS GROUP"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1995-05-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mark",
+                "rank": 1,
+                "lastname": "Landler"
+            }
+        ],
+        "original": "By Mark Landler"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cc6e8eb7c8105d702a20",
+    "word_count": 768,
+    "slideshow_credits": null
+}

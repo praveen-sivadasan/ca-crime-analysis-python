@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/05/us/the-2000-campaign-the-focal-point-early-vote-magnifying-importance-of-california.html",
+    "snippet": "With the quirky preliminaries over, the presidential race has moved squarely into even odder and untested terrain: a new kind of ''national primary'' on March 7 in which more than a dozen states seem all but certain to determine the major parties'...",
+    "lead_paragraph": "With the quirky preliminaries over, the presidential race has moved squarely into even odder and untested terrain: a new kind of ''national primary'' on March 7 in which more than a dozen states seem all but certain to determine the major parties' nominees. And no place may turn out to be more important that day than California, long the state the nation loves to mock as a collection of kooks and conservatives who produced both Ronald Reagan and Jerry Brown.",
+    "abstract": "Presidential race is moving into untested terrain: new kind of 'national primary' on Mar 7 in which more than dozen states seem certain to determine major parties' nominees; results in California may be most important; this year, California will be first state where all candidates appear on same ballot, regardless of party, in preview of where its crucial 54 electoral votes might go in general election (M)",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Early Vote Magnifying Importance of California",
+        "kicker": "THE 2000 CAMPAIGN: THE FOCAL POINT"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-02-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f22f8eb7c8105d7497b6",
+    "word_count": 1239,
+    "slideshow_credits": null
+}

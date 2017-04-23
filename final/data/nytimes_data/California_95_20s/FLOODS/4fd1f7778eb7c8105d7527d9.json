@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1997/01/25/us/californians-put-on-flood-alert.html",
+    "snippet": "More than 150 California Conservation Workers are placed on emergency flood alert, and state authorities prepare for new surge of water through rain-swollen rivers as powerful Pacific storm heads across coast; photo (M)...",
+    "lead_paragraph": null,
+    "abstract": "More than 150 California Conservation Workers are placed on emergency flood alert, and state authorities prepare for new surge of water through rain-swollen rivers as powerful Pacific storm heads across coast; photo (M)",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Californians Put on Flood Alert"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1997-01-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd1f7778eb7c8105d7527d9",
+    "word_count": 0,
+    "slideshow_credits": null
+}

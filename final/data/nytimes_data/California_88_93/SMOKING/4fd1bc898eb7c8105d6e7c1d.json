@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/13/us/doctors-ask-wider-california-smoking-ban.html",
+    "snippet": "California's doctors want their state's already strict smoking laws expanded to prohibit smoking in almost all indoor public places.   The California Medical Association's House of Delegates passed a resolution on Monday urging state legislators t...",
+    "lead_paragraph": "California's doctors want their state's already strict smoking laws expanded to prohibit smoking in almost all indoor public places. The California Medical Association's House of Delegates passed a resolution on Monday urging state legislators to ban smoking in places like bars, restaurants, malls and bank lobbies. The 450 delegates, holding their annual meeting here, set policy for the 38,000-member association.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Doctors Ask Wider California Smoking Ban"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA MEDICAL ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING"
+        }
+    ],
+    "pub_date": "1991-03-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc898eb7c8105d6e7c1d",
+    "word_count": 191,
+    "slideshow_credits": null
+}

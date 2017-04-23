@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/07/20/garden/wine-talk-916688.html",
+    "snippet": "LEAD: SHOULD American wine makers emulate the French?...",
+    "lead_paragraph": "LEAD: SHOULD American wine makers emulate the French?",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "WINE TALK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1988-07-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "BY FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18c9b8eb7c8105d68fe94",
+    "word_count": 1075,
+    "slideshow_credits": null
+}

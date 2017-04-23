@@ -1,0 +1,84 @@
+{
+    "web_url": "https://www.nytimes.com/1998/06/23/us/supreme-court-roundup-justices-narrow-the-uses-of-forfeiture.html",
+    "snippet": "The Supreme Court struck today for the first time against the Federal Government's aggressive use of forfeiture, ruling that a forfeiture intended as punishment is unconstitutional if the amount seized is ''grossly disproportional'' to the gravity...",
+    "lead_paragraph": "The Supreme Court struck today for the first time against the Federal Government's aggressive use of forfeiture, ruling that a forfeiture intended as punishment is unconstitutional if the amount seized is ''grossly disproportional'' to the gravity of the offense. Applying that test in a sharply contested 5-to-4 ruling, the Court went on to declare that the Government could not constitutionally seize $357,144 in undeclared cash that a Los Angeles man and his family had tried to bring in their luggage on a flight to Cyprus. The money itself, intended to repay a family debt, was not the proceeds of a crime; the man's only crime was failing to obey a Federal law that requires reporting all currency being taken out of the country in excess of $10,000.",
+    "abstract": "Supreme Court rules for first time against Federal Government's aggressive use of forfeiture, deciding by 5-4 vote that forfeiture intended as punishment is unconstitutional if amount seized is 'grossly disproportional' to gravity of offense; says Government could not Constitutionally seize $357,144 in undeclared cash that Los Angeles resident and wife tried to take out of country since money was intended to repay family debt and was not proceeds from crime; rules, 5-4, that illegally seized evidence, which would be barred by exclusionary rule from use by prosecution at criminal trial, can be used in parole revocation hearing; agrees to revisit issue last dealt with year ago when it rejected huge class-action settlement that had purported to resolve liability of 20 former asbestos manufacturers to workers who had been exposed to deadly substance but who had not yet become ill; turns down appeal by California challenging Congress's constitutional authority to bring disabled prison inmates within protections of Americans With Disabilities Act (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Supreme Court Roundup; Justices Narrow the Uses of Forfeiture"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+        },
+        {
+            "name": "subject",
+            "value": "SEARCH AND SEIZURE"
+        },
+        {
+            "name": "subject",
+            "value": "CURRENCY"
+        },
+        {
+            "name": "subject",
+            "value": "CLASS-ACTION SUITS"
+        },
+        {
+            "name": "subject",
+            "value": "ASBESTOS"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "HANDICAPPED"
+        }
+    ],
+    "pub_date": "1998-06-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1deb08eb7c8105d723218",
+    "word_count": 1518,
+    "slideshow_credits": null
+}

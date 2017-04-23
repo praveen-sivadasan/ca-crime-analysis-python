@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1988/03/17/us/figure-in-john-belushi-case-freed-from-california-prison.html",
+    "snippet": "LEAD: Cathy Evelyn Smith, who admitted giving the comedian John Belushi the heroin-cocaine mixture that killed him in 1982, was freed from prison today after serving 15 months....",
+    "lead_paragraph": "LEAD: Cathy Evelyn Smith, who admitted giving the comedian John Belushi the heroin-cocaine mixture that killed him in 1982, was freed from prison today after serving 15 months.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Figure in John Belushi Case Freed From California Prison"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BELUSHI, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "SMITH, CATHY EVELYN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HEROIN"
+        },
+        {
+            "name": "subject",
+            "value": "DEPORTATION"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "COCAINE"
+        }
+    ],
+    "pub_date": "1988-03-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18fa48eb7c8105d695e78",
+    "word_count": 101,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/27/business/gas-stations-suing-exxon.html",
+    "snippet": "Gasoline dealers angered by the Exxon Corporation's withdrawal from the Southern California retail market sued the company, seeking millions in damages.   Exxon's domestic oil and gas division said on May 12 that it would stop selling motor fuel a...",
+    "lead_paragraph": "Gasoline dealers angered by the Exxon Corporation's withdrawal from the Southern California retail market sued the company, seeking millions in damages. Exxon's domestic oil and gas division said on May 12 that it would stop selling motor fuel at its 156 stations in Los Angeles, Orange and Ventura Counties. The move was one in a series of cuts that big oil companies have made recently to reduce costs.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Gas Stations Suing Exxon"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EXXON CORP"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        }
+    ],
+    "pub_date": "1992-07-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d4118eb7c8105d71114c",
+    "word_count": 219,
+    "slideshow_credits": null
+}

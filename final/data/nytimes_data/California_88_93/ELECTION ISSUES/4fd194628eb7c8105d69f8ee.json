@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/30/magazine/california-showdown.html",
+    "snippet": "LEAD: It is 110 degrees in Sacramento on this August afternoon, and probably hotter here on the runway of a local airport, and probably hotter still in the long-sleeved black dress that Dianne Feinstein is wearing as she paces the tarmac near her ...",
+    "lead_paragraph": "LEAD: It is 110 degrees in Sacramento on this August afternoon, and probably hotter here on the runway of a local airport, and probably hotter still in the long-sleeved black dress that Dianne Feinstein is wearing as she paces the tarmac near her chartered plane.",
+    "abstract": null,
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Showdown"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-09-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robin",
+                "rank": 1,
+                "lastname": "Toner"
+            }
+        ],
+        "original": "BY Robin Toner; Robin Toner is a national political correspondent for The New York Times based in Washington"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194628eb7c8105d69f8ee",
+    "word_count": 5661,
+    "slideshow_credits": null
+}

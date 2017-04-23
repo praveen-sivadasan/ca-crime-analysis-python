@@ -1,0 +1,38 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/the-california-quake-relief-groups-taking-aid.html",
+    "snippet": "LEAD: Funds to help earthquake victims in California have been set up by the following organizations:  American Red Cross Disaster Relief Fund, P.O. Box 4691, Grand Central Station, New York, N.Y. 10163. Telephone: 800-453-9000.  Episcopal Church/...",
+    "lead_paragraph": "LEAD: Funds to help earthquake victims in California have been set up by the following organizations: American Red Cross Disaster Relief Fund, P.O. Box 4691, Grand Central Station, New York, N.Y. 10163. Telephone: 800-453-9000. Episcopal Church/The Presiding Bishop's Fund for World Relief, The Episcopal Church Center, 815 Second Avenue, New York, N.Y.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Relief Groups Taking Aid",
+        "kicker": "THE CALIFORNIA QUAKE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd196be8eb7c8105d6a435d",
+    "word_count": 160,
+    "slideshow_credits": null
+}

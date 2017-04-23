@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1996/05/21/business/a-deal-by-wellpoint-creates-a-health-provider-and-two-charities.html",
+    "snippet": "In what could be a harbinger of other such transactions, a deal was completed today creating one of the country's largest charitable foundations as well as a  big health care company that is likely to pursue numerous acquisitions as it grows.     ...",
+    "lead_paragraph": "In what could be a harbinger of other such transactions, a deal was completed today creating one of the country's largest charitable foundations as well as a big health care company that is likely to pursue numerous acquisitions as it grows. A number of Blue Cross health care organizations across the country have struggled in recent years to balance their obligation to provide programs for the poor, as well as benefits to the states that have granted them tax advantages, with their need to raise capital to expand in the increasingly competitive health care market.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Deal by Wellpoint Creates a Health Provider and Two Charities"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BLUE CROSS OF CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLPOINT HEALTH NETWORKS INC"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCEORGANIZATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1996-05-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Health; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "STERNGOLD"
+            }
+        ],
+        "original": "By JAMES STERNGOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f1318eb7c8105d7476be",
+    "word_count": 727,
+    "slideshow_credits": null
+}

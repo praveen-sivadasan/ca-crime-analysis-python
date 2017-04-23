@@ -1,0 +1,80 @@
+{
+    "web_url": "https://www.nytimes.com/1995/09/06/garden/eating-well-fda-target-baby-formula.html",
+    "snippet": "A SEVEN-MONTH Government investigation has uncovered extensive scams to market bogus, outdated or mislabeled baby formula, and there are indications that other counterfeit products, from shampoo to coffee to prescription drugs, are also being sold...",
+    "lead_paragraph": "A SEVEN-MONTH Government investigation has uncovered extensive scams to market bogus, outdated or mislabeled baby formula, and there are indications that other counterfeit products, from shampoo to coffee to prescription drugs, are also being sold to unsuspecting consumers. The baby-formula investigation, begun by the Food and Drug Administration after 45,000 pounds of counterfeit infant formula was seized in California in February, has uncovered at least 10 operations in eight states that have apparently sold bogus formula by having it made by small producers and placed in cans with counterfeit labels.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Eating Well; F.D.A. Target: Baby Formula"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KESSLER, DAVID A"
+        },
+        {
+            "name": "persons",
+            "value": "MOSTAFA, MOHAMAD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FOOD AND DRUG ADMINISTRATION"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "BABY FORMULA"
+        },
+        {
+            "name": "subject",
+            "value": "COUNTERFEITING"
+        },
+        {
+            "name": "subject",
+            "value": "CONTAINERS AND PACKAGING"
+        },
+        {
+            "name": "subject",
+            "value": "LABELING AND LABELS"
+        },
+        {
+            "name": "subject",
+            "value": "BACTERIA"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        }
+    ],
+    "pub_date": "1995-09-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Marian",
+                "rank": 1,
+                "lastname": "BURROS"
+            }
+        ],
+        "original": "By MARIAN BURROS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd201ee8eb7c8105d7669b2",
+    "word_count": 1793,
+    "slideshow_credits": null
+}

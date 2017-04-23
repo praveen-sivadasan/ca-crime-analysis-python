@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/07/us/tax-revolt-fades-as-californians-vote-an-increase.html",
+    "snippet": "LEAD: More than a decade after they led a revolt against taxes and spending, California voters turned around in elections Tuesday and approved higher gasoline taxes, a looser limit on state spending and more than $4 billion in bonds....",
+    "lead_paragraph": "LEAD: More than a decade after they led a revolt against taxes and spending, California voters turned around in elections Tuesday and approved higher gasoline taxes, a looser limit on state spending and more than $4 billion in bonds.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "TAX REVOLT FADES AS CALIFORNIANS VOTE AN INCREASE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "ORESKES"
+            }
+        ],
+        "original": "By MICHAEL ORESKES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1937c8eb7c8105d69d9a3",
+    "word_count": 1135,
+    "slideshow_credits": null
+}

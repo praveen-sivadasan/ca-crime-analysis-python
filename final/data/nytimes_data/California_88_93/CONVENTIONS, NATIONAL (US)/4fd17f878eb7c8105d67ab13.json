@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1988/07/21/us/the-democrats-in-atlanta-democrats-acclaim-dukakis-and-assert-unity.html",
+    "snippet": "LEAD: The Democratic Party tonight nominated Michael Stanley Dukakis, a cool, cerebral, 54-year-old son of Greek immigrants who has campaigned on competence and not on charisma, for President of the United States....",
+    "lead_paragraph": "LEAD: The Democratic Party tonight nominated Michael Stanley Dukakis, a cool, cerebral, 54-year-old son of Greek immigrants who has campaigned on competence and not on charisma, for President of the United States.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Democrats Acclaim Dukakis and Assert Unity",
+        "kicker": "THE DEMOCRATS IN ATLANTA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "persons",
+            "value": "JACKSON, JESSE L"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "CONVENTIONS, NATIONAL (US)"
+        }
+    ],
+    "pub_date": "1988-07-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr.",
+                "firstname": "E.",
+                "middlename": "J.",
+                "lastname": "DIONNE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By E. J. DIONNE Jr., Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17f878eb7c8105d67ab13",
+    "word_count": 1701,
+    "slideshow_credits": null
+}

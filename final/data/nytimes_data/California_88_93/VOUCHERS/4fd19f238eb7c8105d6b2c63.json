@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/13/education/california-braces-for-battle-over-school-vouchers.html",
+    "snippet": "The stage is being set in California for what could be one of the most bitter and expensive political battles in the history of American public education, a battle that could well shape the future relationship between public and private schools na...",
+    "lead_paragraph": "The stage is being set in California for what could be one of the most bitter and expensive political battles in the history of American public education, a battle that could well shape the future relationship between public and private schools nationally. Proponents of a plan that would provide parents with what they call public \"scholarships,\" or vouchers redeemable at public or private schools, including parochial schools, say they have gathered enough signatures to put the proposal to voters on the ballot in November as an amendment to the California Constitution. Opponents, led by teachers and school administrators, say they are ready to go to almost any length to defeat it.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Braces for Battle Over School Vouchers"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "VOUCHERS"
+        },
+        {
+            "name": "subject",
+            "value": "SECTARIAN SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "AMENDMENTS, CONSTITUTIONAL"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVATE SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1992-05-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": null,
+    "section_name": "Education",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f238eb7c8105d6b2c63",
+    "word_count": 763,
+    "slideshow_credits": null
+}

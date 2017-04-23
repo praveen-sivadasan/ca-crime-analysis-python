@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1998/11/04/us/1998-elections-nation-california-slowly-but-steadily-democrat-overcomes-rivals.html",
+    "snippet": "Lieut. Gov. Gray Davis, a cautious career politician once dismissed as an uncharismatic underdog, gave Democrats the single biggest prize of this midterm election, defeating State Attorney General Dan Lungren tonight to become the 37th Governor of...",
+    "lead_paragraph": "Lieut. Gov. Gray Davis, a cautious career politician once dismissed as an uncharismatic underdog, gave Democrats the single biggest prize of this midterm election, defeating State Attorney General Dan Lungren tonight to become the 37th Governor of California, according to surveys of voters leaving the polls. Mr. Davis's victory over Mr. Lungren, a Republican former Congressman from Long Beach, marked only the fourth time this century that a Democrat has won the governorship. It put the Democrats in control of all three branches of government in Sacramento -- and thus control of legislative and Congressional redistricting -- for the first time since Edmund G. Brown Jr. left office 16 years ago.",
+    "abstract": "Lt Gov Gray Davis, Democrat, defeats Republican State Atty Gen Dan Lungren to become Governor of California (M)",
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Slowly but Steadily, Democrat Overcomes Rivals for Governorship",
+        "kicker": "THE 1998 ELECTIONS: THE NATION -- CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUNGREN, DANIEL E"
+        },
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION RESULTS"
+        }
+    ],
+    "pub_date": "1998-11-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ef678eb7c8105d7442b8",
+    "word_count": 1035,
+    "slideshow_credits": null
+}

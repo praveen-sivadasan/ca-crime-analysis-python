@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/2000/05/29/us/false-birth-certificates-let-immigrants-outwit-system.html",
+    "snippet": "After making it safely to the United States, Hans Peter Bieri faced the same problem that millions of illegal immigrants had faced over the years.  He had to persuade employers, government agencies and others that he was here legally....",
+    "lead_paragraph": "After making it safely to the United States, Hans Peter Bieri faced the same problem that millions of illegal immigrants had faced over the years. He had to persuade employers, government agencies and others that he was here legally.",
+    "abstract": "Illegal immigrants use false birth certificates as document of choice to establish new identities in US; birth certificates, which open door to Social Security and other other coveted documents, are easily obtainable in states like California, where one can adopt identity of an American by walking into government office and paying for someone else's birth certificate (M)",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "False Birth Certificates Let Immigrants Outwit System"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "FORGERY"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "BIRTH CERTIFICATES"
+        },
+        {
+            "name": "subject",
+            "value": "FALSIFICATION OF DATA"
+        },
+        {
+            "name": "subject",
+            "value": "IDENTIFICATION DEVICES"
+        }
+    ],
+    "pub_date": "2000-05-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Renwick",
+                "rank": 1,
+                "lastname": "McLEAN"
+            }
+        ],
+        "original": "By RENWICK McLEAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd213508eb7c8105d789ff3",
+    "word_count": 1092,
+    "slideshow_credits": null
+}

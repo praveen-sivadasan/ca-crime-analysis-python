@@ -1,0 +1,109 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/03/us/warnings-on-chemical-hazards-are-upheld-by-california-court.html",
+    "snippet": "LEAD: A California judge ruled today that food, drugs and cosmetics are not exempt from a law enacted by California voters aimed at warning consumers about products containing chemicals known to cause cancer or birth defects....",
+    "lead_paragraph": "LEAD: A California judge ruled today that food, drugs and cosmetics are not exempt from a law enacted by California voters aimed at warning consumers about products containing chemicals known to cause cancer or birth defects.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Warnings on Chemical Hazards Are Upheld by California Court"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "ROBIE, RONALD B"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+        },
+        {
+            "name": "subject",
+            "value": "DRUGS (PHARMACEUTICALS)"
+        },
+        {
+            "name": "subject",
+            "value": "LABELING AND LABELS"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        },
+        {
+            "name": "subject",
+            "value": "BIRTH DEFECTS"
+        },
+        {
+            "name": "subject",
+            "value": "COSMETICS"
+        },
+        {
+            "name": "subject",
+            "value": "CHEMICALS"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 65 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1990-03-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd193498eb7c8105d69d58b",
+    "word_count": 711,
+    "slideshow_credits": null
+}

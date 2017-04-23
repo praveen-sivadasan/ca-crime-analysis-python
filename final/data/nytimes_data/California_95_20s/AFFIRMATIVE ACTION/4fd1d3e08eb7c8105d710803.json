@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1996/06/08/us/politics-the-race-issue-powell-strongly-defends-use-of-racial-preferences.html",
+    "snippet": "A strongly worded defense of racial preferences by Gen. Colin L. Powell has angered conservatives and heartened liberals and could cause headaches within the Presidential campaign of Senator Bob Dole, who still hopes to persuade the popular genera...",
+    "lead_paragraph": "A strongly worded defense of racial preferences by Gen. Colin L. Powell has angered conservatives and heartened liberals and could cause headaches within the Presidential campaign of Senator Bob Dole, who still hopes to persuade the popular general to be his running mate. In a little-noticed commencement speech at Bowie State University in Bowie, Md., over the Memorial Day weekend, General Powell said that such preferences had been \"good for America,\" and added: \"There are those who rail against affirmative-action preferences, while living lives of preference, who do not understand that the progress achieved over the past generation must be continued if we wish to bless future generations.\"",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Powell Strongly Defends Use of Racial Preferences",
+        "kicker": "POLITICS: THE RACE ISSUE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "POWELL, COLIN L"
+        },
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BOWIE STATE UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-06-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Steven",
+                "middlename": "A.",
+                "lastname": "HOLMES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By STEVEN A. HOLMES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d3e08eb7c8105d710803",
+    "word_count": 804,
+    "slideshow_credits": null
+}

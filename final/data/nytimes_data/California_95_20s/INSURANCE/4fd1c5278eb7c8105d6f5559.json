@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/06/business/quake-insurance-losses-up.html",
+    "snippet": "Insured damage from last January's California earthquake will total $10.4 billion, according to the latest insurance industry estimate.   The estimate, which is 16 percent higher than the previous report, is the fifth revision upward by the Americ...",
+    "lead_paragraph": "Insured damage from last January's California earthquake will total $10.4 billion, according to the latest insurance industry estimate. The estimate, which is 16 percent higher than the previous report, is the fifth revision upward by the American Insurance Services Group, a trade organization.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake Insurance Losses Up"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN INSURANCE SERVICES GROUP"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1995-01-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c5278eb7c8105d6f5559",
+    "word_count": 109,
+    "slideshow_credits": null
+}

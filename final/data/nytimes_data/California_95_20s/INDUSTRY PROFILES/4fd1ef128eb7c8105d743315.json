@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1995/04/27/business/california-plans-to-open-local-phone-markets.html",
+    "snippet": "California regulators voted yesterday in favor of a proposal to open the state's local telephone market to competition, in what would be the most sweeping deregulation yet of the traditionally monopolistic business. The proposal by the California ...",
+    "lead_paragraph": "California regulators voted yesterday in favor of a proposal to open the state's local telephone market to competition, in what would be the most sweeping deregulation yet of the traditionally monopolistic business. The proposal by the California Public Utilities Commission would allow long-distance providers and cable television operators to compete with Pacific Bell and GTE for a $6 billion market. Several states -- including New York, Michigan and Illinois -- have allowed new competitors into their local markets. But the regional Bell operating companies retain key marketing advantages over their new rivals; for example, they can force customers to change telephone numbers to switch to a competing carrier. Such loopholes would be largely scrapped under California's plan.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Plans To Open Local Phone Markets"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC TELESIS GROUP"
+        },
+        {
+            "name": "organizations",
+            "value": "GTE CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRY PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1995-04-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mark",
+                "rank": 1,
+                "lastname": "LANDLER"
+            }
+        ],
+        "original": "By MARK LANDLER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ef128eb7c8105d743315",
+    "word_count": 869,
+    "slideshow_credits": null
+}

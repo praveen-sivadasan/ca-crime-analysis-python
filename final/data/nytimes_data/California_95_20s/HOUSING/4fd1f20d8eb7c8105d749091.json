@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1996/06/20/us/alarm-bells-sounding-as-suburbs-gobble-up-california-s-richestfarmland.html",
+    "snippet": "Born and raised in this, the most fruitful farm county in America, David Mas  Masumoto sighed as his van passed the pastel swaths of suburbia that have displaced many of the vivid orchards, vineyards and strawberry fields of his childhood.        ...",
+    "lead_paragraph": "Born and raised in this, the most fruitful farm county in America, David Mas Masumoto sighed as his van passed the pastel swaths of suburbia that have displaced many of the vivid orchards, vineyards and strawberry fields of his childhood. As if mocking the vanished bounty, the clusters of ranch houses, lawns and new blacktop here in Fresno County bear faux-farm names like Vineyard Glen and Harvest Park. The names brought a sad smile from Mr. Masumoto, a peach grower.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Alarm Bells Sounding as Suburbs Gobble Up California's RichestFarmland"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN FARMLAND TRUST"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "SUBURBS"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "LAND USE POLICIES"
+        }
+    ],
+    "pub_date": "1996-06-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carey",
+                "rank": 1,
+                "lastname": "GOLDBERG"
+            }
+        ],
+        "original": "By CAREY GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f20d8eb7c8105d749091",
+    "word_count": 1322,
+    "slideshow_credits": null
+}

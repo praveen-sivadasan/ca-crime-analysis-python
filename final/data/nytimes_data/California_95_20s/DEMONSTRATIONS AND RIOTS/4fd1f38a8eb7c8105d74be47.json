@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1996/09/28/us/guards-shoot-to-quell-riot.html",
+    "snippet": "Guards fired live ammunition to break up a fight today between gangs of black and Hispanic inmates in the yard of a maximum-security prison.    One inmate was killed but the cause was not clear. Thirteen were injured, five critically....",
+    "lead_paragraph": "Guards fired live ammunition to break up a fight today between gangs of black and Hispanic inmates in the yard of a maximum-security prison. One inmate was killed but the cause was not clear. Thirteen were injured, five critically.",
+    "abstract": "Guards at Sacramento state prison in California fire live ammunition to break up fight between gangs of black and Hispanic inmates (S)",
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Guards Shoot to Quell Riot"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "CALIFORNIA STATE PRISON-SACRAMENTO"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        }
+    ],
+    "pub_date": "1996-09-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f38a8eb7c8105d74be47",
+    "word_count": 99,
+    "slideshow_credits": null
+}

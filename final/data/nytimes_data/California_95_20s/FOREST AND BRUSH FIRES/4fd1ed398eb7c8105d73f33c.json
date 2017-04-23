@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/29/us/inspection-of-fire-damage.html",
+    "snippet": "The director of the Federal Emergency Management Agency traveled to California today to survey the damage wrought by a weeklong siege of wildfires that incinerated more than 100 houses and charred 40,000 acres of brush.    President Clinton sent t...",
+    "lead_paragraph": "The director of the Federal Emergency Management Agency traveled to California today to survey the damage wrought by a weeklong siege of wildfires that incinerated more than 100 houses and charred 40,000 acres of brush. President Clinton sent the director, James Lee Witt, to tour communities hit by the fires and to meet with Federal, state and local officials. Mr. Witt planned a helicopter tour of Carlsbad, in San Diego County, where 98 houses burned in last week's wind-driven blazes, and a ground-and-air inspection of Malibu.",
+    "abstract": "Federal Emergency Management Agency director James Lee Witt travels to California to survey damage caused by siege of wildfires (S)",
+    "print_page": "16",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Inspection of Fire Damage"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WITT, JAMES LEE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL EMERGENCY MANAGEMENT AGENCY"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        }
+    ],
+    "pub_date": "1996-10-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ed398eb7c8105d73f33c",
+    "word_count": "144",
+    "slideshow_credits": null
+}

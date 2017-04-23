@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/13/business/california-s-pied-piper-of-clean-air.html",
+    "snippet": "The Clean Air Act may have been written in Washington, but the nation's most influential regulatory body is here. Anything in this country with a tailpipe, smokestack or vent is likely to be regulated eventually with rules first worked out by the ...",
+    "lead_paragraph": "The Clean Air Act may have been written in Washington, but the nation's most influential regulatory body is here. Anything in this country with a tailpipe, smokestack or vent is likely to be regulated eventually with rules first worked out by the California Air Resources Board. The board lays down the toughest regulations, forces the biggest changes and generally blazes the path for everyone else, including the United States Environmental Protection Agency. That is particularly true when it comes to cars and trucks and the fuel to run them. Now the board and its determined chairwoman of the last seven years, Jananne Sharpless, are pushing hard for the biggest change of all, the Low-Emission Vehicle Program, which prescribes successive generations of ever-cleaner cars, ending with vehicles that emit no pollution. But success is catching up with the agency, which is known by its acronym, CARB.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Pied Piper of Clean Air"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SHARPLESS, JANANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ENVIRONMENTAL PROTECTION AGENCY"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1992-09-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b58e8eb7c8105d6db658",
+    "word_count": 2820,
+    "slideshow_credits": null
+}

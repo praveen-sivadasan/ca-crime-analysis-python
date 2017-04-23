@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/12/us/california-to-test-children-for-lead-poisoning.html",
+    "snippet": "California has agreed to test at least 500,000 poor children for lead poisoning, after three years of failing to do so in its Medicaid clinics, it was state officials announced today.    Immediately after the agreement was reached, settling a laws...",
+    "lead_paragraph": "California has agreed to test at least 500,000 poor children for lead poisoning, after three years of failing to do so in its Medicaid clinics, it was state officials announced today. Immediately after the agreement was reached, settling a lawsuit, Gov. Pete Wilson announced three bills that would carry out the court settlement and go beyond it to test other children and workers who may be exposed to high levels of lead at work.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California to Test Children for Lead Poisoning"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POISONING AND POISONS"
+        },
+        {
+            "name": "subject",
+            "value": "PAINTS AND PAINTING"
+        },
+        {
+            "name": "subject",
+            "value": "LEAD"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICAID"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRIAL AND OCCUPATIONAL HAZARDS"
+        }
+    ],
+    "pub_date": "1991-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Philip",
+                "middlename": "J.",
+                "lastname": "HILTS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By PHILIP J. HILTS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b1bb8eb7c8105d6d4419",
+    "word_count": 641,
+    "slideshow_credits": null
+}

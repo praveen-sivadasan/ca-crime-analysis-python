@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/07/business/california-said-to-bar-insurer-aid.html",
+    "snippet": "Negotiations between executives of Shearson Lehman Brothers and California insurance regulators broke down yesterday, as an effort to avert a potential failure of the First Capital Life Insurance Company grew more intense, people who have been bri...",
+    "lead_paragraph": "Negotiations between executives of Shearson Lehman Brothers and California insurance regulators broke down yesterday, as an effort to avert a potential failure of the First Capital Life Insurance Company grew more intense, people who have been briefed on the talks said. At the meeting yesterday morning in Manhattan, Shearson offered two proposals to improve the finances of the troubled insurance company, which has more investments in \"junk bonds\" than any other insurer still operating. But both proposals were rejected by John Garamendi, California's Insurance Commissioner, as insufficient to deal with the company's deteriorating finances.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Said to Bar Insurer Aid"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST CAPITAL LIFE INSURANCE CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SHEARSON LEHMAN BROTHERS"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "CORPORATE BONDS"
+        }
+    ],
+    "pub_date": "1991-05-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kurt",
+                "rank": 1,
+                "lastname": "EICHENWALD"
+            }
+        ],
+        "original": "By KURT EICHENWALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cfad8eb7c8105d7083d8",
+    "word_count": 768,
+    "slideshow_credits": null
+}

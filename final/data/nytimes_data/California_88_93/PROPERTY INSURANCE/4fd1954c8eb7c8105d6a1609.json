@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/09/business/insurers-seeking-relief-on-california-rate-cut.html",
+    "snippet": "LEAD: Three business days after the California Supreme Court upheld the main provisions of an initiative requiring insurance companies to roll back rates 20 percent, at least 18 insurers have asked the California Insurance Department for exemption...",
+    "lead_paragraph": "LEAD: Three business days after the California Supreme Court upheld the main provisions of an initiative requiring insurance companies to roll back rates 20 percent, at least 18 insurers have asked the California Insurance Department for exemptions on the ground that the change would impose hardship on them.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Insurers Seeking Relief On California Rate Cut"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "CASUALTY INSURANCE"
+        }
+    ],
+    "pub_date": "1989-05-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "LEV"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL LEV, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1954c8eb7c8105d6a1609",
+    "word_count": 596,
+    "slideshow_credits": null
+}

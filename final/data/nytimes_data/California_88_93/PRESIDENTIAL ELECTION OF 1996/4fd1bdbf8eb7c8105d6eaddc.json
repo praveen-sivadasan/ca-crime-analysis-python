@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1993/12/05/us/once-again-president-finds-time-to-visit-a-troubled-state.html",
+    "snippet": "If Bill Clinton hadn't paid a sick call on California this month, it would have been an exception.   The workaholic President has found time for only three weekends at Camp David and five visits back home to Arkansas. But the trip this weekend to ...",
+    "lead_paragraph": "If Bill Clinton hadn't paid a sick call on California this month, it would have been an exception. The workaholic President has found time for only three weekends at Camp David and five visits back home to Arkansas. But the trip this weekend to California, a continent away, is his eighth since taking office.",
+    "abstract": null,
+    "print_page": "42",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Once Again, President Finds Time to Visit a Troubled State"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "RECESSION AND DEPRESSION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL, PERSONAL"
+        }
+    ],
+    "pub_date": "1993-12-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Douglas",
+                "rank": 1,
+                "lastname": "JEHL"
+            }
+        ],
+        "original": "By DOUGLAS JEHL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bdbf8eb7c8105d6eaddc",
+    "word_count": 876,
+    "slideshow_credits": null
+}

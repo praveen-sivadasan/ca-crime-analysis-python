@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/24/us/the-2000-campaign-california-only-republicans-can-help-mccain-win-in-california.html",
+    "snippet": "For Senator John McCain, the California primary is a glittering dream and a surreal nightmare. From the beginning, Mr. McCain's improbable quest was to win the primary election here in his neighboring state, inherit the western cowboy mantle of hi...",
+    "lead_paragraph": "For Senator John McCain, the California primary is a glittering dream and a surreal nightmare. From the beginning, Mr. McCain's improbable quest was to win the primary election here in his neighboring state, inherit the western cowboy mantle of his political hero Ronald Reagan and become the Republican Party's all-but-inevitable nominee. The catch is that Mr. McCain could win more total votes than his rival Gov. George W. Bush in the nation's most-populous state, and yet lose all 162 of California's Republican delegates, 15 percent of the total needed for the nomination. That is because only the votes of registered Republicans will count toward selecting Republican delegates, who are allocated winner-take-all, though the names of all candidates will appear on the same ballot regardless of party, and voters of any party may pick any candidate.",
+    "abstract": "Sen John McCain's improbable quest has been to win California primary and become Republican Party's all-but-inevitable nominee; catch is that McCain could win more total votes than Gov George W Bush in nation's most-populous state, and yet lose all 162 of California's Republican delegates; this is because only votes of registered Republicans will count toward selecting Republicam delegates, who are allocated winner-take-all (M)",
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Only Republicans Can Help McCain Win in California",
+        "kicker": "THE 2000 CAMPAIGN: CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-02-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21fbb8eb7c8105d7a3080",
+    "word_count": 1235,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/08/us/california-bars-degrees-at-creationist-school.html",
+    "snippet": "LEAD: California's top education official said today that the state had barred the Institute for Creation Research from granting masters' degrees in science. The institute, a fundamentalist Christian school that had offered degrees for teaching bi...",
+    "lead_paragraph": "LEAD: California's top education official said today that the state had barred the Institute for Creation Research from granting masters' degrees in science. The institute, a fundamentalist Christian school that had offered degrees for teaching biology, geology, astrogeophysics and science, is opposed to the teaching of evolution.",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Bars Degrees at Creationist School"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HONIG, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CREATION RESEARCH, INSTITUTE FOR"
+        },
+        {
+            "name": "subject",
+            "value": "CREATIONISM"
+        },
+        {
+            "name": "subject",
+            "value": "SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "name": "subject",
+            "value": "DEGREES, ACADEMIC"
+        },
+        {
+            "name": "subject",
+            "value": "EVOLUTION"
+        }
+    ],
+    "pub_date": "1988-12-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Technology; Science; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd191658eb7c8105d6996c7",
+    "word_count": 641,
+    "slideshow_credits": null
+}

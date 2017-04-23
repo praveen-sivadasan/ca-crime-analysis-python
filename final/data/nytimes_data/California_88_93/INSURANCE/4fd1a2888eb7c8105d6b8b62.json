@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/25/business/aetna-resumes-california-role.html",
+    "snippet": "LEAD: The Aetna Life and Casualty Company, which had stopped writing new property and casualty insurance policies in California to protest restrictions on insurance rates, said today that it would resume accepting new business in the state....",
+    "lead_paragraph": "LEAD: The Aetna Life and Casualty Company, which had stopped writing new property and casualty insurance policies in California to protest restrictions on insurance rates, said today that it would resume accepting new business in the state.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Aetna Resumes California Role"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AETNA LIFE AND CASUALTY CO"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "CASUALTY INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1989-05-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a2888eb7c8105d6b8b62",
+    "word_count": 200,
+    "slideshow_credits": null
+}

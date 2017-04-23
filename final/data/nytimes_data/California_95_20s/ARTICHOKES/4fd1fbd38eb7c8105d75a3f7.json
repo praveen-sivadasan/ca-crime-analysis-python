@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/1999/03/10/dining/national-origins-california-s-central-coast-from-out-of-the-mists-the-artichoke.html",
+    "snippet": "STANDING at the edge of the jagged cliffs that run along Highway 1, you can hear the violence down below, the powerful Pacific shattering itself on the rocky shoreline. But what you feel is gentleness, a light briny mist that suffuses the air.    ...",
+    "lead_paragraph": "STANDING at the edge of the jagged cliffs that run along Highway 1, you can hear the violence down below, the powerful Pacific shattering itself on the rocky shoreline. But what you feel is gentleness, a light briny mist that suffuses the air. This is the rough-hewn far edge of America that has drawn painters and moviemakers, surfers and tourists. But it is also, as it turns out, the domain of the artichoke, which flourishes in the mild mist here -- particularly along the stretch just north of Santa Cruz -- as it does nowhere else.",
+    "abstract": "Amanda Hesser reports that bountiful artichoke harvest is under way along California's central coast; photos; map (L)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "NATIONAL ORIGINS: California's Central Coast; From Out of the Mists, the Artichoke"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ARTICHOKES"
+        }
+    ],
+    "pub_date": "1999-03-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Dining and Wine; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Amanda",
+                "rank": 1,
+                "lastname": "HESSER"
+            }
+        ],
+        "original": "By AMANDA HESSER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fbd38eb7c8105d75a3f7",
+    "word_count": 2110,
+    "slideshow_credits": null
+}

@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/26/us/plane-crash-findings-pose-questions.html",
+    "snippet": "An inquiry into a fatal airplane crash in California on Wednesday has already yielded findings that raise safety questions about small companies that fly passengers for recreational purposes, a Federal investigator said today.   Sixteen people, in...",
+    "lead_paragraph": "An inquiry into a fatal airplane crash in California on Wednesday has already yielded findings that raise safety questions about small companies that fly passengers for recreational purposes, a Federal investigator said today. Sixteen people, including the pilot, died when the twin-engine plane, loaded with sky divers, crashed on takeoff from rural Perris Valley Airport, about 60 miles southeast of Los Angeles. The other six people aboard the plane were injured.",
+    "abstract": null,
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Plane Crash Findings Pose Questions"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL TRANSPORTATION SAFETY BOARD"
+        },
+        {
+            "name": "subject",
+            "value": "PERRIS VALLEY AIRPORT (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVATE AIRCRAFT"
+        }
+    ],
+    "pub_date": "1992-04-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr",
+                "firstname": "John",
+                "middlename": "H.",
+                "lastname": "CUSHMAN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By JOHN H. CUSHMAN Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ced88eb7c8105d7071a1",
+    "word_count": 658,
+    "slideshow_credits": null
+}

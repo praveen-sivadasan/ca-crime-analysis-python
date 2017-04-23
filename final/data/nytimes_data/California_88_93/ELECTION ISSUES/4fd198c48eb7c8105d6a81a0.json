@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/23/opinion/in-the-nation-the-megastate-scene.html",
+    "snippet": "Leaks have been the bane of politicians from George Washington to Richard Nixon, who commissioned the White House plumbers to stanch them. But few leaks ever have presented a greater    sub rosa    threat than the one just weathered by California'...",
+    "lead_paragraph": "Leaks have been the bane of politicians from George Washington to Richard Nixon, who commissioned the White House plumbers to stanch them. But few leaks ever have presented a greater sub rosa threat than the one just weathered by California's new Governor, Pete Wilson. For five years, this state has been in the grip of a drought so severe that its innumerable inhabitants have had to accept strict limitations on water usage, on pain of severe penalties. Even San Francisco's Mayor, Art Agnos, was soaked $13.91 in February fines and $9.50 for January because his family drained off about 90 gallons a day more than its allotment.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Megastate Scene",
+        "kicker": "IN THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        }
+    ],
+    "pub_date": "1991-03-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tom",
+                "rank": 1,
+                "lastname": "Wicker"
+            }
+        ],
+        "original": "By Tom Wicker"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd198c48eb7c8105d6a81a0",
+    "word_count": 796,
+    "slideshow_credits": null
+}

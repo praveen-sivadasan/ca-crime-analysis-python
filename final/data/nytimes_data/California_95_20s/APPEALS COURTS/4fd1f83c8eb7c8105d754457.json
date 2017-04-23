@@ -1,0 +1,80 @@
+{
+    "web_url": "https://www.nytimes.com/1997/04/09/us/federal-appeals-court-upholds-california-s-ban-on-preferences.html",
+    "snippet": "A Federal appeals court here upheld the constitutionality of California's Proposition 209 today, ruling that the voters were well within their rights to ban the use of racial and sex-based preferences in affirmative-action programs run by the stat...",
+    "lead_paragraph": "A Federal appeals court here upheld the constitutionality of California's Proposition 209 today, ruling that the voters were well within their rights to ban the use of racial and sex-based preferences in affirmative-action programs run by the state. The unanimous decision by a three-judge panel of the United States Court of Appeals for the Ninth Circuit overturned an injunction issued by a Federal District Court judge to block the implementation of the ballot measure shortly after its approval in November.",
+    "abstract": "Federal appeals court upholds constitutionality of California's Proposition 209, ruling that voters were within their rights to ban use of racial and sex-based preferences in affirmative-action programs run by state; unanimous decision overturns injunction issued by Federal District Court Judge Thelton E Henderson to block implementation of ballot measure after its approval in Nov; ruling could allow Proposition 209 to take effect in 21 days; Pres Clinton says supporters of affirmative action will have to 'regroup and find new ways to achieve the same objective'; photo (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Federal Appeals Court Upholds California's Ban on Preferences"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HENDERSON, THELTON E"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "APPEALS COURTS"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 209 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1997-04-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f83c8eb7c8105d754457",
+    "word_count": 1085,
+    "slideshow_credits": null
+}

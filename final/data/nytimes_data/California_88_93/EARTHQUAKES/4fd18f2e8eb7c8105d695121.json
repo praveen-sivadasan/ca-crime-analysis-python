@@ -1,0 +1,47 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/california-quake-glimpses-collapsed-building-heroism-promise-cup-coffee.html",
+    "snippet": "LEAD: ''Don't leave me - I don't want to die in here,'' a woman cried out to a San Francisco firefighter while trapped in a collapsed three-story apartment building about half an hour after the earthquake hit here Tuesday afternoon....",
+    "lead_paragraph": "LEAD: ''Don't leave me - I don't want to die in here,'' a woman cried out to a San Francisco firefighter while trapped in a collapsed three-story apartment building about half an hour after the earthquake hit here Tuesday afternoon.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In a Collapsed Building, Heroism and the Promise of a Cup of Coffee",
+        "kicker": "THE CALIFORNIA QUAKE: GLIMPSES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18f2e8eb7c8105d695121",
+    "word_count": 1180,
+    "slideshow_credits": null
+}

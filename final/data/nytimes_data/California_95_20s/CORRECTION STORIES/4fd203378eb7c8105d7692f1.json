@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/22/nyregion/c-corrections-938998.html",
+    "snippet": "A report in the Political Briefing Column on Thursday about the endorsement of Senator John McCain by California's secretary of state, Bill Jones, referred incorrectly to his victory in 1998. It was not the only one by a Republican in statewide el...",
+    "lead_paragraph": "A report in the Political Briefing Column on Thursday about the endorsement of Senator John McCain by California's secretary of state, Bill Jones, referred incorrectly to his victory in 1998. It was not the only one by a Republican in statewide elections; the insurance commissioner, Charles Quackenbush, also won.",
+    "abstract": "Correction of February 17 Political Briefing Column on endorsement of Sen John McCain by California secretary of state Bill Jones",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "JONES, BILL T"
+        },
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "ENDORSEMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "2000-02-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd203378eb7c8105d7692f1",
+    "word_count": 49,
+    "slideshow_credits": null
+}

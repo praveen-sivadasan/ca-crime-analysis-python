@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1996/09/01/us/california-jet-crash-led-to-sweeping-changes.html",
+    "snippet": "Terror fell from the sky just before noon that Sunday in 1986. Fire, airplane parts and bodies dropped on people's homes.    The crash of Aeromexico Flight 498 changed the face of a neighborhood and changed the way people fly....",
+    "lead_paragraph": "Terror fell from the sky just before noon that Sunday in 1986. Fire, airplane parts and bodies dropped on people's homes. The crash of Aeromexico Flight 498 changed the face of a neighborhood and changed the way people fly.",
+    "abstract": "82 people died when Aeromexico jetliner collided with small plane as it approached Los Angeles International Airport on Aug 31, 1986; National Transportation Safety Board concluded that flaws in air traffic control system had caused crash; 70 lawsuits were filed over crash, then consolidated; plaintiffs got total of $56.5 million (M)",
+    "print_page": "37",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Jet Crash Led to Sweeping Changes"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL TRANSPORTATION SAFETY BOARD"
+        },
+        {
+            "name": "organizations",
+            "value": "AEROMEXICO"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "LOS ANGELES INTERNATIONAL AIRPORT"
+        },
+        {
+            "name": "subject",
+            "value": "AIR TRAFFIC CONTROL"
+        }
+    ],
+    "pub_date": "1996-09-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1cccb8eb7c8105d70342f",
+    "word_count": 380,
+    "slideshow_credits": null
+}

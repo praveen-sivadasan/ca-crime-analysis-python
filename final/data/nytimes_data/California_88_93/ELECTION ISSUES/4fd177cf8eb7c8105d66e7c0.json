@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/24/opinion/has-bush-lost-california.html",
+    "snippet": "LEAD: Picture Vice President Bush campaigning in California later this year. Silent, well-dressed witnesses carrying placards move to the front of the crowd at every stop. They carry silhouettes shaped like offshore oil platforms and long-armed ca...",
+    "lead_paragraph": "LEAD: Picture Vice President Bush campaigning in California later this year. Silent, well-dressed witnesses carrying placards move to the front of the crowd at every stop. They carry silhouettes shaped like offshore oil platforms and long-armed cactuses. These images, and Dukakis television spots reinforcing them, reach millions of television viewers, reminding them that Mr.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Has Bush Lost California?"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        }
+    ],
+    "pub_date": "1988-05-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Paul",
+                "middlename": "J.",
+                "lastname": "Growald",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Paul J. Growald; Paul J. Growald is a cable television executive who serves as northern California vice president of the California League of Conservation Voters"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd177cf8eb7c8105d66e7c0",
+    "word_count": 1110,
+    "slideshow_credits": null
+}

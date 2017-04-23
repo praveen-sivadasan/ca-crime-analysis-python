@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/15/business/rescue-of-insurer-advances.html",
+    "snippet": "California insurance regulators said today that they had removed one of the last hurdles to their plan to rescue the failed Executive Life Insurance Company by settling a tax dispute with the Internal Revenue Service.   The I.R.S. had filed a clai...",
+    "lead_paragraph": "California insurance regulators said today that they had removed one of the last hurdles to their plan to rescue the failed Executive Life Insurance Company by settling a tax dispute with the Internal Revenue Service. The I.R.S. had filed a claim against Executive Life last year for $643 million in a dispute over the insurer's taxes for 1981 through 1983. It left open the possibility that it might file further claims for subsequent years. But John Garamendi, the California Insurance Commissioner, said at a news conference here that the I.R.S. had agreed to settle the case for $73 million and that the settlement covered all years from 1981 through 1990.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rescue of Insurer Advances"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERNAL REVENUE SERVICE"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        }
+    ],
+    "pub_date": "1992-01-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b3618eb7c8105d6d6e44",
+    "word_count": 283,
+    "slideshow_credits": null
+}

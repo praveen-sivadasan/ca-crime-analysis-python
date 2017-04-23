@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/16/business/california-home-buyers-squeezed.html",
+    "snippet": "LEAD: With home prices surging in California, the shortage of affordable housing is becoming an increasingly important social and economic issue in the nation's most populous state....",
+    "lead_paragraph": "LEAD: With home prices surging in California, the shortage of affordable housing is becoming an increasingly important social and economic issue in the nation's most populous state.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Home Buyers Squeezed"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        }
+    ],
+    "pub_date": "1988-08-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17f898eb7c8105d67ad10",
+    "word_count": 1544,
+    "slideshow_credits": null
+}

@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1995/11/19/sports/sports-people-baseball-larsen-and-wife-hurt.html",
+    "snippet": "DON LARSEN, the only pitcher to throw a perfect game in the World Series, and his wife were in stable condition in a Northern California hospital yesterday after a 30-vehicle accident in which one person died. Mercy Medical Center in Shasta would ...",
+    "lead_paragraph": "DON LARSEN, the only pitcher to throw a perfect game in the World Series, and his wife were in stable condition in a Northern California hospital yesterday after a 30-vehicle accident in which one person died. Mercy Medical Center in Shasta would not disclose the nature of the injuries to Larsen, 66, and his wife, CORRINE LARSEN, 64.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Larsen and Wife Hurt",
+        "kicker": "SPORTS PEOPLE: BASEBALL"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LARSEN, DON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BASEBALL"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1995-11-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d4cf8eb7c8105d71267b",
+    "word_count": 101,
+    "slideshow_credits": null
+}

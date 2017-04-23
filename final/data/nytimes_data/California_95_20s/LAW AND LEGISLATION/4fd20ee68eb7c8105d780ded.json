@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1997/04/12/us/federal-judge-supports-california-doctors-on-marijuana-issue.html",
+    "snippet": "A Federal district judge here today barred the Clinton Administration from taking action to punish doctors in California who recommended marijuana to their patients under a new state law.    The restraining order, issued by Judge Fern M. Smith, wi...",
+    "lead_paragraph": "A Federal district judge here today barred the Clinton Administration from taking action to punish doctors in California who recommended marijuana to their patients under a new state law. The restraining order, issued by Judge Fern M. Smith, will at least temporarily stop the Federal Government's effort to undermine the California law by threatening to prosecute or strip the prescription licenses of doctors who endorse the medical use of the drug.",
+    "abstract": "Federal court in San Francisco bars Clinton Administration from penalizing doctors who recommend marijuana to patients under new state law; Judge Fern M Smith orders two sides to try to work out settlement (S)",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Federal Judge Supports California Doctors on Marijuana Issue"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "SMITH, FERN M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DOCTORS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "MARIJUANA"
+        }
+    ],
+    "pub_date": "1997-04-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20ee68eb7c8105d780ded",
+    "word_count": 819,
+    "slideshow_credits": null
+}

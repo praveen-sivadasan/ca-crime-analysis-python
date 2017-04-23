@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/29/us/2000-campaign-disappearing-debate-mccain-putting-bush-leaning-california.html",
+    "snippet": "To Californians, it was all a little baffling. Why would Senator John McCain pull out of the only Republican debate scheduled in the nation's most-populous state the week before the highest-stakes primary on the calendar?    ''I can't fathom it fo...",
+    "lead_paragraph": "To Californians, it was all a little baffling. Why would Senator John McCain pull out of the only Republican debate scheduled in the nation's most-populous state the week before the highest-stakes primary on the calendar? ''I can't fathom it for a moment,'' said Zev Yaroslavsky, a Democrat on the Los Angeles County Board of Supervisors. ''It's been promoted quite a bit already, and to me, even though it's in California, it's a national debate. McCain must feel he has a darned good reason for pulling out of what is the last debate before Super Tuesday. But I don't get it.''",
+    "abstract": "Republican presidential candidate Sen John McCain pulls out of only Republican debate scheduled in California next week before highest-stakes primary, baffling and catching everyone by surprise and causing dissension in his campaign (M)",
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "McCain Putting Bush-Leaning California in Rearview Mirror",
+        "kicker": "THE 2000 CAMPAIGN: THE DISAPPEARING DEBATE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "DEBATING"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-02-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Peter",
+                "rank": 1,
+                "lastname": "MARKS"
+            }
+        ],
+        "original": "By PETER MARKS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2377b8eb7c8105d7ca44d",
+    "word_count": 675,
+    "slideshow_credits": null
+}

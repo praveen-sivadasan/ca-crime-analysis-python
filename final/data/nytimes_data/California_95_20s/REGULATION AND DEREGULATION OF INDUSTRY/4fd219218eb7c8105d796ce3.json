@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1998/10/25/business/a-california-vote-could-rewrite-us-electric-bills.html",
+    "snippet": "AS political rallies go, it wasn't much: a knot of about 20 people standing in front of a Pacific Gas and Electric Company office in this small city about 90 miles north of Sacramento. Passers-by ignored the signs they waved, placards that support...",
+    "lead_paragraph": "AS political rallies go, it wasn't much: a knot of about 20 people standing in front of a Pacific Gas and Electric Company office in this small city about 90 miles north of Sacramento. Passers-by ignored the signs they waved, placards that supported a proposition on the California ballot on Nov. 3 intended to upend deregulation of the state's utilities and sharply cut electric rates for residential and small-commercial customers. But television crews from two local stations recorded the event, and the activists who organized it welcomed the free publicity for their cause.",
+    "abstract": "Article on effort by Consumers Union and other groups to persuade California voters to pass Proposition 9, which would upend electric utility regulation and sharply cut rates for residential and small-commercial customers; photos; graphs (L)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A California Vote Could Rewrite U.S. Electric Bills"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CONSUMERS UNION"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-10-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Money and Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Agis",
+                "rank": 1,
+                "lastname": "SALPUKAS"
+            }
+        ],
+        "original": "By AGIS SALPUKAS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd219218eb7c8105d796ce3",
+    "word_count": 2642,
+    "slideshow_credits": null
+}

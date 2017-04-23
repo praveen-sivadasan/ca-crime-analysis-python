@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1996/03/06/us/california-governor-sues-us-for-cost-of-imprisoning-aliens.html",
+    "snippet": "Stepping up his battle with the Clinton Administration over the politically charged issue of illegal immigration, Gov. Pete Wilson of California today sued  the Federal Government for failing to reimburse his state for the costs of incarcerating u...",
+    "lead_paragraph": "Stepping up his battle with the Clinton Administration over the politically charged issue of illegal immigration, Gov. Pete Wilson of California today sued the Federal Government for failing to reimburse his state for the costs of incarcerating undocumented aliens who have been convicted of felonies. The suit, filed in United States District Court for the District of Columbia, asserts that the Administration has refused to abide by a 1994 Federal law requiring the Government either to reimburse states for the costs of housing criminal aliens or take custody of them.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Governor Sues U.S. For Cost of Imprisoning Aliens"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGALALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        }
+    ],
+    "pub_date": "1996-03-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Steven",
+                "middlename": "A.",
+                "lastname": "HOLMES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By STEVEN A. HOLMES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c7848eb7c8105d6f9684",
+    "word_count": 718,
+    "slideshow_credits": null
+}

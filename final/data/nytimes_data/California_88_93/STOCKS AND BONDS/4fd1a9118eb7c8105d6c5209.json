@@ -1,0 +1,81 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/12/business/california-seizes-insurer-burdened-with-junk-bonds.html",
+    "snippet": "In the largest failure of an insurer, California regulators seized control today of the Executive Life Insurance Company, which had been among the heaviest buyers of high-risk \"junk bonds\" in the last decade under its high-flying chief executive, ...",
+    "lead_paragraph": "In the largest failure of an insurer, California regulators seized control today of the Executive Life Insurance Company, which had been among the heaviest buyers of high-risk \"junk bonds\" in the last decade under its high-flying chief executive, Fred Carr. John Garamendi, the California insurance commissioner, said the state had taken over the management of Executive Life because the company was in hazardous condition, primarily because of defaults and declining values in its huge portfolio of junk bonds.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA SEIZES INSURER BURDENED WITH 'JUNK BONDS'"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MILKEN, MICHAEL R"
+        },
+        {
+            "name": "persons",
+            "value": "CARR, FRED"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST EXECUTIVE CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "DREXEL BURNHAM LAMBERT INC"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+        }
+    ],
+    "pub_date": "1991-04-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Front Page; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9118eb7c8105d6c5209",
+    "word_count": 1524,
+    "slideshow_credits": null
+}

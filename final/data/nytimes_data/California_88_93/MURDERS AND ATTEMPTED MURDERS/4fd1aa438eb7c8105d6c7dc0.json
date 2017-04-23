@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/08/us/court-in-los-angeles-gives-night-stalker-death-in-13-killings.html",
+    "snippet": "LEAD: Richard Ramirez, who killed 13 people in the ''Night Stalker'' attacks that terrorized Southern California in 1985, was sentenced today to death in the gas chamber....",
+    "lead_paragraph": "LEAD: Richard Ramirez, who killed 13 people in the ''Night Stalker'' attacks that terrorized Southern California in 1985, was sentenced today to death in the gas chamber.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Court in Los Angeles Gives 'Night Stalker' Death in 13 Killings"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "RAMIREZ, RICHARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        }
+    ],
+    "pub_date": "1989-11-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aa438eb7c8105d6c7dc0",
+    "word_count": 330,
+    "slideshow_credits": null
+}

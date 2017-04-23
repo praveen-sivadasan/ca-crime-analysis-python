@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/08/business/supermarket-merger-deal.html",
+    "snippet": "LEAD: The California State Attorney General, John Van de Kamp, announced an agreement today with American Stores to modify a court order blocking the merger of the Alpha Beta and Lucky grocery store chains while he pursues an antitrust challenge t...",
+    "lead_paragraph": "LEAD: The California State Attorney General, John Van de Kamp, announced an agreement today with American Stores to modify a court order blocking the merger of the Alpha Beta and Lucky grocery store chains while he pursues an antitrust challenge to the merger. The United States Supreme Court agreed last month to hear that challenge.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Supermarket Merger Deal"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALPHA BETA CO"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN STORES CO"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        }
+    ],
+    "pub_date": "1989-11-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9718eb7c8105d6c622a",
+    "word_count": 295,
+    "slideshow_credits": null
+}

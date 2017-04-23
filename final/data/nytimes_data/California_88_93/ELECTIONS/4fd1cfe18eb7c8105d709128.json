@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/31/us/1992-campaign-congressional-races-gop-looks-california-sees-house-bonanza.html",
+    "snippet": "California voters will pick the political warriors for the critical battle of the 1992 Congressional elections on Tuesday when they choose among a record 373 hopefuls for the state's 52 House seats.    If Republicans can avoid destroying their mos...",
+    "lead_paragraph": "California voters will pick the political warriors for the critical battle of the 1992 Congressional elections on Tuesday when they choose among a record 373 hopefuls for the state's 52 House seats. If Republicans can avoid destroying their most electable candidates in these primaries, they could use this state in November to secure ideological dominance of the House. They might even challenge 38 years of formal Democratic control.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Congressional Races; G.O.P. Looks to California And Sees House Bonanza"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1992-05-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "CLYMER"
+            }
+        ],
+        "original": "By ADAM CLYMER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cfe18eb7c8105d709128",
+    "word_count": 1004,
+    "slideshow_credits": null
+}

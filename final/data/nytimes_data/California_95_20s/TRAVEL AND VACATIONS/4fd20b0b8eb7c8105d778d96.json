@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1998/08/16/travel/in-the-footsteps-of-the-49ers.html",
+    "snippet": "HUMANS have lived in what is now California for at least 7,000 years, and the land they live on was formed over a few million years of geologic time. But modern California -- the boisterous, roiling, polyglot place of dreams that so fills the Amer...",
+    "lead_paragraph": "HUMANS have lived in what is now California for at least 7,000 years, and the land they live on was formed over a few million years of geologic time. But modern California -- the boisterous, roiling, polyglot place of dreams that so fills the American imagination -- was born on the morning of Jan. 24, 1848, at a sawmill on the South Fork of the American River in the foothills of the Sierra Nevada. ''This day some kind of mettle was found in the tail race that looks like goald,'' Henry Bigler, a Mormon worker at the mill, wrote in his diary. And from the moment that Bigler's boss, an itinerant carpenter named James Marshall, found two tiny nuggets, the first one about half the size and shape of a pea, in the water channel of the mill owned by John Sutter, nothing was ever the same.",
+    "abstract": "Todd S Purdum travel article on trip through central California to old gold-mining towns; photos; map (M)",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In the Footsteps of the 49ers"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MINES AND MINING"
+        },
+        {
+            "name": "subject",
+            "value": "GOLD"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+        }
+    ],
+    "pub_date": "1998-08-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Travel",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20b0b8eb7c8105d778d96",
+    "word_count": 2990,
+    "slideshow_credits": null
+}

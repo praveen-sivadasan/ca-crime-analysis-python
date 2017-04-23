@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/2000/04/17/us/entrepreneur-pushes-plan-to-fix-california-schools.html",
+    "snippet": "In Timothy Draper's world, change occurs at a breakneck pace. A billionaire venture capitalist, he finances Internet start-ups that grow from business plan to public company in mere months. He came up with the concept of ''viral marketing,'' insta...",
+    "lead_paragraph": "In Timothy Draper's world, change occurs at a breakneck pace. A billionaire venture capitalist, he finances Internet start-ups that grow from business plan to public company in mere months. He came up with the concept of ''viral marketing,'' instantaneously circulating advertisements by e-mail the world over. In Silicon Valley, the pace is known as Internet time. So it is no surprise that Mr. Draper wants to transform overnight an institution that has long been dragged down by myriad problems: California's school system.",
+    "abstract": "Timothy Draper, billionaire venture capitalist, wants to transform California's school system; he has spent $2 million to try to get nation's most far-reaching school voucher plan onto November ballot; under it, parents would be eligible for $4,000 a year per child for tuition at private schools, including parochial schools; he calls public education 'socialistic' and advocates free-market solutions; says his plan would empower parents to act as consumers shopping for best education possible for their children; critics call his plan drastic and simplistic solution to difficult problems; photo (M)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Entrepreneur Pushes Plan To Fix California Schools"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DRAPER, TIMOTHY C"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVATE AND SECTARIAN SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "VOUCHERS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "2000-04-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matt",
+                "rank": 1,
+                "lastname": "RICHTEL"
+            }
+        ],
+        "original": "By MATT RICHTEL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f58e8eb7c8105d74f63b",
+    "word_count": 1037,
+    "slideshow_credits": null
+}

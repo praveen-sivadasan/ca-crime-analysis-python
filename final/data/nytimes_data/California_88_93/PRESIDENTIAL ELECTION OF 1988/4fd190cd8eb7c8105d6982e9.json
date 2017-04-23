@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/16/us/bush-presses-issue-of-rival-s-liberalism.html",
+    "snippet": "LEAD: Vice President Bush courted swing voters in California's Central Valley today by arguing that liberalism had lost faith in the American people....",
+    "lead_paragraph": "LEAD: Vice President Bush courted swing voters in California's Central Valley today by arguing that liberalism had lost faith in the American people.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bush Presses Issue of Rival's Liberalism"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "LASORDA, TOMMY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        }
+    ],
+    "pub_date": "1988-10-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By GERALD M. BOYD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190cd8eb7c8105d6982e9",
+    "word_count": 812,
+    "slideshow_credits": null
+}

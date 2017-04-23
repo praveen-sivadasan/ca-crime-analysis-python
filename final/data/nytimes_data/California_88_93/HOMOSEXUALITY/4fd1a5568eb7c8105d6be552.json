@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/23/us/months-after-order-on-gay-ban-military-is-still-resisting-clinton.html",
+    "snippet": "Two months after President Clinton ordered the Pentagon to prepare an executive order lifting the ban on homosexuals in the military, little work has been done, senior Congressional and Defense Department officials say.   In fact, these officials ...",
+    "lead_paragraph": "Two months after President Clinton ordered the Pentagon to prepare an executive order lifting the ban on homosexuals in the military, little work has been done, senior Congressional and Defense Department officials say. In fact, these officials say, some steps have been taken to undermine the order. The Navy is showing lawmakers a commander's sworn statement describing the disruption caused by a gay sailor's presence at a California naval base. And an Army panel studying the effect of lifting the ban is warning that doing so could hurt recruiting so badly that the military might have to return to the draft.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Months After Order on Gay Ban, Military Is Still Resisting Clinton"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "MEINHOLD, KEITH"
+        },
+        {
+            "name": "persons",
+            "value": "MARKWELL, GREGORY"
+        },
+        {
+            "name": "persons",
+            "value": "ASPIN, LES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE COMMITTEE ON ARMED SERVICES"
+        },
+        {
+            "name": "subject",
+            "value": "NAVIES"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1993-03-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 1,
+                "lastname": "SCHMITT"
+            }
+        ],
+        "original": "By ERIC SCHMITT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a5568eb7c8105d6be552",
+    "word_count": 1133,
+    "slideshow_credits": null
+}

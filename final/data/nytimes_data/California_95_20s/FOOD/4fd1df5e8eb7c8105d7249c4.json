@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1996/03/06/business/company-news-ralphs-grocery-to-lay-off-about-1000-workers.html",
+    "snippet": "The Ralphs Grocery Company said it would lay off about 1,000 workers, most of them part-time clerks, cashiers and meat cutters, in the next 10 days at its supermarkets in Southern California. Ralphs, the region's biggest grocer, has 26,000 employe...",
+    "lead_paragraph": "The Ralphs Grocery Company said it would lay off about 1,000 workers, most of them part-time clerks, cashiers and meat cutters, in the next 10 days at its supermarkets in Southern California. Ralphs, the region's biggest grocer, has 26,000 employees. The company said the job cuts were adjustments stemming from its merger with the Food 4 Less chain last year. Regulators ordered that 27 stores be sold for antitrust reasons after the merger and the company decided to close another 28. That cut part-time workers' hours from an average 31 hours a week to 25.5 a week, Ralphs said. But for those part-time workers who remain, the number of hours a week are expected to increase.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "RALPHS GROCERY TO LAY OFF ABOUT 1,000 WORKERS",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "RALPHS GROCERY CO"
+        },
+        {
+            "name": "subject",
+            "value": "SUPERMARKETS"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS AND JOB REDUCTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        }
+    ],
+    "pub_date": "1996-03-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1df5e8eb7c8105d7249c4",
+    "word_count": 118,
+    "slideshow_credits": null
+}

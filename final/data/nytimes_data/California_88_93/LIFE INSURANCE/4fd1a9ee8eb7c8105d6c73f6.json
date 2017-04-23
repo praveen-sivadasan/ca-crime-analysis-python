@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/06/business/shearson-plan-for-insurer.html",
+    "snippet": "Shearson Lehman Brothers is negotiating with California insurance regulators, trying to head off a potential failure of the First Capital Life Insurance Company, which has more investments in \"junk bonds\" than any other insurer still operating, pe...",
+    "lead_paragraph": "Shearson Lehman Brothers is negotiating with California insurance regulators, trying to head off a potential failure of the First Capital Life Insurance Company, which has more investments in \"junk bonds\" than any other insurer still operating, people who have been briefed on the talks said yesterday. Shearson is the largest seller on Wall Street of First Capital's policies and owns 28 percent of the company, whose parent is based in Los Angeles. It is expected to offer two different approaches, either taking over the management of the insurer's portfolio, guaranteeing more than $2 billion that backs the policies, or buying back all the universal life policies that Shearson sold. Meeting With Commissioner That offer is expected to be discussed today when Howard Clark Jr., the chairman and chief executive of Shearson, meets in Manhattan with John Garamendi, California's first elected Insurance Commissioner. A spokesman for Shearson declined to comment yesterday. Calls to the California Insurance Department and First Capital were not answered yesterday.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Shearson Plan for Insurer"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST CAPITAL LIFE INSURANCE CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SHEARSON LEHMAN BROTHERS"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "CORPORATE BONDS"
+        }
+    ],
+    "pub_date": "1991-05-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kurt",
+                "rank": 1,
+                "lastname": "EICHENWALD"
+            }
+        ],
+        "original": "By KURT EICHENWALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9ee8eb7c8105d6c73f6",
+    "word_count": 820,
+    "slideshow_credits": null
+}

@@ -1,0 +1,85 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/29/us/the-california-fires-firefighters-gain-footholds-amid-ashes.html",
+    "snippet": "With a merciful slackening of winds and cooler air, fire crews began to gain some advantage today over 17 ruinous wildfires across Southern California. But they were in a desperate race against time before the hot Santa Ana winds pick up again thi...",
+    "lead_paragraph": "With a merciful slackening of winds and cooler air, fire crews began to gain some advantage today over 17 ruinous wildfires across Southern California. But they were in a desperate race against time before the hot Santa Ana winds pick up again this weekend. By this evening, the fires had consumed 135,000 acres, and 6,500 firefighters drawn from throughout the West battled to keep fire lines intact. The inferno that damaged or destroyed 330 homes in Laguna Beach was contained by this evening, but a fire in Altadena, which has scorched more than 5,000 acres and engulfed 115 homes northwest of downtown Los Angeles, remains out of control.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Firefighters Gain Footholds Amid Ashes",
+        "kicker": "THE CALIFORNIA FIRES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN DIEGO COUNTY (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "ORANGE COUNTY (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "RIVERSIDE COUNTY (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "VENTURA COUNTY (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "LOS ANGELES COUNTY (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "ALTADENA (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "LAGUNA BEACH (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        },
+        {
+            "name": "subject",
+            "value": "WIND"
+        }
+    ],
+    "pub_date": "1993-10-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bd448eb7c8105d6e9f69",
+    "word_count": 1527,
+    "slideshow_credits": null
+}

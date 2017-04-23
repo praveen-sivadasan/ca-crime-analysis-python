@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/27/weekinreview/the-nation-california-expects-hispanic-voters-to-transform-politics.html",
+    "snippet": "WHEN voters in the 1st District of Los Angeles go back to the polls next month for a runoff in the county supervisor's race, they will choose between one of two Hispanic candidates. In so doing, they will begin what advocates expect to be a decade...",
+    "lead_paragraph": "WHEN voters in the 1st District of Los Angeles go back to the polls next month for a runoff in the county supervisor's race, they will choose between one of two Hispanic candidates. In so doing, they will begin what advocates expect to be a decade of Hispanic electoral empowerment in California that is being compared to the emergence of black political power in the South. Analysts are predicting that political and other efforts to gain a voice for the state's growing Hispanic population, now more than one-fourth of the total, will result in the election of 300 to 400 Hispanic candidates to office statewide by the end of the decade. Currently, Hispanic officials hold 7 percent of elective offices in California.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Nation; California Expects Hispanic Voters To Transform Politics"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1991-01-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week In Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197e38eb7c8105d6a6484",
+    "word_count": 931,
+    "slideshow_credits": null
+}

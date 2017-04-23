@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/24/us/the-california-quake-puzzling-pattern-of-the-quake-may-hurt-ability-to-predict.html",
+    "snippet": "LEAD: The California earthquake has presented scientists with a puzzle, one that has left some of them wondering whether probability estimates of future quakes are too low....",
+    "lead_paragraph": "LEAD: The California earthquake has presented scientists with a puzzle, one that has left some of them wondering whether probability estimates of future quakes are too low.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Puzzling Pattern of the Quake May Hurt Ability to Predict",
+        "kicker": "THE CALIFORNIA QUAKE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        }
+    ],
+    "pub_date": "1989-10-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9698eb7c8105d6c5c12",
+    "word_count": 1071,
+    "slideshow_credits": null
+}

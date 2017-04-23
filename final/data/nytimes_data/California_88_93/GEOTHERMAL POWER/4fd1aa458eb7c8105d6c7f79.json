@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/31/science/drillers-seek-rich-energy-source-at-site-of-ancient-volcanic-blast.html",
+    "snippet": "LEAD: IN the hope of verifying the existence of a vast reservoir of useful, nonpolluting energy, scientists are drilling into a dome of California rock where one of the most violent volcanic explosions in earth's history occurred....",
+    "lead_paragraph": "LEAD: IN the hope of verifying the existence of a vast reservoir of useful, nonpolluting energy, scientists are drilling into a dome of California rock where one of the most violent volcanic explosions in earth's history occurred.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Drillers Seek Rich Energy Source At Site of Ancient Volcanic Blast"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SANDIA NATIONAL LABORATORIES"
+        },
+        {
+            "name": "subject",
+            "value": "GEOTHERMAL POWER"
+        },
+        {
+            "name": "subject",
+            "value": "VOLCANOES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "1989-10-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Malcolm",
+                "middlename": "W.",
+                "lastname": "BROWNE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MALCOLM W. BROWNE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aa458eb7c8105d6c7f79",
+    "word_count": 931,
+    "slideshow_credits": null
+}

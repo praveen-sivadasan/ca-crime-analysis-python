@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1996/09/13/us/clinton-sows-a-little-and-reaps-a-lot-in-california.html",
+    "snippet": "President Clinton swooped down on California today both bearing and seeking gifts, offering a daytime dollop of new Federal money to help communities start innovative schools and raising a nighttime nest egg for the Democratic Party with a little ...",
+    "lead_paragraph": "President Clinton swooped down on California today both bearing and seeking gifts, offering a daytime dollop of new Federal money to help communities start innovative schools and raising a nighttime nest egg for the Democratic Party with a little help from the stars. This was Mr. Clinton's 27th visit to the vote-rich valleys of the Golden State in his 45 months in office, through flood, fire, earthquake and air-base closings that have caused him to dispense all manner of Government aid. And he showed once again that when it comes to California's 54 electoral votes and five major media markets, no need is beneath his notice.",
+    "abstract": "Pres Clinton swoops down on California, both bearing and seeking gifts; this is his 27th visit to vote-rich state in his 45 months in office; photo (M)",
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Clinton Sows a Little and Reaps a Lot in California",
+        "kicker": "POLITICS: THE DEMOCRAT"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-09-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f3888eb7c8105d74bca0",
+    "word_count": 550,
+    "slideshow_credits": null
+}

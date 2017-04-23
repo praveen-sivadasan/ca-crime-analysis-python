@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1996/06/30/arts/the-place-genial-chaos-calls-home.html",
+    "snippet": "STEALING FROM OSCAR WILDE, Igor Stravinsky once famously announced that music is powerless to express anything but itself. Musical meanings are, indeed, fabulously vague, particularly if one seeks social verities.    But sometimes music manages to...",
+    "lead_paragraph": "STEALING FROM OSCAR WILDE, Igor Stravinsky once famously announced that music is powerless to express anything but itself. Musical meanings are, indeed, fabulously vague, particularly if one seeks social verities. But sometimes music manages to communicate a mysteriously exact sense of place. A sense of music positioned in space -- music belonging -- hovered over the San Francisco Symphony's astonishing, perplexing, often thrilling festival of American music, which ended yesterday in Davies Symphony Hall. Nothing like it could have happened anywhere else.",
+    "abstract": "Alex Ross article on the avant-garde music scene in California; comments on San Francisco Symphony's recent festival of American music, where composer Henry Cowell was heavily represented and members of the Greatful Dead jammed with the orchestra; Cowell photo (M)",
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Place Genial Chaos Calls Home",
+        "kicker": "CLASSICAL VIEW"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN FRANCISCO SYMPHONY"
+        },
+        {
+            "name": "subject",
+            "value": "MUSIC"
+        },
+        {
+            "name": "subject",
+            "value": "FESTIVALS"
+        },
+        {
+            "name": "subject",
+            "value": "REVIEWS"
+        }
+    ],
+    "pub_date": "1996-06-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Arts and Leisure Desk",
+    "section_name": "Arts",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alex",
+                "rank": 1,
+                "lastname": "Ross"
+            }
+        ],
+        "original": "By Alex Ross"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e4f18eb7c8105d72f9b0",
+    "word_count": 855,
+    "slideshow_credits": null
+}

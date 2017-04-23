@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/20/us/accord-is-reached-on-rescuing-redwood-forests.html",
+    "snippet": "Environmentalists and a representative of California's lumber industry have agreed on proposed legislation that would help save redwood forests from logging and would otherwise restrict timber harvesting in the state.    Such a voluntary agreement...",
+    "lead_paragraph": "Environmentalists and a representative of California's lumber industry have agreed on proposed legislation that would help save redwood forests from logging and would otherwise restrict timber harvesting in the state. Such a voluntary agreement could serve as a national precedent, both in the specifics of forestry regulation and as a way to solve the contentious issues that have divided lumber companies and environmentalists.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Accord Is Reached on Rescuing Redwood Forests"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TIMBER ASSN OF CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SIERRA CLUB"
+        },
+        {
+            "name": "subject",
+            "value": "WOOD AND WOOD PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "REDWOOD TREES"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1991-03-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANDREW POLLACK, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc968eb7c8105d6e86ca",
+    "word_count": 357,
+    "slideshow_credits": null
+}

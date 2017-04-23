@@ -1,0 +1,33 @@
+{
+    "web_url": "https://www.nytimes.com/1990/07/12/opinion/l-what-california-has-isn-t-gerrymandering-754390.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "What California Has Isn't Gerrymandering"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GERRYMANDERING"
+        }
+    ],
+    "pub_date": "1990-07-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd198128eb7c8105d6a6ecc",
+    "word_count": 269,
+    "slideshow_credits": null
+}

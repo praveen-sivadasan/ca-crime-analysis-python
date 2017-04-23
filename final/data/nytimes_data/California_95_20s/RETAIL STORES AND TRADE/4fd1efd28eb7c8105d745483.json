@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1999/11/03/business/company-news-macerich-sells-shopping-malls-to-joint-venture.html",
+    "snippet": "Macerich Inc. sold three of its California shopping malls yesterday to a joint venture it formed with Ontario Teachers Pension Plan Board for about $535 million, cutting its debt load. Separately, the company, a real estate investment trust based ...",
+    "lead_paragraph": "Macerich Inc. sold three of its California shopping malls yesterday to a joint venture it formed with Ontario Teachers Pension Plan Board for about $535 million, cutting its debt load. Separately, the company, a real estate investment trust based in Santa Monica, Calif., bought the 560,000-square-foot Santa Monica Place shopping center for $130 million in cash and assumed debt. The seller was the Rouse Company. The three malls Macerich is selling are Lakewood Mall, Stonewood Mall and Los Cerritos Center, all in Los Angeles County. Macerich and Ontario Teachers formed their joint venture in February. Macerich owns a 51 percent stake in the venture, and Ontario Teachers has 49 percent. Macerich said the venture would assume $322 million of debt on the malls.",
+    "abstract": "Macerich Inc sells three of its California shopping malls to joint venture it formed with Ontario Teachers Pension Plan Board for about $535 million, cutting its debt load; company acquires Santa Monica Place shopping center for $130 million in cash and assumed debt; seller is Rouse Co (S)",
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "MACERICH SELLS SHOPPING MALLS TO JOINT VENTURE",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ONTARIO TEACHERS PENSION PLAN BOARD"
+        },
+        {
+            "name": "organizations",
+            "value": "MACERICH CO"
+        },
+        {
+            "name": "organizations",
+            "value": "ROUSE CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "SHOPPING CENTERS"
+        },
+        {
+            "name": "subject",
+            "value": "RETAIL STORES AND TRADE"
+        },
+        {
+            "name": "subject",
+            "value": "SANTA MONICA PLACE SHOPPING CENTER (CALIF)"
+        }
+    ],
+    "pub_date": "1999-11-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1efd28eb7c8105d745483",
+    "word_count": 125,
+    "slideshow_credits": null
+}

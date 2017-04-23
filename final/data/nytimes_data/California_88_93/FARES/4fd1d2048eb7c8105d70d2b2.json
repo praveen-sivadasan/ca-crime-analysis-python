@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/16/business/southwest-air-s-new-push-west.html",
+    "snippet": "The airline industry is only slowly emerging from one of its worst recessions ever, but Southwest Airlines has come through the storm almost intact and with its ambitions undiminished. One of the only leading airlines to report an operating profit...",
+    "lead_paragraph": "The airline industry is only slowly emerging from one of its worst recessions ever, but Southwest Airlines has come through the storm almost intact and with its ambitions undiminished. One of the only leading airlines to report an operating profit last year, the Dallas-based carrier is expediting its push into California and using its tested recipe for growth: short flights, low fares, frequent service, moderate debt and the inspired lunacy of its chief executive, Herbert D. Kelleher. Southwest has little choice but to look west because there is little room to expand in Texas, where it serves 10 airports, and in adjoining states. \"They need a market to grow,\" said Jessica C. Tully, an analyst with Eppler, Guerin & Turner in Dallas. \"Their main thing was Phoenix a few years ago. Now it's California.\"",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Southwest Air's New Push West"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KELLEHER, HERBERT D"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTHWEST AIRLINES CO"
+        },
+        {
+            "name": "subject",
+            "value": "PASSENGER SERVICES"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        },
+        {
+            "name": "subject",
+            "value": "FARES"
+        }
+    ],
+    "pub_date": "1991-06-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Peter",
+                "middlename": "C.",
+                "lastname": "T",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By PETER C. T. ELSWORTH"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d2048eb7c8105d70d2b2",
+    "word_count": 1658,
+    "slideshow_credits": null
+}

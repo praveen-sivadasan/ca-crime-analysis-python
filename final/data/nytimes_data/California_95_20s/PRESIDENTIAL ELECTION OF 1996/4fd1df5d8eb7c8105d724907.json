@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1996/03/22/us/politics-meeting-voters-of-the-future.html",
+    "snippet": null,
+    "lead_paragraph": null,
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Meeting Voters of the Future",
+        "kicker": "POLITICS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUCHANAN, PATRICK J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-03-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd1df5d8eb7c8105d724907",
+    "word_count": 1,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/09/opinion/c-correction-191890.html",
+    "snippet": "LEAD: An editorial yesterday on the California election erroneously described Dianne Feinstein as ''pro-life.'' As the context made clear, she favors the right of women to choose an abortion....",
+    "lead_paragraph": "LEAD: An editorial yesterday on the California election erroneously described Dianne Feinstein as ''pro-life.'' As the context made clear, she favors the right of women to choose an abortion.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Correction"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ABORTION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1990-06-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Corrections; Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1af418eb7c8105d6cf89a",
+    "word_count": 57,
+    "slideshow_credits": null
+}

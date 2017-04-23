@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1999/03/24/business/arco-to-test-a-cleaner-diesel-fuel-on-the-road-in-california.html",
+    "snippet": "The Atlantic Richfield Company says it has developed a cleaner diesel fuel for trucks and other large vehicles that will soon be tested on the road in California, the state that has led the nation in pushing oil companies to develop cleaner-burnin...",
+    "lead_paragraph": "The Atlantic Richfield Company says it has developed a cleaner diesel fuel for trucks and other large vehicles that will soon be tested on the road in California, the state that has led the nation in pushing oil companies to develop cleaner-burning fuels. The new fuel, developed by an ARCO research unit, has reduced sulfur, nitrogen oxides and soot by substantial amounts in limited tests, which are to be broadened in the spring, the company said.",
+    "abstract": "Atlantic Richfield Co reports developing cleaner diesel fuel for trucks and other large vehicles that has reduced sulfur, nitrogen oxides and soot substantially in limited tests; plans broader tests in California (M)",
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "ARCO to Test a Cleaner Diesel Fuel on the Road in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ATLANTIC RICHFIELD CO"
+        },
+        {
+            "name": "subject",
+            "value": "TRUCKS AND TRUCKING"
+        },
+        {
+            "name": "subject",
+            "value": "DIESEL POWER"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        },
+        {
+            "name": "subject",
+            "value": "SOOT"
+        },
+        {
+            "name": "subject",
+            "value": "NITROGEN OXIDE"
+        },
+        {
+            "name": "subject",
+            "value": "SULFUR AND SULFUR COMPOUNDS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1999-03-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Agis",
+                "rank": 1,
+                "lastname": "SALPUKAS"
+            }
+        ],
+        "original": "By AGIS SALPUKAS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21de48eb7c8105d79f388",
+    "word_count": 347,
+    "slideshow_credits": null
+}

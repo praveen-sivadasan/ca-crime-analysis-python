@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/31/opinion/in-the-nation-in-the-land-of-referenda.html",
+    "snippet": "LEAD: Should the California mountain lion be protected from hound dogs and hunters? Should the state spend $30 million a year to buy and preserve habitat for lions, deer and other wildlife?...",
+    "lead_paragraph": "LEAD: Should the California mountain lion be protected from hound dogs and hunters? Should the state spend $30 million a year to buy and preserve habitat for lions, deer and other wildlife?",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In the Land of Referenda",
+        "kicker": "IN THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-05-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tom",
+                "rank": 1,
+                "lastname": "Wicker"
+            }
+        ],
+        "original": "By Tom Wicker"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd197588eb7c8105d6a57da",
+    "word_count": 762,
+    "slideshow_credits": null
+}

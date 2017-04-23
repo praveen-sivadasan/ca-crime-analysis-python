@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/08/us/southern-california-agency-eases-stance-on-air-quality.html",
+    "snippet": "Faced with growing complaints from businesses and politicians that pollution control rules are creating too much of an economic burden, Southern California's air quality authorities say they plan to soften their hard-line approach to enforcing the...",
+    "lead_paragraph": "Faced with growing complaints from businesses and politicians that pollution control rules are creating too much of an economic burden, Southern California's air quality authorities say they plan to soften their hard-line approach to enforcing the regulations. Officials of the South Coast Air Quality Management District, which sets air-quality rules for most of Southern California and is extremely influential in setting statewide and national policies, said they do not plan to roll back the strict emissions standards for businesses, automobiles and individuals they have set in recent years.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Southern California Agency Eases Stance on Air Quality"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1991-11-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4568eb7c8105d7115bf",
+    "word_count": 600,
+    "slideshow_credits": null
+}

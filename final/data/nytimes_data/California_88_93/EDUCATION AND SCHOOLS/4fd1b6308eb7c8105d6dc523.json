@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/28/us/after-two-month-standoff-california-appears-on-verge-of-passing-a-budget.html",
+    "snippet": "It has taken nearly two months, two agonizing months, during which California has been forced to pay it bills with i.o.u.'s, seen its once-enviable credit rating ruined, its old and poor threatened with loss of health care and its college classes ...",
+    "lead_paragraph": "It has taken nearly two months, two agonizing months, during which California has been forced to pay it bills with i.o.u.'s, seen its once-enviable credit rating ruined, its old and poor threatened with loss of health care and its college classes shut. But it appears now that the Government of California, paralyzed by recession, is finally close to passing a budget. Weariness, lack of pay, panic over getting re-elected, public ridicule and political realities are combining to force members of the Legislature to end a protracted stalemate with Gov. Pete Wilson in erasing a $10.7 billion budget gap. The likely winner in this standoff, at least in the short run, is the Republican Governor, but it remains to be seen how the public responds to the painful cuts in public services he would impose.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "After Two-Month Standoff, California Appears on Verge of Passing a Budget"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-08-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b6308eb7c8105d6dc523",
+    "word_count": 1267,
+    "slideshow_credits": null
+}

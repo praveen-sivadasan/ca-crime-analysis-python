@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/21/business/company-news-california-mcdonald-s-to-cut-menu-prices.html",
+    "snippet": "The fast-food price wars intensified today in Southern California, where McDonald's said it would introduce a long-term \"value menu\" of inexpensive items like 59-cent hamburgers and 59-cent soft drinks.   The menu, to be offered in as many as 360 ...",
+    "lead_paragraph": "The fast-food price wars intensified today in Southern California, where McDonald's said it would introduce a long-term \"value menu\" of inexpensive items like 59-cent hamburgers and 59-cent soft drinks. The menu, to be offered in as many as 360 restaurants here, is the largest such discount offering made by the McDonald's Corporation.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California McDonald's To Cut Menu Prices",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MCDONALD'S CORP"
+        },
+        {
+            "name": "subject",
+            "value": "RESTAURANTS"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "FAST FOOD INDUSTRY"
+        }
+    ],
+    "pub_date": "1990-12-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "LEV"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL LEV, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7138eb7c8105d6c1576",
+    "word_count": 365,
+    "slideshow_credits": null
+}

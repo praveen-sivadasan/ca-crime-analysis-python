@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/17/us/legislator-barred-from-communion.html",
+    "snippet": "LEAD: A California State Assemblywoman has been barred from receiving communion in the Roman Catholic Church because of her support for abortion rights in her campaign for the State Senate....",
+    "lead_paragraph": "LEAD: A California State Assemblywoman has been barred from receiving communion in the Roman Catholic Church because of her support for abortion rights in her campaign for the State Senate.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Legislator Barred From Communion"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KILLEA, LUCY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+        },
+        {
+            "name": "subject",
+            "value": "ABORTION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        }
+    ],
+    "pub_date": "1989-11-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Ari",
+                "middlename": "L.",
+                "lastname": "GOLDMAN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By ARI L. GOLDMAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18b4f8eb7c8105d68e0e8",
+    "word_count": 877,
+    "slideshow_credits": null
+}

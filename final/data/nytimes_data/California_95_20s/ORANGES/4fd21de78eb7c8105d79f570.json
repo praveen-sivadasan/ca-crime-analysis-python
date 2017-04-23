@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/24/business/personal-business-down-but-not-out-on-the-family-farm.html",
+    "snippet": "IN the last days of 1998, W. Michael Bennett, a citrus grower and cattle rancher in California's San Joaquin Valley, began a frenzied race against the thermometer.    As sunset temperatures slipped below freezing, Mr. Bennett threaded his truck th...",
+    "lead_paragraph": "IN the last days of 1998, W. Michael Bennett, a citrus grower and cattle rancher in California's San Joaquin Valley, began a frenzied race against the thermometer. As sunset temperatures slipped below freezing, Mr. Bennett threaded his truck through 150 acres planted with fruit and vines. In the glare of headlights, he switched on irrigation pumps and wind machines that spewed out clouds of warming moisture. After a quick bite and a few hours' sleep, he returned to the groves to repeat the process.",
+    "abstract": "W Michael Bennett and his wife, Marti, citrus farmers and cattle ranchers in California's San Joaquin Valley, lose an estimated $115,000 when entire crop of naval oranges and lemons falls victim to freeze in last days of 1998; disaster insurance and savings give them a safety net against foreclosure, but they and the two children have to cut expenses wherever they can; photo (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Down But Not Out on the Family Farm",
+        "kicker": "PERSONAL BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BENNETT, MARTI"
+        },
+        {
+            "name": "persons",
+            "value": "BENNETT, W MICHAEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FARMERS"
+        },
+        {
+            "name": "subject",
+            "value": "LEMONS"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "CITRUS FRUITS"
+        },
+        {
+            "name": "subject",
+            "value": "ORANGES"
+        }
+    ],
+    "pub_date": "1999-01-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Money and Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            }
+        ],
+        "original": "By ANDREA ADELSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21de78eb7c8105d79f570",
+    "word_count": 924,
+    "slideshow_credits": null
+}

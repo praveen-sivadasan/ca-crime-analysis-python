@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1995/02/25/business/company-news-california-earthquake-hurt-earnings-of-state-farm.html",
+    "snippet": "The State Farm Mutual Automobile Insurance Company said yesterday that its 1994 earnings fell by more than two-thirds because of losses from last year's Los Angeles earthquake. State Farm, the country's largest home and auto insurer, said net inco...",
+    "lead_paragraph": "The State Farm Mutual Automobile Insurance Company said yesterday that its 1994 earnings fell by more than two-thirds because of losses from last year's Los Angeles earthquake. State Farm, the country's largest home and auto insurer, said net income for the year dropped 68 percent, to $524.4 million, from $1.66 billion in 1993. The company's $2.53 billion in quake costs \"contributed heavily to the red ink in the financial results of our property and casualty insurers,\" said John J. Killian, vice president and controller of State Farm, a mutual insurer owned by its policyholders and based in Bloomington, Ill. The 1994 results include a pretax investment gain of $2.27 billion, down from $2.37 billion in 1993. State Farm's auto insurance premiums and membership fees rose 6.7 percent, to $23.8 billion.",
+    "abstract": null,
+    "print_page": "39",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA EARTHQUAKE HURT EARNINGS OF STATE FARM",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "STATE FARM MUTUAL AUTOMOBILE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY REPORTS"
+        }
+    ],
+    "pub_date": "1995-02-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1fdd38eb7c8105d75e050",
+    "word_count": 132,
+    "slideshow_credits": null
+}

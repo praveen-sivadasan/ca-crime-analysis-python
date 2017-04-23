@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/13/business/company-news-pfizer-wins-round-in-legal-battle.html",
+    "snippet": "Pfizer Inc. said yesterday that it had won a round in its legal battle to prevent out-of-state residents from suing in California over its reportedly defective artificial heart valve. Pfizer said the California Supreme Court on Thursday had ordere...",
+    "lead_paragraph": "Pfizer Inc. said yesterday that it had won a round in its legal battle to prevent out-of-state residents from suing in California over its reportedly defective artificial heart valve. Pfizer said the California Supreme Court on Thursday had ordered a state appeals court to hear the company's argument that 16 out-of-state plaintiffs with Pfizer Shiley heart valves should be forced to sue in their home states. A lower court ruled last year that the heart valve recipients could sue in California, where the valves were made from 1979 to 1986. A total of 86,000 heart patients worldwide were implanted with the valve. Pfizer set up a $300 million reserve in the fourth quarter of 1991 that it says should cover costs related to all Shiley lawsuits.",
+    "abstract": null,
+    "print_page": "37",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "PFIZER WINS ROUND IN LEGAL BATTLE",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PFIZER INC"
+        },
+        {
+            "name": "subject",
+            "value": "HEART"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "IMPLANTS"
+        },
+        {
+            "name": "subject",
+            "value": "LIABILITY FOR PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "DEFECTIVE PRODUCTS"
+        }
+    ],
+    "pub_date": "1993-03-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c8168eb7c8105d6fa07e",
+    "word_count": 128,
+    "slideshow_credits": null
+}

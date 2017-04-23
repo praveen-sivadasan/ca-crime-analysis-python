@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/02/us/california-lawmakers-defeat-plan-for-early-presidential-primary.html",
+    "snippet": "LEAD: A plan to give California one of the nation's earliest Presidential primaries has been defeated, with lawmakers unable to agree whether to prohibit referendums from any Presidential ballot....",
+    "lead_paragraph": "LEAD: A plan to give California one of the nation's earliest Presidential primaries has been defeated, with lawmakers unable to agree whether to prohibit referendums from any Presidential ballot.",
+    "abstract": null,
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Lawmakers Defeat Plan for Early Presidential Primary"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1990-09-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd194648eb7c8105d69fa5b",
+    "word_count": 494,
+    "slideshow_credits": null
+}

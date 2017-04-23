@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1999/03/23/health/vital-signs-at-risk-air-pollution-s-havoc-on-a-child-s-lungs.html",
+    "snippet": "Smog and other forms of air pollution appear to have long-term effects on children's lungs and could be a contributing cause of asthma, according to preliminary results of a study released last week.    The study, conducted in Southern California,...",
+    "lead_paragraph": "Smog and other forms of air pollution appear to have long-term effects on children's lungs and could be a contributing cause of asthma, according to preliminary results of a study released last week. The study, conducted in Southern California, sometimes called the nation's smog capital, found that pollution affects the breathing of girls more than it does boys, even though girls spend less time outdoors than boys.",
+    "abstract": "Preliminary results of study conducted in Southern California show that smog and other forms of air pollution appear to have long-term effects on children's lungs and could be contributing cause of asthma (S)",
+    "print_page": "7",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Air Pollution's Havoc on a Child's Lungs",
+        "kicker": "VITAL SIGNS: AT RISK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "RESPIRATORY DISEASES"
+        },
+        {
+            "name": "subject",
+            "value": "ASTHMA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "LUNGS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1999-03-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Health & Fitness",
+    "section_name": "Health",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd21dda8eb7c8105d79eec2",
+    "word_count": 206,
+    "slideshow_credits": null
+}

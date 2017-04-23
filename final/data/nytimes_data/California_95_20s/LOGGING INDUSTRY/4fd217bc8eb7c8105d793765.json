@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1998/05/05/business/company-news-louisiana-pacific-sells-some-lumber-assets.html",
+    "snippet": "The Louisiana-Pacific Corporation is selling its lumber operations in Northern California to two privately held investment groups for about $615 million. Louisiana-Pacific said yesterday that the Seattle-based Simpson Investment Company and the Sa...",
+    "lead_paragraph": "The Louisiana-Pacific Corporation is selling its lumber operations in Northern California to two privately held investment groups for about $615 million. Louisiana-Pacific said yesterday that the Seattle-based Simpson Investment Company and the San Francisco-based Sansome Partners L.P. had agreed to buy more than 300,000 acres of redwood timberlands, three operating sawmills and two distribution units, among other operations. The company found no buyers for its Samoa pulp mill. The mill will be put up for sale again, the company said. With the sale of the California assets, Louisiana-Pacific has raised more than $750 million in its restructuring. Louisiana-Pacific's shares slipped 25 cents, to $21.3125.",
+    "abstract": "Louisiana-Pacific Corp is selling its lumber operations in Northern California, including 300,000 acres of redwood timberlands and three sawmills, to investment groups Simpson Investment Co and Sansome Partners LP for about $615 million (S)",
+    "print_page": "4",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "LOUISIANA-PACIFIC SELLS SOME LUMBER ASSETS",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SANSOME PARTNERS LP"
+        },
+        {
+            "name": "organizations",
+            "value": "SIMPSON INVESTMENT CO"
+        },
+        {
+            "name": "organizations",
+            "value": "LOUISIANA-PACIFIC CORP"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "LOGGING INDUSTRY"
+        }
+    ],
+    "pub_date": "1998-05-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd217bc8eb7c8105d793765",
+    "word_count": 106,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/12/arts/tv-view-gauging-the-aftershocks-of-disaster-coverage.html",
+    "snippet": "LEAD: Now that some time has passed since the recent California earthquake, one can see more clearly how television has remade the cultural landscape. Nowadays, disasters happen twice - first live, then on television. As with assassinations, hosta...",
+    "lead_paragraph": "LEAD: Now that some time has passed since the recent California earthquake, one can see more clearly how television has remade the cultural landscape. Nowadays, disasters happen twice - first live, then on television. As with assassinations, hostage crises and other unscripted traumas, television immediately crowds into experience and reshapes it.",
+    "abstract": null,
+    "print_page": "33",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Gauging the Aftershocks Of Disaster Coverage",
+        "kicker": "TV VIEW"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1989-11-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Arts and Leisure Desk",
+    "section_name": "Arts",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Todd",
+                "rank": 1,
+                "lastname": "GITLIN"
+            }
+        ],
+        "original": "By TODD GITLIN; Todd Gitlin, a professor of sociology at the University of California at Berkeley, is the author of ''The Sixties: Years of Hope, Days of Rage'' (Bantam)"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197988eb7c8105d6a605f",
+    "word_count": 1130,
+    "slideshow_credits": null
+}

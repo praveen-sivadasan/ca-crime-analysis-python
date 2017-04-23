@@ -1,0 +1,89 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/02/business/big-merger-set-in-health-care-for-california.html",
+    "snippet": "Furthering the trend toward consolidation in managed care, two big California providers, the Foundation Health Corporation and Health Systems International, announced what they called a merger of equals yesterday, in the process creating a $6.4 bi...",
+    "lead_paragraph": "Furthering the trend toward consolidation in managed care, two big California providers, the Foundation Health Corporation and Health Systems International, announced what they called a merger of equals yesterday, in the process creating a $6.4 billion company with nearly five million members. Under the terms of the all-stock transaction, which the companies valued at approximately $3 billion, Foundation will merge and become a subsidiary of Health Systems, and Health Systems will change its name to Foundation Health Systems.",
+    "abstract": "Foundation Health Corp and Health Systems International, two large managed care providers in California, announce what they call merger of equals; under terms of all-stock transaction, which companies value at about $3 billion, foundation will merge and become subsidiary of Health Systems, and Health Systems will change its name to Foundation Health Systems; analysts say merger makes sense, particularly in California, nation's most competitive market for managed health care services; merger was hastened by August alliance of FHP International Corp and Pacificare Health Systems, two other California companies; although called merger of equals, Health Systems would appear to be acquiring foundation; after serving for year as chairman of new entity, Daniel D Crowley, Foundation Health's chairman and chief executive, will step down and turn job over to Malik M Hasan, chief executive of Health Systems (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Big Merger Set In Health Care For California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HASAN, MALIK M"
+        },
+        {
+            "name": "persons",
+            "value": "CROWLEY, DANIEL D"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEALTH SYSTEMS INTERNATIONAL INC"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFICARE HEALTH SYSTEMS INC"
+        },
+        {
+            "name": "organizations",
+            "value": "FHP INTERNATIONAL CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "FOUNDATION HEALTH CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "FOUNDATION HEALTH SYSTEMS INC"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRY PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1996-10-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Kenneth",
+                "middlename": "N.",
+                "lastname": "GILPIN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KENNETH N. GILPIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd208d78eb7c8105d773d4a",
+    "word_count": 799,
+    "slideshow_credits": null
+}

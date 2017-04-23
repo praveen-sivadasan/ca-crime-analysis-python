@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/19/sports/notebook-delay-on-betting-bill-not-really-a-victory.html",
+    "snippet": "LEAD: Competition from increased legal sports betting may be the greatest battle in horse racing in the years ahead, and the sport appeared to lose an early skirmish this week....",
+    "lead_paragraph": "LEAD: Competition from increased legal sports betting may be the greatest battle in horse racing in the years ahead, and the sport appeared to lose an early skirmish this week.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Delay on Betting Bill Not Really a Victory",
+        "kicker": "NOTEBOOK"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FLOYD, RICHARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HORSE RACING"
+        },
+        {
+            "name": "subject",
+            "value": "GAMBLING"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1990-01-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Steven",
+                "rank": 1,
+                "lastname": "CRIST"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By STEVEN CRIST, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18b498eb7c8105d68db4e",
+    "word_count": 928,
+    "slideshow_credits": null
+}

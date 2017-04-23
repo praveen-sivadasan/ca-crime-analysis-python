@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/24/us/california-gun-control-law-runs-into-rebellion.html",
+    "snippet": "Nine days before the deadline, thousands of Californians are defying a ground-breaking state requirement that they register their military-style semiautomatic guns.    Many gun owners are calling their defiance an act of political protest in the t...",
+    "lead_paragraph": "Nine days before the deadline, thousands of Californians are defying a ground-breaking state requirement that they register their military-style semiautomatic guns. Many gun owners are calling their defiance an act of political protest in the tradition of the Rev. Dr. Martin Luther King Jr. and Mahatma Gandhi. \"If civil disobedience was good enough for Dr. King, it's good enough for me,\" said Mike Wright, a member of Gun Owners React Committee, a private lobbying group.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Gun Control Law Runs Into Rebellion"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GUN CONTROL"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1990-12-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19d2c8eb7c8105d6af33f",
+    "word_count": 1521,
+    "slideshow_credits": null
+}

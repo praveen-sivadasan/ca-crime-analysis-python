@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/22/nyregion/c-corrections-748690.html",
+    "snippet": "An article on Saturday about the murder trial of a winery worker in California referred incorrectly to court proceedings in the case. The jury recommended that the defendant, Ramon Salcido, be sentenced todeath in the slayings of his wife, two of ...",
+    "lead_paragraph": "An article on Saturday about the murder trial of a winery worker in California referred incorrectly to court proceedings in the case. The jury recommended that the defendant, Ramon Salcido, be sentenced todeath in the slayings of his wife, two of their children and four other people; it did not sentence Mr. Salcido to death. Juries in California murder cases advise the judge whether they believe a defendant should be executed or be sentenced to life in prison without parole. The judge will formally sentence Mr. Salcido on Dec. 17.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SALCIDO, RAMON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1990-11-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1a7168eb7c8105d6c17c7",
+    "word_count": 90,
+    "slideshow_credits": null
+}

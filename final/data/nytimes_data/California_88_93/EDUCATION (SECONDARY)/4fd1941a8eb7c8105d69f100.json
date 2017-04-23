@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/18/business/california-campaign-opposes-channel-one.html",
+    "snippet": "LEAD: California's top education official has begun a public offensive against Channel One, the advertiser-sponsored news broadcast to secondary-school classrooms....",
+    "lead_paragraph": "LEAD: California's top education official has begun a public offensive against Channel One, the advertiser-sponsored news broadcast to secondary-school classrooms.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Campaign Opposes Channel One"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "HONIG, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHANNEL ONE"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION (SECONDARY)"
+        }
+    ],
+    "pub_date": "1990-06-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Education; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kim",
+                "rank": 1,
+                "lastname": "FOLTZ"
+            }
+        ],
+        "original": "By KIM FOLTZ"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1941a8eb7c8105d69f100",
+    "word_count": 272,
+    "slideshow_credits": null
+}

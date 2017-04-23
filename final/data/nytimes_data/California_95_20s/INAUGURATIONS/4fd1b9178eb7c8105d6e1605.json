@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/09/us/wilson-starts-second-term.html",
+    "snippet": "Promising to cut taxes and government regulation, Gov. Pete Wilson was inaugurated for a second term on Saturday. Governor Wilson, a Republican, told a crowd of about 3,000 at the Capitol: \"We must choose whether California will be the Golden Stat...",
+    "lead_paragraph": "Promising to cut taxes and government regulation, Gov. Pete Wilson was inaugurated for a second term on Saturday. Governor Wilson, a Republican, told a crowd of about 3,000 at the Capitol: \"We must choose whether California will be the Golden State or a welfare state. It can't be both.\"",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Wilson Starts Second Term"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INAUGURATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        }
+    ],
+    "pub_date": "1995-01-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b9178eb7c8105d6e1605",
+    "word_count": 49,
+    "slideshow_credits": null
+}

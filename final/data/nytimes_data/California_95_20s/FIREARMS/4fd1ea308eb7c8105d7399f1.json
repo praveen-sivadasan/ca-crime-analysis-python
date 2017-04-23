@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1999/07/02/us/california-bill-would-limit-handgun-buyers-to-1-a-month.html",
+    "snippet": "The California Legislature yesterday approved a measure to limit handgun purchases to one a month, making it the largest state to pass legislation that gun-control advocates say will reduce the flow of guns to criminals.    Gun-control proponents ...",
+    "lead_paragraph": "The California Legislature yesterday approved a measure to limit handgun purchases to one a month, making it the largest state to pass legislation that gun-control advocates say will reduce the flow of guns to criminals. Gun-control proponents and some law-enforcement officials have long argued that sharply limiting the number of revolvers and pistols that can be bought at one time is a major step in helping close off the illegal gun market. The authorities say intermediaries for gun traffickers often buy several firearms at once from federally licensed dealers and the guns are then resold to criminals.",
+    "abstract": "California Legislature approves measure to limit handgun purchases to one a month, making it largest state to pass legislation that gun-control advocates say will reduce flow of guns to criminals; gun-control proponents and some law-enforcement officials have long argued that sharply limiting number of revolvers and pistols that can be bought at one time is a major step in helping close off illegal gun market; table (M)",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Bill Would Limit Handgun Buyers to 1 a Month"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GUN CONTROL"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1999-07-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Barry",
+                "rank": 1,
+                "lastname": "MEIER"
+            }
+        ],
+        "original": "By BARRY MEIER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ea308eb7c8105d7399f1",
+    "word_count": 926,
+    "slideshow_credits": null
+}

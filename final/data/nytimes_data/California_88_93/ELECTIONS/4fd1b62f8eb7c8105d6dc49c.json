@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/09/nyregion/c-corrections-613692.html",
+    "snippet": "An article on Wednesday about the California elections referred to Sonny Bono, a candidate for the United States Senate nomination, incorrectly in some copies. He is a former Mayor of Palm Springs, not the current one....",
+    "lead_paragraph": "An article on Wednesday about the California elections referred to Sonny Bono, a candidate for the United States Senate nomination, incorrectly in some copies. He is a former Mayor of Palm Springs, not the current one.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BONO, SONNY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1992-06-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1b62f8eb7c8105d6dc49c",
+    "word_count": 36,
+    "slideshow_credits": null
+}

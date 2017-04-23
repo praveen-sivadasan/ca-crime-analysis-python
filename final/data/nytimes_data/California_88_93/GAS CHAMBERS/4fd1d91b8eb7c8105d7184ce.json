@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/20/nyregion/a-stay-of-execution-for-murderer-as-protest-continues-at-san-quentin.html",
+    "snippet": null,
+    "lead_paragraph": null,
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Stay of Execution for Murderer As Protest Continues at San Quentin"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN QUENTIN PRISON"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "GAS CHAMBERS"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        }
+    ],
+    "pub_date": "1992-04-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd1d91b8eb7c8105d7184ce",
+    "word_count": 0,
+    "slideshow_credits": null
+}

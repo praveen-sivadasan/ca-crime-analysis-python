@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/11/nyregion/c-corrections-774340.html",
+    "snippet": "A front-page article yesterday about Democrats who cross party lines to vote for John McCain in Republican primaries referred imprecisely to California's system. The names of all candidates will appear on the same ballot there, regardless of party...",
+    "lead_paragraph": "A front-page article yesterday about Democrats who cross party lines to vote for John McCain in Republican primaries referred imprecisely to California's system. The names of all candidates will appear on the same ballot there, regardless of party. But the ballots will be coded so that only Republican votes count toward selecting Republican delegates and only Democratic votes pick Democratic delegates. (In a closed primary, by contrast, voting is restricted by party.) The article also misstated the deadline for party enrollment in California. It was last Monday; it is not next Monday.",
+    "abstract": "Feb 10 article about Democrats who cross party lines to vote for John McCain in Republican primaries referred imprecisely to California's system",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-02-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd205cc8eb7c8105d76e786",
+    "word_count": 92,
+    "slideshow_credits": null
+}

@@ -1,0 +1,84 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/15/us/ford-unveils-cleanest-running-cars-for-california.html",
+    "snippet": "California state smog officials and the Ford Motor Company unveiled two new automobile models today that they said were the cleanest-running cars ever approved for mass production in the world.   They were updated versions of the Ford Escort and t...",
+    "lead_paragraph": "California state smog officials and the Ford Motor Company unveiled two new automobile models today that they said were the cleanest-running cars ever approved for mass production in the world. They were updated versions of the Ford Escort and the Mercury Tracer, engineered to meet pollutant emission standards California has set for 1997 models, four years ahead of schedule. The new cars are to go on sale at Ford dealers in California starting May 21, when the 1993 models are introduced.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ford Unveils Cleanest-Running Cars for California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FORD MOTOR CO"
+        },
+        {
+            "name": "subject",
+            "value": "CARBON MONOXIDE"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "HYDROCARBONS"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "NITROGEN OXIDE"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1992-04-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4928eb7c8105d7120b7",
+    "word_count": 956,
+    "slideshow_credits": null
+}

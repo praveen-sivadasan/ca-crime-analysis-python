@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/24/us/death-puts-focus-on-demographic-change.html",
+    "snippet": "Representative Julian C. Dixon was one of those rare House members who almost never had to worry about losing his seat. A Democrat from an overwhelmingly Democratic district in West Los Angeles, California's 32nd, he ran unopposed in his first ele...",
+    "lead_paragraph": "Representative Julian C. Dixon was one of those rare House members who almost never had to worry about losing his seat. A Democrat from an overwhelmingly Democratic district in West Los Angeles, California's 32nd, he ran unopposed in his first election, in 1978, and won with 84 percent in his last, seven weeks ago. But Mr. Dixon died of a heart attack two weeks ago after minor surgery, a sudden event that has prompted a handful of state and local officials to rethink the trajectory of their political careers. It has also focused attention on a growing debate throughout California over how demographic changes in the state are reflected in its elected officials.",
+    "abstract": "Death of US Repr Julian C Dixon, Democrat from overwhelmingly Democratic district in West Los Angeles, California's 32nd, prompts handful of state and local officials to rethink trajectory of their political careers; it also focuses attention on growing debate throughout California over how demographic changes in state are reflected in its elected officials; possibility that Latinos may soon gain strong majority status in district that has been majority black gives pause to at least a few candidates who are considering a run to succeed Dixon; photo of Bettye Dixon, who has been encouraged to run for seat (M)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Death Puts Focus on Demographic Change"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DIXON, JULIAN"
+        },
+        {
+            "name": "persons",
+            "value": "DIXON, BETTYE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        }
+    ],
+    "pub_date": "2000-12-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "JANOFSKY"
+            }
+        ],
+        "original": "By MICHAEL JANOFSKY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd204448eb7c8105d76b8b2",
+    "word_count": 886,
+    "slideshow_credits": null
+}

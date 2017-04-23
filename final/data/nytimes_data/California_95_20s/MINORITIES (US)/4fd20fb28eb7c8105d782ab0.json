@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1999/09/30/us/california-racial-profiling-bill-is-vetoed.html",
+    "snippet": "Playing both sides of a divisive racial issue, Gov. Gray Davis of California has vetoed a bill requiring law-enforcement agencies to provide information to determine whether they are stopping a disproportionate share of racial minority members.   ...",
+    "lead_paragraph": "Playing both sides of a divisive racial issue, Gov. Gray Davis of California has vetoed a bill requiring law-enforcement agencies to provide information to determine whether they are stopping a disproportionate share of racial minority members. But while he questioned the usefulness and cost of the measure, which is strongly supported by civil rights groups, Governor Davis ordered the state highway patrol to collect that information and urged local police departments to do so voluntarily.",
+    "abstract": "California Gov Gray Davis vetoes bill requiring law-enforcement agencies to provide information to determine whether they are stopping disproportionate share of racial minority members; orders state highway patrol to collect that information and urges local police departments to do so voluntarily (M)",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Racial Profiling Bill Is Vetoed"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "POLICE"
+        }
+    ],
+    "pub_date": "1999-09-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "STERNGOLD"
+            }
+        ],
+        "original": "By JAMES STERNGOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20fb28eb7c8105d782ab0",
+    "word_count": 798,
+    "slideshow_credits": null
+}

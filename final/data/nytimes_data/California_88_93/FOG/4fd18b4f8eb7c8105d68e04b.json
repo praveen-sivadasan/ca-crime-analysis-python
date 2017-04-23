@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/26/us/fog-is-blamed-for-auto-pileup.html",
+    "snippet": "LEAD: Fog was blamed for a 14-car pileup early today on State Highway 4 between Pittsburg and Concord, the California Highway Patrol said. The accident occurred shortly before 1 A.M. and closed two of the three westbound lanes about four miles wes...",
+    "lead_paragraph": "LEAD: Fog was blamed for a 14-car pileup early today on State Highway 4 between Pittsburg and Concord, the California Highway Patrol said. The accident occurred shortly before 1 A.M. and closed two of the three westbound lanes about four miles west of here for about 90 minutes, the patrol said. ''It was a chain reaction in the fog,'' a patrol officer said.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fog Is Blamed for Auto Pileup"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "FOG"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1989-12-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18b4f8eb7c8105d68e04b",
+    "word_count": 131,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1997/11/16/opinion/mr-dornan-s-wasteful-crusade.html",
+    "snippet": "The House Oversight Committee's investigation into the election of Representative Loretta Sanchez, a Democrat, has become a costly farce that should come to a quick end. The inquiry began after former Representative Robert K. Dornan, a Republican,...",
+    "lead_paragraph": "The House Oversight Committee's investigation into the election of Representative Loretta Sanchez, a Democrat, has become a costly farce that should come to a quick end. The inquiry began after former Representative Robert K. Dornan, a Republican, contested the 1996 election in which he lost his Orange County, Calif., seat to Ms. Sanchez by 984 votes. He claims the election was tainted by voter fraud and voting by non-citizens. Mr. Dornan has had nearly a year to prove his case and has not done so. California's Republican Secretary of State has stated that some 300 votes were suspect. After 11 months of investigation, there is still no evidence that the number of bad votes would be sufficient to alter the outcome.",
+    "abstract": "Editorial says House Oversight Committee's investigation into election of Rep Loretta Sanchez has become costly farce; notes former Rep Robert K Dornan's charge of voter fraud has not been substantiated after full year and thousands of dollars-worth of probes; says Dornan should withdraw his charge and try to get back his seat by running in next election (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Mr. Dornan's Wasteful Crusade"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SANCHEZ, LORETTA"
+        },
+        {
+            "name": "persons",
+            "value": "DORNAN, ROBERT K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1997-11-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd2142a8eb7c8105d78bcae",
+    "word_count": 223,
+    "slideshow_credits": null
+}

@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1998/12/25/us/4-day-cold-spell-slams-california-crops-devastated.html",
+    "snippet": "A brutal four-day freeze has destroyed more than a third of California's annual citrus crop, inflicting upwards of a half-billion dollars in damage and raising the prospect of tripled orange prices in supermarkets by next week.    Throughout the G...",
+    "lead_paragraph": "A brutal four-day freeze has destroyed more than a third of California's annual citrus crop, inflicting upwards of a half-billion dollars in damage and raising the prospect of tripled orange prices in supermarkets by next week. Throughout the Golden State, cold, dry air from the Gulf of Alaska sent temperatures below freezing beginning Monday, with readings in the high teens and low 20's in the agriculturally rich Central Valley early today -- the worst cold spell since a 10-day freeze in 1990. Farmers frantically ran wind and irrigation machines overnight in an effort to keep trees warm, but officials pronounced the lemon crop a near total loss in the valley, and said perhaps half of the state's orange crop was lost as well.",
+    "abstract": "Four-day freeze destroys more than third of California's annual citrus crop, inflicting half-billion dollars in damage and raising prospect of tripled orange prices in supermarkets by next week; farmers frantically run wind and irrigation machines in effort to keep treees warm, but lemon crop is near total loss and half of state's orange crop is lost; citrus industry accounts for over $1 billion of state's $27 billion agricultural output; cold is threatening other crops as well; photo; map (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CROPS DEVASTATED",
+        "kicker": "4-DAY COLD SPELL SLAMS CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "CITRUS FRUITS"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRY PROFILES"
+        }
+    ],
+    "pub_date": "1998-12-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e16b8eb7c8105d729c3e",
+    "word_count": 1305,
+    "slideshow_credits": null
+}

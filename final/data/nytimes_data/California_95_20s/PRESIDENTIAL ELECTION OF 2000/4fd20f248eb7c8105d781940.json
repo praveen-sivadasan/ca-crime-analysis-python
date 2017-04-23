@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1999/06/30/us/a-kiss-for-the-richest-candidate.html",
+    "snippet": "Photo of Gov George W Bush campaigning for Republican Presidential nomination in California...",
+    "lead_paragraph": null,
+    "abstract": "Photo of Gov George W Bush campaigning for Republican Presidential nomination in California",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Kiss for the Richest Candidate"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "1999-06-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd20f248eb7c8105d781940",
+    "word_count": 0,
+    "slideshow_credits": null
+}

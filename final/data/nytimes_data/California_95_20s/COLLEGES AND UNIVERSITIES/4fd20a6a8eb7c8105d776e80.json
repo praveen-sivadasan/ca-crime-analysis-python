@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/22/us/california-proposal-aims-to-improve-college-diversity.html",
+    "snippet": "In an effort that could help reverse the impact of the state's ban on affirmative action, the president of the University of California proposed yesterday that the university guarantee provisional admission to the top 12.5 percent of students at e...",
+    "lead_paragraph": "In an effort that could help reverse the impact of the state's ban on affirmative action, the president of the University of California proposed yesterday that the university guarantee provisional admission to the top 12.5 percent of students at every high school. The university now guarantees admission to the top 4 percent of high school graduates, provided they take a college preparatory curriculum.",
+    "abstract": "University of California pres Richard C Atkinson, in effort that could help reverse impact of state's ban on affirmative action, proposes that university guarantee provisional admission to top 12.5 percent of students at every high school; university now guarantees admission to top 4 percent of high school graduates, provided they take college preparatory curriculum (M)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Proposal Aims To Improve College Diversity"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ATKINSON, RICHARD C"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        }
+    ],
+    "pub_date": "2000-09-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Karen",
+                "middlename": "W.",
+                "lastname": "ARENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KAREN W. ARENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20a6a8eb7c8105d776e80",
+    "word_count": 937,
+    "slideshow_credits": null
+}

@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1997/01/13/business/a-gold-rush-from-software-reinvigorates-silicon-valley.html",
+    "snippet": "Awash in new, high-paying technology jobs, Silicon Valley is in the midst of its most remarkable economic boom in two decades.    And thanks in part to the rise of the Internet and the scramble to exploit it commercially, the area's growth has bee...",
+    "lead_paragraph": "Awash in new, high-paying technology jobs, Silicon Valley is in the midst of its most remarkable economic boom in two decades. And thanks in part to the rise of the Internet and the scramble to exploit it commercially, the area's growth has been accompanied by a shift in new jobs from computer and semiconductor manufacturing to software development.",
+    "abstract": "Silicon Valley, headquarters for leading companies in computer-networking business, is in midst of remarkable economic boom; because of rise of Internet and scramble to exploit it commercially, area's growth has been accompanied by shift in new jobs from computer and semiconductor manufacturing to software development; Silicon Valley has added roughly 50,000 jobs in 1996, while average real wages grew 5.1 percent afer accounting for inflation, more than five times the national average; striking growth was fueled in part by 73 percent spurt in venture-capital spending; Silicon Valley includes parts of several counties south of San Francisco (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Gold Rush From Software Reinvigorates Silicon Valley"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTER SOFTWARE"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNET AND WORLD WIDE WEB"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRY PROFILES"
+        }
+    ],
+    "pub_date": "1997-01-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "MARKOFF"
+            }
+        ],
+        "original": "By JOHN MARKOFF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dadc8eb7c8105d71b0cd",
+    "word_count": 921,
+    "slideshow_credits": null
+}

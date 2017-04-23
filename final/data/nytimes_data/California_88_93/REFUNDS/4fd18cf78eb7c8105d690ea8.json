@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1988/04/01/business/pontiac-refunds.html",
+    "snippet": "LEAD: The General Motors Corporation said it would refund the full price of Pontiac Grand Am cars sold to California residents and returned, for any reason, within 30 days. The refund would have to be applied to the purchase of another Pontiac fro...",
+    "lead_paragraph": "LEAD: The General Motors Corporation said it would refund the full price of Pontiac Grand Am cars sold to California residents and returned, for any reason, within 30 days. The refund would have to be applied to the purchase of another Pontiac from the same dealer. The program begins on April 1 and ends in September, at the close of the model year.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pontiac Refunds"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PONTIAC DIVISION OF GENERAL MOTORS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "REFUNDS"
+        }
+    ],
+    "pub_date": "1988-04-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18cf78eb7c8105d690ea8",
+    "word_count": 151,
+    "slideshow_credits": null
+}

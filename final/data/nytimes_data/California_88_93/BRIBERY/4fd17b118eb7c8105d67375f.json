@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/29/us/california-lawmakers-linked-to-bribery-inquiry.html",
+    "snippet": "LEAD: Federal agents' searches of state lawmakers' offices last week were part of a two-year-old undercover operation in which dummy companies lured lawmakers with bribes, a lawyer close to the investigation says....",
+    "lead_paragraph": "LEAD: Federal agents' searches of state lawmakers' offices last week were part of a two-year-old undercover operation in which dummy companies lured lawmakers with bribes, a lawyer close to the investigation says.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Lawmakers Linked to Bribery Inquiry"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SHAHABIAN, JOHN A"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL BUREAU OF INVESTIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "BRIBERY"
+        },
+        {
+            "name": "subject",
+            "value": "EXTORTION"
+        }
+    ],
+    "pub_date": "1988-08-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17b118eb7c8105d67375f",
+    "word_count": 437,
+    "slideshow_credits": null
+}

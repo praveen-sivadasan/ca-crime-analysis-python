@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/25/us/drought-cost-california-1-billion-in-1991.html",
+    "snippet": "The continuing drought in California cost the state at least $1 billion last year in agriculture losses, increases in energy costs and damage to the environment, state officials say.   Losses to agriculture, estimated at $455 million in 1990, were...",
+    "lead_paragraph": "The continuing drought in California cost the state at least $1 billion last year in agriculture losses, increases in energy costs and damage to the environment, state officials say. Losses to agriculture, estimated at $455 million in 1990, were about $500 million last year, according to a report released on Thursday by the State Department of Water Resources.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Drought Cost California $1 Billion in 1991"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        }
+    ],
+    "pub_date": "1992-01-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b85fe738f0d8094087cd03",
+    "word_count": "169",
+    "slideshow_credits": null
+}

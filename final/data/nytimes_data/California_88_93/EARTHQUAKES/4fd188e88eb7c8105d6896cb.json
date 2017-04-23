@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/the-california-quake-who-pays-insurers-tallying-but-policies-on-houses-are-few.html",
+    "snippet": "LEAD: As damage estimates from the California earthquake exceeded a billion dollars, hundreds of insurance claims adjusters moved into the area yesterd day to assess the devastation and pay claims....",
+    "lead_paragraph": "LEAD: As damage estimates from the California earthquake exceeded a billion dollars, hundreds of insurance claims adjusters moved into the area yesterd day to assess the devastation and pay claims.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Insurers Tallying, But Policies on Houses Are Few",
+        "kicker": "THE CALIFORNIA QUAKE: WHO PAYS?"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Robert",
+                "middlename": "J.",
+                "lastname": "COLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By ROBERT J. COLE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd188e88eb7c8105d6896cb",
+    "word_count": 704,
+    "slideshow_credits": null
+}

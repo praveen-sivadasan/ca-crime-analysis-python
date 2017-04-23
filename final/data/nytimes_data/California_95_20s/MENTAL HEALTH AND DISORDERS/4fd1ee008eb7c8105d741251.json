@@ -1,0 +1,80 @@
+{
+    "web_url": "https://www.nytimes.com/1999/09/28/us/trailblazing-california-broadens-the-rights-of-its-hmo-patients.html",
+    "snippet": "Gov. Gray Davis signed a package of bills today that will give patients a variety of new rights in their relationship with health maintenance organizations in California and could well influence managed health care coverage across the country.    ...",
+    "lead_paragraph": "Gov. Gray Davis signed a package of bills today that will give patients a variety of new rights in their relationship with health maintenance organizations in California and could well influence managed health care coverage across the country. Most important, the broad set of bills, hammered out between advocates on both sides over several months, gives patients the right to sue their health insurers for punitive damages and solicit outside reviews of decisions denying them coverage.",
+    "abstract": "California Gov Gray Davis signs package of bills that will give patients variety of new rights in their relationship with health maintenance organizations in state and could influence managed health care coverage across country; legislation gives patients right to sue their health insurers for punitive damages and solicit outside reviews of decisions denying them coverage; also requires managed care providers to pay for second opinions on some treatments, cover testing and treatment of breast cancer and expand coverage for serious mental illnesses; will create new state Department of Managed Care to regulate industry (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Trailblazing California Broadens The Rights of Its H.M.O. Patients"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS AND MANAGED CARE"
+        },
+        {
+            "name": "subject",
+            "value": "BREAST"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1999-09-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "STERNGOLD"
+            }
+        ],
+        "original": "By JAMES STERNGOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ee008eb7c8105d741251",
+    "word_count": 1245,
+    "slideshow_credits": null
+}

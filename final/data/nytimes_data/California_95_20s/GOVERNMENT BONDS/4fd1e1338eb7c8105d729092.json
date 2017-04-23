@@ -1,0 +1,85 @@
+{
+    "web_url": "https://www.nytimes.com/1998/10/15/us/schools-are-talk-of-california-but-not-of-the-candidates-there.html",
+    "snippet": "Throughout this election year, every public opinion poll in California has ranked education as the No. 1 concern among voters in a state whose once-golden public schools have slipped badly.    Two-thirds of likely voters in this famously tax-avers...",
+    "lead_paragraph": "Throughout this election year, every public opinion poll in California has ranked education as the No. 1 concern among voters in a state whose once-golden public schools have slipped badly. Two-thirds of likely voters in this famously tax-averse terrain now say they favor a record $9.2 billion bond measure on next month's ballot to repair and replace the state's crumbling schools.",
+    "abstract": "Gubernatorial candidates Lt Gov Gray Davis and Atty Gen Dan Lungren have avoided education as campaign issue despite polls showing California voters rank education as their top concern and favor by wide margin $9.2 billion bond measure on Nov ballot to repair and replace crumbling schools; both candidates have run cautious campaigns aimed at middle; neither is eager to talk about education reform, potentially controversial issue, or its cost; Davis ducks issue at news conference with Sen Dianne Feinstein called to discuss education; photos (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Schools Are Talk of California, But Not of the Candidates There"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUNGREN, DANIEL E"
+        },
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-10-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e1338eb7c8105d729092",
+    "word_count": 1467,
+    "slideshow_credits": null
+}

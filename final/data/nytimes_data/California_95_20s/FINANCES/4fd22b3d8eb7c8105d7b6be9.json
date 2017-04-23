@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/2000/10/05/us/school-improvements-are-cited-in-california.html",
+    "snippet": "In the first year of a California program that ties academic performance to financial rewards for public schools and educators, two-thirds of the state's public schools showed improvement on tests that provide the basis of the program, officials a...",
+    "lead_paragraph": "In the first year of a California program that ties academic performance to financial rewards for public schools and educators, two-thirds of the state's public schools showed improvement on tests that provide the basis of the program, officials announced today. Seventy-one percent of the 6,815 schools eligible to participate met their targets, and 67 percent of those are now in line for about $660 million in awards.",
+    "abstract": "California education officials report two-thirds of public schools showed improvement in program that ties performance on standardized test to financial rewards for schools and educators and are in line for about $660 million in awards; Delaine Eastin, superintendent for public instruction, plays down cheating incidents at few schools; agrees performance index should be based on criteria beyond one test (M)",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "School Improvements Are Cited in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "EASTIN, DELAINE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "CHEATING"
+        },
+        {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        }
+    ],
+    "pub_date": "2000-10-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Barbara",
+                "rank": 1,
+                "lastname": "WHITAKER"
+            }
+        ],
+        "original": "By BARBARA WHITAKER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd22b3d8eb7c8105d7b6be9",
+    "word_count": 543,
+    "slideshow_credits": null
+}

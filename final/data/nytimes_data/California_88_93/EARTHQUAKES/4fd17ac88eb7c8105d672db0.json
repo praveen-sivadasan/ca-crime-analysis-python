@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/27/us/small-quake-jolts-california.html",
+    "snippet": "LEAD: A moderate earthquake followed by several aftershocks shook a wide area of Southern California today, causing at least four minor injuries. The quake struck at 8:05 A.M. in western San Bernardino County and registered 4.5 on the Richter scal...",
+    "lead_paragraph": "LEAD: A moderate earthquake followed by several aftershocks shook a wide area of Southern California today, causing at least four minor injuries. The quake struck at 8:05 A.M. in western San Bernardino County and registered 4.5 on the Richter scale of ground motion, said Robert Finn of the California Institute of Technology in Pasadena.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Small Quake Jolts California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1988-06-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17ac88eb7c8105d672db0",
+    "word_count": 118,
+    "slideshow_credits": null
+}

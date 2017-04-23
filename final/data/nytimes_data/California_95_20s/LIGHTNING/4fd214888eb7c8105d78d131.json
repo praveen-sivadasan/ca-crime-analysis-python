@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1998/09/03/us/california-wildfire-leaves-area-in-ruin.html",
+    "snippet": "A wildfire started by lightning and driven by 40 mile-an-hour winds left little but blackened barren hills and the pungent smell of smoke after burning 34 homes and 6,000 acres near here on Monday and Tuesday.    Nearly 1,000 firefighters from aro...",
+    "lead_paragraph": "A wildfire started by lightning and driven by 40 mile-an-hour winds left little but blackened barren hills and the pungent smell of smoke after burning 34 homes and 6,000 acres near here on Monday and Tuesday. Nearly 1,000 firefighters from around the state battled the flames in Juniper Flats, about 85 miles east of Los Angeles.",
+    "abstract": "Wildfire started by lightning and driven by 40 mile-an-hour winds leaves little but blackened barren hills after burning 34 homes and 6,000 acres near Hemet, Calif (S)",
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Wildfire Leaves Area in Ruin"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LIGHTNING"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        }
+    ],
+    "pub_date": "1998-09-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd214888eb7c8105d78d131",
+    "word_count": 242,
+    "slideshow_credits": null
+}

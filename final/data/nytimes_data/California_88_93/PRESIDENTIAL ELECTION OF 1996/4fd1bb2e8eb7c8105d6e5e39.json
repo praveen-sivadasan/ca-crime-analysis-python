@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1993/09/23/us/political-memo-california-guarantees-warm-primary-season.html",
+    "snippet": "Forget the images of Presidential candidates trudging through the snows of Iowa and New Hampshire as they search for votes. Instead, picture the White House aspirants spending the dead of winter campaigning on the beaches of California.   It may b...",
+    "lead_paragraph": "Forget the images of Presidential candidates trudging through the snows of Iowa and New Hampshire as they search for votes. Instead, picture the White House aspirants spending the dead of winter campaigning on the beaches of California. It may be three years before the next Presidential election, but the political landscape for the opening of the 1996 campaign is about to change from snow to sand, a development that could play a big role in determining who becomes the next President.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Political Memo; California Guarantees Warm Primary Season"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "COSTA, JIM"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1993-09-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "L.",
+                "lastname": "BERKE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD L. BERKE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bb2e8eb7c8105d6e5e39",
+    "word_count": 1203,
+    "slideshow_credits": null
+}

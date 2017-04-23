@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1990/07/11/business/business-technology-research-profit-ruling.html",
+    "snippet": "LEAD: The California Supreme Court has ruled that patients have no right to share in profits if their blood or organs become the source of lucrative scientific research....",
+    "lead_paragraph": "LEAD: The California Supreme Court has ruled that patients have no right to share in profits if their blood or organs become the source of lucrative scientific research.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Research Profit Ruling",
+        "kicker": "BUSINESS TECHNOLOGY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        }
+    ],
+    "pub_date": "1990-07-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Health; Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b9f68eb7c8105d6e33c8",
+    "word_count": 189,
+    "slideshow_credits": null
+}

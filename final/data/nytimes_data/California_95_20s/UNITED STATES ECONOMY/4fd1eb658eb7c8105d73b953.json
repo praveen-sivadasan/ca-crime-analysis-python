@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1995/09/17/us/snapshots-us-economy-some-clouds-may-be-moving-chip-maker-thrives-world-its-own.html",
+    "snippet": "At the sprawling corporate headquarters of the Intel Corporation here, an army of construction workers is racing to complete an addition that will double the capacity of a factory to turn out the next generation of microchips.   But that is just a...",
+    "lead_paragraph": "At the sprawling corporate headquarters of the Intel Corporation here, an army of construction workers is racing to complete an addition that will double the capacity of a factory to turn out the next generation of microchips. But that is just a fraction of the frenzied activity at Intel, which designs and builds the labyrinthine circuits etched on slivers of silicon that lie at the heart of about 80 percent of all the personal computers on desktops today. Intel is also expanding around the country and around the globe, with new plants added to existing campuses in Arizona, New Mexico, Oregon and Ireland. And an entirely new operation was just announced for the State of Washington.",
+    "abstract": null,
+    "print_page": "41",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Snapshots of the U.S. Economy: Some Clouds May Be Moving On; Chip Maker Thrives In World of Its Own"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTEL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+        }
+    ],
+    "pub_date": "1995-09-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1eb658eb7c8105d73b953",
+    "word_count": 452,
+    "slideshow_credits": null
+}

@@ -1,0 +1,33 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/12/us/california-jolted-again.html",
+    "snippet": "An earthquake rattled Southern California today. But there were no immediate reports of damage, and the sole injury reported was to a man who was only slightly hurt when he fell while walking on a rain-slickened sidewalk. It was not immediately cl...",
+    "lead_paragraph": "An earthquake rattled Southern California today. But there were no immediate reports of damage, and the sole injury reported was to a man who was only slightly hurt when he fell while walking on a rain-slickened sidewalk. It was not immediately clear whether the earthquake was related to the larger quakes that struck the Big Bear and Landers areas on June 28. The quake today struck at 11:14 A.M., measured 5.1 on the Richter scale and was centered about 75 miles north of Los Angeles near the town of Mojave, said Rebecca Phipps, a spokeswoman for the United States Geological Survey in Reston, Va.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Jolted Again"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1992-07-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a1648eb7c8105d6b6e1d",
+    "word_count": "104",
+    "slideshow_credits": null
+}

@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/16/business/credit-markets-s-p-stuns-bond-market-by-cut-in-california-rating.html",
+    "snippet": "The Standard & Poor's Corporation stunned the municipal bond market yesterday by announcing that it had lowered its ratings on debt securities issued by the State of California by two notches, to A+ from AA.    S.& P. said the downgrade, which aff...",
+    "lead_paragraph": "The Standard & Poor's Corporation stunned the municipal bond market yesterday by announcing that it had lowered its ratings on debt securities issued by the State of California by two notches, to A+ from AA. S.& P. said the downgrade, which affects about $13 billion of debt outstanding, reflected the state's continued weak financial position, \"with little likelihood of improvement in the near future.\"",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "S.&P. Stuns Bond Market By Cut in California Rating",
+        "kicker": "CREDIT MARKETS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "STANDARD & POOR'S CORP"
+        },
+        {
+            "name": "subject",
+            "value": "RATINGS AND RATING SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1992-07-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Kenneth",
+                "middlename": "N.",
+                "lastname": "GILPIN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KENNETH N. GILPIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a1638eb7c8105d6b6ca9",
+    "word_count": 400,
+    "slideshow_credits": null
+}

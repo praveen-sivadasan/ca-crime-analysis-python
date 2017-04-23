@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/21/us/experts-see-greater-chances-of-a-big-quake-in-california.html",
+    "snippet": "Seismologists said yesterday that Southern California stood an 86 percent chance of an earthquake of magnitude 7 or larger by the year 2024.    A quake of that magnitude is capable of causing widespread property damage and loss of life. Six years ...",
+    "lead_paragraph": "Seismologists said yesterday that Southern California stood an 86 percent chance of an earthquake of magnitude 7 or larger by the year 2024. A quake of that magnitude is capable of causing widespread property damage and loss of life. Six years ago, scientists said the region stood a 60 percent chance of having an earthquake of that magnitude by the year 2018.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Experts See Greater Chances Of a Big Quake in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "JACKSON, DAVID"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        }
+    ],
+    "pub_date": "1995-01-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b8378eb7c8105d6dfa3e",
+    "word_count": 776,
+    "slideshow_credits": null
+}

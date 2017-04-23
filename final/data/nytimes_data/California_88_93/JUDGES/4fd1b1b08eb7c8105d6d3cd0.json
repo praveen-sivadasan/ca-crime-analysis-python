@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/22/us/supreme-court-roundup-court-reaffirms-view-that-judge-can-t-be-sued-for-acts.html",
+    "snippet": "Reaffirming its view that judges are immune from suit for virtually anything they say or do from the bench, the Supreme Court ruled today that a California judge who is accused of ordering a public defender to be dragged from a nearby courtroom an...",
+    "lead_paragraph": "Reaffirming its view that judges are immune from suit for virtually anything they say or do from the bench, the Supreme Court ruled today that a California judge who is accused of ordering a public defender to be dragged from a nearby courtroom and brought before him cannot be sued for damages. By a vote of 5 to 3 in an unsigned opinion, the Court held that the judge is entitled to absolute immunity and that a Federal appeals panel in Los Angeles was wrong to let the public defender's damage lawsuit go forward.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Supreme Court Roundup; Court Reaffirms View That a Judge Can't Be Sued for Acts on the Bench"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WACO, HOWARD"
+        },
+        {
+            "name": "persons",
+            "value": "MIRELES, RAYMOND"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "JUDGES"
+        },
+        {
+            "name": "subject",
+            "value": "COURTS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        }
+    ],
+    "pub_date": "1991-10-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b1b08eb7c8105d6d3cd0",
+    "word_count": 1075,
+    "slideshow_credits": null
+}

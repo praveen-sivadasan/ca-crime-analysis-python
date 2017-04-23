@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1996/06/02/magazine/a-woman-behind-bars-is-not-a-dangerous-man.html",
+    "snippet": "ON AN AIRLESS THURSDAY AT THE CENTRAL California Women's Facility, the largest women's prison in the nation, a 40-foot tractor-trailer parks beneath the awful sun. It carries 54 prisoners from Los Angeles County.         Although it's still mornin...",
+    "lead_paragraph": "ON AN AIRLESS THURSDAY AT THE CENTRAL California Women's Facility, the largest women's prison in the nation, a 40-foot tractor-trailer parks beneath the awful sun. It carries 54 prisoners from Los Angeles County. Although it's still morning, the women already look ransacked. They have been returned to their own clothes for the county-to-state transfer, which means they are wearing whatever they had on at the time of their arrest. Without easy access to drugs, the addicts among them have returned to eating, and with the added weight, their clothes no longer fit. Zippers open to protruding bellies with tattoos of the names of children and C-section scars.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Woman Behind Bars Is Not a Dangerous Man"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        }
+    ],
+    "pub_date": "1996-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Adrian",
+                "middlename": "Nicole",
+                "lastname": "LeBlanc",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Adrian Nicole LeBlanc"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d3e08eb7c8105d7107dd",
+    "word_count": 4911,
+    "slideshow_credits": null
+}

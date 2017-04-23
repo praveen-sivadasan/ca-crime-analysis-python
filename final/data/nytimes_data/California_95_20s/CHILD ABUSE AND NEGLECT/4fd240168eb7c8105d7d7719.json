@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/2000/06/01/us/national-news-briefs-california-senate-passes-baby-abandonment-bill.html",
+    "snippet": "A bill that would let mothers abandon their babies in emergency rooms within 72 hours of birth won unanimous approval from the Senate today....",
+    "lead_paragraph": "A bill that would let mothers abandon their babies in emergency rooms within 72 hours of birth won unanimous approval from the Senate today.",
+    "abstract": "California Senate unanimously approves bill to let mothers abandon newborns anonymously in hospital emergency rooms within 72 hours of birth without fear of prosecution (S)",
+    "print_page": "25",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; California Senate Passes Baby Abandonment Bill"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILD ABUSE AND NEGLECT"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "ABANDONMENT"
+        }
+    ],
+    "pub_date": "2000-06-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd240168eb7c8105d7d7719",
+    "word_count": 101,
+    "slideshow_credits": null
+}

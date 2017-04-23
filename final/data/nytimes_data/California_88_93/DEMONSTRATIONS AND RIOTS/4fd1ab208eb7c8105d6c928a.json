@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/03/us/more-disturbances-over-people-s-park-in-berkeley.html",
+    "snippet": null,
+    "lead_paragraph": null,
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "More Disturbances Over People's Park in Berkeley"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "PEOPLE'S PARK (BERKELEY, CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PARKS AND OTHER RECREATION AREAS"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        }
+    ],
+    "pub_date": "1991-08-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd1ab208eb7c8105d6c928a",
+    "word_count": 0,
+    "slideshow_credits": null
+}

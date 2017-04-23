@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/12/us/california-s-supreme-court-hears-insurance-case.html",
+    "snippet": "LEAD: Four months after Californians voted to roll back soaring insurance rates, insurance companies are fighting hard to reverse the measure, which could influence the way policies are sold, priced and regulated throughout the country....",
+    "lead_paragraph": "LEAD: Four months after Californians voted to roll back soaring insurance rates, insurance companies are fighting hard to reverse the measure, which could influence the way policies are sold, priced and regulated throughout the country.",
+    "abstract": null,
+    "print_page": "28",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Supreme Court Hears Insurance Case"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1989-03-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18af48eb7c8105d68d5a1",
+    "word_count": 572,
+    "slideshow_credits": null
+}

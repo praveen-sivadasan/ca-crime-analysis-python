@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1995/08/30/business/company-news-unocal-finds-buyer-for-oil-and-gas-assets.html",
+    "snippet": "The Unocal Corporation, which traces its history to the beginning of California's oil industry, said yesterday that it had reached a preliminary agreement to sell its crude oil and natural gas assets in the state for more than $500 million....",
+    "lead_paragraph": "The Unocal Corporation, which traces its history to the beginning of California's oil industry, said yesterday that it had reached a preliminary agreement to sell its crude oil and natural gas assets in the state for more than $500 million.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "UNOCAL FINDS BUYER FOR OIL AND GAS ASSETS",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TORCH ENERGY ADVISERS INC"
+        },
+        {
+            "name": "organizations",
+            "value": "UNOCAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        }
+    ],
+    "pub_date": "1995-08-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1cf5b8eb7c8105d708008",
+    "word_count": 137,
+    "slideshow_credits": null
+}

@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/12/business/media-business-advertising-addenda-california-advertising-for-chevy-switched.html",
+    "snippet": "Chevrolet has moved its advertising account aimed at California consumers from a Los Angeles agency, Vic Olesen & Partners, to the agency that handles all other Chevrolet advertising, Lintas Campbell-Ewald, Warren, Mich. The account is estimated t...",
+    "lead_paragraph": "Chevrolet has moved its advertising account aimed at California consumers from a Los Angeles agency, Vic Olesen & Partners, to the agency that handles all other Chevrolet advertising, Lintas Campbell-Ewald, Warren, Mich. The account is estimated to have billings of $15 million. Confirming a report in this week's issue of the trade publication Adweek, Frank Raine, Chevrolet's director of area marketing, said yesterday that executives of the General Motors division thought it would be more cost-effective to have one agency handle all of their advertising.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Advertising For Chevy Is Switched",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHEVROLET DIVISION OF GENERAL MOTORS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "VIC OLESEN & PARTNERS"
+        },
+        {
+            "name": "organizations",
+            "value": "LINTAS:CAMPBELL-EWALD"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        }
+    ],
+    "pub_date": "1991-11-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Stuart",
+                "rank": 1,
+                "lastname": "Elliott"
+            }
+        ],
+        "original": "By Stuart Elliott"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4578eb7c8105d711728",
+    "word_count": 200,
+    "slideshow_credits": null
+}

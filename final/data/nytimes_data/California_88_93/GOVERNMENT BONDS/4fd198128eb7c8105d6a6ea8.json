@@ -1,0 +1,34 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/29/business/finance-new-issues-california-prices-700-million-issue.html",
+    "snippet": "LEAD: The State of California priced a $700 million general obligation bond issue through Bank of America, which made the best offer in competitive bidding yesterday....",
+    "lead_paragraph": "LEAD: The State of California priced a $700 million general obligation bond issue through Bank of America, which made the best offer in competitive bidding yesterday.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Prices $700 Million Issue",
+        "kicker": "FINANCE/NEW ISSUES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1990-08-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd198128eb7c8105d6a6ea8",
+    "word_count": 134,
+    "slideshow_credits": null
+}

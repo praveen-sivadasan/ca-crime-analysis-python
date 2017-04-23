@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/28/us/the-1992-campaign-on-the-trail-barbara-bush-attacks-democrats-in-congress.html",
+    "snippet": "Barbara Bush wrapped up her post-convention campaign swing in California today with some of the most partisan remarks of her political life, attacking Congressional Democrats and warning of economic doom under Bill Clinton.   \"We have good program...",
+    "lead_paragraph": "Barbara Bush wrapped up her post-convention campaign swing in California today with some of the most partisan remarks of her political life, attacking Congressional Democrats and warning of economic doom under Bill Clinton. \"We have good programs, but the Congress is so wrapped up in their own scandals and their own funny doings that they're not willing to back good programs,\" she said in a radio interview on KABC-AM.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: On the Trail; BARBARA BUSH ATTACKS DEMOCRATS IN CONGRESS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, BARBARA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-08-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a1658eb7c8105d6b6ef8",
+    "word_count": "119",
+    "slideshow_credits": null
+}

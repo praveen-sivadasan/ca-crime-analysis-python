@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1999/06/30/us/california-here-bush-comes-a-moderate-on-immigration-and-racial-quotas.html",
+    "snippet": "George W. Bush plunged into the most-populous state today for the first time as a Presidential candidate. And he immediately cast himself as more temperate than most Republican leaders here and in Washington on two ballot measures that have roiled...",
+    "lead_paragraph": "George W. Bush plunged into the most-populous state today for the first time as a Presidential candidate. And he immediately cast himself as more temperate than most Republican leaders here and in Washington on two ballot measures that have roiled his party: immigration and affirmative action. Mr. Bush, the Governor of Texas, distanced himself from a proposition voters passed in California in 1994 that prohibits public services for illegal immigrants. And he refused to endorse a proposition approved by voters here in 1996 that outlawed racial preferences for hiring, education and contracts.",
+    "abstract": "Gov George W Bush, campaigning for Republican Presidential nomination in California, casts self as more temperate than most Republican leaders on immigration and affirmative action; distances self from 1994 proposition that bars public services for illegal immigrants; refuses to endorse 1996 proposition that bars racial preferences for hiring, education and contracts; both measures were championed by Republican officials; Bush seems so confident of primary victory that he already seeks to broaden support in general election (M)",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California, Here Bush Comes, a Moderate on Immigration and Racial Quotas"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1999-06-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "L.",
+                "lastname": "BERKE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD L. BERKE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ea328eb7c8105d739b90",
+    "word_count": 1131,
+    "slideshow_credits": null
+}

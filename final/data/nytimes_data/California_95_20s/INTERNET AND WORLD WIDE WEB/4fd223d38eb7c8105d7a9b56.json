@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1999/03/01/business/technology-digital-commerce-personal-information-like-gold-internet-economy-rush.html",
+    "snippet": "FOR the last few weeks, the data privacy battle has been waged with such fury that privacy advocates have not known whether to cry, cheer or simply assume the fetal position.    Personal privacy -- the disposition of all those pieces of informatio...",
+    "lead_paragraph": "FOR the last few weeks, the data privacy battle has been waged with such fury that privacy advocates have not known whether to cry, cheer or simply assume the fetal position. Personal privacy -- the disposition of all those pieces of information that computers hold about each of us -- has been debated in the electronic world for almost two decades. Although the issues are complex, the bottom lines have always been pretty clearly drawn.",
+    "abstract": "Digital Commerce column focuses on data privacy battle involving Internet; people and companies that sell personal data want total freedom to collect and distribute it; most people on line want 'complete control' over their personal data, and they feel violated by data collectors; California Legislature, often bellwether for technology issues, is considering more than dozen privacy laws, specifically including information gathered via Internet sites; drawing (M)",
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "TECHNOLOGY: Digital Commerce; Personal information is like gold in the Internet economy, and the rush is on to both exploit it and protect it."
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNET AND WORLD WIDE WEB"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVACY"
+        }
+    ],
+    "pub_date": "1999-03-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Denise",
+                "rank": 1,
+                "lastname": "Caruso"
+            }
+        ],
+        "original": "By Denise Caruso"
+    },
+    "type_of_material": "News",
+    "_id": "4fd223d38eb7c8105d7a9b56",
+    "word_count": 921,
+    "slideshow_credits": null
+}

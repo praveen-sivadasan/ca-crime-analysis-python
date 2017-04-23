@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1996/05/13/business/information-highway-hits-the-road.html",
+    "snippet": "John Krachenfels, the manager of business development at the Oracle Corporation, was cruising through Silicon Valley not long ago. He was going a \"few miles over the speed limit,\" he acknowledged, and glancing at his electronic mail at the same ti...",
+    "lead_paragraph": "John Krachenfels, the manager of business development at the Oracle Corporation, was cruising through Silicon Valley not long ago. He was going a \"few miles over the speed limit,\" he acknowledged, and glancing at his electronic mail at the same time, when a California Highway Patrol officer pulled him over. Spotting the open laptop connected to a cellular modem in the front passenger seat, the officer asked, \"Sir, what is the maximum safe speed for computing?\"",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Information Highway Hits the Road"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS ANDSAFETY"
+        }
+    ],
+    "pub_date": "1996-05-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "MARKOFF"
+            }
+        ],
+        "original": "By JOHN MARKOFF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f1388eb7c8105d747ce2",
+    "word_count": 706,
+    "slideshow_credits": null
+}

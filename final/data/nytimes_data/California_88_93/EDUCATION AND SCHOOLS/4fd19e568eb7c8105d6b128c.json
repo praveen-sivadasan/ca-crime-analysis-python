@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/25/us/education-helping-migrant-students-beat-the-odds-in-school.html",
+    "snippet": "LEAD: All her life, Christina Garza has worn the path between this small agricultural town and Texas, moving with her parents and the crops....",
+    "lead_paragraph": "LEAD: All her life, Christina Garza has worn the path between this small agricultural town and Texas, moving with her parents and the crops.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Helping Migrant Students Beat the Odds in School",
+        "kicker": "EDUCATION"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "EDUCATION PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION (PRIMARY)"
+        },
+        {
+            "name": "subject",
+            "value": "MIGRANT LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        }
+    ],
+    "pub_date": "1990-04-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Susan",
+                "rank": 1,
+                "lastname": "CHIRA"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SUSAN CHIRA, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19e568eb7c8105d6b128c",
+    "word_count": 1529,
+    "slideshow_credits": null
+}

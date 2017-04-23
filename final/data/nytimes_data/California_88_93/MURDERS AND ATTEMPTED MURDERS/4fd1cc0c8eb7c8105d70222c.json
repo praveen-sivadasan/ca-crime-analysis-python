@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1993/07/31/us/therapist-says-2-talked-of-killing.html",
+    "snippet": "A psychologist testifying in the trial of two brothers accused of murdering their parents said today that the brothers, Erik and Lyle Menendez, had told him after the slaying: \"We just get turned on with planning the murder. Once we start, nothing...",
+    "lead_paragraph": "A psychologist testifying in the trial of two brothers accused of murdering their parents said today that the brothers, Erik and Lyle Menendez, had told him after the slaying: \"We just get turned on with planning the murder. Once we start, nothing gets in the way.\" The psychologist, L. Jerome Oziel, discussed the brothers' confessions without the jurors present. He said they had spoken in the present tense while recounting their feelings about the act of killing their parents, Jose and Mary Louise Menendez.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "THERAPIST SAYS 2 TALKED OF KILLING"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MENENDEZ, MARY LOUISE"
+        },
+        {
+            "name": "persons",
+            "value": "MENENDEZ, JOSE"
+        },
+        {
+            "name": "persons",
+            "value": "MENENDEZ, ERIK"
+        },
+        {
+            "name": "persons",
+            "value": "OZIEL, L JEROME"
+        },
+        {
+            "name": "persons",
+            "value": "MENENDEZ, LYLE"
+        },
+        {
+            "name": "persons",
+            "value": "WEISBERG, STANLEY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        }
+    ],
+    "pub_date": "1993-07-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1cc0c8eb7c8105d70222c",
+    "word_count": 537,
+    "slideshow_credits": null
+}

@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/02/us/california-forced-to-turn-to-iou-s.html",
+    "snippet": "Its economy racked by recession and its political leadership paralyzed by stalemate, the State of California ran out of cash today and began to pay its bills with I.O.U.'s for the first time since the Great Depression.   State Controller Gray Davi...",
+    "lead_paragraph": "Its economy racked by recession and its political leadership paralyzed by stalemate, the State of California ran out of cash today and began to pay its bills with I.O.U.'s for the first time since the Great Depression. State Controller Gray Davis sent out the first 12,000 of the I.O.U.'s after the Democratic-controlled Assembly failed to reach agreement with the Republican Governor, Pete Wilson, on how to erase a $10.7 billion shortfall in the new state budget before the fiscal year began at 12:01 this morning.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA FORCED TO TURN TO I.O.U.'S"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-07-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dd038eb7c8105d71ed06",
+    "word_count": 1029,
+    "slideshow_credits": null
+}

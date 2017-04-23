@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/12/arts/a-recovery-of-stolen-art.html",
+    "snippet": "F.B.I. agents recovered nine stolen artworks on Tuesday with an estimated value of more than $9 million. Two men were arrested.   The uninsured works, by Picasso, Chagall, Degas and others, had been stolen from a warehouse in Northridge, Calif., i...",
+    "lead_paragraph": "F.B.I. agents recovered nine stolen artworks on Tuesday with an estimated value of more than $9 million. Two men were arrested. The uninsured works, by Picasso, Chagall, Degas and others, had been stolen from a warehouse in Northridge, Calif., in February 1992, said John Morley, a senior assistant agent in charge of the Federal Bureau of Investigation office in Los Angeles.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "A Recovery of Stolen Art"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHAGALL, MARC"
+        },
+        {
+            "name": "persons",
+            "value": "MODIGLIANI, AMEDEO"
+        },
+        {
+            "name": "persons",
+            "value": "PICASSO, PABLO"
+        },
+        {
+            "name": "persons",
+            "value": "DEGAS, EDGAR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL BUREAU OF INVESTIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "ROBBERIES AND THEFTS"
+        },
+        {
+            "name": "subject",
+            "value": "ART"
+        }
+    ],
+    "pub_date": "1993-08-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Cultural Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a9998eb7c8105d6c6704",
+    "word_count": 274,
+    "slideshow_credits": null
+}

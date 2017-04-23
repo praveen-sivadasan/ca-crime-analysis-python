@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/21/us/quake-in-northern-california.html",
+    "snippet": "A moderate earthquake shook Northern California today, but no injuries or damage were reported, officials said. The tremor at 12:41 P.M. measured 4.1 on the Richter scale og ground motion and was centered about 12 miles east of Milpitas, the Unite...",
+    "lead_paragraph": "A moderate earthquake shook Northern California today, but no injuries or damage were reported, officials said. The tremor at 12:41 P.M. measured 4.1 on the Richter scale og ground motion and was centered about 12 miles east of Milpitas, the United States Geological Survey said.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake in Northern California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1991-04-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9148eb7c8105d6c53e6",
+    "word_count": 45,
+    "slideshow_credits": null
+}

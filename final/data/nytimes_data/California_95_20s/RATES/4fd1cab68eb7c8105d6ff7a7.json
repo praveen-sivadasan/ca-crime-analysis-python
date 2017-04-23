@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1995/02/23/business/company-news-federal-ruling-backs-utilities-on-contracts.html",
+    "snippet": "The Federal Energy Regulatory Commission issued a ruling yesterday that could help moderate electricity rates but could also inhibit the growth of the independent power industry.   The commission, the Federal agency that oversees the electric util...",
+    "lead_paragraph": "The Federal Energy Regulatory Commission issued a ruling yesterday that could help moderate electricity rates but could also inhibit the growth of the independent power industry. The commission, the Federal agency that oversees the electric utility industry, ruled that the California Public Utilities Commission had violated Federal law by compelling two California utilities to sign long-term contracts to build new power plants with independent power producers.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Federal Ruling Backs Utilities on Contracts",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTHERN CALIFORNIA EDISON CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN DIEGO GAS & ELECTRIC CO"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL ENERGY REGULATORY COMMISSION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1995-02-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Agis",
+                "rank": 1,
+                "lastname": "SALPUKAS"
+            }
+        ],
+        "original": "By AGIS SALPUKAS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cab68eb7c8105d6ff7a7",
+    "word_count": 423,
+    "slideshow_credits": null
+}

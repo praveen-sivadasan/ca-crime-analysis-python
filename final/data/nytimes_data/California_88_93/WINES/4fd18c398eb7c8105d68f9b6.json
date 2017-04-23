@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/29/garden/wine-talk-439088.html",
+    "snippet": "LEAD: Robert Mondavi turned 75 years old the other day, so his children put on a birthday party at the winery. A thousand or so of his intimate friends turned up....",
+    "lead_paragraph": "LEAD: Robert Mondavi turned 75 years old the other day, so his children put on a birthday party at the winery. A thousand or so of his intimate friends turned up.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "WINE TALK"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MONDAVI, ROBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1988-06-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PrialSpecial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. PrialSpecial to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18c398eb7c8105d68f9b6",
+    "word_count": 1098,
+    "slideshow_credits": null
+}

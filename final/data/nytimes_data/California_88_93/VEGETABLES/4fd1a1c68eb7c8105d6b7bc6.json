@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/03/us/napa-valley-journal-growers-find-small-is-beautiful-if-it-s-vegetables.html",
+    "snippet": "LEAD: Taking a few hours off can be costly for Lynn Brown and his two partners, who farm five scattered acres here in the Napa Valley, producing the baby vegetables that grace nouvelle dinner plates in restaurants throughout the San Francisco Bay ...",
+    "lead_paragraph": "LEAD: Taking a few hours off can be costly for Lynn Brown and his two partners, who farm five scattered acres here in the Napa Valley, producing the baby vegetables that grace nouvelle dinner plates in restaurants throughout the San Francisco Bay area.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Napa Valley Journal; Growers Find Small Is Beautiful if It's Vegetables"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "VEGETABLES"
+        }
+    ],
+    "pub_date": "1988-11-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a1c68eb7c8105d6b7bc6",
+    "word_count": 876,
+    "slideshow_credits": null
+}

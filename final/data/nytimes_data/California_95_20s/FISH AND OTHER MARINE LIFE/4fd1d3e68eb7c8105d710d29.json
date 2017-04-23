@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1996/06/26/nyregion/c-corrections-044300.html",
+    "snippet": "An article on Saturday about the popularity of abalone on the Northern California coast misspelled the surname of a landscape architect who lives in the Sea Ranch, near Stewarts Point. He is Lawrence Halprin, not Halpern....",
+    "lead_paragraph": "An article on Saturday about the popularity of abalone on the Northern California coast misspelled the surname of a landscape architect who lives in the Sea Ranch, near Stewarts Point. He is Lawrence Halprin, not Halpern.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ABALONE"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "FISH AND OTHER MARINE LIFE"
+        }
+    ],
+    "pub_date": "1996-06-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitian Desk",
+    "section_name": "Corrections",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1d3e68eb7c8105d710d29",
+    "word_count": 36,
+    "slideshow_credits": null
+}

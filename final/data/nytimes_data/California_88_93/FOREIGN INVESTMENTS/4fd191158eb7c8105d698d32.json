@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/05/business/business-forum-competing-for-the-yen-how-california-does-it.html",
+    "snippet": "LEAD: With business development offices in Tokyo, London and, soon, Mexico City, California has been a leader at luring foreign investment. James R. Rinehart, director of the office of business development for the state, spoke to the Business Foru...",
+    "lead_paragraph": "LEAD: With business development offices in Tokyo, London and, soon, Mexico City, California has been a leader at luring foreign investment. James R. Rinehart, director of the office of business development for the state, spoke to the Business Forum editor, Joel Kurtzman, about what California does to attract foreign investment.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "How California Does It",
+        "kicker": "BUSINESS FORUM: COMPETING FOR THE YEN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "RINEHART, JAMES R"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1988-06-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Joel",
+                "rank": 1,
+                "lastname": "KURTZMAN"
+            }
+        ],
+        "original": "By JOEL KURTZMAN"
+    },
+    "type_of_material": "Interview",
+    "_id": "4fd191158eb7c8105d698d32",
+    "word_count": 779,
+    "slideshow_credits": null
+}

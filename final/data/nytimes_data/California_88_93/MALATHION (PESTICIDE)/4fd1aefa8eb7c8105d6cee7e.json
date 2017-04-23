@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/09/opinion/l-why-we-won-t-keep-still-and-be-sprayed-041690.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "34",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Why We Won't Keep Still and Be Sprayed"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KATZ, RICHARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "CITRUS FRUITS"
+        },
+        {
+            "name": "subject",
+            "value": "MALATHION (PESTICIDE)"
+        },
+        {
+            "name": "subject",
+            "value": "MEDITERRANEAN FRUIT FLY"
+        }
+    ],
+    "pub_date": "1990-03-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd1aefa8eb7c8105d6cee7e",
+    "word_count": 306,
+    "slideshow_credits": null
+}

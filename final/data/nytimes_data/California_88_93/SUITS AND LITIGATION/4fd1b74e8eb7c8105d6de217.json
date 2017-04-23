@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/11/12/business/company-news-judge-blocks-exxon-cuts-in-california.html",
+    "snippet": "A group of service station operators has succeeded in persuading a Federal judge to block the Exxon Corporation at least temporarily from abandoning the Southern California market as planned.   United States District Judge Robert M. Takasugi gave ...",
+    "lead_paragraph": "A group of service station operators has succeeded in persuading a Federal judge to block the Exxon Corporation at least temporarily from abandoning the Southern California market as planned. United States District Judge Robert M. Takasugi gave Exxon until Nov. 20 to show cause why he should not order the company to end actions Exxon dealers say are intended to hurt their business. In issuing a preliminary injunction Monday, the judge ordered Exxon not to terminate any franchise agreements with its dealers until the case was settled.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Judge Blocks Exxon Cuts In California",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EXXON CORP"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "GARAGES AND SERVICE STATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        }
+    ],
+    "pub_date": "1992-11-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            }
+        ],
+        "original": "By ANDREA ADELSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b74e8eb7c8105d6de217",
+    "word_count": 371,
+    "slideshow_credits": null
+}

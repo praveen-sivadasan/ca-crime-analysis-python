@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/16/us/tiniest-terror-plaguing-los-angeles.html",
+    "snippet": "In the catalogue of natural disasters, California can always be counted on to hold its own, from earthquakes and mudslides to brush fires and floods. But in these hot, dry days of seemingly endless summer, the region is also dogged by a tinier ter...",
+    "lead_paragraph": "In the catalogue of natural disasters, California can always be counted on to hold its own, from earthquakes and mudslides to brush fires and floods. But in these hot, dry days of seemingly endless summer, the region is also dogged by a tinier terror, a black speck about the size of this ''t.'' The Argentine ant, an aggressive species that first landed in this country in coffee shipments to New Orleans around the turn of the century, then made its way west, has become the No. 1 household pest in Southern California, outpacing fleas and roaches, exterminators say. It is to Los Angeles what the cockroach is to New York: ubiquitous, annoying, impervious.",
+    "abstract": "Argentine ant, aggressive species that landed in US in coffee shipments to New Orleans around turn of century, has become No.1 household pest in California; drawing; photo (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tiniest Terror Plaguing Los Angeles"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ANTS"
+        }
+    ],
+    "pub_date": "1997-09-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d7f28eb7c8105d716410",
+    "word_count": 1001,
+    "slideshow_credits": null
+}

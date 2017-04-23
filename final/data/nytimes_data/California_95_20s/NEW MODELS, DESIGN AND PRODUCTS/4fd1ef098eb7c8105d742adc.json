@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1995/04/02/automobiles/reluctantly-charging-toward-98.html",
+    "snippet": "THE Big Three are all working hard on electric cars, not out of enthusiasm, but to comply with an impending requirement in California -- since adopted by New York and Massachusetts -- that 2 percent of the cars offered for sale by the 1998 model y...",
+    "lead_paragraph": "THE Big Three are all working hard on electric cars, not out of enthusiasm, but to comply with an impending requirement in California -- since adopted by New York and Massachusetts -- that 2 percent of the cars offered for sale by the 1998 model year have \"zero emissions.\" The auto manufacturers' hardest work on the issue has sometimes seemed to be in courtrooms, but they have failed to persuade judges to overturn the rules. The Big Three are still trying to negotiate with clean-air regulators, but they are also building cars.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Reluctantly Charging Toward '98"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1995-04-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Automobiles",
+    "section_name": "Automobiles",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ef098eb7c8105d742adc",
+    "word_count": 579,
+    "slideshow_credits": null
+}

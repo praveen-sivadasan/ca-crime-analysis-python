@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/04/us/hints-by-california-s-governor-stir-up-gop-presidential-pool.html",
+    "snippet": "Just as Gov. Mario M. Cuomo's non-candidacy unnerved Democrats four years ago, the speculation that Gov. Pete Wilson of California is running for President has set off a furious round of jockeying among Republicans already in the race and is threa...",
+    "lead_paragraph": "Just as Gov. Mario M. Cuomo's non-candidacy unnerved Democrats four years ago, the speculation that Gov. Pete Wilson of California is running for President has set off a furious round of jockeying among Republicans already in the race and is threatening to tear apart the California Republican Party. Mr. Wilson's friends and advisers say he is edging close to entering the race. But no matter what happens, the very talk of a bid by Mr. Wilson has altered the early dynamics of the campaign.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Hints by California's Governor Stir Up G.O.P. Presidential Pool"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1995-03-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "L.",
+                "lastname": "BERKE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD L. BERKE"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1cb7d8eb7c8105d700f31",
+    "word_count": 1465,
+    "slideshow_credits": null
+}

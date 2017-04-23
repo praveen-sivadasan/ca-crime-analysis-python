@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/04/us/under-heavy-fire-california-governor-drops-budget-plan.html",
+    "snippet": "LEAD: Gov. George Deukmejian today withdrew key portions of his $2.3 billion plan to balance the California budget, accusing the news media of misrepresenting his proposals as tax increases....",
+    "lead_paragraph": "LEAD: Gov. George Deukmejian today withdrew key portions of his $2.3 billion plan to balance the California budget, accusing the news media of misrepresenting his proposals as tax increases.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Under Heavy Fire, California Governor Drops Budget Plan"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "INCOME TAX"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1988-06-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18c368eb7c8105d68f768",
+    "word_count": 425,
+    "slideshow_credits": null
+}

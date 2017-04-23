@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/27/sports/sports-people-workout-barred.html",
+    "snippet": "LEAD: Marty Denkin, a state boxing official, said yesterday that Sugar Ray Leonard, who was not allowed to spar on Tuesday because he did not hold a boxing license in California, had been told previously that he could not engage an opponent in the...",
+    "lead_paragraph": "LEAD: Marty Denkin, a state boxing official, said yesterday that Sugar Ray Leonard, who was not allowed to spar on Tuesday because he did not hold a boxing license in California, had been told previously that he could not engage an opponent in the ring. Leonard arrived on the West Coast Tuesday for a public workout to promote his Nov.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sports People; Workout Barred"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LEONARD, SUGAR RAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BOXING"
+        }
+    ],
+    "pub_date": "1988-10-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd182558eb7c8105d67f2e0",
+    "word_count": 236,
+    "slideshow_credits": null
+}

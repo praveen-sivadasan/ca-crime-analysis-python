@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/03/us/nursing-candidates-take-compromised-test.html",
+    "snippet": "LEAD: Officials in 44 states and United States territories yesterday began administering a two-day national examination leading to the licensing of registered nurses despite evidence that a copy of the test had been stolen and photocopied in Calif...",
+    "lead_paragraph": "LEAD: Officials in 44 states and United States territories yesterday began administering a two-day national examination leading to the licensing of registered nurses despite evidence that a copy of the test had been stolen and photocopied in California.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Nursing Candidates Take Compromised Test"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROBBERIES AND THEFTS"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "NURSING AND NURSES"
+        },
+        {
+            "name": "subject",
+            "value": "LICENSES"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        }
+    ],
+    "pub_date": "1988-02-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Dennis",
+                "rank": 1,
+                "lastname": "HEVESI"
+            }
+        ],
+        "original": "By DENNIS HEVESI"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18eef8eb7c8105d694c68",
+    "word_count": 655,
+    "slideshow_credits": null
+}

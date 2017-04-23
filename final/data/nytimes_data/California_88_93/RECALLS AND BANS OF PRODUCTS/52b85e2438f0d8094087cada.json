@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/25/us/ford-recalls-72600-trucks-that-were-sold-in-california.html",
+    "snippet": "The Ford Motor Company said today that it was voluntarily recalling about 72,600 trucks to insure acceptable emissions levels. The trucks were built for sale in California.    Included in the recall are the 1986-87 F-Series and Bronco vehicles wit...",
+    "lead_paragraph": "The Ford Motor Company said today that it was voluntarily recalling about 72,600 trucks to insure acceptable emissions levels. The trucks were built for sale in California. Included in the recall are the 1986-87 F-Series and Bronco vehicles with 4.9-liter engines and the 1986-88 Ranger trucks with 2.3-liter engines.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Ford Recalls 72,600 Trucks That Were Sold in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FORD MOTOR CO"
+        },
+        {
+            "name": "subject",
+            "value": "TRUCKS AND TRUCKING"
+        },
+        {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+        }
+    ],
+    "pub_date": "1991-06-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "Reuters",
+        "organization": "Reuters"
+    },
+    "type_of_material": "News",
+    "_id": "52b85e2438f0d8094087cada",
+    "word_count": "87",
+    "slideshow_credits": null
+}

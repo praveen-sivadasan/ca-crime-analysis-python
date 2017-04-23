@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/03/business/company-news-sears-will-pay-8-million-to-settle-repair-complaints.html",
+    "snippet": "Sears, Roebuck & Company has agreed to pay $8 million to settle civil charges that its auto repair shops systematically overcharged customers for routine repairs in California.   Attorney General Daniel E. Lungren of California, who announced the ...",
+    "lead_paragraph": "Sears, Roebuck & Company has agreed to pay $8 million to settle civil charges that its auto repair shops systematically overcharged customers for routine repairs in California. Attorney General Daniel E. Lungren of California, who announced the settlement yesterday, said it would avert years of costly trials and would speed a change in auto repair practices at Sears, where California's undercover agents were charged an average of $288 a visit for unnecessary repairs during an 18-month investigation.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sears Will Pay $8 Million To Settle Repair Complaints",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SEARS ROEBUCK & CO"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "REPAIR SERVICES"
+        }
+    ],
+    "pub_date": "1992-09-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "FAISON"
+            }
+        ],
+        "original": "By SETH FAISON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1df1c8eb7c8105d724063",
+    "word_count": 428,
+    "slideshow_credits": null
+}

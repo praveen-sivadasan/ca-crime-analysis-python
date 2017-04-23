@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/01/business/company-news-orion-pictures-is-hit-by-tax-lien.html",
+    "snippet": "The Orion Pictures Corporation, the movie studio threatened by bankruptcy over a stack of late bills, has been hit with a $15 million state tax lien. \"It is a precautionary measure to make sure, if any assets are sold or liquidated, the State of C...",
+    "lead_paragraph": "The Orion Pictures Corporation, the movie studio threatened by bankruptcy over a stack of late bills, has been hit with a $15 million state tax lien. \"It is a precautionary measure to make sure, if any assets are sold or liquidated, the State of California would be taken care of,\" said Jim Reber, a spokesman for the California Franchise Tax Board.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Orion Pictures Is Hit by Tax Lien",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ORION PICTURES CORP"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "INCOME TAX"
+        },
+        {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+        }
+    ],
+    "pub_date": "1991-11-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b85f1d38f0d8094087cc16",
+    "word_count": "95",
+    "slideshow_credits": null
+}

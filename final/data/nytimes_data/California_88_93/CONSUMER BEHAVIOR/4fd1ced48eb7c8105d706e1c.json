@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/11/garden/wine-talk-580092.html",
+    "snippet": "EVERY year at this time, Wine and Spirits, a consumer magazine for wine enthusiasts, publishes a survey of what people are drinking in restaurants. Since many people try out wines in restaurants before taking them home, the survey, while not scien...",
+    "lead_paragraph": "EVERY year at this time, Wine and Spirits, a consumer magazine for wine enthusiasts, publishes a survey of what people are drinking in restaurants. Since many people try out wines in restaurants before taking them home, the survey, while not scientific, gives some insight into what will be happening in wine shops this year. The current report, in the April issue, indicates that Americans are continuing their tried and true wine-drinking patterns. Chardonnay is still the all-out favorite wine. Make that California chardonnay: of the 15 top chardonnay producers cited in the poll, 13 are California wineries. Sonoma-Cutrer Vineyards is in first place, Kendall-Jackson Vineyard second and Robert Mondavi Winery third.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "WINE AND SPIRITS (MAGAZINE)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SURVEYS AND SERIES"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER BEHAVIOR"
+        }
+    ],
+    "pub_date": "1992-03-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ced48eb7c8105d706e1c",
+    "word_count": 1087,
+    "slideshow_credits": null
+}

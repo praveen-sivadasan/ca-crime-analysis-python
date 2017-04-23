@@ -1,0 +1,33 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/22/us/strong-winds-whip-up-california-fires.html",
+    "snippet": "Photo of fire that destroyed more than 70 houses in Southern California...",
+    "lead_paragraph": null,
+    "abstract": "Photo of fire that destroyed more than 70 houses in Southern California",
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Strong Winds Whip Up California Fires"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        }
+    ],
+    "pub_date": "1996-10-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd1cbd28eb7c8105d701ab2",
+    "word_count": 0,
+    "slideshow_credits": null
+}

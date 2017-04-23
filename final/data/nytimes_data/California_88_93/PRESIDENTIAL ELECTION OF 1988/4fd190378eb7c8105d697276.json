@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/14/us/criticism-over-dukakis-is-softened-by-jackson.html",
+    "snippet": "LEAD: The Rev. Jesse Jackson said today that his criticisms of Gov. Michael S. Dukakis were part of a fight for control of the Democratic Party's approach to policy and did not mean that he believed Mr. Dukakis was a philosophical ''twin'' of Vice...",
+    "lead_paragraph": "LEAD: The Rev. Jesse Jackson said today that his criticisms of Gov. Michael S. Dukakis were part of a fight for control of the Democratic Party's approach to policy and did not mean that he believed Mr. Dukakis was a philosophical ''twin'' of Vice President Bush.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Criticism Over Dukakis Is Softened by Jackson"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "persons",
+            "value": "JACKSON, JESSE L"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        }
+    ],
+    "pub_date": "1988-05-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "ORESKES"
+            }
+        ],
+        "original": "By MICHAEL ORESKES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190378eb7c8105d697276",
+    "word_count": 859,
+    "slideshow_credits": null
+}

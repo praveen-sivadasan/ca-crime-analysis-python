@@ -1,0 +1,59 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/05/us/california-primary-testing-candidates-fall-strategies.html",
+    "snippet": "LEAD: It was supposed to provide a rousing grand finale to the nominating season, as it has so often done in the past. But with the Presidential candidates in both parties all but chosen, Tuesday's California primary has turned out to be a trial h...",
+    "lead_paragraph": "LEAD: It was supposed to provide a rousing grand finale to the nominating season, as it has so often done in the past. But with the Presidential candidates in both parties all but chosen, Tuesday's California primary has turned out to be a trial heat for the fall election.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Primary Testing Candidates' Fall Strategies"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1988-06-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr.",
+                "firstname": "R.",
+                "middlename": "W.",
+                "lastname": "APPLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By R. W. APPLE Jr., Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190388eb7c8105d697373",
+    "word_count": 1100,
+    "slideshow_credits": null
+}

@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/09/travel/travel-advisory-california-spectacular-the-snow-melt.html",
+    "snippet": "A record Sierra snow pack is melting into shows of water in California, providing exceptional vistas for travelers, thrills for river rafters and impassable roads.   \"There are a lot of places in the Sierra this year where the snow will never go a...",
+    "lead_paragraph": "A record Sierra snow pack is melting into shows of water in California, providing exceptional vistas for travelers, thrills for river rafters and impassable roads. \"There are a lot of places in the Sierra this year where the snow will never go away,\" said Dave Hart, coordinator of California's Cooperative Snow Survey, a division of the California Department of Water Resources. Mr. Hart called this year's accumulation -- more than twice as much as usual in some places -- one of the four biggest since 1930.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Spectacular: The Snow Melt",
+        "kicker": "TRAVEL ADVISORY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "SNOW AND SNOWSTORMS"
+        },
+        {
+            "name": "subject",
+            "value": "RAFTS"
+        },
+        {
+            "name": "subject",
+            "value": "NYTRAVEL"
+        }
+    ],
+    "pub_date": "1995-07-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bill",
+                "rank": 1,
+                "lastname": "STAGGS"
+            }
+        ],
+        "original": "By BILL STAGGS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ce278eb7c8105d705af9",
+    "word_count": 258,
+    "slideshow_credits": null
+}

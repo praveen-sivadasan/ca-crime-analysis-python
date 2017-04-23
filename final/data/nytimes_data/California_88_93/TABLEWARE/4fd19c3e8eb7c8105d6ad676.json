@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/13/us/california-moves-to-limit-lead-used-in-tableware.html",
+    "snippet": "Amid growing public-health concern about lead in food, California began legal action today that could force a drastic reduction in the amount of lead in plates, bowls, cups, mugs and other everyday tableware.   The step is the latest attempt by Ca...",
+    "lead_paragraph": "Amid growing public-health concern about lead in food, California began legal action today that could force a drastic reduction in the amount of lead in plates, bowls, cups, mugs and other everyday tableware. The step is the latest attempt by California to repeat what it has done on automobile emissions and impose environmental and health standards far stricter than those adopted by the Federal Government.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Moves to Limit Lead Used in Tableware"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEAD"
+        },
+        {
+            "name": "subject",
+            "value": "TABLEWARE"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        }
+    ],
+    "pub_date": "1991-11-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19c3e8eb7c8105d6ad676",
+    "word_count": 882,
+    "slideshow_credits": null
+}

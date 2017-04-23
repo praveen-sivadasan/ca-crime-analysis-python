@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/05/us/california-court-upholds-car-insurance-rate-cuts.html",
+    "snippet": "LEAD: The California Supreme Court today upheld a ballot initiative passed by voters here last fall that would drastically reduce auto and casualty insurance rates and impose strict state regulation of the insurance industry....",
+    "lead_paragraph": "LEAD: The California Supreme Court today upheld a ballot initiative passed by voters here last fall that would drastically reduce auto and casualty insurance rates and impose strict state regulation of the insurance industry.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Court Upholds Car Insurance Rate Cuts"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "DISCLOSURE OF INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "CASUALTY INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1989-05-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18bf78eb7c8105d68f435",
+    "word_count": 914,
+    "slideshow_credits": null
+}

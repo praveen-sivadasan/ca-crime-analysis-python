@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/08/garden/california-olive-oil-may-follow-wine-in-upward-mobility.html",
+    "snippet": "WHEN Californians talk about varietals, harvests and pressing these days, they may have olives, not grapes, in mind.   The same undaunted pioneer spirit that over the years has successfully conquered the gastronomic frontiers of wines, goat cheese...",
+    "lead_paragraph": "WHEN Californians talk about varietals, harvests and pressing these days, they may have olives, not grapes, in mind. The same undaunted pioneer spirit that over the years has successfully conquered the gastronomic frontiers of wines, goat cheeses and sun-dried tomatoes is now tackling olive oil.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Olive Oil May Follow Wine In Upward Mobility"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "OLIVE OIL"
+        }
+    ],
+    "pub_date": "1992-01-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Florence",
+                "rank": 1,
+                "lastname": "FABRICANT"
+            }
+        ],
+        "original": "By FLORENCE FABRICANT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cdcd8eb7c8105d705403",
+    "word_count": 1621,
+    "slideshow_credits": null
+}

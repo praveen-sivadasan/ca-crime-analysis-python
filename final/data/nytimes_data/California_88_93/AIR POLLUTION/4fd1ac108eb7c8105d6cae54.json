@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/08/business/business-technology-monitoring-pollution-at-its-source.html",
+    "snippet": "In smog-choked Southern California, air-quality regulators have long monitored factories, refineries and other sources of industrial air pollution in the way the Internal Revenue Service keeps track of taxpayers: by requiring voluminous record-kee...",
+    "lead_paragraph": "In smog-choked Southern California, air-quality regulators have long monitored factories, refineries and other sources of industrial air pollution in the way the Internal Revenue Service keeps track of taxpayers: by requiring voluminous record-keeping and swooping in for the occasional audit. But in the next few years, regulators here plan to shift to a new system more like the one the A. C. Nielsen Company uses to monitor the television programs emitted into American households. Each smokestack or other major source of pollution will be wired with sensors or tracking devices to measure emissions on a continuing basis. The data will be transmitted to a central computer for record-keeping and analysis.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Monitoring Pollution at Its Source",
+        "kicker": "BUSINESS TECHNOLOGY"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "BUSINESS TECHNOLOGY PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SMOG"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1992-04-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ac108eb7c8105d6cae54",
+    "word_count": 1117,
+    "slideshow_credits": null
+}

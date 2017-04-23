@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/09/sports/sports-people-boxer-fails-drug-test.html",
+    "snippet": "LEAD: Miguel Lora of Colombia, the World Boxing Council bantamweight champion, won a unanimous 12-round decision over Albert Davila of Pomona, Calif., Aug. 1 at the Forum in Inglewood, Calif., but the California Athletic Commission announced yeste...",
+    "lead_paragraph": "LEAD: Miguel Lora of Colombia, the World Boxing Council bantamweight champion, won a unanimous 12-round decision over Albert Davila of Pomona, Calif., Aug. 1 at the Forum in Inglewood, Calif., but the California Athletic Commission announced yesterday that traces of two banned drugs had been found in the urine of Lora in postfight tests.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Boxer Fails Drug Test",
+        "kicker": "SPORTS PEOPLE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LORA, MIGUEL"
+        },
+        {
+            "name": "persons",
+            "value": "DAVILA, ALBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WORLD BOXING COUNCIL"
+        },
+        {
+            "name": "subject",
+            "value": "BOXING"
+        },
+        {
+            "name": "subject",
+            "value": "DRUGS AND DRUG TRADE"
+        }
+    ],
+    "pub_date": "1988-08-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd18dfc8eb7c8105d692baa",
+    "word_count": 171,
+    "slideshow_credits": null
+}

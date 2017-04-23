@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/04/17/us/huffington-ponders-race.html",
+    "snippet": "Michael Huffington, the former California Congressman who spent $28 million of his own money in a 1994 bid for a United States Senate seat, is considering running for governor in 1998, The Los Angeles Times said today.   Mr. Huffington, a Republic...",
+    "lead_paragraph": "Michael Huffington, the former California Congressman who spent $28 million of his own money in a 1994 bid for a United States Senate seat, is considering running for governor in 1998, The Los Angeles Times said today. Mr. Huffington, a Republican who lost a hard-fought race to the incumbent, Dianne Feinstein, told The Times that he would not use his own money if he ran for governor.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Huffington Ponders Race"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HUFFINGTON, MICHAEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1995-04-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ef098eb7c8105d742b61",
+    "word_count": 93,
+    "slideshow_credits": null
+}

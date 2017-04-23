@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/18/weekinreview/ideas-trends-california-tried-democracy-and-look-what-s-happened-now.html",
+    "snippet": "HERE in the land of new beginnings, what might be called the end of politics has begun.   A new Governor waits in the wings, having been elected by the lowest turnout in California history. Members of the State Legislature return to work next mont...",
+    "lead_paragraph": "HERE in the land of new beginnings, what might be called the end of politics has begun. A new Governor waits in the wings, having been elected by the lowest turnout in California history. Members of the State Legislature return to work next month, having had their budgets, staffs and terms clipped by angry voters. And if representative democracy has approached paralysis in California, the voters have also spurned the alternative, direct democracy by voter initiative, at least for now. This month, in a spasm of exasperation, confusion and resentment against new taxes, the voters said 'no' to almost everything on their ballot; one of the few exceptions was the proposition putting sharp limits on the terms of their representatives and leaders in Sacramento.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ideas & Trends; California Tried Democracy, And Look What's Happened Now"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-11-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week In Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19e9c8eb7c8105d6b18b2",
+    "word_count": 1484,
+    "slideshow_credits": null
+}

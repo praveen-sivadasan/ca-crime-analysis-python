@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/16/us/government-acts-to-calm-california-s-energy-market.html",
+    "snippet": "The Federal Energy Regulatory Commission took action today to protect Californians against the recent volatility in the wholesale electricity market that has brought soaring power prices, threats of blackouts and perils of insolvency for the state...",
+    "lead_paragraph": "The Federal Energy Regulatory Commission took action today to protect Californians against the recent volatility in the wholesale electricity market that has brought soaring power prices, threats of blackouts and perils of insolvency for the state's largest utilities. But the commission's steps were of little comfort to California officials and consumer groups, who said the commission did not go far enough.",
+    "abstract": "Federal Energy Regulatory Commission, which oversees wholesale electricity prices, takes action to protect Californians against recent price volatility and shortages; commission orders that utility companies will not be required to buy or sell electricity through California Power Exchange, but will instead be encouraged to enter into long-term contracts of two years or more with power generators; also orders price cap in state of $150 per megawatt hour through April 2001 (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Government Acts to Calm California's Energy Market"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL ENERGY REGULATORY COMMISSION"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA POWER EXCHANGE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "WAGE AND PRICE CONTROLS"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "2000-12-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAURA M. HOLSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21d478eb7c8105d79dff2",
+    "word_count": 802,
+    "slideshow_credits": null
+}

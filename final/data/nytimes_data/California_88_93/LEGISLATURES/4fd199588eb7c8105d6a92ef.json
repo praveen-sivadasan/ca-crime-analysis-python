@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/27/us/ex-legislator-s-fraud-conviction-overturned.html",
+    "snippet": "LEAD: A Federal appeals court has overturned the first political corruption conviction of a California legislator in decades....",
+    "lead_paragraph": "LEAD: A Federal appeals court has overturned the first political corruption conviction of a California legislator in decades.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ex-Legislator's Fraud Conviction Overturned"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "YOUNG, BRUCE E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1988-11-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd199588eb7c8105d6a92ef",
+    "word_count": 292,
+    "slideshow_credits": null
+}

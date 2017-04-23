@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/02/us/california-roads-not-so-safe-in-quakes.html",
+    "snippet": "LEAD: Californians have long lived with the knowledge that many of the state's freeways, bridges and buildings might not withstand a major earthquake, but a new report from a state-appointed commission has concluded that even many structures thoug...",
+    "lead_paragraph": "LEAD: Californians have long lived with the knowledge that many of the state's freeways, bridges and buildings might not withstand a major earthquake, but a new report from a state-appointed commission has concluded that even many structures thought to have been made safe remain dangerous.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Roads Not So Safe in Quakes"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "BRIDGES AND TUNNELS"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1990-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f798eb7c8105d6b302b",
+    "word_count": 977,
+    "slideshow_credits": null
+}

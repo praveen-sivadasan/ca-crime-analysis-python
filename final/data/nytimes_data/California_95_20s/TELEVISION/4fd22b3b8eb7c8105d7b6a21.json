@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/2000/10/31/us/2000-campaign-spending-ads-bush-has-advertised-more-california-than-swing-states.html",
+    "snippet": "Gov. George W. Bush spent more money on television advertising in California last week than in any of the swing states, where he is believed to stand a better chance of winning on Election Day, a new study shows.    The Republicans' advertising ou...",
+    "lead_paragraph": "Gov. George W. Bush spent more money on television advertising in California last week than in any of the swing states, where he is believed to stand a better chance of winning on Election Day, a new study shows. The Republicans' advertising outlays in California, more than $1.8 million for the week that ended on Oct. 24, went unmatched by the Democrats. In fact, the report released yesterday by the Brennan Center for Justice at the New York University School of Law said that since June 1, Gov. George W. Bush and the Republican Party had spent $5.5 million on television commercials in California, the country's most populous state. The Democrats and Vice President Al Gore, meanwhile, have spent no money on television there.",
+    "abstract": "Report by Brennan Center for Justice at New York University School of Law finds Gov George W Bush spent more money on television advertising in California in most recent week than in any of swing states, where he is believed to stand better chance of winning on Election Day; says Bush spent more than $1.8 million for week ended October 24, which went unmatched by Democrats; says since June 1 Bush and Repoublican Party spent $5.5 million on television commercials, while Democrats and Vice Pres Al Gore spent none (M)",
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bush Has Advertised More in California Than in Swing States",
+        "kicker": "THE 2000 CAMPAIGN: THE SPENDING ON ADS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BRENNAN CENTER FOR JUSTICE"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "2000-10-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Peter",
+                "rank": 1,
+                "lastname": "MARKS"
+            }
+        ],
+        "original": "By PETER MARKS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd22b3b8eb7c8105d7b6a21",
+    "word_count": 638,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/20/us/california-journal-a-study-on-feelings-creates-bad-ones.html",
+    "snippet": "LEAD: After three years of study that was often derided, the California Task Force to Promote Self-Esteem and Personal and Social Responsibility has issued its final report, promoting Horatio Alger virtures, but clothing them in New Age terms....",
+    "lead_paragraph": "LEAD: After three years of study that was often derided, the California Task Force to Promote Self-Esteem and Personal and Social Responsibility has issued its final report, promoting Horatio Alger virtures, but clothing them in New Age terms.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Journal;   A Study On Feelings Creates Bad Ones"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE STYLES"
+        }
+    ],
+    "pub_date": "1990-02-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1acfc8eb7c8105d6ccdff",
+    "word_count": 612,
+    "slideshow_credits": null
+}

@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/02/sports/mets-get-relief-at-a-crucial-point.html",
+    "snippet": "LEAD: It was the worst trip to the West Coast for the Mets in the six years of the reign of Davey Johnson, three victories and six losses, and the last time they did it, George Bamberger resigned as the manager. But nobody was resigning this time,...",
+    "lead_paragraph": "LEAD: It was the worst trip to the West Coast for the Mets in the six years of the reign of Davey Johnson, three victories and six losses, and the last time they did it, George Bamberger resigned as the manager. But nobody was resigning this time, and the Mets even came home yesterday after one night of success that somehow seemed to relieve the sense of crisis swamping the team in",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Mets Get Relief at a Crucial Point"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NEW YORK METS"
+        },
+        {
+            "name": "subject",
+            "value": "BASEBALL"
+        }
+    ],
+    "pub_date": "1989-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Joseph",
+                "rank": 1,
+                "lastname": "DURSO"
+            }
+        ],
+        "original": "By JOSEPH DURSO"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a28b8eb7c8105d6b8e92",
+    "word_count": 811,
+    "slideshow_credits": null
+}

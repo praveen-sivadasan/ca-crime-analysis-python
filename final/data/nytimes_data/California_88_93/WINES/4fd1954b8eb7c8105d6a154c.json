@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/21/garden/wine-talk-856789.html",
+    "snippet": "LEAD: SOMEONE wrote recently remarking on the ability of some of the old-line Italian wineries in California to produce good wines at astonishingly low prices. It's true; some of the old-timers - and their not-so-old offspring - consistently put f...",
+    "lead_paragraph": "LEAD: SOMEONE wrote recently remarking on the ability of some of the old-line Italian wineries in California to produce good wines at astonishingly low prices. It's true; some of the old-timers - and their not-so-old offspring - consistently put fashionable wineries to shame with the high quality and low prices of their products.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        }
+    ],
+    "pub_date": "1989-06-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1954b8eb7c8105d6a154c",
+    "word_count": 1103,
+    "slideshow_credits": null
+}

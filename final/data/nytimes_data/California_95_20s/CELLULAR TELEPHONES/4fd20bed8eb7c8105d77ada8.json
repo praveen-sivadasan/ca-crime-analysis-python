@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/16/technology/news-watch-cellular-service-cheaper-in-east-a-survey-says.html",
+    "snippet": "Although prices vary widely across the nation, cellular phone service appears to be least expensive in the East and most expensive in California, according to a new survey by the International Data Corporation....",
+    "lead_paragraph": "Although prices vary widely across the nation, cellular phone service appears to be least expensive in the East and most expensive in California, according to a new survey by the International Data Corporation.",
+    "abstract": "International Data Corp reports that cellular phone serve appears to be least expensive in the East and most expensive in California (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cellular Service Cheaper In East, a Survey Says",
+        "kicker": "NEWS WATCH"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERNATIONAL DATA CORP"
+        },
+        {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1998-04-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Circuits",
+    "section_name": "Technology",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Peter",
+                "middlename": "H.",
+                "lastname": "Lewis",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Peter H. Lewis"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20bed8eb7c8105d77ada8",
+    "word_count": 147,
+    "slideshow_credits": null
+}

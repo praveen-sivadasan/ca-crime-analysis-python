@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1998/11/04/us/1998-elections-nation-comeback-barbara-boxer-wins-hard-fought-race-for-senate.html",
+    "snippet": "In one of the most closely watched Senate races in the country, Barbara Boxer, the junior liberal Democratic Senator who won her first election in a hard-fought squeaker, won an even harder-fought race against her Republican challenger, State Trea...",
+    "lead_paragraph": "In one of the most closely watched Senate races in the country, Barbara Boxer, the junior liberal Democratic Senator who won her first election in a hard-fought squeaker, won an even harder-fought race against her Republican challenger, State Treasurer Matt Fong. Even before the voting ended here at 8 P.M., early voter polls showed Ms. Boxer leading Mr. Fong by six to nine percentage points. Roy Behr, a spokesman for Ms. Boxer's campaign, said he expected the race to get closer when absentee ballots were counted.",
+    "abstract": "Barbara Boxer, Democratic Senator from California, is re-elected; defeats Republican challenger, State Treasurer Matt Fong; photo (M)",
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Barbara Boxer Wins Hard-Fought Race for Senate Seat in California",
+        "kicker": "THE 1998 ELECTIONS: THE NATION -- THE COMEBACK"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FONG, MATT"
+        },
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION RESULTS"
+        }
+    ],
+    "pub_date": "1998-11-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Evelyn",
+                "rank": 1,
+                "lastname": "NIEVES"
+            }
+        ],
+        "original": "By EVELYN NIEVES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e16a8eb7c8105d729bc3",
+    "word_count": 677,
+    "slideshow_credits": null
+}

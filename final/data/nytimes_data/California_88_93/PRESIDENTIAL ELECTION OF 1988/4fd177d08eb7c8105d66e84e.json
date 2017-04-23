@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/20/nyregion/c-corrections-792388.html",
+    "snippet": "LEAD: An article and a picture caption on Wednesday about Vice President Bush's visit to an irrigation project misidentified the site. It was the California State University at Fresno....",
+    "lead_paragraph": "LEAD: An article and a picture caption on Wednesday about Vice President Bush's visit to an irrigation project misidentified the site. It was the California State University at Fresno.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1988-05-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd177d08eb7c8105d66e84e",
+    "word_count": 57,
+    "slideshow_credits": null
+}

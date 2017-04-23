@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1997/01/15/us/marijuana-advocates-sue-to-stop-federal-sanctions.html",
+    "snippet": "A group of doctors and patients advocating the medical use of marijuana sued senior officials of the Clinton Administration today to try to block the Government from sanctions on doctors who recommend the drug to sick people under a new California...",
+    "lead_paragraph": "A group of doctors and patients advocating the medical use of marijuana sued senior officials of the Clinton Administration today to try to block the Government from sanctions on doctors who recommend the drug to sick people under a new California law. The class-action lawsuit, filed in Federal District Court here, asserts that the Administration's plan to prosecute or strip prescription licenses from doctors who endorse the drug for patients with illnesses like cancer and AIDS intrudes on the doctor-patient relationship in violation of the First Amendment.",
+    "abstract": "Group of doctors and patients advocating medical use of marijuana sues senior officials of Clinton Administration to try to block Government from sanctions on doctors who recommend drug to sick people under new California law (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Marijuana Advocates Sue To Stop Federal Sanctions"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "MARIJUANA"
+        }
+    ],
+    "pub_date": "1997-01-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cd7f8eb7c8105d704cb1",
+    "word_count": 740,
+    "slideshow_credits": null
+}

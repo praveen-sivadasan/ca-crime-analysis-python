@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/25/us/anxious-california-braces-for-another-dry-year.html",
+    "snippet": "The drought that has stricken California and the Southwest is entering its fifth year, and probably nowhere has water become more of a preoccupation of daily life than here on the central coast of California.   An ordinary puddle can be a source o...",
+    "lead_paragraph": "The drought that has stricken California and the Southwest is entering its fifth year, and probably nowhere has water become more of a preoccupation of daily life than here on the central coast of California. An ordinary puddle can be a source of wonder; people funnel waste water from their washing machines to their gardens, and Joy Elliott, the police chief's administrative assistant here, catches the three gallons of cold water that come up before the hot water starts in her morning shower and saves it for the lawn.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Anxious California Braces for Another Dry Year"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        }
+    ],
+    "pub_date": "1990-12-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1970d8eb7c8105d6a4d85",
+    "word_count": 1364,
+    "slideshow_credits": null
+}

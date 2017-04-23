@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/17/us/political-memo-clinton-california-conundrum-for-96.html",
+    "snippet": "For President Clinton, California's beleaguered economy presents two riddles, with heavy political implications for 1996.   First, how can his Administration help pull California, with its 54 electoral votes, out of the economic abyss as Pentagon ...",
+    "lead_paragraph": "For President Clinton, California's beleaguered economy presents two riddles, with heavy political implications for 1996. First, how can his Administration help pull California, with its 54 electoral votes, out of the economic abyss as Pentagon cutbacks continue to drag that state down? And how can the Administration mount a plan to rescue California without having other states accuse it of favoritism?",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Political Memo; Clinton California Conundrum for '96"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1993-11-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Steven",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By STEVEN GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ad668eb7c8105d6cdcdd",
+    "word_count": 1005,
+    "slideshow_credits": null
+}

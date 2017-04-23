@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1993/01/26/business/pacific-bell-switch-deal-biggest-ever.html",
+    "snippet": "Pacific Bell, California's main telephone company, said yesterday that it was undertaking an ambitious $1 billion plan to further modernize its local telephone service by 1997.   The project involves the largest contract ever for telephone switchi...",
+    "lead_paragraph": "Pacific Bell, California's main telephone company, said yesterday that it was undertaking an ambitious $1 billion plan to further modernize its local telephone service by 1997. The project involves the largest contract ever for telephone switching equipment, the powerful computers that can route millions of phone calls a day. The purchase would lead to wider availability of consumer services, as well as more sophisticated communications capabilities for California's many high-technology industries.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pacific Bell Switch Deal Biggest Ever"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        }
+    ],
+    "pub_date": "1993-01-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Anthony",
+                "rank": 1,
+                "lastname": "RAMIREZ"
+            }
+        ],
+        "original": "By ANTHONY RAMIREZ"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d83e8eb7c8105d717116",
+    "word_count": 345,
+    "slideshow_credits": null
+}

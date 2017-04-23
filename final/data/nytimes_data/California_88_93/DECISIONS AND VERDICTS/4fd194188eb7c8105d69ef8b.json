@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/30/us/california-closer-to-its-first-execution-since-1967.html",
+    "snippet": "LEAD: California moved closer to its first execution in nearly a quarter of a century today when a divided Federal appeals court upheld the death sentence of Robert Alton Harris, who was hours away from execution at San Quentin prison last April w...",
+    "lead_paragraph": "LEAD: California moved closer to its first execution in nearly a quarter of a century today when a divided Federal appeals court upheld the death sentence of Robert Alton Harris, who was hours away from execution at San Quentin prison last April when his sentence was stayed.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Closer to Its First Execution Since 1967"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "APPEALS COURTS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1990-08-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194188eb7c8105d69ef8b",
+    "word_count": 528,
+    "slideshow_credits": null
+}

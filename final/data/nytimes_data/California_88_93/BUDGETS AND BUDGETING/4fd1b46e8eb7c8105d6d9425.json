@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/04/business/finance-new-issues-california-gets-back-in-the-market-quickly.html",
+    "snippet": "With California's new $57.4 billion budget now signed, the state quickly entered the debt market yesterday to price $3.3 billion of one-month notes that will be used to pay bills and i.o.u.'s to its employees, businesses and local governments not ...",
+    "lead_paragraph": "With California's new $57.4 billion budget now signed, the state quickly entered the debt market yesterday to price $3.3 billion of one-month notes that will be used to pay bills and i.o.u.'s to its employees, businesses and local governments not paid since July 1. The budget crisis lasted 63 days, the longest period ever that the state had been without a budget.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Gets Back in the Market Quickly",
+        "kicker": "FINANCE/NEW ISSUES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1992-09-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b46e8eb7c8105d6d9425",
+    "word_count": 321,
+    "slideshow_credits": null
+}

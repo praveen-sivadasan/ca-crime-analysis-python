@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1989/07/13/business/state-insurance-laws-could-slow-bat-bid.html",
+    "snippet": "LEAD: Sir James Goldsmith's $21 billion bid for B.A.T. Industries could be complicated by state regulations concerning any change in ownership of B.A.T.'s American insurance subsidiary, the Farmers Group Inc., analysts and regulators said today....",
+    "lead_paragraph": "LEAD: Sir James Goldsmith's $21 billion bid for B.A.T. Industries could be complicated by state regulations concerning any change in ownership of B.A.T.'s American insurance subsidiary, the Farmers Group Inc., analysts and regulators said today.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "State Insurance Laws Could Slow B.A.T. Bid"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GOLDSMITH, JAMES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FARMERS GROUP INC"
+        },
+        {
+            "name": "organizations",
+            "value": "BAT INDUSTRIES PLC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        }
+    ],
+    "pub_date": "1989-07-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a6c08eb7c8105d6c1283",
+    "word_count": 733,
+    "slideshow_credits": null
+}

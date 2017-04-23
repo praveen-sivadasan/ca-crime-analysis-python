@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1993/01/01/us/holiday-storms-bring-hope-of-drought-relief-in-northern-california.html",
+    "snippet": "The Northern California mountains were blanketed with large amounts of snow again today, the second of two major winter storms in a week that have stranded thousands of holiday travelers and brought some hope of drought relief to California's usua...",
+    "lead_paragraph": "The Northern California mountains were blanketed with large amounts of snow again today, the second of two major winter storms in a week that have stranded thousands of holiday travelers and brought some hope of drought relief to California's usually grim water officials. The Pacific storm system, expected to drop three to five feet of snow in the Sierra Nevada by Saturday afternoon, began to sweep in from the coast early today. It followed an Alaskan storm system that caused blizzard conditions in the area earlier this week and shut down parts of Interstate 80 and Highway 50 for almost two days. Snowfalls ranged up to eight feet in that storm.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Holiday Storms Bring Hope of Drought Relief in Northern California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        }
+    ],
+    "pub_date": "1993-01-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b7f08eb7c8105d6df3e8",
+    "word_count": 858,
+    "slideshow_credits": null
+}

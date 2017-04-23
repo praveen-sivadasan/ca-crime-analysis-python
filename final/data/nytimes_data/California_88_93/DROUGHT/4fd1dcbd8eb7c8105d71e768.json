@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1993/02/25/us/west-s-drought-ends-the-political-terrain-altered.html",
+    "snippet": "With yet another winter storm having pounded the West Coast Tuesday, creating mudslides, urban flooding and towering snow drifts in the High Sierra, the drought that has punished the West for six years has come to a drenching end.   After two mont...",
+    "lead_paragraph": "With yet another winter storm having pounded the West Coast Tuesday, creating mudslides, urban flooding and towering snow drifts in the High Sierra, the drought that has punished the West for six years has come to a drenching end. After two months of relentless rains and snows, Gov. Pete Wilson made it official today by declaring the drought over because the reservoirs are expected to reach 90 percent of average for the month by April. \"The end of rationing does not mean the end of conservation,\" he said.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "West's Drought Ends, the Political Terrain Altered"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        }
+    ],
+    "pub_date": "1993-02-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dcbd8eb7c8105d71e768",
+    "word_count": 1236,
+    "slideshow_credits": null
+}

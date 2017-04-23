@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/23/us/broad-oil-spill-law-is-signed-in-california.html",
+    "snippet": "LEAD: Gov. George Deukmejian signed a sweeping oil spill bill today that taxes oil 25 cents a barrel, creates an official with broad powers to oversee oil safety and regulates tankers in California waters....",
+    "lead_paragraph": "LEAD: Gov. George Deukmejian signed a sweeping oil spill bill today that taxes oil 25 cents a barrel, creates an official with broad powers to oversee oil safety and regulates tankers in California waters.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Broad Oil Spill Law Is Signed in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "WATER POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "TANKERS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1990-09-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd196808eb7c8105d6a3afa",
+    "word_count": 212,
+    "slideshow_credits": null
+}

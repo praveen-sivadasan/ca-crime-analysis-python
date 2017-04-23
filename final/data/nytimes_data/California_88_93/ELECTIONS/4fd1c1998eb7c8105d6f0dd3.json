@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/03/us/california-is-torn-by-political-wars-over-7-new-seats.html",
+    "snippet": "The huge population shift that transformed California over the last decade has produced an intense struggle over the political riches that the shift has produced: the seven Congressional seats that California has gained at the expense of New York ...",
+    "lead_paragraph": "The huge population shift that transformed California over the last decade has produced an intense struggle over the political riches that the shift has produced: the seven Congressional seats that California has gained at the expense of New York and other Northeastern states. The release of California census numbers this week has intensified the horse-trading over who will control the redrawing of Congressional district lines in the state, which will send 52 members to the House of Representatives in 1992.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA IS TORN BY POLITICAL WARS OVER 7 NEW SEATS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "VETOES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "REAPPORTIONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1991-03-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c1998eb7c8105d6f0dd3",
+    "word_count": 1508,
+    "slideshow_credits": null
+}

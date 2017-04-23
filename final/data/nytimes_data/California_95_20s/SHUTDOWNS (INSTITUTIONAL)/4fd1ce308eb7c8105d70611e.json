@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/10/us/after-assurances-california-jobs-clinton-expected-approve-base-closing-list.html",
+    "snippet": "After agonizing for more than a week, President Clinton is expected to approve the recommendations of an independent commission on military bases, now that the Pentagon has been assured that it has the authority to keep thousands of jobs at a Cali...",
+    "lead_paragraph": "After agonizing for more than a week, President Clinton is expected to approve the recommendations of an independent commission on military bases, now that the Pentagon has been assured that it has the authority to keep thousands of jobs at a California Air Force base, Administration officials said today. Mr. Clinton had been considering rejecting the commission's recommendation to close McClellan Air Force Base near Sacramento because the loss of the installation's 11,000 military and civilian jobs would hurt the economy of a large state crucial to his 1996 campaign hopes.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "After Assurances on California Jobs, Clinton Is Expected to Approve Base-Closing List"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEFENSE DEPARTMENT"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "MCCLELLAN AIR FORCE BASE (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1995-07-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 1,
+                "lastname": "SCHMITT"
+            }
+        ],
+        "original": "By ERIC SCHMITT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ce308eb7c8105d70611e",
+    "word_count": 932,
+    "slideshow_credits": null
+}

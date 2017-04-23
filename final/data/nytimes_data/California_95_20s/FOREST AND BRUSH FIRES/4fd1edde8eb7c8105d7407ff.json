@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/27/weekinreview/record-fires-in-california.html",
+    "snippet": "It was fire season again in southern California last week as wicked Santa Ana winds off the desert spread the sparks across more than 37,000 acres in a half-dozen spots, wreaking the most destruction in three years and injuring six firefighters, o...",
+    "lead_paragraph": "It was fire season again in southern California last week as wicked Santa Ana winds off the desert spread the sparks across more than 37,000 acres in a half-dozen spots, wreaking the most destruction in three years and injuring six firefighters, one critically. In the millionaire haven of Malibu, polo ponies were spooked but only five houses were destroyed.",
+    "abstract": "Fires spread by Santa Ana winds have burned 37,000 acres in half-dozen California sites, wreaking most destruction in three years; winds, which have ebbed, are expected to pick up again (S)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Record Fires in California",
+        "kicker": "October 20-26"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        }
+    ],
+    "pub_date": "1996-10-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carey",
+                "rank": 1,
+                "lastname": "GOLDBERG"
+            }
+        ],
+        "original": "By CAREY GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1edde8eb7c8105d7407ff",
+    "word_count": 119,
+    "slideshow_credits": null
+}

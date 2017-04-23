@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/07/us/the-1992-campaign-on-the-trail-a-senate-candidate-s-watergate-memos.html",
+    "snippet": "As a White House aide in 1973 Bruce Herschensohn, now a Republican candidate for the United States Senate in California, wrote several proposals designed to blunt the Watergate investigation and keep President Richard M. Nixon in office, records s...",
+    "lead_paragraph": "As a White House aide in 1973 Bruce Herschensohn, now a Republican candidate for the United States Senate in California, wrote several proposals designed to blunt the Watergate investigation and keep President Richard M. Nixon in office, records show. Suggestions by the conservative Republican included likening the Senate Watergate hearings to the infamous McCarthy hearings of the 1950's. Mr. Herschensohn made the suggestions in memorandums written to other members of the White House staff. His memorandums are among 12,000 pages of Herschensohn papers in the Nixon files at the National Archives outside Washington.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: On the Trail; A SENATE CANDIDATE'S WATERGATE MEMOS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HERSCHENSOHN, BRUCE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "WATERGATE AFFAIR"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1992-07-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b79b8eb7c8105d6de5c4",
+    "word_count": 116,
+    "slideshow_credits": null
+}

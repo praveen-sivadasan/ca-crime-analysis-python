@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/03/us/strong-aftershock-hits-southern-california.html",
+    "snippet": "LEAD: A strong aftershock to Wednesday's earthquake was felt in a wide area of Southern California today. The earthquake caused a rockslide on a mountain road, but there were no reports of significant damage or injuries....",
+    "lead_paragraph": "LEAD: A strong aftershock to Wednesday's earthquake was felt in a wide area of Southern California today. The earthquake caused a rockslide on a mountain road, but there were no reports of significant damage or injuries.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Strong Aftershock Hits Southern California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1990-03-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ab888eb7c8105d6ca1c1",
+    "word_count": 271,
+    "slideshow_credits": null
+}

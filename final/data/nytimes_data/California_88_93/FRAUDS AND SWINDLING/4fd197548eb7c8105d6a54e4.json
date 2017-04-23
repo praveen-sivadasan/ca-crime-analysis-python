@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/28/business/california-suit-names-keating.html",
+    "snippet": "LEAD: John Van de Kamp, California's Attorney General, said today that the state had filed a $250 million lawsuit against Charles H. Keating Jr. and other officers of the American Continental Corporation....",
+    "lead_paragraph": "LEAD: John Van de Kamp, California's Attorney General, said today that the state had filed a $250 million lawsuit against Charles H. Keating Jr. and other officers of the American Continental Corporation.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Suit Names Keating"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KEATING, CHARLES H JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LINCOLN SAVINGS & LOAN ASSN"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN CONTINENTAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-06-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197548eb7c8105d6a54e4",
+    "word_count": 107,
+    "slideshow_credits": null
+}

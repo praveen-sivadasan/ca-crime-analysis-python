@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1993/12/26/us/drive-to-keep-repeat-felons-in-prison-gains-in-california.html",
+    "snippet": "When Mike Reynolds vowed a year and a half ago to find a way to keep repeat offenders locked up for life, it seemed just a howl of pain by a grieving father whose teen-age daughter had been shot in the head at point-blank range by a man with a lon...",
+    "lead_paragraph": "When Mike Reynolds vowed a year and a half ago to find a way to keep repeat offenders locked up for life, it seemed just a howl of pain by a grieving father whose teen-age daughter had been shot in the head at point-blank range by a man with a long criminal record. But Mr. Reynolds's personal crusade to tighten sentencing for career criminals has become a political juggernaut here in California, the scene in recent weeks of several high-profile crimes, including the abduction and slaying of 12-year-old Polly Klaas at the hands of a twice-convicted kidnapper.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Drive to Keep Repeat Felons In Prison Gains in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REYNOLDS, MIKE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1993-12-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ea808eb7c8105d739f9a",
+    "word_count": 1856,
+    "slideshow_credits": null
+}

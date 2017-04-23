@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/2000/06/04/us/even-beneficiaries-oppose-plan-to-reward-teachers.html",
+    "snippet": "It was supposed to be a slam-dunk, a bold aggressive play from a politician usually thought of as anything but. Instead, Gov. Gray Davis's proposal to show support for California's public school teachers by exempting them from state income taxes h...",
+    "lead_paragraph": "It was supposed to be a slam-dunk, a bold aggressive play from a politician usually thought of as anything but. Instead, Gov. Gray Davis's proposal to show support for California's public school teachers by exempting them from state income taxes has not gotten anywhere near the hoop. Legislative leaders of both parties in both houses in Sacramento oppose it as bad policy and the start of a slippery slope toward similar demands from other public employees. Even the teachers' unions, initially flattered, oppose the plan, which would reduce the average experienced teacher's state tax by about $1,350 a year. They fear it would leave them open to attacks from fellow government workers, and they prefer salary increases instead.",
+    "abstract": "Gov Gray Davis's proposal to exempt California public school teachers from state income tax is opposed by legislative leaders of both parties as bad policy and start of slippery slope toward similar demands; even teachers' unions, initially flattered, prefer salary increases (M)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Even Beneficiaries Oppose Plan to Reward Teachers"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "WAGES AND SALARIES"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+        }
+    ],
+    "pub_date": "2000-06-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd216848eb7c8105d790e17",
+    "word_count": 1122,
+    "slideshow_credits": null
+}

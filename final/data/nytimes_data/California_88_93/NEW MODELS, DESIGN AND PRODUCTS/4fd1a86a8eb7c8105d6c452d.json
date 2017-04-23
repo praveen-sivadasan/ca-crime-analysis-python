@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1993/06/17/business/chrysler-electric-mini-van.html",
+    "snippet": "The Chrysler Corporation won approval today in California for mass production of an electric version of its popular Dodge Caravan mini-van. It is the first leading United States auto maker to meet the state's 1998 zero-emission rule.    The 1993 m...",
+    "lead_paragraph": "The Chrysler Corporation won approval today in California for mass production of an electric version of its popular Dodge Caravan mini-van. It is the first leading United States auto maker to meet the state's 1998 zero-emission rule. The 1993 model five-passenger Caravan was certified for sale by the California Air Resources Board four years ahead of the 1998 deadline set by the agency for the sale of a set percentage of pollution-free vehicles in California.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Chrysler Electric Mini-Van"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHRYSLER CORP"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC VEHICLES"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "VANS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1993-06-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a86a8eb7c8105d6c452d",
+    "word_count": 248,
+    "slideshow_credits": null
+}

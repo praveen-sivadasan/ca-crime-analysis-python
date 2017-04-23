@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/05/us/california-jobless-rate-soars-after-cold-ravages-oranges.html",
+    "snippet": "The freeze that ravaged California's navel orange crop sent unemployment rates soaring, with nearly one of every five workers unemployed in one hard-hit county, the state reported today.   Tulare County, in the heart of the citrus groves, had a jo...",
+    "lead_paragraph": "The freeze that ravaged California's navel orange crop sent unemployment rates soaring, with nearly one of every five workers unemployed in one hard-hit county, the state reported today. Tulare County, in the heart of the citrus groves, had a jobless rate of 19.7 percent in January, the State Department of Employment reported. That was up 5 percent from December as 5,500 people were added to the unemployment rolls. Neighboring Fresno and Kern Counties also are agricultural but fared slightly better. January's unemployment reached 13.7 percent in Fresno and 12.7 percent in Kern. The severity of the layoffs in Tulare County is illustrated by Food Link, a private, nonprofit food bank.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Jobless Rate Soars After Cold Ravages Oranges"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "CITRUS FRUITS"
+        },
+        {
+            "name": "subject",
+            "value": "ORANGES"
+        }
+    ],
+    "pub_date": "1991-03-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a8358eb7c8105d6c3b8a",
+    "word_count": 110,
+    "slideshow_credits": null
+}

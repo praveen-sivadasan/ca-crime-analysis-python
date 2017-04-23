@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/12/business/smaller-wineries-gain-in-power.html",
+    "snippet": "LEAD: There used to be one power base in the California wine business and it was in Modesto, in the Central Valley 85 miles east of San Francisco. That is the home of the giant E.& J. Gallo Winery, which built its fortune on inexpensive jug wines....",
+    "lead_paragraph": "LEAD: There used to be one power base in the California wine business and it was in Modesto, in the Central Valley 85 miles east of San Francisco. That is the home of the giant E.& J. Gallo Winery, which built its fortune on inexpensive jug wines.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Smaller Wineries Gain in Power"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRY PROFILES"
+        }
+    ],
+    "pub_date": "1990-06-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f848eb7c8105d6b388f",
+    "word_count": 1749,
+    "slideshow_credits": null
+}

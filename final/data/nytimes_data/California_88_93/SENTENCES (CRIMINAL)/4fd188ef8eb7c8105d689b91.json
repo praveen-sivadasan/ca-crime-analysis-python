@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/01/us/mother-who-left-baby-is-pregnant-again.html",
+    "snippet": "LEAD: A woman who gave birth in a jetliner restroom in July 1988 and left the infant in a wastebasket will not go to jail until December because she is expecting another baby in mid-October....",
+    "lead_paragraph": "LEAD: A woman who gave birth in a jetliner restroom in July 1988 and left the infant in a wastebasket will not go to jail until December because she is expecting another baby in mid-October.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Mother Who Left Baby Is Pregnant Again"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LOCASTO, CHRISTINA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "ABANDONMENT"
+        }
+    ],
+    "pub_date": "1989-10-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd188ef8eb7c8105d689b91",
+    "word_count": 257,
+    "slideshow_credits": null
+}

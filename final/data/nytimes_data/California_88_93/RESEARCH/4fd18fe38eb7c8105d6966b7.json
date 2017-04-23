@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/the-california-quake-labs-in-the-bay-area-escape-damage.html",
+    "snippet": "LEAD: Safeguards incorporated during construction or added later apparently protected three major laboratories in the San Francisco Bay area from serious damage in the earthquake that struck the area on Tuesday....",
+    "lead_paragraph": "LEAD: Safeguards incorporated during construction or added later apparently protected three major laboratories in the San Francisco Bay area from serious damage in the earthquake that struck the area on Tuesday.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Labs in the Bay Area Escape Damage",
+        "kicker": "THE CALIFORNIA QUAKE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LAWRENCE LIVERMORE NATIONAL LABORATORY"
+        },
+        {
+            "name": "organizations",
+            "value": "LAWRENCE BERKELEY LABORATORY"
+        },
+        {
+            "name": "organizations",
+            "value": "STANFORD LINEAR ACCELERATOR CENTER"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd18fe38eb7c8105d6966b7",
+    "word_count": 314,
+    "slideshow_credits": null
+}

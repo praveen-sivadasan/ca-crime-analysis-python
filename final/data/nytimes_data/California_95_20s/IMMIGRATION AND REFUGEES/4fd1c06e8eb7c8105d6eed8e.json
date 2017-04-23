@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1995/08/24/us/a-new-wave-of-immigrants-on-farming-s-lowest-rung.html",
+    "snippet": "It is still and silent and unbearably hot here in the heart of raisin country. Migrant farm workers who have gathered from around the state and from Mexico sit motionless in the shade as the hard yellow grapes, in thousands of acres of vineyards, ...",
+    "lead_paragraph": "It is still and silent and unbearably hot here in the heart of raisin country. Migrant farm workers who have gathered from around the state and from Mexico sit motionless in the shade as the hard yellow grapes, in thousands of acres of vineyards, grow sweeter and heavier on the vine, almost ready for the clamor of the harvest. The grape harvest is an autumn ritual as old as California, but there is a change. Most of the migrant workers here in Madera do not speak Spanish. They are Mixtec Indians from the southern Mexican state of Oaxaca, who, along with an influx of indigenous groups from Central and South America, are changing the face of America's farm labor force.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A New Wave of Immigrants On Farming's Lowest Rung"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "FOREIGN LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "INDIANS, AMERICAN"
+        },
+        {
+            "name": "subject",
+            "value": "MIGRANT LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "MIXTEC INDIANS"
+        },
+        {
+            "name": "subject",
+            "value": "MAYANS"
+        }
+    ],
+    "pub_date": "1995-08-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c06e8eb7c8105d6eed8e",
+    "word_count": 1561,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/01/24/us/ex-head-of-california-board-sentenced-for-embezzlement.html",
+    "snippet": "LEAD: The former chairman of the state teachers pension board has been sentenced to 15 years in prison for embezzlement and taking a $1 million bribe....",
+    "lead_paragraph": "LEAD: The former chairman of the state teachers pension board has been sentenced to 15 years in prison for embezzlement and taking a $1 million bribe.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ex-Head of California Board Sentenced for Embezzlement"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHILTON, GILBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "PENSIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BRIBERY"
+        },
+        {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+        }
+    ],
+    "pub_date": "1988-01-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18ba68eb7c8105d68eacb",
+    "word_count": 120,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/05/business/group-s-bid-for-insurer-is-enhanced.html",
+    "snippet": "A group backed by the insurance industry said today that it had strengthened its bid for the failed Executive Life Insurance Company to meet the concerns of California regulators, but it remained unclear whether the revised proposal would win regu...",
+    "lead_paragraph": "A group backed by the insurance industry said today that it had strengthened its bid for the failed Executive Life Insurance Company to meet the concerns of California regulators, but it remained unclear whether the revised proposal would win regulatory approval. The group, led by the National Organization of Life and Health Insurance Guaranty Associations, said it had established a $1 billion credit line through the Morgan Guaranty Trust Company. The credit line is intended to back the group's pledge to pay for the rescue of Executive Life policyholders through assessments on virtually every life insurance company in the nation.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Group's Bid For Insurer Is Enhanced"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        }
+    ],
+    "pub_date": "1991-11-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b1bc8eb7c8105d6d4508",
+    "word_count": 368,
+    "slideshow_credits": null
+}

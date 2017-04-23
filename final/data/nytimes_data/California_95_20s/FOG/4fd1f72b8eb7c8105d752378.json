@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1997/12/01/us/national-news-briefs-fog-blamed-in-chain-of-california-crashes.html",
+    "snippet": "Two women remained hospitalized but in good condition today after a string of crashes on fog-shrouded Interstate 15 that injured 17 people.    Fifteen people were treated for minor injuries in the Saturday morning accidents. In all, 22 vehicles we...",
+    "lead_paragraph": "Two women remained hospitalized but in good condition today after a string of crashes on fog-shrouded Interstate 15 that injured 17 people. Fifteen people were treated for minor injuries in the Saturday morning accidents. In all, 22 vehicles were involved, including a truck hauling 8 cars, a truck hauling a horse trailer and another towing a boat, the California Highway Patrol said.",
+    "abstract": "Fog causes string of automobile accidents on Interstate 15 in Calif, injuring 17 people (S)",
+    "print_page": "19",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Fog Blamed in Chain Of California Crashes"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "FOG"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1997-12-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f72b8eb7c8105d752378",
+    "word_count": 166,
+    "slideshow_credits": null
+}

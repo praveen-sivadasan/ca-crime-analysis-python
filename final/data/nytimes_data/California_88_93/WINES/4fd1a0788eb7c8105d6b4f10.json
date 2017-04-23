@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/25/magazine/wine-class-acts.html",
+    "snippet": "LEAD: Californian wine makers have always resisted the idea of a hierarchy or ranking resembling the 1855 classification of the wines of Bordeaux. For one thing, California is too young. There are today almost 700 wineries where, 50 years ago, the...",
+    "lead_paragraph": "LEAD: Californian wine makers have always resisted the idea of a hierarchy or ranking resembling the 1855 classification of the wines of Bordeaux. For one thing, California is too young. There are today almost 700 wineries where, 50 years ago, there were a couple of dozen. Who can say who will be the best 50 years from now?",
+    "abstract": null,
+    "print_page": "40",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Class Acts",
+        "kicker": "WINE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1988-12-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a0788eb7c8105d6b4f10",
+    "word_count": 1073,
+    "slideshow_credits": null
+}

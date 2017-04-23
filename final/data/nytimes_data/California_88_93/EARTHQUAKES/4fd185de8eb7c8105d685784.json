@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/23/nyregion/c-correction-598389.html",
+    "snippet": "LEAD: An article on Thursday about insurance losses in the California earthquake misidentified one of the big insurers in the San Francisco Bay area....",
+    "lead_paragraph": "LEAD: An article on Thursday about insurance losses in the California earthquake misidentified one of the big insurers in the San Francisco Bay area.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Correction"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOME INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd185de8eb7c8105d685784",
+    "word_count": 59,
+    "slideshow_credits": null
+}

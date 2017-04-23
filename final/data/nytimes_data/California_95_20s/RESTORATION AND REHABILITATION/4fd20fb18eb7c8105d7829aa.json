@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1999/08/26/garden/mending-america-s-acropolis.html",
+    "snippet": "PERCHED on a scaffold five stories above the ground, Gerald J. Miller surveys the crumbling mortar and flaking brick, the jagged six-inch cracks and the scars of swallows' nests dotting the underside of a sagging stone dome, and marvels aloud, ''Y...",
+    "lead_paragraph": "PERCHED on a scaffold five stories above the ground, Gerald J. Miller surveys the crumbling mortar and flaking brick, the jagged six-inch cracks and the scars of swallows' nests dotting the underside of a sagging stone dome, and marvels aloud, ''You wonder what the hell is holding this up.'' Quickly and ruefully, he answers himself, ''It's held up by faith alone.'' Mr. Miller is the administrator of Mission San Juan Capistrano, the landmark relic long known as the jewel of California's 21 Spanish-Colonial missions, and it is his job to make sure that what he calls ''the most important ruin in North America'' is soon held up by a whole lot more. For the last six years, this former investment banker has overseen an ambitious conservation plan budgeted at almost $10 million and aimed at stabilizing and preserving the remnants of the mission's Great Stone Church, which was finished in 1806 and destroyed just six years later by an earthquake that killed 40 worshipers in the middle of a morning Mass.",
+    "abstract": "San Juan Capistrano Mission, widely considered the jewel of California's 21 Spanish-Colonial missions, is undergoing ambitious conservation effort budgeted at almost $10 million; focus of plan is stabilizing and preserving remnants of mission's Great Stone Church, which was completed in 1806 and destroyed just six years later by earthquake; project administrator is Gerald J Miller; photos (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Mending America's Acropolis"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MILLER, GERALD J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+        },
+        {
+            "name": "subject",
+            "value": "SAN JUAN CAPISTRANO MISSION (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "RESTORATION AND REHABILITATION"
+        }
+    ],
+    "pub_date": "1999-08-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "House & Home/Style Desk",
+    "section_name": "Home and Garden; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20fb18eb7c8105d7829aa",
+    "word_count": 1708,
+    "slideshow_credits": null
+}

@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/04/business/justices-to-decide-macy-suit-on-proposition-13-realty-tax.html",
+    "snippet": "The United States Supreme Court agreed today to hear a suit, brought by R. H. Macy & Company, asserting that California's Proposition 13 unfairly assesses strikingly higher taxes on newly purchased property.   The suit challenges the taxpayers' re...",
+    "lead_paragraph": "The United States Supreme Court agreed today to hear a suit, brought by R. H. Macy & Company, asserting that California's Proposition 13 unfairly assesses strikingly higher taxes on newly purchased property. The suit challenges the taxpayers' revolt proposition, which was a 1978 amendment to the California Constitution. Proposition 13 set local property taxes at 1 percent of assessed valuation, rolled back assessments to 1975 levels and limited subsequent increases to 2 percent a year.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Justices to Decide Macy Suit On Proposition 13 Realty Tax"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "organizations",
+            "value": "MACY, R H, & CO INC"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY TAXES"
+        }
+    ],
+    "pub_date": "1991-06-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d2008eb7c8105d70ced9",
+    "word_count": 1049,
+    "slideshow_credits": null
+}

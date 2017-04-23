@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1997/08/06/us/abortion-law-is-overturned-in-california.html",
+    "snippet": "Ten years after California passed a law requiring that teen-age girls get the approval of a parent or judge before having an abortion, the measure was struck down today by the State Supreme Court.    In a 4-to-3 decision, the court ruled that the ...",
+    "lead_paragraph": "Ten years after California passed a law requiring that teen-age girls get the approval of a parent or judge before having an abortion, the measure was struck down today by the State Supreme Court. In a 4-to-3 decision, the court ruled that the law, which never went into effect, violated the broad right to privacy guaranteed even to minors under California's Constitution.",
+    "abstract": "California Supreme Court strikes down 10-year-old law that requires teen-age girls to get approval of parent or judge before having abortion; finds law, which never went into effect, violates right to privacy guaranteed by state constitution; similar laws are on books in over 20 other states (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Abortion Law Is Overturned in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ABORTION"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVACY, RIGHT OF"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1997-08-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dee98eb7c8105d723ba9",
+    "word_count": 771,
+    "slideshow_credits": null
+}

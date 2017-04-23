@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/25/business/company-news-wellpoint-and-health-systems-merger-questioned.html",
+    "snippet": "An important California regulator has raised questions about a proposed merger between Wellpoint Health Networks Inc. and Health Systems International Inc. The two companies said on April 3 that they had agreed to merge in a stock swap that was va...",
+    "lead_paragraph": "An important California regulator has raised questions about a proposed merger between Wellpoint Health Networks Inc. and Health Systems International Inc. The two companies said on April 3 that they had agreed to merge in a stock swap that was valued at the time at $1.9 billion. The state's authority in the merger stems from its regulatory power over nonprofit Blue Cross of California , which owns 80 percent of Wellpoint. In a letter sent to the directors of Blue Cross, Gary S. Mendoza, the state's Commissioner of Corporations, said the state had \"serious concerns\" that Blue Cross was ceding its \"controlling interest\" in Wellpoint stock without any extra compensation. In the letter, Mr. Mendoza did not set a deadline for the changes and information the state wants, and said the issues could be \"addressed and resolved\" in a way that would not delay the proposed merger.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "WELLPOINT AND HEALTH SYSTEMS MERGER QUESTIONED",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEALTH SYSTEMS INTERNATIONAL INC"
+        },
+        {
+            "name": "organizations",
+            "value": "BLUE CROSS OF CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLPOINT HEALTH NETWORKS INC"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1995-07-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1eb6c8eb7c8105d73bf5d",
+    "word_count": 149,
+    "slideshow_credits": null
+}

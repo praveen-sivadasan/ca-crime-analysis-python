@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/15/business/insurer-s-role-raises-pension-fear.html",
+    "snippet": "Hundreds of thousands of insurance policy holders and investors across the country are worried about the seizure of the Executive Life Insurance Company last week by California regulators, but few are as fearful and angry as those whose retirement...",
+    "lead_paragraph": "Hundreds of thousands of insurance policy holders and investors across the country are worried about the seizure of the Executive Life Insurance Company last week by California regulators, but few are as fearful and angry as those whose retirement benefits depend on the insurer's financial health. Dozens of companies have refinanced their pension plans in recent years by purchasing annuities from Executive Life, the primary subsidiary of the First Executive Corporation of Los Angeles. Annuities are contracts to pay cash over a period of time, usually in return for a single payment up front.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Insurer's Role Raises Pension Fear"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST EXECUTIVE CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "DREXEL BURNHAM LAMBERT INC"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "PENSION FUNDS"
+        },
+        {
+            "name": "subject",
+            "value": "PENSIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ANNUITIES"
+        },
+        {
+            "name": "subject",
+            "value": "CORPORATE BONDS"
+        }
+    ],
+    "pub_date": "1991-04-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c9df8eb7c8105d6fd9fa",
+    "word_count": 730,
+    "slideshow_credits": null
+}

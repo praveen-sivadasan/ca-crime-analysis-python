@@ -1,0 +1,80 @@
+{
+    "web_url": "https://www.nytimes.com/1990/07/06/us/law-bar-lawyer-whose-business-card-was-so-effective-that-it-could-lead-unwanted.html",
+    "snippet": "LEAD: Even the most innocuous paraphernalia of a lawyer, it seems, can be the stuff of litigation. Along with burning flags and the right to die, the United States Supreme Court recently ruled on the propriety of a lawyer's letterhead, the latest ...",
+    "lead_paragraph": "LEAD: Even the most innocuous paraphernalia of a lawyer, it seems, can be the stuff of litigation. Along with burning flags and the right to die, the United States Supreme Court recently ruled on the propriety of a lawyer's letterhead, the latest of several cases it has considered on lawyer advertising.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "LAW: At the Bar;   The lawyer whose business card was so effective that it could lead to unwanted litigation."
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "MONOPOLY (GAME)"
+        },
+        {
+            "name": "creative_works",
+            "value": "THE LAW PAGE (NYT)"
+        },
+        {
+            "name": "persons",
+            "value": "DEITSCH, JACK"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PARKER BROTHERS"
+        },
+        {
+            "name": "subject",
+            "value": "LAWYERS"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "TRADEMARKS AND TRADE NAMES"
+        },
+        {
+            "name": "subject",
+            "value": "LEGAL PROFESSION"
+        }
+    ],
+    "pub_date": "1990-07-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "David",
+                "rank": 1,
+                "lastname": "Margolick"
+            }
+        ],
+        "original": "By David Margolick"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a0d78eb7c8105d6b6198",
+    "word_count": 774,
+    "slideshow_credits": null
+}

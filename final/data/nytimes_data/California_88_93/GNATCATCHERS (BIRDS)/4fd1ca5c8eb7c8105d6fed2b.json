@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/26/us/us-acts-to-save-home-of-rare-bird.html",
+    "snippet": "In a turning point in Federal policy, the Clinton Administration began collaborating today with the State of California, private developers and conservationists to avert clashes over environmental protection.   The instrument of this collaboration...",
+    "lead_paragraph": "In a turning point in Federal policy, the Clinton Administration began collaborating today with the State of California, private developers and conservationists to avert clashes over environmental protection. The instrument of this collaboration was a small songbird, the California gnatcatcher, that few Southern Californians have ever seen. And the scene at a news conference in Washington, where today's action was announced, was extraordinary: Environmentalists and their archenemies in the housing industry looked on in approval as Interior Secretary Bruce Babbitt declared the bird a threatened species -- with a new twist.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. ACTS TO SAVE HOME OF RARE BIRD"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ENDANGERED AND EXTINCT SPECIES"
+        },
+        {
+            "name": "subject",
+            "value": "BIRDS"
+        },
+        {
+            "name": "subject",
+            "value": "GNATCATCHERS (BIRDS)"
+        }
+    ],
+    "pub_date": "1993-03-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ca5c8eb7c8105d6fed2b",
+    "word_count": 340,
+    "slideshow_credits": null
+}

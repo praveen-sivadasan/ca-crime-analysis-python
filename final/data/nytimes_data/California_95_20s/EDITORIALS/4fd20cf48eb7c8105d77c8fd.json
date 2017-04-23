@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1997/02/10/opinion/how-california-betrayed-its-schools.html",
+    "snippet": "Through most of this century, California served as a symbol of boundless promise and possibility. At the close of the 1960's, a breathless Time magazine described it as ''El Dorado'' and a ''mirror of America as it will become.'' The promise turne...",
+    "lead_paragraph": "Through most of this century, California served as a symbol of boundless promise and possibility. At the close of the 1960's, a breathless Time magazine described it as ''El Dorado'' and a ''mirror of America as it will become.'' The promise turned dismal with the tax revolt of the 70's. It fractured the civic structure and savaged support for California's universities, libraries, children's programs and, most tragically, its public schools. Teeming with new immigrants, California's classrooms were suddenly among the most crowded and neediest in the country. States with similar problems increased spending, but California stood pat. It now ranks 43d nationally in education spending -- well behind comparable states like Texas, New York and Pennsylvania -- and spends about $30,000 less per classroom per year than the national average.",
+    "abstract": "Editorial Notebook column comments on sorry state of California's public school system, which ranks 43d annually in education spending, or $30,000 less per classroom per year than national average; says California offers warning for states that would bleed public education for short-term gain; says schools are easy to destroy, but costly and devlishly difficult to rebuild (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "How California Betrayed Its Schools",
+        "kicker": "Editorial Notebook"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "EDITORIAL NOTEBOOK (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        }
+    ],
+    "pub_date": "1997-02-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Brent",
+                "rank": 1,
+                "lastname": "STAPLES"
+            }
+        ],
+        "original": "By BRENT STAPLES"
+    },
+    "type_of_material": "Editorial",
+    "_id": "4fd20cf48eb7c8105d77c8fd",
+    "word_count": 677,
+    "slideshow_credits": null
+}

@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/06/business/company-news-blue-cross-offer-to-great-republic.html",
+    "snippet": "Blue Cross of California said it was negotiating to offer health insurance to 25,000 policyholders of the Great Republic Insurance Company, the troubled insurer that was seized by state regulators this week. The California Insurance Commissioner, ...",
+    "lead_paragraph": "Blue Cross of California said it was negotiating to offer health insurance to 25,000 policyholders of the Great Republic Insurance Company, the troubled insurer that was seized by state regulators this week. The California Insurance Commissioner, John Garamendi, said he was trying to place Great Republic's 6,800 life insurance policies with those of another insurer. The health insurance policyholders of Great Republic, whose assets exceeded its liabilities by $454,000 when it was seized this week, will continue to receive full benefits and payments. Life insurance policies will continue to pay full death benefits.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Blue Cross Offer To Great Republic",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BLUE CROSS OF CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GREAT REPUBLIC INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1991-07-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b0338eb7c8105d6d13a7",
+    "word_count": 118,
+    "slideshow_credits": null
+}

@@ -1,0 +1,100 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/03/us/the-1992-campaign-california-2-women-win-nomination-in-california-senate-races.html",
+    "snippet": "Democratic voters in California nominated two women in separate Senate contests today, setting the stage for a first in American political history: an election with two women running for the United States Senate from the same state.   The two wome...",
+    "lead_paragraph": "Democratic voters in California nominated two women in separate Senate contests today, setting the stage for a first in American political history: an election with two women running for the United States Senate from the same state. The two women, Dianne Feinstein, a former mayor of San Francisco, and Representative Barbara Boxer, easily defeated their male opponents in races that many political experts called a historic watershed in a year of female political outrage and growing public demand for candidates who represent a break from the establishment politics of government in Washington.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: California; 2 Women Win Nomination In California Senate Races"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LEVINE, MEL"
+        },
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "persons",
+            "value": "MCCARTHY, LEO T"
+        },
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "persons",
+            "value": "ALIOTO, JOSEPH M"
+        },
+        {
+            "name": "persons",
+            "value": "SEYMOUR, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION RESULTS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1992-06-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1db478eb7c8105d71c0cf",
+    "word_count": 1820,
+    "slideshow_credits": null
+}

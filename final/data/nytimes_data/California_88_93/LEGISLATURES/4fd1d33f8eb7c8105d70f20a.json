@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/24/style/chronicle-328391.html",
+    "snippet": "He started out as a political maverick, marching to his own drum, so it comes as no surprise that TOM HAYDEN, the California Assemblyman with the national presence, is still railing against the mainstream....",
+    "lead_paragraph": "He started out as a political maverick, marching to his own drum, so it comes as no surprise that TOM HAYDEN, the California Assemblyman with the national presence, is still railing against the mainstream.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CHRONICLE"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CHRONICLE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "HAYDEN, TOM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REAPPORTIONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1991-09-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Nadine",
+                "rank": 1,
+                "lastname": "BROZAN"
+            }
+        ],
+        "original": "By NADINE BROZAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d33f8eb7c8105d70f20a",
+    "word_count": 280,
+    "slideshow_credits": null
+}

@@ -1,0 +1,85 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/23/business/big-tax-bill-at-executive-life-is-new-threat-to-customers.html",
+    "snippet": "The California Insurance Commissioner said today that the Internal Revenue Service had unexpectedly billed the Executive Life Insurance Company $643 million for back taxes and penalties, further imperiling the troubled insurer's ability to pay its...",
+    "lead_paragraph": "The California Insurance Commissioner said today that the Internal Revenue Service had unexpectedly billed the Executive Life Insurance Company $643 million for back taxes and penalties, further imperiling the troubled insurer's ability to pay its policyholders and other customers. The commissioner, John Garamendi, said the huge tax bill seriously raised the possibility, for the first time, that Executive Life might have to be liquidated. He warned that a liquidation could result in large losses for the company's hundreds of thousands of customers across the nation.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Big Tax Bill at Executive Life Is New Threat to Customers"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GARAMENDI, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALTUS FINANCE"
+        },
+        {
+            "name": "organizations",
+            "value": "CREDIT LYONNAIS"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST EXECUTIVE CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERNAL REVENUE SERVICE"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "ANNUITIES"
+        }
+    ],
+    "pub_date": "1991-04-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c9d88eb7c8105d6fd46a",
+    "word_count": 822,
+    "slideshow_credits": null
+}

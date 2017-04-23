@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/29/weekinreview/the-nation-voters-propose-to-put-a-lid-on-their-representatives.html",
+    "snippet": "LEAD: YET another trend is swelling up from California, and this one is unlikely to make lawmakers anywhere very happy. Since it has become almost impossible to throw the rascals out, a movement is gathering steam in California and elsewhere to sh...",
+    "lead_paragraph": "LEAD: YET another trend is swelling up from California, and this one is unlikely to make lawmakers anywhere very happy. Since it has become almost impossible to throw the rascals out, a movement is gathering steam in California and elsewhere to shut them out - by limiting the time any legislator can hold the same office.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Voters Propose to Put a Lid on Their Representatives",
+        "kicker": "THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "AMENDMENTS, CONSTITUTIONAL"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1990-04-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1934c8eb7c8105d69d7c2",
+    "word_count": 992,
+    "slideshow_credits": null
+}

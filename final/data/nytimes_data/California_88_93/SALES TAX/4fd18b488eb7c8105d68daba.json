@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/05/us/tax-increase-voted-in-california-for-earthquake-repair-and-relief.html",
+    "snippet": "LEAD: The California Legislature, heeding political and legal constraints on spending, today passed and sent to the Governor a temporary increase in the state's 6 percent sales tax by a quarter of 1 percent to pay for earthquake damage repairs and...",
+    "lead_paragraph": "LEAD: The California Legislature, heeding political and legal constraints on spending, today passed and sent to the Governor a temporary increase in the state's 6 percent sales tax by a quarter of 1 percent to pay for earthquake damage repairs and provide relief to victims.",
+    "abstract": null,
+    "print_page": "28",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tax Increase Voted in California For Earthquake Repair and Relief"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC BUILDINGS"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "SALES TAX"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-11-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18b488eb7c8105d68daba",
+    "word_count": 677,
+    "slideshow_credits": null
+}

@@ -1,0 +1,84 @@
+{
+    "web_url": "https://www.nytimes.com/1997/11/04/business/jury-tells-six-competitors-to-pay-unocal.html",
+    "snippet": "A Federal District Court jury here ruled today that six big oil companies must pay the Unocal Corporation at least $68 million for infringement of a patent on clean-burning gasoline that is sold in California.    The decision could also lead to fu...",
+    "lead_paragraph": "A Federal District Court jury here ruled today that six big oil companies must pay the Unocal Corporation at least $68 million for infringement of a patent on clean-burning gasoline that is sold in California. The decision could also lead to future royalties of tens of millions of dollars a year for Unocal, although that is far from assured.",
+    "abstract": "Federal District Court jury rules that six big oil companies must pay Unocal Corp at least $68 million for infringement of patent on clean-burning gasoline that is sold in California; decision could also lead to future royalties of tens of millions of dollars a year for Unocal; six companies are ARCO, Chevron, Exxon, Mobil, Shell Oil and Texaco (M)",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Jury Tells Six Competitors to Pay Unocal"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SHELL OIL CO"
+        },
+        {
+            "name": "organizations",
+            "value": "TEXACO INC"
+        },
+        {
+            "name": "organizations",
+            "value": "CHEVRON CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "EXXON CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "MOBIL OIL CO"
+        },
+        {
+            "name": "organizations",
+            "value": "UNOCAL CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "ATLANTIC RICHFIELD CO"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "INVENTIONS AND PATENTS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1997-11-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f5488eb7c8105d74ee3d",
+    "word_count": 499,
+    "slideshow_credits": null
+}

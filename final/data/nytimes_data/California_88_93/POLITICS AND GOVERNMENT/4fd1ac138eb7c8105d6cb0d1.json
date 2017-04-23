@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/15/weekinreview/the-nation-california-republicans-ready-for-civil-war.html",
+    "snippet": "Barring a political miracle, President Bush will have long since nailed down the Republican Presidential nomination by the time the big California primary rolls around on June 2. Nevertheless, the primary promises an emotional battle for the heart...",
+    "lead_paragraph": "Barring a political miracle, President Bush will have long since nailed down the Republican Presidential nomination by the time the big California primary rolls around on June 2. Nevertheless, the primary promises an emotional battle for the heart and soul of Republicanism in the largest state. It could also bring an early preview of the 1996 Republican Presidential sweepstakes. The reason is that Patrick J. Buchanan, Mr. Bush's challenger on the political right, has vowed to turn the primary into purgatory for Gov. Pete Wilson, a middle-of-the-road Republican considered something of a traitor by the party's right wing. Mr. Buchanan, with bloody historical allegory, promised to stage the \"Antietam of the Republican Party\" on primary day, to bring retribution for the conservatives who \"have had their noses rubbed in the dirt\" by Mr. Wilson and Mr. Bush. He told a television interviewer in Michigan that California voters \"have begged us virtually to come out and make the case against Pete Wilson Republicanism and George Bush Republicanism for the conservative cause.\"",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Republicans Ready for Civil War",
+        "kicker": "THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUCHANAN, PATRICK J"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-03-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ac138eb7c8105d6cb0d1",
+    "word_count": 902,
+    "slideshow_credits": null
+}

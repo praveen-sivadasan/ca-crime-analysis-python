@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1995/08/28/opinion/illegal-aliens-dirty-jobs.html",
+    "snippet": "I am in residency to become a plastic surgeon. Part of the training for that branch of medicine is in hand surgery. I once had a professor who said that you can tell a lot about a person by the type of hand injury they suffer.    My work at a Los ...",
+    "lead_paragraph": "I am in residency to become a plastic surgeon. Part of the training for that branch of medicine is in hand surgery. I once had a professor who said that you can tell a lot about a person by the type of hand injury they suffer. My work at a Los Angeles County hospital has given me a fresh perspective on California's Proposition 187, the measure that, if it survives in court, would limit non-emergency medical treatment to illegal aliens, among other things.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Illegal Aliens, Dirty Jobs"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1995-08-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Health; Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By Lloyd M. Krieger;"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1eb6c8eb7c8105d73bf47",
+    "word_count": 690,
+    "slideshow_credits": null
+}

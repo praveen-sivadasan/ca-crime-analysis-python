@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1995/11/22/garden/wine-talk-056340.html",
+    "snippet": "DON SEBASTIANI is feeling good these days and not without reason.         Just 10 years ago, in a palace coup that ruffled the California wine industry, he became the chairman and chief executive of his family's business, Sebastiani Vineyards, in ...",
+    "lead_paragraph": "DON SEBASTIANI is feeling good these days and not without reason. Just 10 years ago, in a palace coup that ruffled the California wine industry, he became the chairman and chief executive of his family's business, Sebastiani Vineyards, in Sonoma, Calif.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SEBASTIANI, SAM"
+        },
+        {
+            "name": "persons",
+            "value": "SEBASTIANI, DON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "VIANSAS WINERY"
+        },
+        {
+            "name": "organizations",
+            "value": "SEBASTIANI VINEYARDS"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1995-11-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd201ef8eb7c8105d766ae3",
+    "word_count": 979,
+    "slideshow_credits": null
+}

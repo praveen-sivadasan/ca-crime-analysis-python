@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/20/us/man-who-lived-90-hours-in-quake-rubble-is-dead.html",
+    "snippet": "LEAD: Buck Helm, the longshoreman who survived for 90 hours in the wreckage of a freeway that collapsed in the California earthquake last month, died Saturday night. He became 58 years old on Nov. 10....",
+    "lead_paragraph": "LEAD: Buck Helm, the longshoreman who survived for 90 hours in the wreckage of a freeway that collapsed in the California earthquake last month, died Saturday night. He became 58 years old on Nov. 10.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Man Who Lived 90 Hours In Quake Rubble Is Dead"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HELM, BUCK"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "DEATHS"
+        }
+    ],
+    "pub_date": "1989-11-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18a1b8eb7c8105d68bbfa",
+    "word_count": 403,
+    "slideshow_credits": null
+}

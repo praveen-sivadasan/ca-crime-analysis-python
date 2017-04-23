@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/21/us/california-inches-toward-closing-big-budget-gap.html",
+    "snippet": "With the state wracked by recession and grappling with the largest budget deficit ever faced by a state, the California Assembly passed a $55-billion spending plan today, only 11 days before the new fiscal year begins.    The budget action came af...",
+    "lead_paragraph": "With the state wracked by recession and grappling with the largest budget deficit ever faced by a state, the California Assembly passed a $55-billion spending plan today, only 11 days before the new fiscal year begins. The budget action came after one of the most extraordinary sessions in the Legislature's history. Liberal Democrats pleaded with conservative Republicans to back their own party's Governor, Pete Wilson, and accept his package of cuts in welfare grants and the largest tax increase in state history.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Inches Toward Closing Big Budget Gap"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1991-06-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cfb28eb7c8105d708831",
+    "word_count": 730,
+    "slideshow_credits": null
+}

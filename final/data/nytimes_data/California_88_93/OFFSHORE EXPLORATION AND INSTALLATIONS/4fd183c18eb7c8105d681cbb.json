@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/30/us/panel-is-urged-to-bar-drilling.html",
+    "snippet": "LEAD: Lawmakers, businessmen and citizens urged a Presidential study group today to recommend banning proposed oil drilling off the rugged Northern California coast....",
+    "lead_paragraph": "LEAD: Lawmakers, businessmen and citizens urged a Presidential study group today to recommend banning proposed oil drilling off the rugged Northern California coast.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Panel Is Urged to Bar Drilling"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "OFFSHORE EXPLORATION AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        }
+    ],
+    "pub_date": "1989-06-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd183c18eb7c8105d681cbb",
+    "word_count": 345,
+    "slideshow_credits": null
+}

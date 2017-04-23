@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/14/us/the-1990-campaign-change-in-california-loosens-congressman-s-grip.html",
+    "snippet": "LEAD: When George E. Brown Jr. first entered Congress 27 years ago, orchards of oranges covered the Inland Empire of Southern California, the air was so clear one could see the San Gabriel Mountains on most days and Democratic victories were as re...",
+    "lead_paragraph": "LEAD: When George E. Brown Jr. first entered Congress 27 years ago, orchards of oranges covered the Inland Empire of Southern California, the air was so clear one could see the San Gabriel Mountains on most days and Democratic victories were as reliable as the warm desert sun.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Change in California Loosens Congressman's Grip",
+        "kicker": "THE 1990 CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, GEORGE E JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-10-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c10a8eb7c8105d6efeb3",
+    "word_count": 1228,
+    "slideshow_credits": null
+}

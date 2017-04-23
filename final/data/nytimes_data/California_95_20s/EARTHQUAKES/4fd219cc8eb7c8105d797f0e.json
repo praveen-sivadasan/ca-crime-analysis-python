@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/21/world/c-corrections-776483.html",
+    "snippet": "A map on Friday with an article about research on the chances of an earthquake at the Hayward Fault in Northern California misspelled the name of a city along the fault. It is Fremont, not Freemont....",
+    "lead_paragraph": "A map on Friday with an article about research on the chances of an earthquake at the Hayward Fault in Northern California misspelled the name of a city along the fault. It is Fremont, not Freemont.",
+    "abstract": "Correction of map accompanying August 18 article about research on chances of an earthquake at Hayward Fault in Northern California",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "2000-08-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World; Corrections",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd219cc8eb7c8105d797f0e",
+    "word_count": 36,
+    "slideshow_credits": null
+}

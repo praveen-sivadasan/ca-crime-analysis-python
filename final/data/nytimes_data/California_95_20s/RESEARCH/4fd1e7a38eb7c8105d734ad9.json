@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/07/science/75-years-later-study-still-tracking-geniuses.html",
+    "snippet": "IN 1921, Dr. Lewis M. Terman, a Stanford University psychologist and a pioneer of the I.Q. test, scoured California's schools to identify 1,521 children who scored 135 or over on his new intelligence test, the Stanford-Binet.   Terman's little gen...",
+    "lead_paragraph": "IN 1921, Dr. Lewis M. Terman, a Stanford University psychologist and a pioneer of the I.Q. test, scoured California's schools to identify 1,521 children who scored 135 or over on his new intelligence test, the Stanford-Binet. Terman's little geniuses -- who as the study went on took to calling themselves \"Termites\" -- are now in their 80's, and have been contacted by researchers every 5 or 10 years, making the Terman Study of Genius the grandfather of all life-span research.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "75 Years Later, Study Still Tracking Geniuses"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "TERMAN, LEWIS"
+        },
+        {
+            "name": "persons",
+            "value": "SEARS, ROBERT R"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "STANFORD UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "GENIUS"
+        },
+        {
+            "name": "subject",
+            "value": "DEATH"
+        },
+        {
+            "name": "subject",
+            "value": "LONGEVITY"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        },
+        {
+            "name": "subject",
+            "value": "DIVORCE, SEPARATIONS AND ANNULMENTS"
+        }
+    ],
+    "pub_date": "1995-03-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Daniel",
+                "rank": 1,
+                "lastname": "GOLEMAN"
+            }
+        ],
+        "original": "By DANIEL GOLEMAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e7a38eb7c8105d734ad9",
+    "word_count": 2086,
+    "slideshow_credits": null
+}

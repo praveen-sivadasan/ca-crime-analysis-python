@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/29/us/2-quakes-may-have-raised-chances-for-a-bigger-temblor.html",
+    "snippet": "Seismologists had depressing news for frightened Southern Californians in the wake of today's two powerful earthquakes.   Instead of relieving tension on the San Andreas fault, the two earthquakes on adjacent faults near Landers and Big Bear Lake ...",
+    "lead_paragraph": "Seismologists had depressing news for frightened Southern Californians in the wake of today's two powerful earthquakes. Instead of relieving tension on the San Andreas fault, the two earthquakes on adjacent faults near Landers and Big Bear Lake probably increased seismic strain in the region. Thus the dreaded \"Big One,\" a catastrophic magnitude 8-plus earthquake that is sure to strike some day, may hit sooner rather than later.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "2 Quakes May Have Raised Chances for a Bigger Temblor"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        }
+    ],
+    "pub_date": "1992-06-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b54d8eb7c8105d6daaba",
+    "word_count": 652,
+    "slideshow_credits": null
+}

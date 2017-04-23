@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/30/business/food-store-tie-blocked-in-california.html",
+    "snippet": "LEAD: A Federal district judge today blocked completion of the $2.6 billion merger of Lucky Stores Inc. and the American Stores Company, saying the deal violated antitrust laws because the deal would ''substantially lessen competition.''...",
+    "lead_paragraph": "LEAD: A Federal district judge today blocked completion of the $2.6 billion merger of Lucky Stores Inc. and the American Stores Company, saying the deal violated antitrust laws because the deal would ''substantially lessen competition.''",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Food Store Tie Blocked In California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN STORES CO"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "SUPERMARKETS"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1988-09-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANDREA ADELSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17cb78eb7c8105d67645b",
+    "word_count": 600,
+    "slideshow_credits": null
+}

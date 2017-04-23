@@ -1,0 +1,34 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/14/business/credit-markets-california-bonds-yield-4.5-to-6.6.html",
+    "snippet": "A $1.2 billion issue of California general obligation bonds was priced through competitive bidding yesterday and was won by the Bank of America.    The bonds, which are noncallable, were priced to yield from 4.5 percent for the 1992 maturity to 6....",
+    "lead_paragraph": "A $1.2 billion issue of California general obligation bonds was priced through competitive bidding yesterday and was won by the Bank of America. The bonds, which are noncallable, were priced to yield from 4.5 percent for the 1992 maturity to 6.6 percent for an issue that matures in 2011.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Bonds Yield 4.5% to 6.6%",
+        "kicker": "CREDIT MARKETS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1991-08-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1acbb8eb7c8105d6cc474",
+    "word_count": 69,
+    "slideshow_credits": null
+}

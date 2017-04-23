@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/05/travel/c-corrections-264601.html",
+    "snippet": "A report in the Travel Advisory column on March 15, about a Gold Rush exhibition at the Oakland Museum of California, misstated the special admission fees for the event. They are $8 for adults, $6 for students and those 65 and over....",
+    "lead_paragraph": "A report in the Travel Advisory column on March 15, about a Gold Rush exhibition at the Oakland Museum of California, misstated the special admission fees for the event. They are $8 for adults, $6 for students and those 65 and over.",
+    "abstract": "Correction of March 15 article about Gold Rush exhibition at Oakland Museum of California (S)4",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOLD"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1998-04-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Corrections",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1ea008eb7c8105d739378",
+    "word_count": 42,
+    "slideshow_credits": null
+}

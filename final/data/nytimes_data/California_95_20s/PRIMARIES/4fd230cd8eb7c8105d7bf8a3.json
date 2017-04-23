@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/2000/03/05/opinion/so-big-that-politics-gets-lost.html",
+    "snippet": "Moving the California primary to March 7 from its old date in June would ensure one thing, the politicos and party hacks said: it would give the state, the seventh-largest economic power in the world, some importance in the process of electing the...",
+    "lead_paragraph": "Moving the California primary to March 7 from its old date in June would ensure one thing, the politicos and party hacks said: it would give the state, the seventh-largest economic power in the world, some importance in the process of electing the president. Never mind that with 54 electoral votes, California could be sure that once the primaries were over, the nominees would spend an inordinate amount of time here. Never mind that the well-heeled of Hollywood and Silicon Valley (and the occasional Buddhist monk) could already talk shop with any politicians they wanted.",
+    "abstract": "Michael Yaki Op-Ed article says California's sheer size keeps it from gaining importance of New Hampshire or Iowa in presidential primary races, no matter when primary election is held; reports that instead of folksy meetings he has seen almost yearlong barrage of radio and television ads, glitzy mailers and annoying telephone calls, which do not necessarily translate into citizen participation (M)",
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "So Big That Politics Gets Lost"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-03-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "Yaki"
+            }
+        ],
+        "original": "By Michael Yaki"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd230cd8eb7c8105d7bf8a3",
+    "word_count": 884,
+    "slideshow_credits": null
+}

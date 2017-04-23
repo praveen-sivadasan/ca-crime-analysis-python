@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/09/us/high-stakes-political-chess-begins-in-california.html",
+    "snippet": "Senator Alan Cranston's decision not to run for re-election radically alters the chemistry of California politics, and Democrats and Republicans the length of the state began testing the political waters today.    Coming two days after Californian...",
+    "lead_paragraph": "Senator Alan Cranston's decision not to run for re-election radically alters the chemistry of California politics, and Democrats and Republicans the length of the state began testing the political waters today. Coming two days after Californians elected their Republican Senator, Pete Wilson, as governor, Mr. Cranston's decision sets up two free-for-all Senate races in 1992. The Cranston seat is widely considered the preferable prize because the winner would not have to run again in 1994, as would the winner of the Wilson seat.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "High-Stakes Political Chess Begins in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CRANSTON, ALAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-11-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197098eb7c8105d6a4a9f",
+    "word_count": 909,
+    "slideshow_credits": null
+}

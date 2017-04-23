@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1988/07/04/us/california-recycling-plan-is-in-jeopardy.html",
+    "snippet": "LEAD: Hopes that California would show the nation how to reduce litter without imposing a deposit on beverage containers have turned into disappointment....",
+    "lead_paragraph": "LEAD: Hopes that California would show the nation how to reduce litter without imposing a deposit on beverage containers have turned into disappointment.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Recycling Plan Is in Jeopardy"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "RECYCLE CENTERS INC"
+        },
+        {
+            "name": "subject",
+            "value": "BEER"
+        },
+        {
+            "name": "subject",
+            "value": "SOFT DRINKS"
+        },
+        {
+            "name": "subject",
+            "value": "CONTAINERS AND PACKAGING"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "WASTE MATERIALS AND DISPOSAL"
+        },
+        {
+            "name": "subject",
+            "value": "RECYCLING OF WASTE MATERIALS"
+        }
+    ],
+    "pub_date": "1988-07-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17acc8eb7c8105d673154",
+    "word_count": 1088,
+    "slideshow_credits": null
+}

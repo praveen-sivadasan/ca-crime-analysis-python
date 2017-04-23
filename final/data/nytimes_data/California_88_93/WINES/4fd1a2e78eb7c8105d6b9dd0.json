@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/05/garden/savory-marriages-made-in-california.html",
+    "snippet": "LEAD: THROUGHOUT California's wine country, food is becoming an integral part of vineyard life. From Calistoga to Yountville and beyond, wineries are sponsoring food and wine symposiums and food and wine contests. They are opening cooking schools ...",
+    "lead_paragraph": "LEAD: THROUGHOUT California's wine country, food is becoming an integral part of vineyard life. From Calistoga to Yountville and beyond, wineries are sponsoring food and wine symposiums and food and wine contests. They are opening cooking schools and restaurants, and each year the vintners are entertaining more and more guests at luncheons and dinners prepared by resident chefs to showcase their wines.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Savory Marriages Made in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "COOKING AND COOKBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "RECIPES"
+        }
+    ],
+    "pub_date": "1989-04-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Marian",
+                "rank": 1,
+                "lastname": "BURROS"
+            }
+        ],
+        "original": "By MARIAN BURROS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a2e78eb7c8105d6b9dd0",
+    "word_count": 2670,
+    "slideshow_credits": null
+}

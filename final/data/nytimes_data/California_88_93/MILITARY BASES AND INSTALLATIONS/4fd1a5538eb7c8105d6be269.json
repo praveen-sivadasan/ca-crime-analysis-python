@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1993/04/27/us/panel-gives-california-hope-on-keeping-bases.html",
+    "snippet": "The chairman of the Presidential commission that will determine the fate of scores of military bases has told state officials that bases elsewhere in the nation may be reviewed in the coming weeks as possible replacements for some in Northern Cali...",
+    "lead_paragraph": "The chairman of the Presidential commission that will determine the fate of scores of military bases has told state officials that bases elsewhere in the nation may be reviewed in the coming weeks as possible replacements for some in Northern California that are scheduled to be closed. The possibility of expanding the scope of the commission's review was raised by the panel's chairman, James A. Courter, during a four-day visit to Northern California that included visits to eight military bases in the region and two days of public hearings here.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Panel Gives California Hope on Keeping Bases"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "COURTER, JAMES A"
+        },
+        {
+            "name": "persons",
+            "value": "DELLUMS, RONALD V"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE COMMITTEE ON ARMED SERVICES"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1993-04-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a5538eb7c8105d6be269",
+    "word_count": 822,
+    "slideshow_credits": null
+}

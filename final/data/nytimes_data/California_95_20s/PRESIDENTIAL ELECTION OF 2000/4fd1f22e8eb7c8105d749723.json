@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/06/us/2000-campaign-republicans-mccain-basks-applause-but-whispered-party-line-favors.html",
+    "snippet": "As long as the Republican of the Hour was standing on a podium, the Republican Party of California was standing right behind him.     Everyone, after all, loves a winner. And Senator John McCain of Arizona was still glowing over his 19-point victo...",
+    "lead_paragraph": "As long as the Republican of the Hour was standing on a podium, the Republican Party of California was standing right behind him. Everyone, after all, loves a winner. And Senator John McCain of Arizona was still glowing over his 19-point victory in the New Hampshire primary on Tuesday, not to mention the $1.8 million his campaign has raised over the Internet since then, as he gave the keynote address at the California Republican Party convention here this afternoon.",
+    "abstract": "Sen John McCain attends California Republican Party convention in Burlingame, but Gov George W Bush skips it; Bush is still presidential candidate of choice for most of state's party faithful; photo (M)",
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "McCain Basks in the Applause, but the Whispered Party Line Favors Bush",
+        "kicker": "THE 2000 CAMPAIGN: THE REPUBLICANS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "2000-02-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Evelyn",
+                "rank": 1,
+                "lastname": "NIEVES"
+            }
+        ],
+        "original": "By EVELYN NIEVES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f22e8eb7c8105d749723",
+    "word_count": 949,
+    "slideshow_credits": null
+}

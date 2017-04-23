@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/23/business/judge-spurns-caller-id.html",
+    "snippet": "An administrative law judge with the California Public Utilities Commission has recommended that a \"Caller ID\" telephone service proposed by Pacific Bell, GTE-California and Contel not be approved. Pacific Bell said it would challenge the recommen...",
+    "lead_paragraph": "An administrative law judge with the California Public Utilities Commission has recommended that a \"Caller ID\" telephone service proposed by Pacific Bell, GTE-California and Contel not be approved. Pacific Bell said it would challenge the recommendation. The proposed service would display the number of the caller on a small box attached to the telephone. The companies would allow customers to prevent their numbers from appearing on a recipient's Caller ID box in a process called \"blocking.\"",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Judge Spurns 'Caller ID'"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GTE CALIFORNIA INC"
+        },
+        {
+            "name": "organizations",
+            "value": "CONTEL CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        }
+    ],
+    "pub_date": "1992-01-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b0e98eb7c8105d6d26f3",
+    "word_count": 266,
+    "slideshow_credits": null
+}

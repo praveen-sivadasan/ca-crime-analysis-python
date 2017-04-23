@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/california-quake-getting-there-new-factors-commute-across-bay-extra-time-more.html",
+    "snippet": "LEAD: San Franciscans today found new ordeals in the old challenge of commuting....",
+    "lead_paragraph": "LEAD: San Franciscans today found new ordeals in the old challenge of commuting.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "New Factors in Commute Across Bay: Extra Time, More Money and Fear",
+        "kicker": "THE CALIFORNIA QUAKE: GETTING THERE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+        },
+        {
+            "name": "subject",
+            "value": "FERRIES"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Joseph",
+                "rank": 1,
+                "lastname": "DURSO"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JOSEPH DURSO, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18fea8eb7c8105d696c88",
+    "word_count": 801,
+    "slideshow_credits": null
+}

@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/12/us/public-lives-a-carville-of-california-politics-plans-to-deliver-for-gore.html",
+    "snippet": "IN 1991, Garry South arrived here with no job, few contacts and $16,000 from cashing out his pension after three years as communications director for the embattled Democratic governor of Ohio, Richard F. Celeste. To keep busy, he freelanced featur...",
+    "lead_paragraph": "IN 1991, Garry South arrived here with no job, few contacts and $16,000 from cashing out his pension after three years as communications director for the embattled Democratic governor of Ohio, Richard F. Celeste. To keep busy, he freelanced features for The Glendale News-Press, a local weekly. At $60 a pop, he wrote about subjects like a 50-year-old turtle, and a Girl Scout troop that marched in the Tournament of Roses Parade. ''Not high-toned stuff,'' Mr. South said.",
+    "abstract": "Pub",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Carville of California Politics Plans to Deliver for Gore",
+        "kicker": "PUBLIC LIVES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "persons",
+            "value": "SOUTH, GARRY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "2000-02-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd203318eb7c8105d768c9b",
+    "word_count": 911,
+    "slideshow_credits": null
+}

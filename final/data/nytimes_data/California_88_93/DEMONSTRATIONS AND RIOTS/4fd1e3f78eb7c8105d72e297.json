@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1993/01/25/us/california-inmates-win-better-prison-aids-care.html",
+    "snippet": "In this state's huge, troubled correctional system, the prison at Vacaville, formally known as the California Medical Facility, stands out as a special monument to misery.   It is home to 3,000 physically and mentally ill inmates whose crimes rang...",
+    "lead_paragraph": "In this state's huge, troubled correctional system, the prison at Vacaville, formally known as the California Medical Facility, stands out as a special monument to misery. It is home to 3,000 physically and mentally ill inmates whose crimes range from credit-card fraud to serial murder, and it has been torn apart in recent years by overcrowding, violence, lawsuits, staff turmoil and, lately, by AIDS.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Inmates Win Better Prison AIDS Care"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA MEDICAL FACILITY"
+        },
+        {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        }
+    ],
+    "pub_date": "1993-01-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e3f78eb7c8105d72e297",
+    "word_count": 1198,
+    "slideshow_credits": null
+}

@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/05/us/10-years-later-voters-in-california-are-asked-to-make-up-for-lost-taxes.html",
+    "snippet": "LEAD: When Californians go to the polls Tuesday they will not only bring down the curtain on the Presidential primary season but also mark the 10th anniversary of the national revolt against taxes and spending they ignited with Proposition 13....",
+    "lead_paragraph": "LEAD: When Californians go to the polls Tuesday they will not only bring down the curtain on the Presidential primary season but also mark the 10th anniversary of the national revolt against taxes and spending they ignited with Proposition 13.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "10 Years Later, Voters in California Are Asked to Make Up for Lost Taxes"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 13 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY TAXES"
+        }
+    ],
+    "pub_date": "1988-06-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd191158eb7c8105d698d25",
+    "word_count": 1336,
+    "slideshow_credits": null
+}

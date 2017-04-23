@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/07/us/insurance-rate-system-modified-in-california.html",
+    "snippet": "LEAD: The California Insurance Commissioner on Tuesday put into effect a provision of the 1988 insurance referendum that prohibits auto insurers from basing rates on a driver's area of residence....",
+    "lead_paragraph": "LEAD: The California Insurance Commissioner on Tuesday put into effect a provision of the 1988 insurance referendum that prohibits auto insurers from basing rates on a driver's area of residence.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Insurance Rate System Modified in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GILLESPIE, ROXANI"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INSURANCE COMMISSION, CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1989-12-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aad68eb7c8105d6c8a2a",
+    "word_count": 202,
+    "slideshow_credits": null
+}

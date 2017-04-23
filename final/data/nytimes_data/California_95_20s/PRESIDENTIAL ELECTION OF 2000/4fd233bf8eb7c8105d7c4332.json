@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1999/12/09/us/it-s-california-or-bust-it-seems-in-00-campaign.html",
+    "snippet": "Call it the fire wall, the big state where Al Gore and George W. Bush must stop any serious challenge to their presumptive nominations for president.    Call it the harbinger, the bellwether state where Republicans and Democrats will first face ea...",
+    "lead_paragraph": "Call it the fire wall, the big state where Al Gore and George W. Bush must stop any serious challenge to their presumptive nominations for president. Call it the harbinger, the bellwether state where Republicans and Democrats will first face each other on a single ballot in a sign of their comparative appeal to the November electorate.",
+    "abstract": "Presidential candidates all see California's Mar 7 primary as crucial; leading candidates have Californians in key roles in their campaigns and have spent substantial time in state; polls show George Bush has big lead over other Republicans and Vice Pres Al Gore over Democratic rival Bill Bradley; all candidates will compete in blanket primary, with voters able to choose any candidate, regardless of party affiliation (M)",
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "It's California or Bust, It Seems in '00 Campaign"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "persons",
+            "value": "BRADLEY, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "1999-12-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd233bf8eb7c8105d7c4332",
+    "word_count": 1525,
+    "slideshow_credits": null
+}

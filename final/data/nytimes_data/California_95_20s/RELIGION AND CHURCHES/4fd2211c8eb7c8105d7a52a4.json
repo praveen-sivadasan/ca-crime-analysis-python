@@ -1,0 +1,121 @@
+{
+    "web_url": "https://www.nytimes.com/2000/03/07/us/2000-campaign-republicans-mccain-renews-attack-ads-bush-talks-race-tolerance.html",
+    "snippet": "The leading Republican contenders today crisscrossed the biggest state on the day before the biggest voting of the presidential primary campaign, with Gov. George W. Bush offering a set speech on racial and religious tolerance and a quiet olive br...",
+    "lead_paragraph": "The leading Republican contenders today crisscrossed the biggest state on the day before the biggest voting of the presidential primary campaign, with Gov. George W. Bush offering a set speech on racial and religious tolerance and a quiet olive branch to gay Republicans and with Senator John McCain keeping up a stiff attack on the campaign advertising tactics of Mr. Bush and his supporters. Less than 24 hours before coast-to-coast contests in 13 states, including New York, Ohio, Georgia and most of New England, Mr. Bush and Mr. McCain both spent a full day in California, whose winner-take-all primary will account for 162 of the 613 Republican delegates at stake on Tuesday. In rallies and speeches from Santa Clara to San Diego and from Los Angeles to Long Beach, Mr. Bush sounded an upbeat appeal to moderates, while Mr. McCain sought to stoke a backlash against Mr. Bush and ''his sleazy Texas buddies'' over campaign advertisements attacking Mr. McCain on environmental issues.",
+    "abstract": "Republican presidential candidates Gov George W Bush and Sen John McCain, on eve of primaries in 16 states, crisscross California where winner-take-all primary will account for 162 of 613 Republican delegates at stake in voting; Bush offers set speech on racial and religious tolerance; sounds upbeat appeal to moderates and reaches out to gay Republicans; McCain presses attack on Bush's campaign tactics; seeks to stoke backlash against Bush and 'sleazy Texas buddies' over campaign advertisements attacking him on environmental issues; files formal complaint with Federal Elections Commission alleging improper campaign contributions by Charles and Sam Wyly, two of Bush's biggest contributors in Texas who spent $2.5 million for advertising campaigns; files emergency complaint with Federal Communications Commission, which he oversees as chairman of Senate Commerce Committee, asserting that advertisements violated Communications Act by failing to properly identify true sponsor; commission declines to intervene; photos (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "McCain Renews Attack on Ads as Bush Talks of Race Tolerance",
+        "kicker": "THE 2000 CAMPAIGN: THE REPUBLICANS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WYLY, CHARLES"
+        },
+        {
+            "name": "persons",
+            "value": "WYLY, SAM"
+        },
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL ELECTION COMMISSION"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL COMMUNICATIONS COMMISSION"
+        },
+        {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "RELIGION AND CHURCHES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "2000-03-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alison",
+                "rank": 2,
+                "lastname": "MITCHELL"
+            }
+        ],
+        "original": "By TODD S. PURDUM and ALISON MITCHELL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2211c8eb7c8105d7a52a4",
+    "word_count": 1393,
+    "slideshow_credits": null
+}

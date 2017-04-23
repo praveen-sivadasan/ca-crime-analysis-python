@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/16/business/first-executive-s-chairman-agrees-to-delay-his-pay.html",
+    "snippet": "California insurance regulators said today that Fred Carr, the chairman of the First Executive Corporation, had agreed not to try to collect $10.7 million in long-term compensation until all the troubled insurance company's policy holders are paid...",
+    "lead_paragraph": "California insurance regulators said today that Fred Carr, the chairman of the First Executive Corporation, had agreed not to try to collect $10.7 million in long-term compensation until all the troubled insurance company's policy holders are paid in full. The regulators had said earlier in the day that they would seek to block the payments, which were guaranteed to Mr. Carr by First Executive under an unusual arrangement earlier this year. In the arrangement, Mr. Carr's compensation would have been paid through a new subsidiary of First Executive not regulated by the California Insurance Department.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "First Executive's Chairman Agrees to Delay His Pay"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CARR, FRED"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST EXECUTIVE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "WAGES AND SALARIES"
+        }
+    ],
+    "pub_date": "1991-04-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c19c8eb7c8105d6f102a",
+    "word_count": 636,
+    "slideshow_credits": null
+}

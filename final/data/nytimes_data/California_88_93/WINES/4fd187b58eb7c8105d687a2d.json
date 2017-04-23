@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1989/02/19/magazine/wine-class-acts-ii.html",
+    "snippet": "LEAD: A few weeks back, we tossed off an informal classification of top California wines based - as was the famous 1855 Bordeaux classification -mostly on track record. The wineries that made the cut: Beaulieu, Beringer, Caymus, Clos du Val, Chalo...",
+    "lead_paragraph": "LEAD: A few weeks back, we tossed off an informal classification of top California wines based - as was the famous 1855 Bordeaux classification -mostly on track record. The wineries that made the cut: Beaulieu, Beringer, Caymus, Clos du Val, Chalone, Diamond Creek, Grgich Hills, Heitz, Inglenook, Mayacamas, Stag's Leap, Robert Mondavi and",
+    "abstract": null,
+    "print_page": "58",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CLASS ACTS II",
+        "kicker": "WINE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1989-02-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd187b58eb7c8105d687a2d",
+    "word_count": 1069,
+    "slideshow_credits": null
+}

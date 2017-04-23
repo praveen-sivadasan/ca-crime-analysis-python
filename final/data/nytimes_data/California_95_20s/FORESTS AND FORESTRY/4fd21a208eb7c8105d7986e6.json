@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/25/us/national-news-briefs-us-extends-protection-of-big-sur-coastal-area.html",
+    "snippet": "The White House today announced an expansion of the Los Padres National Forest, extending protection of the Big Sur region of the central California coast.    The government is acquiring 784 acres of former ranch land for $4.55 million to protect ...",
+    "lead_paragraph": "The White House today announced an expansion of the Los Padres National Forest, extending protection of the Big Sur region of the central California coast. The government is acquiring 784 acres of former ranch land for $4.55 million to protect a habitat for the endangered steelhead trout and the Smith's blue butterfly. The move underscores President Clinton's push to create a permanent endowment to finance land conservation.",
+    "abstract": "White House announces expansion of Los Padres National Forest, extending protection of Big Sur region of central California coast; government is acquiring 784 acres of former ranch land for $4.55 million to protect habitat for endangered steelhead trout and Smith's blue butterfly (S)",
+    "print_page": "25",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; U.S. Extends Protection Of Big Sur Coastal Area"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "ENDANGERED AND EXTINCT SPECIES"
+        },
+        {
+            "name": "subject",
+            "value": "BUTTERFLIES AND MOTHS"
+        },
+        {
+            "name": "subject",
+            "value": "FISH AND OTHER MARINE LIFE"
+        }
+    ],
+    "pub_date": "2000-09-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd21a208eb7c8105d7986e6",
+    "word_count": 134,
+    "slideshow_credits": null
+}

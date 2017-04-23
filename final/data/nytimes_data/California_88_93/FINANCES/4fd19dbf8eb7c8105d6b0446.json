@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/15/business/making-a-difference-rhubarb-over-redwoods.html",
+    "snippet": "His name is Harold L. Arbit, but maybe it should be Arbiter. Mr. Arbit is playing a powerful role, though often behind the scenes, in trying to forge a compromise between environmentalists and lumber companies on logging in California forests. If ...",
+    "lead_paragraph": "His name is Harold L. Arbit, but maybe it should be Arbiter. Mr. Arbit is playing a powerful role, though often behind the scenes, in trying to forge a compromise between environmentalists and lumber companies on logging in California forests. If compromise legislation is enacted here, it could become a model for other timber states. Mr. Arbit, who runs Concord Capital Management, a portfolio management company in San Mateo, Calif., has been using his personal wealth to almost single-handedly provide financial backing for the environmentalists. That has given him a powerful voice in decision-making.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Making a Difference; Rhubarb Over Redwoods"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ARBIT, HAROLD L"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        }
+    ],
+    "pub_date": "1991-12-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19dbf8eb7c8105d6b0446",
+    "word_count": 356,
+    "slideshow_credits": null
+}

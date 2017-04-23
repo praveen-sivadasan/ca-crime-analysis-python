@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/24/us/dole-plans-4-million-in-california-ads.html",
+    "snippet": "Planning a huge shift of resources in the last two weeks of the campaign, Dole officials say they will spend $4 million on advertising in California, praising Bob Dole for his honesty and his tax plan while accusing President Clinton of lying and ...",
+    "lead_paragraph": "Planning a huge shift of resources in the last two weeks of the campaign, Dole officials say they will spend $4 million on advertising in California, praising Bob Dole for his honesty and his tax plan while accusing President Clinton of lying and of failing to halt illegal immigration. Meanwhile, the California Republican Party is buying a total of $1.7 million in advertising time, according to a Democratic analysis, for a commercial to support a ballot initiative that would eliminate state affirmative action programs.",
+    "abstract": "Officials for Bob Dole's Presidential campaign, planning huge shift of resources in last two weeks of campaign, say they will spend $4 million on advertising in California that will praise Bob Dole for his honesty and his tax plan while accusing President Clinton of lying and failing to halt illegal immigration (M)",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Dole Plans $4 Million in California Ads",
+        "kicker": "POLITICS: THE AD CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-10-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "BENNET"
+            }
+        ],
+        "original": "By JAMES BENNET"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ccce8eb7c8105d7036ec",
+    "word_count": 972,
+    "slideshow_credits": null
+}

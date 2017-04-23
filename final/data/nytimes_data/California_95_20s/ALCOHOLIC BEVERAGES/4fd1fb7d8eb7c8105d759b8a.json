@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1998/05/03/us/announcing-a-boycott-drinks-provided.html",
+    "snippet": "Hoping to stir up interest in its news conference to ''launch a boycott of California,'' the National Licensed Beverage Association announced in bold letters at the bottom of the fax it sent to news offices: ''Cocktails and Beverages Provided.''  ...",
+    "lead_paragraph": "Hoping to stir up interest in its news conference to ''launch a boycott of California,'' the National Licensed Beverage Association announced in bold letters at the bottom of the fax it sent to news offices: ''Cocktails and Beverages Provided.'' There was a full bar in the meeting room at the Willard Inter-Continental Hotel on Tuesday afternoon, and ashtrays were spread around the room -- amenities almost never seen at news conferences nowadays.",
+    "abstract": "National Licensed Beverage Association sets boycott of California to protest new law banning smoking in bars; offers cocktails at news conference, Washington, DC, in effort to spur attendance (M)",
+    "print_page": "31",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Announcing a Boycott (Drinks Provided)"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL LICENSED BEVERAGE ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "BARS"
+        },
+        {
+            "name": "subject",
+            "value": "BOYCOTTS"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING AND TOBACCO"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1998-05-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "E.",
+                "lastname": "ROSENBAUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By DAVID E. ROSENBAUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fb7d8eb7c8105d759b8a",
+    "word_count": 371,
+    "slideshow_credits": null
+}

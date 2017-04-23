@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/27/style/only-in-california-apres-face-lift-spas-thrive.html",
+    "snippet": "''PLEASE whisper,'' the sign at the little door of the Hidden Garden warns visitors. ''The princess is sleeping.''    The problem is not really that she is sleeping but that she is swollen, bruised, logy, nauseated and, all in all, very unpresenta...",
+    "lead_paragraph": "''PLEASE whisper,'' the sign at the little door of the Hidden Garden warns visitors. ''The princess is sleeping.'' The problem is not really that she is sleeping but that she is swollen, bruised, logy, nauseated and, all in all, very unpresentable -- as tends to happen in the immediate aftermath of the surgical magic that keeps some people looking so uncannily princesslike.",
+    "abstract": "Cosmetic-surgery culture runs so deep and broad in California that it has spawned two postsurgery hideaway hotels, where for $400 or so a night, newly plasticized can be pampered and watched over; workings of 'recovery retreats,' Hidden Garden and Chantique, discussed; photo (L)",
+    "print_page": "47",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Only in California, Apres-Face-Lift Spas Thrive"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HIDDEN GARDEN"
+        },
+        {
+            "name": "organizations",
+            "value": "CHANTIQUE"
+        },
+        {
+            "name": "subject",
+            "value": "PLASTIC SURGERY"
+        },
+        {
+            "name": "subject",
+            "value": "SPAS"
+        }
+    ],
+    "pub_date": "1996-10-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carey",
+                "rank": 1,
+                "lastname": "GOLDBERG"
+            }
+        ],
+        "original": "By CAREY GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d8d98eb7c8105d717fd7",
+    "word_count": 1054,
+    "slideshow_credits": null
+}

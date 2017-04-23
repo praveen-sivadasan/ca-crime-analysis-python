@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/11/business/pebble-beach-rebuffed-on-membership-plan.html",
+    "snippet": "The California Coastal Commission today soundly rejected a proposal to allow the new Japanese owner of the Pebble Beach golf course to sell high-priced memberships.    The commission's 10-1 vote represents a stunning blow to Minoru Isutani, the Ja...",
+    "lead_paragraph": "The California Coastal Commission today soundly rejected a proposal to allow the new Japanese owner of the Pebble Beach golf course to sell high-priced memberships. The commission's 10-1 vote represents a stunning blow to Minoru Isutani, the Japanese golf course tycoon who was counting on selling the memberships to pay back much of the $574 million he borrowed to purchase the Pebble Beach Company last year. The company had hoped to sell as many as 2,000 memberships for about $150,000 apiece, raising $300 million.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pebble Beach Rebuffed On Membership Plan"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ISUTANI, MINORU"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PEBBLE BEACH CO"
+        },
+        {
+            "name": "subject",
+            "value": "GOLF"
+        }
+    ],
+    "pub_date": "1991-10-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a5e28eb7c8105d6bf35b",
+    "word_count": 613,
+    "slideshow_credits": null
+}

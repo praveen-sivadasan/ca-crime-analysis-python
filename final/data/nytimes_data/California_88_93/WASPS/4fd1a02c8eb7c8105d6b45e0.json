@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/27/science/researchers-pit-alien-wasp-against-a-beetle.html",
+    "snippet": "LEAD: SCIENTISTS have begun releasing imported wasps into a grove of eucalyptus trees in an effort to save the trees from beetles that have infested the grove and others like it across Southern California. The wasps, like the trees and the beetles...",
+    "lead_paragraph": "LEAD: SCIENTISTS have begun releasing imported wasps into a grove of eucalyptus trees in an effort to save the trees from beetles that have infested the grove and others like it across Southern California. The wasps, like the trees and the beetles, originated in Australia.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Researchers Pit Alien Wasp Against a Beetle"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TREES AND SHRUBS"
+        },
+        {
+            "name": "subject",
+            "value": "WASPS"
+        },
+        {
+            "name": "subject",
+            "value": "EUCALYPTUS TREES"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        },
+        {
+            "name": "subject",
+            "value": "BEETLES"
+        }
+    ],
+    "pub_date": "1988-09-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Health",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a02c8eb7c8105d6b45e0",
+    "word_count": 380,
+    "slideshow_credits": null
+}

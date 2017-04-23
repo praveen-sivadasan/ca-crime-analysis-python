@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/30/business/thorny-issues-are-holding-up-a-pivotal-health-care-deal.html",
+    "snippet": "Getting the buyer and seller to agree in negotiations for a giant health care merger in California was only the first step. Wellpoint Health Networks and Health Systems International cannot complete their $1.8 billion stock swap without the approv...",
+    "lead_paragraph": "Getting the buyer and seller to agree in negotiations for a giant health care merger in California was only the first step. Wellpoint Health Networks and Health Systems International cannot complete their $1.8 billion stock swap without the approval of the state commissioner of corporations, who has sweeping authority over health maintenance organizations. People close to the deal said the two big health maintenance organizations were on the verge of announcing that Health Systems had agreed to acquire Wellpoint this week. One unresolved problem is obtaining the go-ahead of Gary Mendoza, the commissioner of corporation. A spokesman for Blue Cross of California, the nonprofit parent of Wellpoint, said it could still take four or five months to button up the issues pending before Mr. Mendoza.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Thorny Issues Are Holding Up a Pivotal Health Care Deal"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MENDOZA, GARY S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEALTH SYSTEMS INTERNATIONAL INC"
+        },
+        {
+            "name": "organizations",
+            "value": "BLUE CROSS AND BLUE SHIELD"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1995-03-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Milt",
+                "rank": 1,
+                "lastname": "FREUDENHEIM"
+            }
+        ],
+        "original": "By MILT FREUDENHEIM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cb788eb7c8105d700a46",
+    "word_count": 957,
+    "slideshow_credits": null
+}

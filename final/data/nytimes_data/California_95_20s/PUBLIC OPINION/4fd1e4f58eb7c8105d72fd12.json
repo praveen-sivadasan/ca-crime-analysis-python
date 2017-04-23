@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1996/06/02/weekinreview/ideas-trends-prison-where-the-money-is.html",
+    "snippet": "CAN society afford to eliminate crime?         No, on two counts, says Mark A. Cohen, an economics professor at Vanderbilt University's Owen Graduate School of Management. \"Society cannot afford a zero crime rate,\" he said. \"We would bankrupt ours...",
+    "lead_paragraph": "CAN society afford to eliminate crime? No, on two counts, says Mark A. Cohen, an economics professor at Vanderbilt University's Owen Graduate School of Management. \"Society cannot afford a zero crime rate,\" he said. \"We would bankrupt ourselves, and we'd also have a society we wouldn't like.\" The society created, he said, would resemble the old Soviet Union.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ideas & Trends;Prison: Where the Money Is"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "COHEN, MARK A MARK A COHEN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        }
+    ],
+    "pub_date": "1996-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Fox",
+                "rank": 1,
+                "lastname": "BUTTERFIELD"
+            }
+        ],
+        "original": "By FOX BUTTERFIELD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e4f58eb7c8105d72fd12",
+    "word_count": 851,
+    "slideshow_credits": null
+}

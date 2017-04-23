@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/19/us/budget-crisis-forces-california-colleges-to-bar-the-doors.html",
+    "snippet": "Like millions of others of his generation, Jorge Garcia took the well-trod road to success in California, parlaying a nearly free public-college education into a good job. Now he must tell those who would follow that the road is closing in front o...",
+    "lead_paragraph": "Like millions of others of his generation, Jorge Garcia took the well-trod road to success in California, parlaying a nearly free public-college education into a good job. Now he must tell those who would follow that the road is closing in front of them. He grew up in the 60's, the golden days of California's ascendancy. That was when Mr. Garcia, a farm worker's son in the San Joaquin Valley, could pick peaches for 50 hours to earn the $50 needed to enroll at Fresno State College, and then obtain a bargain doctorate at the University of California. Today he is dean of humanities here at California State University, Northridge, where he has had to cut nearly a third of his teaching faculty and tell angry students that many classes will not be available this fall.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Budget Crisis Forces California Colleges to Bar the Doors"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS (LABOR)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-07-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dd0a8eb7c8105d71f36a",
+    "word_count": 1400,
+    "slideshow_credits": null
+}

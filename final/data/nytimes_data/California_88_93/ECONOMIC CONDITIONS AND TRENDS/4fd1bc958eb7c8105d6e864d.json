@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/25/business/the-media-business-los-angeles-times-to-drop-some-readers.html",
+    "snippet": "The Los Angeles Times, which became the nation's largest metropolitan daily last year through its aggressive expansion efforts, plans to stop selling papers in a large part of central California and in neighboring states.   Executives of The Los A...",
+    "lead_paragraph": "The Los Angeles Times, which became the nation's largest metropolitan daily last year through its aggressive expansion efforts, plans to stop selling papers in a large part of central California and in neighboring states. Executives of The Los Angeles Times, which has a weekday circulation of 1.2 million, said they decided to eliminate home-delivery and newsstand sales in the mostly rural area between Bakersfield and Fresno because of the weakened California economy.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Los Angeles Times to Drop Some Readers",
+        "kicker": "THE MEDIA BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LOS ANGELES TIMES"
+        },
+        {
+            "name": "subject",
+            "value": "NEWSPAPERS"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1991-02-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc958eb7c8105d6e864d",
+    "word_count": 590,
+    "slideshow_credits": null
+}

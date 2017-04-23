@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/16/nyregion/c-corrections-896990.html",
+    "snippet": "LEAD: Because of an editing error, an article in Business Day on Tuesday about the political ties of a savings and loan owner, Carl M. Rheuban, misstated the Federal charges on which a business associate, Michael R. Goland, was convicted last mont...",
+    "lead_paragraph": "LEAD: Because of an editing error, an article in Business Day on Tuesday about the political ties of a savings and loan owner, Carl M. Rheuban, misstated the Federal charges on which a business associate, Michael R. Goland, was convicted last month. He was convicted of having exceeded the individual donation limit in contributions to a third-party candidate in the 1986 Senate race in California won by Alan Cranston.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GOLAND, MICHAEL R"
+        },
+        {
+            "name": "persons",
+            "value": "CRANSTON, ALAN"
+        },
+        {
+            "name": "persons",
+            "value": "RHEUBAN, CARL M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-06-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd193c58eb7c8105d69e670",
+    "word_count": 170,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/18/us/rural-counties-are-still-gasping-from-california-s-tax-revolt.html",
+    "snippet": "LEAD: The members of the Tehama County Board of Supervisors struggled in from the blistering 118-degree heat one recent morning, placed their straw cowboy hats over their hearts, recited the Pledge of Allegiance and sat down for another session of...",
+    "lead_paragraph": "LEAD: The members of the Tehama County Board of Supervisors struggled in from the blistering 118-degree heat one recent morning, placed their straw cowboy hats over their hearts, recited the Pledge of Allegiance and sat down for another session of dismantling their county government.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rural Counties Are Still Gasping From California's Tax Revolt"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY TAXES"
+        }
+    ],
+    "pub_date": "1988-08-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194c48eb7c8105d6a0426",
+    "word_count": 966,
+    "slideshow_credits": null
+}

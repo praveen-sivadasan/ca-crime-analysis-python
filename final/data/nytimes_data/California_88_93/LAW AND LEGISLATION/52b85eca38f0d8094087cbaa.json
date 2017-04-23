@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/24/us/california-reapportionment-heads-to-court.html",
+    "snippet": "The problem of drawing new maps for California's 1992 Congressional and legislative elections has been tossed to the California Supreme Court after the Legislature sustained Gov. Pete Wilson's veto of reapportionment plans.   Democratic attempts t...",
+    "lead_paragraph": "The problem of drawing new maps for California's 1992 Congressional and legislative elections has been tossed to the California Supreme Court after the Legislature sustained Gov. Pete Wilson's veto of reapportionment plans. Democratic attempts to override the Republican Governor's vetoes failed Monday on votes of 22 to 10 in the Senate and 41 to 32 in the Assembly. The overrides required two-thirds majorities of both houses, or 27 votes in the 40-member Senate and 54 votes in the 80-member Assembly.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Reapportionment Heads to Court"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "VETOES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "REAPPORTIONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1991-09-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b85eca38f0d8094087cbaa",
+    "word_count": "371",
+    "slideshow_credits": null
+}

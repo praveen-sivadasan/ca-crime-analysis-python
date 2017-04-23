@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/08/us/sacramento-journal-at-capitol-raining-out-a-swearing-in.html",
+    "snippet": "In the fifth year of drought here, Cali fornia's new Governor, Pete Wilson, thanked God for the chill rain that forced his inauguration indoors today and turned one swearing-in ceremony into two.    What was to have been an oath-taking on the west...",
+    "lead_paragraph": "In the fifth year of drought here, Cali fornia's new Governor, Pete Wilson, thanked God for the chill rain that forced his inauguration indoors today and turned one swearing-in ceremony into two. What was to have been an oath-taking on the west steps of the Capitol instead became two back-to-back ceremonies, one before television cameras and lawmakers in the cozy Rotunda and one for the public in the convention center across the street. The ceremony, the centerpiece of five days of parties, had to be duplicated because the television cameras could not be moved from the Capitol, where the public could not sit.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sacramento Journal; At Capitol, Raining Out a Swearing In"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        }
+    ],
+    "pub_date": "1991-01-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b4bc8eb7c8105d6d9b75",
+    "word_count": 656,
+    "slideshow_credits": null
+}

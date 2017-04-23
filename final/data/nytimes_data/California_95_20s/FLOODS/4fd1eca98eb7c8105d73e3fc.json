@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/24/us/heavy-rain-hits-southern-california-again.html",
+    "snippet": "As Southern California endured another drenching today, two tourists were killed when they were buried when a rain-soaked cliff collapsed, and a surfer may have been swept away by storm-tossed seas.   Periods of heavy rain through Tuesday were exp...",
+    "lead_paragraph": "As Southern California endured another drenching today, two tourists were killed when they were buried when a rain-soaked cliff collapsed, and a surfer may have been swept away by storm-tossed seas. Periods of heavy rain through Tuesday were expected to leave 2 inches along the coast and up to 8 inches at lower elevations in the mountains.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Heavy Rain Hits Southern California Again"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-01-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1eca98eb7c8105d73e3fc",
+    "word_count": "205",
+    "slideshow_credits": null
+}

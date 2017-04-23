@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1995/11/13/business/as-comics-are-taxed-some-fail-to-laugh.html",
+    "snippet": "In some quarters, cartoons are considered a form of ideological commentary; in others they are seen as amusing insights into the human condition. But there  seems to be a consensus on one point: quirky or sedate, raucous or staid, the drawings are...",
+    "lead_paragraph": "In some quarters, cartoons are considered a form of ideological commentary; in others they are seen as amusing insights into the human condition. But there seems to be a consensus on one point: quirky or sedate, raucous or staid, the drawings are meant to convey ideas. That consensus has broken down in California, however, where ideas are free of tariffs but the stuff of commerce is subject to the state's 7.25 percent sales tax.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "As Comics Are Taxed, Some Fail To Laugh"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MAVRIDES, PAUL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SISKIYOU DAILY NEWS"
+        },
+        {
+            "name": "subject",
+            "value": "CARTOONS AND CARTOONISTS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWSPAPERS"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "SALES TAX"
+        },
+        {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "COMIC BOOKS AND STRIPS"
+        }
+    ],
+    "pub_date": "1995-11-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            }
+        ],
+        "original": "By ANDREA ADELSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c1f08eb7c8105d6f1320",
+    "word_count": 1011,
+    "slideshow_credits": null
+}

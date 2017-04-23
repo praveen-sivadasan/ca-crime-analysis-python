@@ -1,0 +1,84 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/26/magazine/back-from-the-bottom.html",
+    "snippet": "LEAD: BRIAN WILSON IS ALONE....",
+    "lead_paragraph": "LEAD: BRIAN WILSON IS ALONE.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "BACK FROM THE BOTTOM"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, BRIAN"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, CARL"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, DENNIS"
+        },
+        {
+            "name": "persons",
+            "value": "LANDY, EUGENE"
+        },
+        {
+            "name": "persons",
+            "value": "LOVE, MIKE"
+        },
+        {
+            "name": "persons",
+            "value": "JARDINE, AL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BEACH BOYS"
+        },
+        {
+            "name": "subject",
+            "value": "RECORDINGS (AUDIO)"
+        },
+        {
+            "name": "subject",
+            "value": "MUSIC"
+        },
+        {
+            "name": "subject",
+            "value": "PSYCHOLOGY AND PSYCHOLOGISTS"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        }
+    ],
+    "pub_date": "1988-06-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Health; Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Timothy",
+                "rank": 1,
+                "lastname": "White"
+            }
+        ],
+        "original": "By Timothy White; Timothy White, who is completing a social history of Southern California, writes frequently about popular music"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18c3c8eb7c8105d68fc59",
+    "word_count": 3971,
+    "slideshow_credits": null
+}

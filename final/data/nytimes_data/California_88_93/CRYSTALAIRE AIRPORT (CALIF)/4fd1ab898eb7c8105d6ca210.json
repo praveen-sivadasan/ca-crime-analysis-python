@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/01/us/a-passion-in-the-desert.html",
+    "snippet": "LEAD: Alcide Chaisson, who is 69 years old and lives in a trailer near Crystalaire Airport, a small field northeast of Los Angeles, was charged Friday with obstructing a flight path. He said small planes buzzing his desert home drowned out his rad...",
+    "lead_paragraph": "LEAD: Alcide Chaisson, who is 69 years old and lives in a trailer near Crystalaire Airport, a small field northeast of Los Angeles, was charged Friday with obstructing a flight path. He said small planes buzzing his desert home drowned out his radio and he fought back by flashing sun into pilots' eyes with a 4-foot-square mirror.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Passion in the Desert"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHAISSON, ALCIDE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CRYSTALAIRE AIRPORT (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        }
+    ],
+    "pub_date": "1990-01-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ab898eb7c8105d6ca210",
+    "word_count": 126,
+    "slideshow_credits": null
+}

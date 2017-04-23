@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/03/us/strike-at-7-hospitals-in-california.html",
+    "snippet": "LEAD: As many as 11,000 employees went on strike at seven hospitals and more than 40 medical offices in Southern California today after weekend talks failed to produce a contract....",
+    "lead_paragraph": "LEAD: As many as 11,000 employees went on strike at seven hospitals and more than 40 medical offices in Southern California today after weekend talks failed to produce a contract.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Strike at 7 Hospitals in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KAISER PERMANENTE"
+        },
+        {
+            "name": "organizations",
+            "value": "SERVICE EMPLOYEES INTERNATIONAL UNION"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "STRIKES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1990-04-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd192738eb7c8105d69b78f",
+    "word_count": 310,
+    "slideshow_credits": null
+}

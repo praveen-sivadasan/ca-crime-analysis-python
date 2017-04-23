@@ -1,0 +1,97 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/04/us/california-attorney-general-calls-for-a-statewide-vote-on-pollution.html",
+    "snippet": "LEAD: The State Attorney General today proposed a sweeping ballot measure to reduce pollution of the air Californians breathe, the water they drink and the food they grow and eat....",
+    "lead_paragraph": "LEAD: The State Attorney General today proposed a sweeping ballot measure to reduce pollution of the air Californians breathe, the water they drink and the food they grow and eat.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Attorney General Calls For a Statewide Vote on Pollution"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "WATER POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "OZONE"
+        },
+        {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1989-08-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1844c8eb7c8105d682bc8",
+    "word_count": 412,
+    "slideshow_credits": null
+}

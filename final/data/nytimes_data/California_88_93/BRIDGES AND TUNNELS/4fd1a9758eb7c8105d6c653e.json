@@ -1,0 +1,59 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/california-quake-bay-bridge-damage-link-across-bay-more-serious-than-thought.html",
+    "snippet": "LEAD: State officials said today that the earthquake had caused more damage to the San Francisco-Oakland Bay Bridge than had been thought and that the span could be closed as long as two months....",
+    "lead_paragraph": "LEAD: State officials said today that the earthquake had caused more damage to the San Francisco-Oakland Bay Bridge than had been thought and that the span could be closed as long as two months.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Damage to Link Across Bay Is More Serious Than Thought",
+        "kicker": "THE CALIFORNIA QUAKE: THE BAY BRIDGE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "OAKLAND (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY BRIDGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BRIDGES AND TUNNELS"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9758eb7c8105d6c653e",
+    "word_count": 710,
+    "slideshow_credits": null
+}

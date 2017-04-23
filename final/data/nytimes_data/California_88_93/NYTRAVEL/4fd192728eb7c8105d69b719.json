@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/27/travel/l-california-839590.html",
+    "snippet": "LEAD: To the Editor: While vacationing on the Monterey peninsula in California, I recently took my car on the Seventeen Mile Drive. It turned out to be quite a pretty drive, with some interesting woodland parts mixed with beach vistas. However, I ...",
+    "lead_paragraph": "LEAD: To the Editor: While vacationing on the Monterey peninsula in California, I recently took my car on the Seventeen Mile Drive. It turned out to be quite a pretty drive, with some interesting woodland parts mixed with beach vistas. However, I have seen countless (and longer) expanses of coast in other parts of California and throughout the United",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VERBONICK, MARK"
+        },
+        {
+            "name": "persons",
+            "value": "BARNWELL, DAVID"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "glocations",
+            "value": "MONTEREY PENINSULA (CALIF)"
+        },
+        {
+            "name": "organizations",
+            "value": "PEBBLE BEACH CO"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "TOLLS"
+        },
+        {
+            "name": "subject",
+            "value": "NYTRAVEL"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+        }
+    ],
+    "pub_date": "1990-05-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd192728eb7c8105d69b719",
+    "word_count": 247,
+    "slideshow_credits": null
+}

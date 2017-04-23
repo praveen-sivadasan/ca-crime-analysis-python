@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1993/12/07/us/court-to-hear-challenge-to-a-death-penalty-law.html",
+    "snippet": "Accepting appeals from two prisoners on death row, the Supreme Court today agreed to hear a broad challenge to California's death penalty law.   A decision in the prisoners' favor could have the effect of invalidating many death sentences in Calif...",
+    "lead_paragraph": "Accepting appeals from two prisoners on death row, the Supreme Court today agreed to hear a broad challenge to California's death penalty law. A decision in the prisoners' favor could have the effect of invalidating many death sentences in California, which this year passed Texas and now leads the nation as the state with the most prisoners on death row -- 375.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Court to Hear Challenge To a Death Penalty Law"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "SUPREME COURT (US)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1993-12-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ad688eb7c8105d6cde85",
+    "word_count": 986,
+    "slideshow_credits": null
+}

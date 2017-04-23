@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/25/us/earthquake-jolts-wide-area-in-california.html",
+    "snippet": "A moderate earthquake shook a wide section of Northern California on Tuesday night, knocking loose boulders that blocked one road into Yosemite National Park today and causing rock slides that closed two of the three other highways into the park. ...",
+    "lead_paragraph": "A moderate earthquake shook a wide section of Northern California on Tuesday night, knocking loose boulders that blocked one road into Yosemite National Park today and causing rock slides that closed two of the three other highways into the park. No injuries were reported from the earthquake, which was felt from San Francisco to Nevada and jolted casinos and hotels in South Lake Tahoe and Reno. It registered a preliminary 5.8 on the Richter scale of ground motion, the United States Geological Survey said . Six-foot-high boulders forced the closing of Highway 120 on the west side of Yosemite. A three-foot section of the highway was gone and a retaining wall was lost. A rock slide half a mile away closed Highway 140 into the park. A road from the south was unaffected. The center of the earthquake was in Lee Vining, a town of 400 people east of Yosemite in the Sierra Nevada and about 190 miles southeast of San Francisco, said Pat Jorgenson, a spokeswoman for the survey. The earthquake that struck Northern California on Oct. 17, 1989, registered 7.1 and claimed 67 lives.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Earthquake Jolts Wide Area in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1990-10-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1945e8eb7c8105d69f650",
+    "word_count": 186,
+    "slideshow_credits": null
+}

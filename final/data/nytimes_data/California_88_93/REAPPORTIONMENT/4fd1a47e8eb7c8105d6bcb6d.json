@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/16/us/census-office-told-to-give-california-adjusted-figures.html",
+    "snippet": "Opening the possibility that states and cities could use unofficial census figures to redraw political boundaries, a Federal judge has directed the Census Bureau to give the California Senate the numbers the bureau had wanted to use to correct the...",
+    "lead_paragraph": "Opening the possibility that states and cities could use unofficial census figures to redraw political boundaries, a Federal judge has directed the Census Bureau to give the California Senate the numbers the bureau had wanted to use to correct the 1990 count. Those numbers were rejected by the Bush Administration a month ago. Political scientists and lawyers said that, if upheld, the ruling, issued Wednesday by Judge Consuelo B. Marshall of the Central District of California, could substantially alter the districts in which candidates for the State Assembly and Senate and possibly Congress will run starting next year. The changes could add political strength to the largely minority areas where the undercount was greatest, they said.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Census Office Told to Give California Adjusted Figures"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MARSHALL, CONSUELO B"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CENSUS BUREAU"
+        },
+        {
+            "name": "subject",
+            "value": "POPULATION"
+        },
+        {
+            "name": "subject",
+            "value": "REAPPORTIONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "DISCLOSURE OF INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1991-08-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a47e8eb7c8105d6bcb6d",
+    "word_count": 1059,
+    "slideshow_credits": null
+}

@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/21/us/state-by-state-game-of-political-roulette-for-california-s-key-vote.html",
+    "snippet": "LEAD: In California, where the television advertisement has dominated politics for decades, both parties believe the Presidential campaign is so close that they are investing heavily in the sort of door-to-door campaigning that is as out of step w...",
+    "lead_paragraph": "LEAD: In California, where the television advertisement has dominated politics for decades, both parties believe the Presidential campaign is so close that they are investing heavily in the sort of door-to-door campaigning that is as out of step with this state's image as is the silent movie.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Game of Political Roulette For California's Key Vote",
+        "kicker": "STATE BY STATE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIELD POLL"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        }
+    ],
+    "pub_date": "1988-09-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr.",
+                "firstname": "E.",
+                "middlename": "J.",
+                "lastname": "DIONNE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By E. J. DIONNE Jr., Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19c9b8eb7c8105d6ae0fc",
+    "word_count": 1331,
+    "slideshow_credits": null
+}

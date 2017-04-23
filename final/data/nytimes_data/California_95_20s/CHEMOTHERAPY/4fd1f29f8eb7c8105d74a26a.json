@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/09/03/us/boy-with-cancer-taken-from-his-mother.html",
+    "snippet": "A 6-year-old cancer patient has been taken from his mother's custody after she refused to take him to a hospital for chemotherapy.   The mother, Elena Duarte, 27, wanted to continue herbal treatments for son, Adrian Chavez, and had threatened to r...",
+    "lead_paragraph": "A 6-year-old cancer patient has been taken from his mother's custody after she refused to take him to a hospital for chemotherapy. The mother, Elena Duarte, 27, wanted to continue herbal treatments for son, Adrian Chavez, and had threatened to run away with the child, the boy's grandfather said.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Boy With Cancer Taken From His Mother"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHAVEZ, ADRIAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEUKEMIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "CHEMOTHERAPY"
+        }
+    ],
+    "pub_date": "1995-09-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f29f8eb7c8105d74a26a",
+    "word_count": 172,
+    "slideshow_credits": null
+}

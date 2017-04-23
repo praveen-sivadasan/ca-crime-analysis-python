@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1993/07/19/business/california-phone-plan.html",
+    "snippet": "California regulators have proposed an extensive overhaul of their telephone rules, tentatively deciding that long-distance companies should be allowed to compete against Pacific Bell in the $2 billion market for calls between neighboring cities. ...",
+    "lead_paragraph": "California regulators have proposed an extensive overhaul of their telephone rules, tentatively deciding that long-distance companies should be allowed to compete against Pacific Bell in the $2 billion market for calls between neighboring cities. The ruling, which was issued late Friday and is expected to take effect on Jan. 1, would hasten the erosion of traditional boundaries between local and long-distance service. Companies like A.T.& T., MCI Communications and Sprint would be able to place calls between locations as close as 16 miles apart.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Phone Plan"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1993-07-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d0808eb7c8105d70a264",
+    "word_count": 126,
+    "slideshow_credits": null
+}

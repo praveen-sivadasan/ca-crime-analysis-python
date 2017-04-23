@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/28/us/california-governor-vetoes-civil-rights-bill.html",
+    "snippet": "A civil rights bill promising new job and housing protection to homosexuals, the disabled and people who do not speak English was vetoed Saturday by Gov. Pete Wilson, who said other laws, including a gay-rights bill he signed Friday, give adequate...",
+    "lead_paragraph": "A civil rights bill promising new job and housing protection to homosexuals, the disabled and people who do not speak English was vetoed Saturday by Gov. Pete Wilson, who said other laws, including a gay-rights bill he signed Friday, give adequate protection. The rejected bill, sponsored by the Assembly Speaker, Willie Brown, included gay-rights language that Mr. Wilson vetoed last year. On Friday, Mr. Wilson, a Republican, signed a similar bill outlawing job discrimination against gay men and lesbians.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Governor Vetoes Civil Rights Bill"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "VETOES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1992-09-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c36a8eb7c8105d6f25fd",
+    "word_count": 189,
+    "slideshow_credits": null
+}

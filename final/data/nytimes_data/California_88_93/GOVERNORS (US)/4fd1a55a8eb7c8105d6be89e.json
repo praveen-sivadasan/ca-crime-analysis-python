@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/26/us/sacramento-portrait-well-liked-even-california-rivals-latest-brown-now-early.html",
+    "snippet": "There was a made-for-television moment here one recent morning that most politicians could only dream of.   With a baby on each hip and the cameras rolling, Kathleen Brown, Treasurer of California, went to the bank to buy bonds for her twin grandc...",
+    "lead_paragraph": "There was a made-for-television moment here one recent morning that most politicians could only dream of. With a baby on each hip and the cameras rolling, Kathleen Brown, Treasurer of California, went to the bank to buy bonds for her twin grandchildren and remind voters that politics is her family business.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sacramento Portrait; Well Liked Even by California Rivals, Latest Brown Is Now Early Favorite"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, KATHLEEN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1993-03-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1a55a8eb7c8105d6be89e",
+    "word_count": 1564,
+    "slideshow_credits": null
+}

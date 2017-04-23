@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/31/us/national-news-briefs-non-hispanic-whites-are-california-minority.html",
+    "snippet": "California, the state that ended racial quotas, fortified its borders and limited bilingual education, now faces a reality in which minorities are the majority.    New census data indicate that blacks, Hispanics and Asians outnumber non-Hispanic w...",
+    "lead_paragraph": "California, the state that ended racial quotas, fortified its borders and limited bilingual education, now faces a reality in which minorities are the majority. New census data indicate that blacks, Hispanics and Asians outnumber non-Hispanic whites, a shift that could transform California's political dynamics and social priorities in the years to come.",
+    "abstract": "Census Bureau figures show blacks, Hispanics and Asians in California together outnumber non-Hispanic whites, who have slipped into minority for first time with only 49.8 percent of state's population (S)",
+    "print_page": "22",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Non-Hispanic Whites Are California Minority"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CENSUS BUREAU"
+        },
+        {
+            "name": "subject",
+            "value": "POPULATION"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "ASIAN-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        }
+    ],
+    "pub_date": "2000-08-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd237128eb7c8105d7c9943",
+    "word_count": 105,
+    "slideshow_credits": null
+}

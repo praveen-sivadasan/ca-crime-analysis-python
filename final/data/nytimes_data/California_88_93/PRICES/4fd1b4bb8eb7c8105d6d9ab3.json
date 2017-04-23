@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/15/business/s-l-woes-creep-into-california.html",
+    "snippet": "California has had more than its share of savings and loan fraud and mismanagement. But a robust real estate market has largely spared savings institutions here from the crippling losses suffered by their counterparts in depressed housing markets ...",
+    "lead_paragraph": "California has had more than its share of savings and loan fraud and mismanagement. But a robust real estate market has largely spared savings institutions here from the crippling losses suffered by their counterparts in depressed housing markets in Texas, Colorado, Arizona and the Northeast -- at least until now. No one is predicting a Texas-style collapse in California. But analysts and regulators are increasingly concerned with the potential effect of the recent sharp downturn in housing sales and prices on the state's savings and loans. California is home to nine of the country's ten largest institutions and accounts for nearly a quarter of all savings and loan assets.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "S.& L. Woes Creep Into California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REAL ESTATE"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-11-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b4bb8eb7c8105d6d9ab3",
+    "word_count": 1559,
+    "slideshow_credits": null
+}

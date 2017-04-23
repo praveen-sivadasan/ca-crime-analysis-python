@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1998/10/15/technology/fighting-fire-with-technology-as-computers-help-out.html",
+    "snippet": "DAN GOSNELL, a fire management planner in California for the United States Forest Service, wishes he had had his service's new technology two years ago. It was nearly Thanksgiving when a wildfire flared in Waterman Canyon, in the San Bernardino Na...",
+    "lead_paragraph": "DAN GOSNELL, a fire management planner in California for the United States Forest Service, wishes he had had his service's new technology two years ago. It was nearly Thanksgiving when a wildfire flared in Waterman Canyon, in the San Bernardino National Forest. Flames jumped the crest of the canyon and ripped down the foothills, fueled by 30-m.p.h. Santa Ana winds. The fire stalked to within a mile of the campus of California State University at San Bernardino. During such wildfires, the Forest Service has to worry about more than buildings, however. As they try to stop the flames, officials are also concerned with what they may accidentally destroy -- archeological deposits, for example -- with their fire-control techniques. In this case, the staff archeologist could not be reached for a midnight consultation, so the commander ordered a bulldozer to make a break in the six-foot chaparral to stop the fire.",
+    "abstract": "United States Forest Service is using new technology in fighting forest fires that can pinpoint Forest Service vehicles on computerized maps, show features of land, including topography, and even presence of endangered species; system was designed to help fight forest fires that rage every year through mountains and deserts of Southern California; maps are part of system that combines global positioning device with satellite communication; is also being adapted for other Federal agencies that control land; photos (M)",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fighting Fire With Technology as Computers Help Out"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FOREST SERVICE"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        },
+        {
+            "name": "subject",
+            "value": "SATELLITES"
+        },
+        {
+            "name": "subject",
+            "value": "GLOBAL POSITIONING SYSTEM"
+        }
+    ],
+    "pub_date": "1998-10-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Circuits",
+    "section_name": "Technology",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Rebecca",
+                "middlename": "Fairley",
+                "lastname": "RANEY",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By REBECCA FAIRLEY RANEY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20c398eb7c8105d77b4ec",
+    "word_count": 1471,
+    "slideshow_credits": null
+}

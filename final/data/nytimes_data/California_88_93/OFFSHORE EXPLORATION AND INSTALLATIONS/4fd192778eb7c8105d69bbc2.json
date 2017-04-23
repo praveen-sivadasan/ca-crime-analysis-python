@@ -1,0 +1,85 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/27/us/california-pushing-the-limits-with-environmental-plan.html",
+    "snippet": "LEAD: The stage was set today for one of the toughest national political battles of 1990, drawing the environmental movement directly into hardball politics over a measure that would impose on California the most sweeping controls in the country....",
+    "lead_paragraph": "LEAD: The stage was set today for one of the toughest national political battles of 1990, drawing the environmental movement directly into hardball politics over a measure that would impose on California the most sweeping controls in the country.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Pushing the Limits With Environmental Plan"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WATER POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "OFFSHORE EXPLORATION AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-04-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd192778eb7c8105d69bbc2",
+    "word_count": 1075,
+    "slideshow_credits": null
+}

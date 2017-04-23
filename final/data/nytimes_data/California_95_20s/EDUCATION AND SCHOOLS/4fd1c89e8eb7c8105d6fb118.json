@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1995/04/17/business/media-business-california-viewers-getting-chance-direct-their-sportscasts.html",
+    "snippet": "In a glimpse into television's interactive future, about 1,000 cable subscribers in Southern California will be the first in the country to customize their own sports-television viewing. One remote-control button will enable a viewer to call up an...",
+    "lead_paragraph": "In a glimpse into television's interactive future, about 1,000 cable subscribers in Southern California will be the first in the country to customize their own sports-television viewing. One remote-control button will enable a viewer to call up an instant replay, another button will summon an isolated view of a star player and another will retrieve up-to-the-minute statistics and graphics. The technology is not just for sports programming. A Canadian channel uses a similar system to allow viewers of news programs to call up expanded reports and text on selected subjects. During educational programs, children can respond to math and geography questions presented on their screens. Viewers of music shows can watch a Peter Gabriel rock concert, for example, and call up information about the country in which he is performing.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Viewers Getting the Chance to Direct Their Sportscasts",
+        "kicker": "THE MEDIA BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "VENTURA COUNTY CABLEVISION"
+        },
+        {
+            "name": "organizations",
+            "value": "ACTV INC"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+        },
+        {
+            "name": "subject",
+            "value": "INTERACTIVE (TWO-WAY) TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "REMOTE CONTROL SYSTEMS"
+        }
+    ],
+    "pub_date": "1995-04-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Education; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Richard",
+                "rank": 1,
+                "lastname": "SANDOMIR"
+            }
+        ],
+        "original": "By RICHARD SANDOMIR"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c89e8eb7c8105d6fb118",
+    "word_count": 1072,
+    "slideshow_credits": null
+}

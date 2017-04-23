@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/05/us/polls-show-feinstein-with-a-lead-in-california.html",
+    "snippet": "LEAD: California's Democratic primary campaign for governor ended today with two major polls giving former Mayor Diane Feinstein of San Francisco a comfortable lead over Attorney General John K. Van de Kamp in the race for the Democratic nominatio...",
+    "lead_paragraph": "LEAD: California's Democratic primary campaign for governor ended today with two major polls giving former Mayor Diane Feinstein of San Francisco a comfortable lead over Attorney General John K. Van de Kamp in the race for the Democratic nomination.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Polls Show Feinstein With a Lead in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-06-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f808eb7c8105d6b353e",
+    "word_count": 710,
+    "slideshow_credits": null
+}

@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/19/us/strange-foes-in-california-redistricting.html",
+    "snippet": "Pete Wilson's main purpose in running for governor of California last year was to prevent the Democratic-controlled Legislature from cheating the Republicans when it came to reapportioning the state's huge delegation to Congress.   But the supreme...",
+    "lead_paragraph": "Pete Wilson's main purpose in running for governor of California last year was to prevent the Democratic-controlled Legislature from cheating the Republicans when it came to reapportioning the state's huge delegation to Congress. But the supreme irony now is that the Republican Governor, a moderate, is facing some of his stiffest opposition from Republican conservatives in Congress in redrawing district lines. Indeed, a kind of de facto alliance has formed between these Republicans and liberal Democrats in Congress, who have crafted three alternative plans that protect incumbents of both parties to the greatest possible extent.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Strange Foes in California Redistricting"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "REAPPORTIONMENT"
+        }
+    ],
+    "pub_date": "1991-09-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d3468eb7c8105d70f7fd",
+    "word_count": 1045,
+    "slideshow_credits": null
+}

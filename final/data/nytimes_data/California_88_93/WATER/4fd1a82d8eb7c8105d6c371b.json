@@ -1,0 +1,59 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/06/business/business-technology-dry-california-turns-to-the-pacific.html",
+    "snippet": "With California in the grip of a five-year drought, cities and utility companies in this state are building the nation's first large-scale plants to desalt seawater.    In turning to desalting, cities like Santa Barbara and companies like Southern...",
+    "lead_paragraph": "With California in the grip of a five-year drought, cities and utility companies in this state are building the nation's first large-scale plants to desalt seawater. In turning to desalting, cities like Santa Barbara and companies like Southern California Edison are using a technology already extensive in the Middle East and other parts of the world to produce fresh water. Until now the high construction costs and operating costs of such plants made little economic sense in the United States.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Dry California Turns to the Pacific",
+        "kicker": "BUSINESS TECHNOLOGY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "DESALINATION"
+        }
+    ],
+    "pub_date": "1991-03-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a82d8eb7c8105d6c371b",
+    "word_count": 1467,
+    "slideshow_credits": null
+}

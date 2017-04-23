@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/14/us/california-acts-on-pollution-in-the-garden.html",
+    "snippet": "Opening a new front in the battle against air pollution, California is moving to control some everyday tools of modern American living: gasoline-powered lawn mowers, leaf blowers, hedge trimmers and snow blowers.    In an action that is believed t...",
+    "lead_paragraph": "Opening a new front in the battle against air pollution, California is moving to control some everyday tools of modern American living: gasoline-powered lawn mowers, leaf blowers, hedge trimmers and snow blowers. In an action that is believed to be the first effort ever to regulate exhaust from these and other \"utility\" machines, the state's powerful Air Resources Board is expected to order manufacturers on Friday to reduce pollutant emissions by 55 percent in two steps starting in 1994. The machines produce up to 50 times more pollution per horsepower than trucks produce.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Acts on Pollution in the Garden"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CARBON MONOXIDE"
+        },
+        {
+            "name": "subject",
+            "value": "HYDROCARBONS"
+        },
+        {
+            "name": "subject",
+            "value": "GARDENS AND GARDENING"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1990-12-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19d238eb7c8105d6aed5b",
+    "word_count": 1018,
+    "slideshow_credits": null
+}

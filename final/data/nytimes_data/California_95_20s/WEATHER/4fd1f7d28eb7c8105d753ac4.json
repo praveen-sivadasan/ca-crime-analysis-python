@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1998/02/09/us/national-news-briefs-federal-aid-is-sought-in-california-after-storms.html",
+    "snippet": "Gov. Pete Wilson of California today asked President Clinton to designate almost half the state's counties as disaster areas after storms that have caused five deaths.    Governor Wilson inspected flood damage and declared a state of emergency in ...",
+    "lead_paragraph": "Gov. Pete Wilson of California today asked President Clinton to designate almost half the state's counties as disaster areas after storms that have caused five deaths. Governor Wilson inspected flood damage and declared a state of emergency in 5 counties, bringing the total to 27 of the state's 58.",
+    "abstract": "Gov Pete Wilson of California asks Pres Clinton to designate almost half of state's counties disaster areas after storms that have caused five deaths (S)",
+    "print_page": "11",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Federal Aid Is Sought In California After Storms"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FEDERAL AID (US)"
+        }
+    ],
+    "pub_date": "1998-02-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f7d28eb7c8105d753ac4",
+    "word_count": 201,
+    "slideshow_credits": null
+}

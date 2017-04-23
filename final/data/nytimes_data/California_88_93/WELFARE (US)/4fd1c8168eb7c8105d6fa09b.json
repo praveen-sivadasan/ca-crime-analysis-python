@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1992/12/24/us/us-court-delays-welfare-cutback.html",
+    "snippet": "A Federal judge has temporarily blocked California from paying lower welfare benefits to poor women and children who move here from other states, a policy that is a linchpin of Gov. Pete Wilson's effort to cut spiraling welfare costs and balance t...",
+    "lead_paragraph": "A Federal judge has temporarily blocked California from paying lower welfare benefits to poor women and children who move here from other states, a policy that is a linchpin of Gov. Pete Wilson's effort to cut spiraling welfare costs and balance the budget. Under the two-tiered benefit system, aid to newcomers would be limited for 12 months to the amounts they received in their former states. The policy was approved by the Legislature this fall and went into effect on Dec. 1, when the state received a Federal waiver.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. COURT DELAYS WELFARE CUTBACK"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "SCHWARTZ, MILTON L"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        }
+    ],
+    "pub_date": "1992-12-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c8168eb7c8105d6fa09b",
+    "word_count": 812,
+    "slideshow_credits": null
+}

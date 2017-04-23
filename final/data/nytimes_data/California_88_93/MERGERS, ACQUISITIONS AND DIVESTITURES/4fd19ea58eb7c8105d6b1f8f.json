@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/30/business/recovery-plan-for-an-s-l.html",
+    "snippet": "Great American Bank, a financially troubled savings and loan company based in San Diego, said today that Federal regulators had approved a sweeping recovery plan that includes the previously announced sale of Great American's branches in Californi...",
+    "lead_paragraph": "Great American Bank, a financially troubled savings and loan company based in San Diego, said today that Federal regulators had approved a sweeping recovery plan that includes the previously announced sale of Great American's branches in California to the Wells Fargo Bank. Great American said the approval by the Office of Thrift Supervision would allow it to complete the first phase of the branch sale to Wells Fargo after business on Friday. The second phase is expected to close in the third quarter of next year. Great American said the sale of its 130 branches in California and their $6.3 billion in deposits to Wells Fargo would give it an after-tax gain of $135 million, allowing the company to replenish its greatly depleted capital.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Recovery Plan for an S.& L."
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "OFFICE OF THRIFT SUPERVISION"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLS FARGO BANK"
+        },
+        {
+            "name": "organizations",
+            "value": "GREAT AMERICAN BANK"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-11-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd19ea58eb7c8105d6b1f8f",
+    "word_count": 124,
+    "slideshow_credits": null
+}

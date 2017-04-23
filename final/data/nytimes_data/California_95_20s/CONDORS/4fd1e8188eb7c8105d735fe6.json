@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1999/02/01/us/national-news-briefs-7-california-condors-released-into-the-wild.html",
+    "snippet": "Seven rare California condors, born and bred in captivity, have been released into the wild.    Scientists freed the birds on a mountaintop in Monterey County 2,500 feet above the Big Sur coast on Saturday....",
+    "lead_paragraph": "Seven rare California condors, born and bred in captivity, have been released into the wild. Scientists freed the birds on a mountaintop in Monterey County 2,500 feet above the Big Sur coast on Saturday.",
+    "abstract": "Seven rare California condors, born and bred in captivity, are released into wild (S)",
+    "print_page": "18",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; 7 California Condors Released Into the Wild"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CONDORS"
+        },
+        {
+            "name": "subject",
+            "value": "ENDANGERED AND EXTINCT SPECIES"
+        },
+        {
+            "name": "subject",
+            "value": "BIRDS"
+        }
+    ],
+    "pub_date": "1999-02-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e8188eb7c8105d735fe6",
+    "word_count": 53,
+    "slideshow_credits": null
+}

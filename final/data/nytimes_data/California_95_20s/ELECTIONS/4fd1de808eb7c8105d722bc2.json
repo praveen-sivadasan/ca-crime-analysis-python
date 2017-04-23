@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/09/us/california-voters-face-new-canvas-for-electoral-politics.html",
+    "snippet": "In just two months, California voters will begin sifting a pile of options to choose a new governor for the most populous state, decide on whether to retain Senator Barbara Boxer and set statewide law and policy on issues like bilingual education ...",
+    "lead_paragraph": "In just two months, California voters will begin sifting a pile of options to choose a new governor for the most populous state, decide on whether to retain Senator Barbara Boxer and set statewide law and policy on issues like bilingual education and the use of union dues in political campaigns. The process will start in the highly unpredictable new arena of the state's first ''blanket'' primary election, on June 2, in which the names of all candidates for each office will be on the same ballot and voters will be able to select from among all the choices without regard to party. In Los Angeles County, nearly 800 candidates have qualified for various offices, posing a huge challenge to the fortitude of the voters and the capacity of the voting machines.",
+    "abstract": "California on June 2 will hold its first 'blanket' primary election in which names of all candidates for each office will be on same ballot and voters will be able to select from among all choices without regard to party; governor's race is most closely watched and probably most important single race in nation this year; top Democratic candidates are financier Alfred A Checchi, Lt Gov Gray Davis and Rep Jane Harman; Gov Pete Wilson, two-term Republican, is barred from seeking third term; Atty Gen Dan Lungren is facing only token opposition for Republican nomination; photos (M)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Voters Face New Canvas for Electoral Politics"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUNGREN, DANIEL E"
+        },
+        {
+            "name": "persons",
+            "value": "HARMAN, JANE"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "persons",
+            "value": "CHECCHI, ALFRED A"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1998-04-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1de808eb7c8105d722bc2",
+    "word_count": 1214,
+    "slideshow_credits": null
+}

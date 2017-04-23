@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/17/nyregion/c-corrections-080291.html",
+    "snippet": "A chart last Sunday with an article about the poinsettia whitefly described its arrival in California incompletely. The whitefly has been in the state since the late 1920's or early 1930's; the poinsettia strain arrived in the mid-1980's and becam...",
+    "lead_paragraph": "A chart last Sunday with an article about the poinsettia whitefly described its arrival in California incompletely. The whitefly has been in the state since the late 1920's or early 1930's; the poinsettia strain arrived in the mid-1980's and became a problem for agriculture about a year ago.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1991-11-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1acbe8eb7c8105d6cc611",
+    "word_count": 48,
+    "slideshow_credits": null
+}

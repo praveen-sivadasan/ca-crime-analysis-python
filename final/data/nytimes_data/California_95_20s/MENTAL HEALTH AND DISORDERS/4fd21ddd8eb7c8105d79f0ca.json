@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1999/03/25/us/va-hospital-is-told-to-halt-all-research.html",
+    "snippet": "The Department of Veterans Affairs has for the first time suspended all research in one of its health care centers, saying the center has failed  to meet ethical guidelines in human experiments.    After six years of investigations and temporary s...",
+    "lead_paragraph": "The Department of Veterans Affairs has for the first time suspended all research in one of its health care centers, saying the center has failed to meet ethical guidelines in human experiments. After six years of investigations and temporary suspensions, the hospitals and clinics of the Veterans Affairs of Greater Los Angeles Health Care System -- including the West Los Angeles Veterans Affairs Medical Center, one of the nation's largest research hospitals -- were ordered on Monday to halt all of their animal and human experiments. The order will go into effect on Friday.",
+    "abstract": "Department of Veterans Affairs for first time suspends all research in one of its health care centers, ordering clinics of Greater Los Angeles Health Care System to halt animal and human experiments for allegedly failing to meet ethical guidelines in human experiments; Veterans Affairs Under Sec Dr Kenneth W Kizer orders shutdown; notes hospitals were already on probation and says management has repeatedly failed to correct problems; cuts off all private funds; Department of Health and Human Services officialls halts all Federal financing; problems mainly involve experiments carried out mentally ill veterans; patients' advocates charge some were deliberately taken off medications and allowed to suffer relapses so researchers could study course of symptoms, and that others were intentionally given drugs that made symptoms worse so doctors could observe them as they occurred (M)",
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "V.A. Hospital Is Told to Halt All Research"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KIZER, KENNETH W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEALTH AND HUMAN SERVICES DEPARTMENT"
+        },
+        {
+            "name": "organizations",
+            "value": "VETERANS ADMINISTRATION"
+        },
+        {
+            "name": "organizations",
+            "value": "GREATER LOS ANGELES HEALTH CARE SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        },
+        {
+            "name": "subject",
+            "value": "FEDERAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "VETERANS"
+        }
+    ],
+    "pub_date": "1999-03-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Philip",
+                "middlename": "J.",
+                "lastname": "HILTS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By PHILIP J. HILTS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21ddd8eb7c8105d79f0ca",
+    "word_count": 740,
+    "slideshow_credits": null
+}

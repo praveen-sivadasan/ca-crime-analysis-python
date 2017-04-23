@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/12/garden/wine-talk-116295.html",
+    "snippet": "ONCE upon a time, \"blend\" was an ugly word in the wine business. It implied something inferior. Jug wines were blends; third-rate varietals were blends. A cheap cabernet sauvignon might be 50 percent cabernet and 50 percent carignan or some other ...",
+    "lead_paragraph": "ONCE upon a time, \"blend\" was an ugly word in the wine business. It implied something inferior. Jug wines were blends; third-rate varietals were blends. A cheap cabernet sauvignon might be 50 percent cabernet and 50 percent carignan or some other undistinguished grape. The best wines, like Beaulieu Vineyards' Private Reserve, were proudly advertised as \"100 percent cabernet sauvignon.\"",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1995-07-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd200468eb7c8105d762d7c",
+    "word_count": 1093,
+    "slideshow_credits": null
+}

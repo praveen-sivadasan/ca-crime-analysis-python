@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1998/10/24/us/1998-campaign-california-quest-for-presidential-primary-clout-may-hinge-passage.html",
+    "snippet": "Less than a month ago, Gov. Pete Wilson let loose national political lightning by signing a bill moving California's Presidential primary to the front of the pack in 2000, on March 7, just after New Hampshire and Iowa. But unless voters here pass ...",
+    "lead_paragraph": "Less than a month ago, Gov. Pete Wilson let loose national political lightning by signing a bill moving California's Presidential primary to the front of the pack in 2000, on March 7, just after New Hampshire and Iowa. But unless voters here pass an obscure ballot measure next month, the new primary may be virtually meaningless. That is because both major national political parties require that delegates to their nominating conventions be chosen by party members only, but two years ago, voters in California created a blanket primary system, in which all candidates' names appear on a single ballot, regardless of party, and Democratic and Republican voters can mix and match.",
+    "abstract": "California Gov Pete Wilson and Legislature agreed this year to put measure on Nov 3 ballot, returning state's Presidential primary to old system, in which voters from each party get separate ballots; but measure has drawn little public notice and no financial backing amid raft of tight races; if measure, Proposition 3, fails, California parties could be forced to create some kind of elaborate and costly parallel system--caucuses, conventions or mail-in balloting--to choose their delegates, while primary would be just for show (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Quest for Presidential Primary Clout May Hinge on Passage of Obscure Ballot Measure",
+        "kicker": "THE 1998 CAMPAIGN: CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTIONS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1998-10-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e1618eb7c8105d729732",
+    "word_count": 724,
+    "slideshow_credits": null
+}

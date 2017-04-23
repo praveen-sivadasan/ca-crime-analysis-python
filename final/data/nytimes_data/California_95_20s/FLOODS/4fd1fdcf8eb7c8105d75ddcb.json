@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/12/us/storms-drench-california-creating-a-trail-of-havoc.html",
+    "snippet": "A major winter storm system continued to push out of the Pacific Ocean today after causing tens of millions of dollars in flood damage to roads, homes, businesses and crops, and leaving Californians bracing for a renewal of heavy rainfall on Frida...",
+    "lead_paragraph": "A major winter storm system continued to push out of the Pacific Ocean today after causing tens of millions of dollars in flood damage to roads, homes, businesses and crops, and leaving Californians bracing for a renewal of heavy rainfall on Friday. Federal and state officials said it was still too early to estimate the overall cost of damage from the storm system, which has spawned a series of drenching rainstorms since last week.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Storms Drench California, Creating a Trail of Havoc"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FEDERAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-01-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "MARKOFF"
+            }
+        ],
+        "original": "By JOHN MARKOFF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fdcf8eb7c8105d75ddcb",
+    "word_count": 1260,
+    "slideshow_credits": null
+}

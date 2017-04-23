@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/22/magazine/food-california-coasting-along.html",
+    "snippet": "LEAD: Pork medallions snuggled next to creamy, garlicky potatoes. Prime rib rubbed with olive paste. Chocolate-stuffed croissants soaked with creme anglaise. This is California cuisine - a far cry from the raw baby vegetables, edible flowers and p...",
+    "lead_paragraph": "LEAD: Pork medallions snuggled next to creamy, garlicky potatoes. Prime rib rubbed with olive paste. Chocolate-stuffed croissants soaked with creme anglaise. This is California cuisine - a far cry from the raw baby vegetables, edible flowers and pizzas that put the state on the culinary map. And while pork, potatoes and bread pudding may seem at odds with the trim, tanned population, restaurants that serve robust food are experiencing a mini-revival.",
+    "abstract": null,
+    "print_page": "55",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA: COASTING ALONG",
+        "kicker": "FOOD"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WELLS, LINDA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "COOKING AND COOKBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "RECIPES"
+        }
+    ],
+    "pub_date": "1990-04-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1af018eb7c8105d6cf1b2",
+    "word_count": 2660,
+    "slideshow_credits": null
+}

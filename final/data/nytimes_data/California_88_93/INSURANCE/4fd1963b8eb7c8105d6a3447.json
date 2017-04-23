@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/22/business/insurers-to-set-aside-money.html",
+    "snippet": "LEAD: Two California insurance companies said today that they would set aside provisions against earnings in case they are required to return money to customers to comply with Proposition 103, a state ballot initiative that called for 20 percent i...",
+    "lead_paragraph": "LEAD: Two California insurance companies said today that they would set aside provisions against earnings in case they are required to return money to customers to comply with Proposition 103, a state ballot initiative that called for 20 percent insurance rate rollbacks.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Insurers to Set Aside Money"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMWEST INSURANCE GROUP INC"
+        },
+        {
+            "name": "organizations",
+            "value": "MERCURY GENERAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1989-08-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1963b8eb7c8105d6a3447",
+    "word_count": 263,
+    "slideshow_credits": null
+}

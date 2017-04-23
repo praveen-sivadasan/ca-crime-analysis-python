@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/18/business/giving-drivers-tailor-made-data-on-car-insurance.html",
+    "snippet": "Some people call Peter B. Lewis, president and chief executive of the Progressive Corporation of Cleveland, a maverick and an eccentric. And Mr. Lewis, who favors black Stetson hats and has a passion for contemporary art, does not dispute the labe...",
+    "lead_paragraph": "Some people call Peter B. Lewis, president and chief executive of the Progressive Corporation of Cleveland, a maverick and an eccentric. And Mr. Lewis, who favors black Stetson hats and has a passion for contemporary art, does not dispute the labels. After all, he is a committed Democrat, \"which really makes me an eccentric in the insurance business.\" Politics aside, Mr. Lewis, 58 years old, has indeed built a track record of foraging into risky businesses -- like insuring motorcycle riders -- that make most competitors wince. And his pioneering reputation will surely be reinforced by his latest venture, one to help Californians shop for auto insurance. By many accounts, it is the first service of its kind in the nation.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Giving Drivers Tailor-Made Data on Car Insurance"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LEWIS, PETER B"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PROGRESSIVE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY AND ORGANIZATION PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1992-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 1,
+                "lastname": "BRYANT"
+            }
+        ],
+        "original": "By ADAM BRYANT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1df1d8eb7c8105d72410e",
+    "word_count": 1470,
+    "slideshow_credits": null
+}

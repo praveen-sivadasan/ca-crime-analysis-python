@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1997/02/06/us/setback-in-deal-to-preserve-california-redwoods.html",
+    "snippet": "The Houston financier who controls the largest grove of old-growth redwoods left in private hands has turned down scores of properties that the State of California offered in partial trade for the forest, dealing a new blow to the complex deal tha...",
+    "lead_paragraph": "The Houston financier who controls the largest grove of old-growth redwoods left in private hands has turned down scores of properties that the State of California offered in partial trade for the forest, dealing a new blow to the complex deal that the Federal and state governments hope to use to protect the ancient trees in Northern California. The rejection of dozens of properties still on the state government's list of offerings as part of a tentative agreement last year, means that California will probably have to pay cash to meet its $130 million obligation in the deal with the financier, Charles E. Hurwitz, to save the Headwaters forest.",
+    "abstract": "Charles E Hurwitz, Houston financier who controls largest grove of old-growth redwoods left in private hands, has turned down scores of properties that State of California has offered in partial trade for forest, dealing blow to complex deal that Federal and state governments hope to use to protect ancient trees in Northern California (M)",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Setback in Deal to Preserve California Redwoods"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HURWITZ, CHARLES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "REDWOOD TREES"
+        }
+    ],
+    "pub_date": "1997-02-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20e5d8eb7c8105d77f89e",
+    "word_count": 555,
+    "slideshow_credits": null
+}

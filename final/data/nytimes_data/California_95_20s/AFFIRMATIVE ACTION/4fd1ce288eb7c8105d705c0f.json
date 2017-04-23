@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/08/02/us/group-to-shun-california.html",
+    "snippet": "The National Bar Association, the nation's largest group of black lawyers, has voted to move its 1997 annual convention out of California because of Gov. Pete Wilson's opposition to affirmative action....",
+    "lead_paragraph": "The National Bar Association, the nation's largest group of black lawyers, has voted to move its 1997 annual convention out of California because of Gov. Pete Wilson's opposition to affirmative action.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Group to Shun California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL BAR ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "CONVENTIONS AND CONFERENCES"
+        }
+    ],
+    "pub_date": "1995-08-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ce288eb7c8105d705c0f",
+    "word_count": 79,
+    "slideshow_credits": null
+}

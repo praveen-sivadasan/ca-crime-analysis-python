@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/27/us/california-to-get-tougher-air-rules.html",
+    "snippet": "LEAD: California, which has long had the nation's toughest air-quality rules, is on the verge of approving an even stricter set of regulations intended to create a new generation of less-polluting fuels and vehicles, including electric cars....",
+    "lead_paragraph": "LEAD: California, which has long had the nation's toughest air-quality rules, is on the verge of approving an even stricter set of regulations intended to create a new generation of less-polluting fuels and vehicles, including electric cars.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA TO GET TOUGHER AIR RULES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "FUEL"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1990-09-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b15f8eb7c8105d6d3863",
+    "word_count": 1161,
+    "slideshow_credits": null
+}

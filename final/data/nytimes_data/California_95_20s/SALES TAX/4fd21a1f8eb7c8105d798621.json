@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/01/business/technology-briefing-e-commerce-california-bill-on-web-sales-tax.html",
+    "snippet": "The California State Assembly has passed a bill that would require businesses with stores in California to collect state sales tax on purchases made over the Internet. The bill, approved earlier by the State Senate, passed by a vote of 42-to-31 an...",
+    "lead_paragraph": "The California State Assembly has passed a bill that would require businesses with stores in California to collect state sales tax on purchases made over the Internet. The bill, approved earlier by the State Senate, passed by a vote of 42-to-31 and was sent to the governor. It focuses on companies like Barnes & Noble, whose affiliated Internet units do not charge or collect the state's 7.25 percent sales tax. While Gov. Gray Davis has not said whether he will sign the bill, he has indicated that he opposes Internet taxes. State officials estimate the measure could add $14 million in tax revenues to the $22 billion the state already collects each year. Lawrence M. Fisher (NYT)",
+    "abstract": "California State Assembly passes bill that would require businesses with stores in California to collect state sales tax on purchases made over Internet; Gov Gray Davis, who has indicated opposition to Internet taxes, has not said if he will sign bill (S)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA BILL ON WEB SALES TAX",
+        "kicker": "TECHNOLOGY BRIEFING: E-COMMERCE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "SALES TAX"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+        }
+    ],
+    "pub_date": "2000-09-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By Lawrence M. Fisher"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21a1f8eb7c8105d798621",
+    "word_count": 120,
+    "slideshow_credits": null
+}

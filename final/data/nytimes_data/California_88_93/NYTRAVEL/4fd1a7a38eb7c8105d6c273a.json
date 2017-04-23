@@ -1,0 +1,67 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/27/business/company-news-theme-parks-offer-discounts.html",
+    "snippet": "In an effort to increase attendance, MCA Inc.'s Universal Studios Hollywood said today that it would offer residents of California a $5 discount on its $22.50 admission price from March 15 to May 5.   The Walt Disney Company, which had been offeri...",
+    "lead_paragraph": "In an effort to increase attendance, MCA Inc.'s Universal Studios Hollywood said today that it would offer residents of California a $5 discount on its $22.50 admission price from March 15 to May 5. The Walt Disney Company, which had been offering Southern California residents its own admission discount at Disneyland in Anaheim, said today that it would extend its discount one week, until March 10. The Disney discount offers $7.50 off the $27.50 admission price.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Theme Parks Offer Discounts",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MCA INC"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSAL STUDIOS HOLLYWOOD"
+        },
+        {
+            "name": "organizations",
+            "value": "DISNEY, WALT, CO"
+        },
+        {
+            "name": "organizations",
+            "value": "DISNEYLAND"
+        },
+        {
+            "name": "subject",
+            "value": "AMUSEMENT PARKS"
+        },
+        {
+            "name": "subject",
+            "value": "DISCOUNT SELLING"
+        },
+        {
+            "name": "subject",
+            "value": "NYTRAVEL"
+        }
+    ],
+    "pub_date": "1991-02-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7a38eb7c8105d6c273a",
+    "word_count": 162,
+    "slideshow_credits": null
+}

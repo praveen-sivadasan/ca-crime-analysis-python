@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/07/14/business/sears-expects-steep-drop-in-second-quarter-profits.html",
+    "snippet": "LEAD: Sears, Roebuck & Company said today that it expects a sharp decline in second-quarter earnings because its Allstate Insurance group's catastrophe-related losses exceeded expectations and sales by the merchandise group were disappointing....",
+    "lead_paragraph": "LEAD: Sears, Roebuck & Company said today that it expects a sharp decline in second-quarter earnings because its Allstate Insurance group's catastrophe-related losses exceeded expectations and sales by the merchandise group were disappointing.",
+    "abstract": null,
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sears Expects Steep Drop In Second-Quarter Profits"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SEARS ROEBUCK & CO"
+        },
+        {
+            "name": "organizations",
+            "value": "ALLSTATE INSURANCE GROUP"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY REPORTS"
+        }
+    ],
+    "pub_date": "1990-07-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eben",
+                "rank": 1,
+                "lastname": "SHAPIRO"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By EBEN SHAPIRO, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194138eb7c8105d69eb3b",
+    "word_count": 512,
+    "slideshow_credits": null
+}

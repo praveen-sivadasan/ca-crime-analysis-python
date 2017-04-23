@@ -1,0 +1,85 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/22/us/new-law-will-warn-californians-of-chemical-risks-of-modern-life.html",
+    "snippet": "LEAD: Starting Saturday, life will change for the 24 million residents of California. Almost daily, they will receive pointed reminders about the chemical risks of the good life of the 20th century in the nation's largest state....",
+    "lead_paragraph": "LEAD: Starting Saturday, life will change for the 24 million residents of California. Almost daily, they will receive pointed reminders about the chemical risks of the good life of the 20th century in the nation's largest state.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "New Law Will Warn Californians Of Chemical Risks of Modern Life"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WATER POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "SIGNS"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "LABELS AND LABELING"
+        },
+        {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+        },
+        {
+            "name": "subject",
+            "value": "CHEMICALS"
+        },
+        {
+            "name": "subject",
+            "value": "REWARDS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1988-02-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18b9d8eb7c8105d68e457",
+    "word_count": 1750,
+    "slideshow_credits": null
+}

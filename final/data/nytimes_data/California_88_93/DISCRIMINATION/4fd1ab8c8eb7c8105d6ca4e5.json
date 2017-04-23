@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/17/us/sentencing-criminals-a-formula-for-fairness.html",
+    "snippet": "LEAD: Under a new philosophy of prison sentencing that is spreading across the country, California's judicial system appears to have largely eliminated racial bias in determining which convicts go to prison and for how long, a study by the Rand Co...",
+    "lead_paragraph": "LEAD: Under a new philosophy of prison sentencing that is spreading across the country, California's judicial system appears to have largely eliminated racial bias in determining which convicts go to prison and for how long, a study by the Rand Corporation has reported.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sentencing Criminals: A Formula for Fairness"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "RAND CORP"
+        },
+        {
+            "name": "subject",
+            "value": "COURTS"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS (IN US)"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        }
+    ],
+    "pub_date": "1990-02-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Andrew",
+                "middlename": "H.",
+                "lastname": "MALCOLM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By ANDREW H. MALCOLM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ab8c8eb7c8105d6ca4e5",
+    "word_count": 857,
+    "slideshow_credits": null
+}

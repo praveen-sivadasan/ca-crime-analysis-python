@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/2000/05/30/science/observatory.html",
+    "snippet": "Invasion of the Ants      In Stanislaw Lem's 1961 science fiction classic ''Solaris,'' a group of scientists encounters a world covered by a sentient ocean, a single, giant organism that invades every nook and cranny of the planet (and, unfortunat...",
+    "lead_paragraph": "Invasion of the Ants In Stanislaw Lem's 1961 science fiction classic ''Solaris,'' a group of scientists encounters a world covered by a sentient ocean, a single, giant organism that invades every nook and cranny of the planet (and, unfortunately for the scientists, every nook and cranny of their minds). Nothing quite that creepy is going on in California, but the state has been overrun by a species of ant that, researchers say, has essentially formed a single giant colony from San Diego to San Francisco and beyond. The researchers, from the University of California at San Diego, discovered a lack of genetic variation in the insect, the Argentine ant, which has allowed the species to spread to nooks and crannies up and down the state, particularly in coastal areas.",
+    "abstract": "Argentine ants of California are thriving all the way from San Diego to San Francisco because they lack genetic diversity, which is usually an asset; being genetically the same, the ants refrain from intercolony death matches that limit them in their native Argentina; drawing...Study of tropical forests finds that trees of same species tend to grow in clumps rather than evenly through the forest...Online vote in under way to decide which celestial object the Hubble Space Telescope should fix its gaze on next (M)",
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "OBSERVATORY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "SPACE"
+        },
+        {
+            "name": "subject",
+            "value": "GENETICS AND HEREDITY"
+        },
+        {
+            "name": "subject",
+            "value": "ANTS"
+        },
+        {
+            "name": "subject",
+            "value": "HUBBLE SPACE TELESCOPE"
+        }
+    ],
+    "pub_date": "2000-05-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Henry",
+                "rank": 1,
+                "lastname": "FOUNTAIN"
+            }
+        ],
+        "original": "By HENRY FOUNTAIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd224948eb7c8105d7aaeaa",
+    "word_count": 647,
+    "slideshow_credits": null
+}

@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/14/us/in-crisis-california-to-force-big-utilities-to-supply-power.html",
+    "snippet": "California's power crisis deepened today as some big electricity generating companies refused to sell power to the state's financially ailing utilities, prompting Energy Secretary Bill Richardson to say that he would invoke rarely used emergency p...",
+    "lead_paragraph": "California's power crisis deepened today as some big electricity generating companies refused to sell power to the state's financially ailing utilities, prompting Energy Secretary Bill Richardson to say that he would invoke rarely used emergency powers and force them to ship the desperately needed power. Under the measures, about a dozen power producers in the West and Northwest would have to provide power to California's utilities at a price the Federal Energy Regulatory Commission would determine.",
+    "abstract": "California's power crisis deepens, with some big electricity generating companies refusing to sell power to state's financially ailing utilities; Energy Sec Bill Richardson says he will invoke rarely used emergency powers to force them to ship desperately needed power (M)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In Crisis, California to Force Big Utilities to Supply Power"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "RICHARDSON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "2000-12-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "STERNGOLD"
+            }
+        ],
+        "original": "By JAMES STERNGOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd23df68eb7c8105d7d42b2",
+    "word_count": 666,
+    "slideshow_credits": null
+}

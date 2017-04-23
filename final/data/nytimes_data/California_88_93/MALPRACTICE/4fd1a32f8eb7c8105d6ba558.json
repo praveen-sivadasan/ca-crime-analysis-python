@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/28/business/business-and-health-debate-on-plan-to-limit-lawsuits.html",
+    "snippet": "PRESIDENT BUSH sent a proposal to Congress earlier this month to limit medical malpractice lawsuits, accepting a recommendation that the American Medical Association had been pushing for five years. The association has said the limits work in Cali...",
+    "lead_paragraph": "PRESIDENT BUSH sent a proposal to Congress earlier this month to limit medical malpractice lawsuits, accepting a recommendation that the American Medical Association had been pushing for five years. The association has said the limits work in California and has suggested that changes in the malpractice laws could ultimately reduce health-care spending. But lawyers who file the malpractice suits insist that the doctors have not proved their point.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Business and Health; Debate on Plan To Limit Lawsuits"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "BUSINESS AND HEALTH (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN MEDICAL ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "MALPRACTICE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1991-05-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Health; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Milt",
+                "rank": 1,
+                "lastname": "Freudenheim"
+            }
+        ],
+        "original": "By Milt Freudenheim"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a32f8eb7c8105d6ba558",
+    "word_count": 746,
+    "slideshow_credits": null
+}

@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/29/magazine/american-contemporary-rhones-california-style.html",
+    "snippet": "LEAD: YOU DON'T HAVE TO BE A WINE EXPERT to recognize such names as cabernet, chardonnay and pinot noir. Of course, they're the names of the grapes that go into California's most famous wines. But don't get too comfortable; things are changing out...",
+    "lead_paragraph": "LEAD: YOU DON'T HAVE TO BE A WINE EXPERT to recognize such names as cabernet, chardonnay and pinot noir. Of course, they're the names of the grapes that go into California's most famous wines. But don't get too comfortable; things are changing out on the West Coast. Are you ready for syrah, mourvedre, grenache, cinsault and viognier?",
+    "abstract": null,
+    "print_page": "52",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rhones, California Style",
+        "kicker": "AMERICAN CONTEMPORARY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1989-10-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Home Entertaining Magazine",
+    "section_name": "Home and Garden; Style; Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd196c38eb7c8105d6a46bb",
+    "word_count": 1260,
+    "slideshow_credits": null
+}

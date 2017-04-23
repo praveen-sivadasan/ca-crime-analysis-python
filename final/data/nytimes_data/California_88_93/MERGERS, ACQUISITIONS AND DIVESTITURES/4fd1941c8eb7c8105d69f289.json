@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/17/business/company-news-american-stores-merger-settlement.html",
+    "snippet": "LEAD: The American Stores Company, California's largest supermarket chain, said it had agreed to sell most of its Alpha Beta stores to settle a state lawsuit challenging its $2.5 billion takeover of Lucky Stores on antitrust grounds. The decision ...",
+    "lead_paragraph": "LEAD: The American Stores Company, California's largest supermarket chain, said it had agreed to sell most of its Alpha Beta stores to settle a state lawsuit challenging its $2.5 billion takeover of Lucky Stores on antitrust grounds. The decision follows a United States Supreme Court ruling last month that allowed California to sue the company to overturn the 1988 merger.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "American Stores' Merger Settlement",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALPHA BETA STORES"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN STORES CO"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "SUPERMARKETS"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        }
+    ],
+    "pub_date": "1990-05-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1941c8eb7c8105d69f289",
+    "word_count": 207,
+    "slideshow_credits": null
+}

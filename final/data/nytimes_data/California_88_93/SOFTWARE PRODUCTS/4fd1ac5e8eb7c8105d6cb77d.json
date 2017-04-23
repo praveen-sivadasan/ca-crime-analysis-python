@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1993/09/12/business/they-d-rather-be-jamming.html",
+    "snippet": "ON weekends, Phillipe Kahn, the highly visible chief executive of the software powerhouse Borland International, disguises himself in a fake mustache, dark glasses and hat, and joins a group of musician friends to play his flute at weddings and ba...",
+    "lead_paragraph": "ON weekends, Phillipe Kahn, the highly visible chief executive of the software powerhouse Borland International, disguises himself in a fake mustache, dark glasses and hat, and joins a group of musician friends to play his flute at weddings and bar mitzvahs in Silicon Valley. \"I play the theme from 'The Godfather' or Whitney Houston's latest hit,\" Mr. Kahn said. \"I do it for fun.\"",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "They'd Rather Be Jamming"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ALLEN, PAUL"
+        },
+        {
+            "name": "persons",
+            "value": "KAHN, PHILIPPE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BORLAND INTERNATIONAL INC"
+        },
+        {
+            "name": "organizations",
+            "value": "MICROSOFT CORP"
+        },
+        {
+            "name": "subject",
+            "value": "MUSIC"
+        },
+        {
+            "name": "subject",
+            "value": "EXECUTIVES AND MANAGEMENT"
+        },
+        {
+            "name": "subject",
+            "value": "SOFTWARE PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "DATA PROCESSING (COMPUTERS)"
+        }
+    ],
+    "pub_date": "1993-09-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Glenn",
+                "rank": 1,
+                "lastname": "RIFKIN"
+            }
+        ],
+        "original": "By GLENN RIFKIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ac5e8eb7c8105d6cb77d",
+    "word_count": 620,
+    "slideshow_credits": null
+}

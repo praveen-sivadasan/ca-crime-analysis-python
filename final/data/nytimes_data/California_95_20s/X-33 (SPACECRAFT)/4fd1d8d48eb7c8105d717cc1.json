@@ -1,0 +1,89 @@
+{
+    "web_url": "https://www.nytimes.com/1996/07/03/business/nasa-picks-model-for-a-new-fleet-of-space-vehicles.html",
+    "snippet": "NASA selected the Lockheed Martin Corporation today to build a futuristic experimental rocket that could lead to drastic cuts in the cost of putting payloads into space.         The wedge-shaped re-usable vehicle, the X-33, will be the first major...",
+    "lead_paragraph": "NASA selected the Lockheed Martin Corporation today to build a futuristic experimental rocket that could lead to drastic cuts in the cost of putting payloads into space. The wedge-shaped re-usable vehicle, the X-33, will be the first major new spacecraft built by the United States in 25 years. It is a step toward replacing the space shuttle, and will be built under a program intended to move much of the initiative for developing high-risk technologies out of NASA's hands and into those of private industry.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "NASA PICKS MODEL FOR A NEW FLEET OF SPACE VEHICLES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GOLDIN, DANIEL S"
+        },
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LOCKHEED MARTIN CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "MCDONNELL DOUGLAS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+        },
+        {
+            "name": "organizations",
+            "value": "ROCKWELLINTERNATIONAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "X-33 (SPACECRAFT)"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "SPACE"
+        },
+        {
+            "name": "subject",
+            "value": "SPACE SHUTTLE"
+        },
+        {
+            "name": "subject",
+            "value": "SPACE STATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWMODELS, DESIGN AND PRODUCTS"
+        }
+    ],
+    "pub_date": "1996-07-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Front Page; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Warren",
+                "middlename": "E.",
+                "lastname": "LEARY",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By WARREN E. LEARY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d8d48eb7c8105d717cc1",
+    "word_count": 1307,
+    "slideshow_credits": null
+}

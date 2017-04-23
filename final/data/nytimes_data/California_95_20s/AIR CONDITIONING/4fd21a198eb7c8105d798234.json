@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/20/magazine/the-way-we-live-now-8-20-00-salient-facts-air-conditioning-cool-running.html",
+    "snippet": "GRIDLOCK ALERT  Hot summer weather means even more heat for the nation's already stressed deregulated electric grids. During last summer's dog days, New York was hit by power outages when air-conditioners overwhelmed the city's capacity -- and pol...",
+    "lead_paragraph": "GRIDLOCK ALERT Hot summer weather means even more heat for the nation's already stressed deregulated electric grids. During last summer's dog days, New York was hit by power outages when air-conditioners overwhelmed the city's capacity -- and politicians are still feeling the aftershocks. In California, air-conditioners are the single most heavily used electrical appliance during the summer, consuming nearly 30 percent of the state's electricity. On a typical August day this year, the California Independent System Operator, which runs most of that state's power grid, dispensed 43,000 megawatts of electricity, compared with 29,000 megawatts on an average January day. (A megawatt is the amount of electricity being supplied to 1,000 average American homes at any moment.) The San Francisco Bay Area already experienced intermittent and rolling blackouts this summer when a heat wave pushed the mercury past 100 degrees to its highest levels in 35 years. HAPPY MACHINES Despite the disproportionate strain on the system, only 11 percent of all households in the West use air-conditioners all season long. That's equivalent to usage in Eastern households but far below the South's, where the figure is 57 percent, according to the Energy Information Association's most recent Residential Energy Consumption Survey (1997). So why does California's climate control push the state's generators into tilt? Because only a small portion of the state's countless coolers are being used to keep consumers happy. The majority of the machines are being used to cool other machines -- especially ''server farms,'' entire buildings full of data-crunching computers that generate a considerable amount of heat. Which means, according to Chris Lotspeich, a senior associate at the Rocky Mountain Institute, a Colorado think tank that studies and consults on electrical consumption in the high-tech industry, ''the amount of power used for air-conditioning systems could be whacked in half by something so simple as an increase in the diameter of a filter or a cooling coil, which causes a more efficient air or water flow.'' The machines may have their own bugs to deal with, but at least they don't have to deal with Legionnaires' disease or air-conditioner lung, caused by the bacteria and fungi, respectively, that can find homes in the pools of water that sometimes collect in air-conditioners.",
+    "abstract": "sal\u00ef",
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Way We Live Now: 8-20-00: Salient Facts: Air-conditioning; Cool Running"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AIR CONDITIONING"
+        }
+    ],
+    "pub_date": "2000-08-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Reena",
+                "rank": 1,
+                "lastname": "Jana"
+            }
+        ],
+        "original": "By Reena Jana"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21a198eb7c8105d798234",
+    "word_count": 609,
+    "slideshow_credits": null
+}

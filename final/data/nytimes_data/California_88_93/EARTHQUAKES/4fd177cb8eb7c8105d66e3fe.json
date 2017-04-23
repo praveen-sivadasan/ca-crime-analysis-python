@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/13/us/three-quakes-hit-california.html",
+    "snippet": "LEAD: A sharp earthquake jolted a wide region of Northern California tonight, but authorities said there were no immediate reports of damage or injuries....",
+    "lead_paragraph": "LEAD: A sharp earthquake jolted a wide region of Northern California tonight, but authorities said there were no immediate reports of damage or injuries.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Three Quakes Hit California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1988-06-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd177cb8eb7c8105d66e3fe",
+    "word_count": 315,
+    "slideshow_credits": null
+}

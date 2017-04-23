@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/07/opinion/california-s-ballot-industry.html",
+    "snippet": "LEAD: Perhaps best known for hot tubs, dancing raisins and ''Governor Moonbeam,'' California is without question the most diverse state in the country - geographically, racially and culturally. I was raised here and I'm proud to be a Californian. ...",
+    "lead_paragraph": "LEAD: Perhaps best known for hot tubs, dancing raisins and ''Governor Moonbeam,'' California is without question the most diverse state in the country - geographically, racially and culturally. I was raised here and I'm proud to be a Californian. But as a legislator for 16 years, I've traveled around the country talking to folks who just shake their heads in wonder at our unusual politics.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Ballot Industry"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-05-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "Garamendi"
+            }
+        ],
+        "original": "By John Garamendi; John Garamendi, a Democrat, is a California State Senator"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1af448eb7c8105d6cf9f4",
+    "word_count": 718,
+    "slideshow_credits": null
+}

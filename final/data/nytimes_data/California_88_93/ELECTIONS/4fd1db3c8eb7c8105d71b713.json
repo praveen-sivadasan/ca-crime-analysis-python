@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/30/us/the-1992-campaign-low-tolerance-for-political-commercials-just-count-to-10.html",
+    "snippet": "After all the tirades against campaigns that are waged through commercials, perhaps it is time to say something in defense of the 30-second advertisement. Just think, it could be a 10-second ad.   In California, where advertising costs are high an...",
+    "lead_paragraph": "After all the tirades against campaigns that are waged through commercials, perhaps it is time to say something in defense of the 30-second advertisement. Just think, it could be a 10-second ad. In California, where advertising costs are high and tolerance for politicians low, some candidates are now offering voters a chance to get to know them in just one-sixth of a minute, roughly the amount of time it takes most people to write their names.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Low Tolerance for Political Commercials? Just Count to 10",
+        "kicker": "THE 1992 CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CAMPBELL, TOM"
+        },
+        {
+            "name": "persons",
+            "value": "HERSCHENSOHN, BRUCE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1992-05-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Elizabeth",
+                "rank": 1,
+                "lastname": "KOLBERT"
+            }
+        ],
+        "original": "By ELIZABETH KOLBERT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1db3c8eb7c8105d71b713",
+    "word_count": 372,
+    "slideshow_credits": null
+}

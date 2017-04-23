@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/26/us/us-agents-seize-files-in-california-statehouse.html",
+    "snippet": "LEAD: Armed with search warrants, Federal agents spread through the state Capitol in Sacramento late Wednesday night and seized numerous documents from the offices of six California legislators....",
+    "lead_paragraph": "LEAD: Armed with search warrants, Federal agents spread through the state Capitol in Sacramento late Wednesday night and seized numerous documents from the offices of six California legislators.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. Agents Seize Files In California Statehouse"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MONTOYA, JOSEPH B"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL BUREAU OF INVESTIGATION"
+        },
+        {
+            "name": "organizations",
+            "value": "PEACH STATE CAPITOL INC"
+        },
+        {
+            "name": "subject",
+            "value": "SEARCH AND SEIZURE"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1988-08-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19c988eb7c8105d6adece",
+    "word_count": 870,
+    "slideshow_credits": null
+}

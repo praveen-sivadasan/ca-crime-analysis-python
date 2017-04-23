@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1998/06/27/us/national-news-briefs-appeals-court-blocks-execution-in-california.html",
+    "snippet": "Horace Kelly, convicted of murdering two women and an 11-year-old boy in 1984, was granted a new hearing today by a Federal court of appeals, blocking his execution, scheduled for July 7.    The United States Court of Appeals for the Ninth Circuit...",
+    "lead_paragraph": "Horace Kelly, convicted of murdering two women and an 11-year-old boy in 1984, was granted a new hearing today by a Federal court of appeals, blocking his execution, scheduled for July 7. The United States Court of Appeals for the Ninth Circuit, here in San Francisco, said a majority of its 21 active judges had voted to refer Mr. Kelly's case to an 11-judge panel for a rehearing at a date not yet scheduled. The panel is to decide whether a deadline in a new Federal law bars Mr. Kelly, 38, from a Federal appeal of his convictions and two death sentences.",
+    "abstract": "United States Appeals Court grants new hearing to Horace Kelly, convicted of three 1984 California murders, blocking his execution (S)",
+    "print_page": "9",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Appeals Court Blocks Execution in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KELLY, HORACE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1998-06-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b8754038f0d86bcb2a5278",
+    "word_count": "157",
+    "slideshow_credits": null
+}

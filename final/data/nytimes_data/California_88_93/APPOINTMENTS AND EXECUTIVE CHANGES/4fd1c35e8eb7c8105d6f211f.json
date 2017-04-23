@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/17/business/company-news-no-1-water-agency-picks-conservation-minded-chief.html",
+    "snippet": "Before going to college, Michael J. Gage spent the summer of 1967 as a logger in Alaska, cutting towering fir and cedar trees. The experience, he says, left him with respect for environmental concerns.   Mr. Gage, who this week was elected board c...",
+    "lead_paragraph": "Before going to college, Michael J. Gage spent the summer of 1967 as a logger in Alaska, cutting towering fir and cedar trees. The experience, he says, left him with respect for environmental concerns. Mr. Gage, who this week was elected board chairman of the Metropolitan Water District, is expected to pay considerable attention to environmental matters as he heads the nation's largest water agency. Based in this city, it takes in six Southern California counties, 52,000 square miles and 15 million people.",
+    "abstract": null,
+    "print_page": "43",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "No. 1 Water Agency Picks Conservation-Minded Chief",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GAGE, MICHAEL J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "APPOINTMENTS AND EXECUTIVE CHANGES"
+        },
+        {
+            "name": "subject",
+            "value": "CONSERVATION OF RESOURCES"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        }
+    ],
+    "pub_date": "1992-10-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            }
+        ],
+        "original": "By ANDREA ADELSON"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1c35e8eb7c8105d6f211f",
+    "word_count": 500,
+    "slideshow_credits": null
+}

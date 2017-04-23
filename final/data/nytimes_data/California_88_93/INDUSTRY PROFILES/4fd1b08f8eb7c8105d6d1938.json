@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/29/business/california-sees-housing-boom-become-slump.html",
+    "snippet": "LEAD: On front lawns in many cities along the California coast, the for-sale sign has become almost as common as the palm tree, and to some sellers seemingly as permanent. After several years of breathtaking price increases and demand so strong th...",
+    "lead_paragraph": "LEAD: On front lawns in many cities along the California coast, the for-sale sign has become almost as common as the palm tree, and to some sellers seemingly as permanent. After several years of breathtaking price increases and demand so strong that houses were snapped up within hours of being listed, California's giant real estate market has slowed drastically.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Sees Housing Boom Become Slump"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA ASSN OF REALTORS"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRY PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "REAL ESTATE"
+        }
+    ],
+    "pub_date": "1990-08-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Front Page; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b08f8eb7c8105d6d1938",
+    "word_count": 1613,
+    "slideshow_credits": null
+}

@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/02/us/washington-talk-california-has-dream-of-making-presidents.html",
+    "snippet": "LEAD: California wants to get back into the Presidential nominating game....",
+    "lead_paragraph": "LEAD: California wants to get back into the Presidential nominating game.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Washington Talk; California Has Dream Of Making Presidents"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTIONS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1989-11-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr.",
+                "firstname": "R.",
+                "middlename": "W.",
+                "lastname": "APPLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By R. W. APPLE Jr., Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd189868eb7c8105d68a66f",
+    "word_count": 765,
+    "slideshow_credits": null
+}

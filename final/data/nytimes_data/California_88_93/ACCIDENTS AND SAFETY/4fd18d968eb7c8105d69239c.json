@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/07/18/us/ruptured-tanker-continues-to-leak.html",
+    "snippet": "LEAD: Scientists aboard the Exxon Valdez are collecting samples of a sticky blue substance leaking from cargo and ballast tanks on the damaged ship, preventing her passage through California waters for repairs....",
+    "lead_paragraph": "LEAD: Scientists aboard the Exxon Valdez are collecting samples of a sticky blue substance leaking from cargo and ballast tanks on the damaged ship, preventing her passage through California waters for repairs.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "RUPTURED TANKER CONTINUES TO LEAK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EXXON CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "EXXON SHIPPING CO"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "WATER POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "EXXON VALDEZ (TANKER)"
+        },
+        {
+            "name": "subject",
+            "value": "TANKERS"
+        }
+    ],
+    "pub_date": "1989-07-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18d968eb7c8105d69239c",
+    "word_count": 468,
+    "slideshow_credits": null
+}

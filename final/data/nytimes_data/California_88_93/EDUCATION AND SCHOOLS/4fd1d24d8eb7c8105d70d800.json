@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/01/us/upset-with-quality-of-schools-californians-will-vote-on-voucher-proposal.html",
+    "snippet": "Desperate about a decline in the quality of public education, California voters on Tuesday will be faced with a proposal for a dramatic change that would plunge them into the unknown and offer them little chance of retreat.   The proposal is a no-...",
+    "lead_paragraph": "Desperate about a decline in the quality of public education, California voters on Tuesday will be faced with a proposal for a dramatic change that would plunge them into the unknown and offer them little chance of retreat. The proposal is a no-holds-barred version of an idea that has slowly been gaining ground with a mix of constituencies who seek an overhaul of the educational system: state-financed vouchers that parents could use to help pay for private schooling.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Upset With Quality of Schools, Californians Will Vote on Voucher Proposal"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "VOUCHERS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVATE SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1993-11-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d24d8eb7c8105d70d800",
+    "word_count": 1053,
+    "slideshow_credits": null
+}

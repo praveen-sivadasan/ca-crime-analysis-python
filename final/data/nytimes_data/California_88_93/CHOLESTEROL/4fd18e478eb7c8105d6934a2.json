@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1989/09/25/us/leaner-lunches-on-the-menu-for-california-schoolchildren.html",
+    "snippet": "LEAD: In a nation where pizzas and corn dogs are a staple of school lunches, California last week became the first state to require limits on the fat and cholesterol in food served to schoolchildren....",
+    "lead_paragraph": "LEAD: In a nation where pizzas and corn dogs are a staple of school lunches, California last week became the first state to require limits on the fat and cholesterol in food served to schoolchildren.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Leaner Lunches on the Menu For California Schoolchildren"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DIET AND NUTRITION"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "OILS AND FATS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "CHOLESTEROL"
+        },
+        {
+            "name": "subject",
+            "value": "LUNCH AND BREAKFAST PROGRAMS"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        }
+    ],
+    "pub_date": "1989-09-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e478eb7c8105d6934a2",
+    "word_count": 520,
+    "slideshow_credits": null
+}

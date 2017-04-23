@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1997/08/19/business/texaco-is-buying-monterey-resources.html",
+    "snippet": "Seeking to increase its oil reserves in California, Texaco Inc. said yesterday that it had agreed to acquire Monterey Resources Inc., the oil assets of the former Santa Fe Railroad, in a stock transaction valued at $1.12 billion.     Under the dea...",
+    "lead_paragraph": "Seeking to increase its oil reserves in California, Texaco Inc. said yesterday that it had agreed to acquire Monterey Resources Inc., the oil assets of the former Santa Fe Railroad, in a stock transaction valued at $1.12 billion. Under the deal, Texaco will exchange common stock for all outstanding Monterey shares at $21 a share. Texaco will also assume Monterey's $285 million in outstanding debt.",
+    "abstract": "Texaco Inc, seeking to increase its oil reserves in California, agrees to acquire Monterey Resources Inc, oil assets of former Santa Fe Railroad, in stock transaction valued at $1.12 billion; table (L)",
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Texaco Is Buying Monterey Resources"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TEXACO INC"
+        },
+        {
+            "name": "organizations",
+            "value": "MONTEREY RESOURCES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        }
+    ],
+    "pub_date": "1997-08-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Kenneth",
+                "middlename": "N.",
+                "lastname": "GILPIN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KENNETH N. GILPIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fc5f8eb7c8105d75b66a",
+    "word_count": 618,
+    "slideshow_credits": null
+}

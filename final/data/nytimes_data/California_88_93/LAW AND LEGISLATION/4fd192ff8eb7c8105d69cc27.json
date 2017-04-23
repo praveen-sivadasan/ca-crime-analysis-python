@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/21/us/vote-on-assault-rifles-is-stalled-in-california.html",
+    "snippet": "LEAD: On the eve of passage of a bill to ban the sale and possession of military-style assault weapons, opponents have persuaded Gov. George Deukmejian to delay a final vote in the State Senate....",
+    "lead_paragraph": "LEAD: On the eve of passage of a bill to ban the sale and possession of military-style assault weapons, opponents have persuaded Gov. George Deukmejian to delay a final vote in the State Senate.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Vote on Assault Rifles Is Stalled in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GUN CONTROL"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1989-04-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd192ff8eb7c8105d69cc27",
+    "word_count": 229,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/14/us/devices-are-said-to-curb-abnormal-heart-rhythm.html",
+    "snippet": "Small battery-powered devices implanted in people with life-threatening abnormal heart rhythms have succeeded in preventing recipients from dying, new findings reported here today show.   Such abnormal rhythms can cause sudden death and often deve...",
+    "lead_paragraph": "Small battery-powered devices implanted in people with life-threatening abnormal heart rhythms have succeeded in preventing recipients from dying, new findings reported here today show. Such abnormal rhythms can cause sudden death and often develop among the millions of people who suffer heart attacks.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Devices Are Said to Curb Abnormal Heart Rhythm"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HEART"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        }
+    ],
+    "pub_date": "1991-11-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Lawrence",
+                "middlename": "K.",
+                "lastname": "ALTMAN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By LAWRENCE K. ALTMAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a8b88eb7c8105d6c4d18",
+    "word_count": 625,
+    "slideshow_credits": null
+}

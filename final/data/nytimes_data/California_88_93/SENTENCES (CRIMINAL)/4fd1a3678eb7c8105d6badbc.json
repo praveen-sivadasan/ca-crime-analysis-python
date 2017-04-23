@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1992/12/31/us/sentenced-to-warn-all-handle-guns-with-care.html",
+    "snippet": "On Spanish-language radio and television stations here this week, a man who learned a sorrowful lesson one year ago is imploring others not to make the same deadly mistake.   The man, Nicolas Conchas, is urging residents of San Jose's Hispanic nei...",
+    "lead_paragraph": "On Spanish-language radio and television stations here this week, a man who learned a sorrowful lesson one year ago is imploring others not to make the same deadly mistake. The man, Nicolas Conchas, is urging residents of San Jose's Hispanic neighborhoods to shun the dangerous tradition of celebrating the New Year by firing a pistol in the air.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sentenced to Warn All: Handle Guns With Care"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CONCHAS, NICOLAS"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SHOOTINGS"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1992-12-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a3678eb7c8105d6badbc",
+    "word_count": 1030,
+    "slideshow_credits": null
+}

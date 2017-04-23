@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/03/us/in-california-new-talk-of-limits-on-immigrants.html",
+    "snippet": "When times were good in the 1980's, California largely welcomed the millions of domestic and foreign immigrants who flooded into the state. But now that times have turned tough, a cry has risen to narrow the gates to the Golden State.   The cry ha...",
+    "lead_paragraph": "When times were good in the 1980's, California largely welcomed the millions of domestic and foreign immigrants who flooded into the state. But now that times have turned tough, a cry has risen to narrow the gates to the Golden State. The cry has been led by Gov. Pete Wilson, a Republican, who has been saying that immigrants, foreign and domestic, are putting the state in a fiscal squeeze by using more in services than they pay in taxes. Critics say it is nothing more than an racist attempt to find a scapegoat for the intractable social problems that have been building in California for two decades.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In California, New Talk Of Limits on Immigrants"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1991-12-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a8b28eb7c8105d6c4808",
+    "word_count": 1363,
+    "slideshow_credits": null
+}

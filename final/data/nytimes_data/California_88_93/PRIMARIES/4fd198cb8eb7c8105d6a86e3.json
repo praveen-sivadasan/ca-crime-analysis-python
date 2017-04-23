@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/10/us/a-california-plan-for-early-caucuses.html",
+    "snippet": "Thwarted in their efforts to make the state's Presidential primary one of the earliest in the nation, California Democrats have devised a plan they hope will give the state a more prominent role in selecting party nominees.   Passed at the party's...",
+    "lead_paragraph": "Thwarted in their efforts to make the state's Presidential primary one of the earliest in the nation, California Democrats have devised a plan they hope will give the state a more prominent role in selecting party nominees. Passed at the party's state convention last Sunday, the plan calls for nearly a third of the delegates to the Democratic National Convention to be selected at caucuses three months before the primary election in June.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A California Plan for Early Caucuses"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC NATIONAL CONVENTION"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1991-03-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd198cb8eb7c8105d6a86e3",
+    "word_count": 1011,
+    "slideshow_credits": null
+}

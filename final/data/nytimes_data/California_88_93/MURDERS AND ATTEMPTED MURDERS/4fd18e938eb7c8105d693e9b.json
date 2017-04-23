@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/24/us/no-parole-in-manson-case.html",
+    "snippet": "LEAD: For the eighth time, Patricia Krenwinkel, a member of Charles Manson's ''family,'' has been denied parole for her conviction in the murders of the actress Sharon Tate and six other people. In denying parole on Wednesday, a panel of the Board...",
+    "lead_paragraph": "LEAD: For the eighth time, Patricia Krenwinkel, a member of Charles Manson's ''family,'' has been denied parole for her conviction in the murders of the actress Sharon Tate and six other people. In denying parole on Wednesday, a panel of the Board of Prison Terms cited the brutality of the 1969 murders.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "No Parole in Manson Case"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MANSON, CHARLES"
+        },
+        {
+            "name": "persons",
+            "value": "KRENWINKEL, PATRICIA"
+        },
+        {
+            "name": "persons",
+            "value": "TATE, SHARON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        }
+    ],
+    "pub_date": "1989-11-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e938eb7c8105d693e9b",
+    "word_count": 113,
+    "slideshow_credits": null
+}

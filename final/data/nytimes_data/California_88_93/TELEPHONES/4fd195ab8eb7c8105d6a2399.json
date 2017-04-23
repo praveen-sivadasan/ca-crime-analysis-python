@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/08/business/california-sets-phone-rules.html",
+    "snippet": "LEAD: The California Public Utilities Commission issued new regulations on Wednesday for the cellular telephone industry in the state....",
+    "lead_paragraph": "LEAD: The California Public Utilities Commission issued new regulations on Wednesday for the cellular telephone industry in the state.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Sets Phone Rules"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        }
+    ],
+    "pub_date": "1990-06-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd195ab8eb7c8105d6a2399",
+    "word_count": 121,
+    "slideshow_credits": null
+}

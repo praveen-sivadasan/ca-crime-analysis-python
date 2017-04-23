@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/07/business/us-to-sell-248-homes.html",
+    "snippet": "The Federal Home Loan Mortgage Corporation will sell 248 houses and condominiums in Southern California this month, the biggest auction ever by the agency known as Freddie Mac.   The auction will be held July 25 at the Los Angeles Convention Cente...",
+    "lead_paragraph": "The Federal Home Loan Mortgage Corporation will sell 248 houses and condominiums in Southern California this month, the biggest auction ever by the agency known as Freddie Mac. The auction will be held July 25 at the Los Angeles Convention Center and July 26 at the Westin-South Coast Plaza in Costa Mesa, Calif.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. to Sell 248 Homes"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL HOME LOAN MORTGAGE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "AUCTIONS"
+        }
+    ],
+    "pub_date": "1992-07-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b3b28eb7c8105d6d7af2",
+    "word_count": 178,
+    "slideshow_credits": null
+}

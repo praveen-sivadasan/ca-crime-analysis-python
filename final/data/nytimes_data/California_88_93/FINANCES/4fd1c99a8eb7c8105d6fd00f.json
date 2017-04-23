@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/10/us/amid-cuts-california-is-curtailing-college-dreams.html",
+    "snippet": "For 30 years now, Californians have had an implied promise from their state government: a high-quality and low-cost public college education for every resident who wanted it. It was a promise the prosperous fast-growing state seldom had much troub...",
+    "lead_paragraph": "For 30 years now, Californians have had an implied promise from their state government: a high-quality and low-cost public college education for every resident who wanted it. It was a promise the prosperous fast-growing state seldom had much trouble fulfilling. But suddenly the state that operates the largest system of higher education in the nation may no longer be able to honor that promise.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Amid Cuts, California Is Curtailing College Dreams"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA STATE UNIVERSITY"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1991-11-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c99a8eb7c8105d6fd00f",
+    "word_count": 1922,
+    "slideshow_credits": null
+}

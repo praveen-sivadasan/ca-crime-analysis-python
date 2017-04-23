@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/25/us/pope-to-beatify-serra-in-vatican-ceremony.html",
+    "snippet": "LEAD: Father Junipero Serra, honored by Roman Catholics as the founder of California's missions but reviled by some Indians as a tyrant who abused their ancestors, will be elevated by the church Sunday to a point one step away from sainthood....",
+    "lead_paragraph": "LEAD: Father Junipero Serra, honored by Roman Catholics as the founder of California's missions but reviled by some Indians as a tyrant who abused their ancestors, will be elevated by the church Sunday to a point one step away from sainthood.",
+    "abstract": null,
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pope to Beatify Serra In Vatican Ceremony"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SERRA, JUNIPERO"
+        },
+        {
+            "name": "persons",
+            "value": "POPE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+        },
+        {
+            "name": "subject",
+            "value": "BEATIFICATIONS AND CANONIZATIONS"
+        }
+    ],
+    "pub_date": "1988-09-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a0328eb7c8105d6b4a74",
+    "word_count": 197,
+    "slideshow_credits": null
+}

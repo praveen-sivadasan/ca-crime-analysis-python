@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1995/11/16/business/cbs-tv-station-resumes-showing-anti-smoking-ad.html",
+    "snippet": "A television station here owned by CBS Inc. has reversed its position and resumed broadcasting a commercial against smoking that is sponsored by the State of California.    KCBS-TV decided last week to discontinue the commercial, which depicts a t...",
+    "lead_paragraph": "A television station here owned by CBS Inc. has reversed its position and resumed broadcasting a commercial against smoking that is sponsored by the State of California. KCBS-TV decided last week to discontinue the commercial, which depicts a tobacco executive as a fisherman trying to hook smokers. The commercial had been running for five weeks before the station pulled it, citing implicit questions the ad may have raised as to whether tobacco companies spike cigarettes with additional nicotine. Tobacco companies deny that contention.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CBS TV Station Resumes Showing Anti-Smoking Ad"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "SIXTY MINUTES (TV PROGRAM)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KCBS-TV"
+        },
+        {
+            "name": "organizations",
+            "value": "CBS INC"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC SERVICE ADS"
+        },
+        {
+            "name": "subject",
+            "value": "NICOTINE"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING AND TOBACCO"
+        }
+    ],
+    "pub_date": "1995-11-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd202db8eb7c8105d768baa",
+    "word_count": 374,
+    "slideshow_credits": null
+}

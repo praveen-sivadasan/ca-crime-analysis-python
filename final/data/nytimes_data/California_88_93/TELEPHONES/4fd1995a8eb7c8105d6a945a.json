@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1989/02/28/business/pacific-bell-settlement.html",
+    "snippet": "LEAD: Pacific Bell, the California telephone operating company, said today that it had agreed to settle a $700 million rate reduction proposed by the California Public Utilities Commission's Division of Ratepayer Advocates in August 1988. The prop...",
+    "lead_paragraph": "LEAD: Pacific Bell, the California telephone operating company, said today that it had agreed to settle a $700 million rate reduction proposed by the California Public Utilities Commission's Division of Ratepayer Advocates in August 1988. The proposed settlement, which came as a result of the division's audit of Pacific Bell's investment practices, calls for Pacific Bell to reduce future rates by $144 million over four years.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pacific Bell Settlement"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1989-02-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1995a8eb7c8105d6a945a",
+    "word_count": 131,
+    "slideshow_credits": null
+}

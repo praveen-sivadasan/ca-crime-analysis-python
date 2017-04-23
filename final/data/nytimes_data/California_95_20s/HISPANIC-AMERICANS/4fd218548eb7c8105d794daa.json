@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/04/opinion/proposition-209-shuts-the-door.html",
+    "snippet": "California's Proposition 209, which prohibits public universities from considering race and ethnicity in their admissions decisions, is closing doors to black and Hispanic students at an alarming rate. The University of California at Berkeley rele...",
+    "lead_paragraph": "California's Proposition 209, which prohibits public universities from considering race and ethnicity in their admissions decisions, is closing doors to black and Hispanic students at an alarming rate. The University of California at Berkeley released data this week showing that black, Hispanic and American Indian students accounted for only 10 percent of admissions for next fall's freshman class, compared with 23 percent last year. At the University of California at Los Angeles, admissions of those minority groups fell from nearly 20 percent last year to less than 13 percent this year. The numbers at the state's professional schools are no less startling. There is only 1 black among the 268 first-year students enrolled at Berkeley's law school. One consequence is a diminished educational experience for students who will attend less diverse institutions. The harm to black and Hispanic communities, which will send fewer students to the state's best training grounds for business and community leaders, may be felt for decades.",
+    "abstract": "Editorial holds proposition approved by California voters that bars public universities from considering race and ethnicity in admissions decisions is closing doors to black and Hispanic students at alarming rate (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Proposition 209 Shuts the Door"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "ADMISSIONS STANDARDS"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        }
+    ],
+    "pub_date": "1998-04-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd218548eb7c8105d794daa",
+    "word_count": 456,
+    "slideshow_credits": null
+}

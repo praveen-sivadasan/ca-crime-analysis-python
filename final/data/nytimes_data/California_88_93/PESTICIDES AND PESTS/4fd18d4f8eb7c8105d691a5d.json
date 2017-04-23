@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/21/us/anger-over-a-pesticide-is-building-in-california.html",
+    "snippet": "LEAD: When the helicopters, flying in military formation, come thudding past her home in the early morning, spraying insecticide over her house, her lawn, her car and her children's yellow plastic slide, Melinda Wills considers what it means to he...",
+    "lead_paragraph": "LEAD: When the helicopters, flying in military formation, come thudding past her home in the early morning, spraying insecticide over her house, her lawn, her car and her children's yellow plastic slide, Melinda Wills considers what it means to her to be an American.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Anger Over a Pesticide Is Building in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "MALATHION (PESTICIDE)"
+        },
+        {
+            "name": "subject",
+            "value": "FRUIT FLIES"
+        }
+    ],
+    "pub_date": "1990-02-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18d4f8eb7c8105d691a5d",
+    "word_count": 1119,
+    "slideshow_credits": null
+}

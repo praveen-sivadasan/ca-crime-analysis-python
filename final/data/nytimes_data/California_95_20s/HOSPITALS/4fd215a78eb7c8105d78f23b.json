@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1998/03/26/us/nurses-get-new-role-in-patient-protection.html",
+    "snippet": "Kaiser Permanente, the nation's largest health maintenance organization, agreed today to let its Northern California nurses' union appoint ''quality liaison'' nurses to serve as watchdogs at each of the organization's hospitals in the region and t...",
+    "lead_paragraph": "Kaiser Permanente, the nation's largest health maintenance organization, agreed today to let its Northern California nurses' union appoint ''quality liaison'' nurses to serve as watchdogs at each of the organization's hospitals in the region and to force prompt attention to abuses and oversights in the care of patients. Because of the organization's size and influence, with nearly nine million enrollees in 18 states, analysts and Federal officials said the agreement was a striking breakthrough in both patient protection and labor-management relations in the health care industry. The agreement, part of a four-year contract subject to union member approval, follows more than a year of one- and two-day strikes that had contributed to Kaiser's loss of $270 million last year, the first in its 53-year history.",
+    "abstract": "Kaiser Permanente, nation's largest health maintenance organization, agrees to let its Northern California nurses' union appoint 'quality liaison' nurses to serve as watchdogs at each of organization's hospitals in region and to force prompt attention to abuses and oversights in care of patients; analysts and Federal officials say agreement is breakthrough in both patient protection and labor-management relations in health care industry (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Nurses Get New Role in Patient Protection"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KAISER PERMANENTE"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS AND MANAGED CARE"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "NURSING AND NURSES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "HOSPITALS"
+        }
+    ],
+    "pub_date": "1998-03-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Peter",
+                "middlename": "T.",
+                "lastname": "KILBORN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By PETER T. KILBORN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd215a78eb7c8105d78f23b",
+    "word_count": 875,
+    "slideshow_credits": null
+}

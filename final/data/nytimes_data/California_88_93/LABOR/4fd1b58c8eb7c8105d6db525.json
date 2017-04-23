@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/26/us/california-governor-in-reversal-signs-a-bill-on-gay-rights-in-jobs.html",
+    "snippet": "At a time when the debate over gay rights looms large in national politics, Gov. Pete Wilson signed into law today a measure that protects homosexuals against job discrimination.   The action by the Republican Governor, a year after he vetoed a si...",
+    "lead_paragraph": "At a time when the debate over gay rights looms large in national politics, Gov. Pete Wilson signed into law today a measure that protects homosexuals against job discrimination. The action by the Republican Governor, a year after he vetoed a similar bill, comes while other prominent Republicans are casting homosexuals as enemies of traditional family values. In the current climate, gay groups up and down the state were braced for another veto from Mr. Wilson and had mobilized for demonstrations this weekend, which will now be recast as celebrations.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Governor, in Reversal, Signs a Bill on Gay Rights in Jobs"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1992-09-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b58c8eb7c8105d6db525",
+    "word_count": 1051,
+    "slideshow_credits": null
+}

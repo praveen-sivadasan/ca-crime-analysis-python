@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/28/us/in-california-nature-refuses-to-remain-mastered.html",
+    "snippet": "In a grim way, it was symbolic that the deadly fire that swept Oakland and Berkeley last Sunday should have started near the Caldecott Tunnel.   The tunnel, opened in 1937, was one of those daring and defiant acts of engineering that Californians ...",
+    "lead_paragraph": "In a grim way, it was symbolic that the deadly fire that swept Oakland and Berkeley last Sunday should have started near the Caldecott Tunnel. The tunnel, opened in 1937, was one of those daring and defiant acts of engineering that Californians have long used to tame a harsh environment that has proved to be as dangerous as it is beautiful. The tunnel punched a nearly mile-long hole through the Berkeley Hills, opening the way to vast suburbanization of the arid and geologically unstable hills east of San Francisco Bay.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In California, Nature Refuses to Remain Mastered"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "STARR, KEVIN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MUDSLIDES"
+        },
+        {
+            "name": "subject",
+            "value": "DISASTERS"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1991-10-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1acbc8eb7c8105d6cc4c3",
+    "word_count": 1405,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/21/technology/news-watch-suit-to-limit-net-access-at-a-library-is-dismissed.html",
+    "snippet": "In California, library patrons of all ages are still free to check out the Net. Last week, a state court in Alameda County dismissed a lawsuit charging that a public library had violated the constitutional rights of a 12-year-old boy who used a co...",
+    "lead_paragraph": "In California, library patrons of all ages are still free to check out the Net. Last week, a state court in Alameda County dismissed a lawsuit charging that a public library had violated the constitutional rights of a 12-year-old boy who used a computer there last year to go on the Web to view and download pictures of naked women. The boy's mother, referred to as Kathleen R. in court records, filed the suit, saying the Government had violated its constitutional responsibility to protect the boy from harm by permitting him access to content deemed ''harmful to minors.'' The woman asked the court to suspend access to the Internet at the Livermore Public Library, in a San Francisco suburb.",
+    "abstract": "State court in California dismisses lawsuit of woman who asked court to suspend access to Internet at Livermore Public Library after her 12-year-old son was allowed to go on Web to view and download pictures of naked women; public libraries across country struggle with how much access to Internet to allow minors (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Suit to Limit Net Access At a Library Is Dismissed",
+        "kicker": "NEWS WATCH"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LIVERMORE PUBLIC LIBRARY"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNET AND WORLD WIDE WEB"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "LIBRARIES AND LIBRARIANS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1999-01-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Circuits",
+    "section_name": "Technology",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matt",
+                "rank": 1,
+                "lastname": "Richtel"
+            }
+        ],
+        "original": "By Matt Richtel"
+    },
+    "type_of_material": "News",
+    "_id": "4fd218908eb7c8105d7958e9",
+    "word_count": 235,
+    "slideshow_credits": null
+}

@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/30/business/company-news-california-delays-food-store-merger.html",
+    "snippet": "LEAD: The $2.5 billion merger of the Lucky and Alpha Beta supermarket chains was held up today when a Federal District Judge allowed the California Attorney General to post a $10,000 bond while appealing to the Supreme Court to overturn the merger...",
+    "lead_paragraph": "LEAD: The $2.5 billion merger of the Lucky and Alpha Beta supermarket chains was held up today when a Federal District Judge allowed the California Attorney General to post a $10,000 bond while appealing to the Supreme Court to overturn the merger.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Delays Food Store Merger",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALPHA BETA CO"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        }
+    ],
+    "pub_date": "1989-08-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18d948eb7c8105d6921db",
+    "word_count": 149,
+    "slideshow_credits": null
+}

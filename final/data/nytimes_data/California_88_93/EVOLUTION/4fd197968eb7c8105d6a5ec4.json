@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/14/us/correction-california-terms-evolution-fact.html",
+    "snippet": "LEAD: New guidelines for science textbooks in California are being described by advocates of teaching evolution as a strong step forward despite last-minute concessions to evangelical Christians who had pressed for the teaching of the Biblical sto...",
+    "lead_paragraph": "LEAD: New guidelines for science textbooks in California are being described by advocates of teaching evolution as a strong step forward despite last-minute concessions to evangelical Christians who had pressed for the teaching of the Biblical story of creation.",
+    "abstract": null,
+    "print_page": "28",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Correction: California Terms Evolution 'Fact'"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "EVOLUTION"
+        }
+    ],
+    "pub_date": "1989-11-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Technology; Science; Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197968eb7c8105d6a5ec4",
+    "word_count": 599,
+    "slideshow_credits": null
+}

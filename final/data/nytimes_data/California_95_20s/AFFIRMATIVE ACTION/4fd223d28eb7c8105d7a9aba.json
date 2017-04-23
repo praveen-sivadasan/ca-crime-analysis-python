@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1999/03/20/us/california-guaranteeing-some-a-place-in-universities.html",
+    "snippet": "The University of California's Board of Regents decided today to guarantee a place in the prestigious public university system for the top 4 percent of the students in each of the state's high schools.    The rule, which will take effect in the fa...",
+    "lead_paragraph": "The University of California's Board of Regents decided today to guarantee a place in the prestigious public university system for the top 4 percent of the students in each of the state's high schools. The rule, which will take effect in the fall of 2001, was one of the most frequent promises that Gov. Gray Davis, a Democrat, made in his campaign last year. It was seen by some as an effort to get around the affirmative action prohibitions that voters approved in 1996 and to reverse the decline in the number of black and Hispanic students admitted to the University of California system.",
+    "abstract": "University of California Board of Regents decides to guarantee a place in the university system for the top 4 percent of state's high school students; rule is intended to make more blacks and Hispanics eligible for the university without violating state's prohibitions against affirmative aciton, but it is expected to result in only a tiny increase in black and Hispanic students in system (M)",
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Guaranteeing Some a Place In Universities"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        }
+    ],
+    "pub_date": "1999-03-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Don",
+                "rank": 1,
+                "lastname": "TERRY"
+            }
+        ],
+        "original": "By DON TERRY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd223d28eb7c8105d7a9aba",
+    "word_count": 780,
+    "slideshow_credits": null
+}

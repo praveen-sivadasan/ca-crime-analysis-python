@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1998/11/04/us/the-1998-elections-state-by-state-west-california.html",
+    "snippet": "It has been 16 years since the nation's most populous state had a Democratic governor. The last one was Edmund G. Brown Jr. And the next will be Mr. Brown's former chief of staff in Sacramento, Gray Davis.    Mr. Davis, now the state's lieutenant ...",
+    "lead_paragraph": "It has been 16 years since the nation's most populous state had a Democratic governor. The last one was Edmund G. Brown Jr. And the next will be Mr. Brown's former chief of staff in Sacramento, Gray Davis. Mr. Davis, now the state's lieutenant governor, is widely mocked as the dullest politician in the state Democratic Party. But after a sure-footed campaign that highlighted his political moderation, he took an early lead over the staunchly conservative Republican candidate, Attorney General Dan Lungren.",
+    "abstract": "Early California election results (S)",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA",
+        "kicker": "THE 1998 ELECTIONS: STATE BY STATE -- WEST"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION RESULTS"
+        }
+    ],
+    "pub_date": "1998-11-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Philip",
+                "rank": 1,
+                "lastname": "SHENON"
+            }
+        ],
+        "original": "By PHILIP SHENON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ef418eb7c8105d743b02",
+    "word_count": 275,
+    "slideshow_credits": null
+}

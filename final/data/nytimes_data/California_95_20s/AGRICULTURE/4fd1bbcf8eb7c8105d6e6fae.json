@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/15/us/flood-may-carry-away-immigrants-farm-jobs.html",
+    "snippet": "Driven from their trailers by the same flood waters that lay brown and still over the Salinas Valley's fertile strawberry and lettuce fields, immigrant farm workers, desperate for jobs, faced the prospect today of having to join a new migration.  ...",
+    "lead_paragraph": "Driven from their trailers by the same flood waters that lay brown and still over the Salinas Valley's fertile strawberry and lettuce fields, immigrant farm workers, desperate for jobs, faced the prospect today of having to join a new migration. With their homes and possessions soaked in mud and sewage, many workers camped temporarily today in Watsonville on the other side of the flooded Pajaro River, with relatives or in a Red Cross shelter. Local officials said they would not be allowed to return until Pajaro was dry and until they had received tetanus shots to ward off disease. But after that, their futures loomed as uncertain as ever.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Flood May Carry Away Immigrants' Farm Jobs"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "MIGRANT LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-03-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bbcf8eb7c8105d6e6fae",
+    "word_count": 824,
+    "slideshow_credits": null
+}

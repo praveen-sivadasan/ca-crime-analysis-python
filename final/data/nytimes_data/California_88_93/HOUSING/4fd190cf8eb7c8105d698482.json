@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/09/garden/l-a-new-image-667288.html",
+    "snippet": "LEAD: To The Living Section:...",
+    "lead_paragraph": "LEAD: To The Living Section:",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A New Image"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MANSON, CHARLES M"
+        },
+        {
+            "name": "persons",
+            "value": "MCCARTHY, WILLIAM J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        }
+    ],
+    "pub_date": "1988-11-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden; Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd190cf8eb7c8105d698482",
+    "word_count": 94,
+    "slideshow_credits": null
+}

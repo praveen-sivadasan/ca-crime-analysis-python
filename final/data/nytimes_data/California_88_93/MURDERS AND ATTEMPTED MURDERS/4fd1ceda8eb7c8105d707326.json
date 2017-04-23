@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/17/us/governor-of-california-denies-killer-clemency.html",
+    "snippet": "Gov. Pete Wilson today denied clemency for Robert Alton Harris, a condemned killer who is scheduled on Tuesday to become the first person to be executed in California in 25 years.   Mr. Harris's only hope for a reprieve now rests with the possibil...",
+    "lead_paragraph": "Gov. Pete Wilson today denied clemency for Robert Alton Harris, a condemned killer who is scheduled on Tuesday to become the first person to be executed in California in 25 years. Mr. Harris's only hope for a reprieve now rests with the possibility of court appeals, although he would appear to have exhausted them. Several weeks ago the Supreme Court declined to review his case. At a clemency hearing on Wednesday, the Governor, a Republican who supports the death penalty, heard tearful pleas alternately depicting the 39-year-old Mr. Harris as a tragic figure who should be spared and as a vicious killer who should die.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Governor of California Denies Killer Clemency"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "persons",
+            "value": "MAYESKI, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BAKER, MICHAEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1992-04-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ceda8eb7c8105d707326",
+    "word_count": 190,
+    "slideshow_credits": null
+}

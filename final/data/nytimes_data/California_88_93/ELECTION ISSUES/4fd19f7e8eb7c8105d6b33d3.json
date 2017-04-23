@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/21/us/democrats-clash-in-california-race.html",
+    "snippet": "LEAD: The race for the Democratic nomination for California governor entered its final phase today with a forceful but polite debate in which the two candidates clashed on issues like the death penalty and how best to solve the state's growing bud...",
+    "lead_paragraph": "LEAD: The race for the Democratic nomination for California governor entered its final phase today with a forceful but polite debate in which the two candidates clashed on issues like the death penalty and how best to solve the state's growing budget crisis.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "DEMOCRATS CLASH IN CALIFORNIA RACE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN K"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "DEBATING"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-05-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f7e8eb7c8105d6b33d3",
+    "word_count": 694,
+    "slideshow_credits": null
+}

@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/31/us/california-measure-for-earlier-primary-is-raising-questions.html",
+    "snippet": "LEAD: A hitch has emerged that might derail plans for an early Presidential primary in California, despite the support of both national political parties and the agreement of California's legislative leadership and Gov. George Deukmejian....",
+    "lead_paragraph": "LEAD: A hitch has emerged that might derail plans for an early Presidential primary in California, despite the support of both national political parties and the agreement of California's legislative leadership and Gov. George Deukmejian.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Measure For Earlier Primary Is Raising Questions"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1990-08-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194118eb7c8105d69e9d5",
+    "word_count": 283,
+    "slideshow_credits": null
+}

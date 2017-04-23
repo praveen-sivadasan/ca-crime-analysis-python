@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/17/opinion/the-curse-of-california-s-proposition-13.html",
+    "snippet": "LEAD: This month, Californians are observing the 10th anniversary of Proposition 13, the famous voter initiative that rolled back property tax assessments and sparked a wave of tax revolts across the country....",
+    "lead_paragraph": "LEAD: This month, Californians are observing the 10th anniversary of Proposition 13, the famous voter initiative that rolled back property tax assessments and sparked a wave of tax revolts across the country.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Curse of California's Proposition 13"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY TAXES"
+        }
+    ],
+    "pub_date": "1988-06-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Edmund",
+                "middlename": "L.",
+                "lastname": "Andrews",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Edmund L. Andrews; Edmund L. Andrews is a writer who specializes in business"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd17a728eb7c8105d672824",
+    "word_count": 1159,
+    "slideshow_credits": null
+}

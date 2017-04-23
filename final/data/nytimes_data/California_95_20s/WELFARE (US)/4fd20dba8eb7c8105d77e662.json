@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/14/us/supreme-court-hears-welfare-case.html",
+    "snippet": "The debate before the Supreme Court today was over welfare policy -- whether states can have a lower level of benefits for newcomers than for longtime residents -- but the deeper issue was the meaning of citizenship.    California was asking the C...",
+    "lead_paragraph": "The debate before the Supreme Court today was over welfare policy -- whether states can have a lower level of benefits for newcomers than for longtime residents -- but the deeper issue was the meaning of citizenship. California was asking the Court to permit it to do what Congress authorized in the 1996 welfare law: hold newcomers, for their first year of residency, to the welfare benefits they would have received in their home state, often hundreds of dollars a month lower.",
+    "abstract": "Supreme Court hears debate over California's request to hold newcomers to welfare benefits they would have received in their home state; Justice Ruth Bader Ginsburg says Court precedents on right to travel seem to indicate that new residents and longtime residents are entitled to equal treatment; Constitution does not mention right to travel, but decisions in 1960's derive it from guarantee of equal protection (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Supreme Court Hears Welfare Case"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GINSBURG, RUTH BADER"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        }
+    ],
+    "pub_date": "1999-01-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20dba8eb7c8105d77e662",
+    "word_count": 1173,
+    "slideshow_credits": null
+}

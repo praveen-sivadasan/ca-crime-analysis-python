@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/18/business/california-fire-losses-rise.html",
+    "snippet": "The insured property loss from the recent fires in Southern California has reached $950 million, an insurance industry group said today.   The two-day fire in Orange County accounted for $435 million of the total reported by Property Claims Servic...",
+    "lead_paragraph": "The insured property loss from the recent fires in Southern California has reached $950 million, an insurance industry group said today. The two-day fire in Orange County accounted for $435 million of the total reported by Property Claims Services. About 2,500 claims are expected as a result of that fire.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "California Fire Losses Rise"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PROPERTY CLAIM SERVICES"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY INSURANCE"
+        }
+    ],
+    "pub_date": "1993-11-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ad5c8eb7c8105d6cd430",
+    "word_count": 111,
+    "slideshow_credits": null
+}

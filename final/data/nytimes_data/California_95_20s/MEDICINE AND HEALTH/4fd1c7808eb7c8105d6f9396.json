@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1996/04/19/us/researchers-link-income-disparity-to-higher-rates-of-death.html",
+    "snippet": "Poor people have long been known to have more medical problems than affluent  people of the same age, but a new study suggests that greater inequality in the  distribution of income contributes to higher overall mortality rates and deaths  from he...",
+    "lead_paragraph": "Poor people have long been known to have more medical problems than affluent people of the same age, but a new study suggests that greater inequality in the distribution of income contributes to higher overall mortality rates and deaths from heart disease, cancer and homicide. The study, undertaken by three faculty members of the Harvard School of Public Health and being published on Friday in the British Medical Journal, suggests that reducing such inequality may reduce mortality rates. Data from the Census Bureau show that income inequality in the United States has increased in recent years.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Researchers Link Income Disparity to Higher Rates of Death"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PROTHROW-STITH, DEBORAH B"
+        },
+        {
+            "name": "persons",
+            "value": "KAPLAN, GEORGE A"
+        },
+        {
+            "name": "persons",
+            "value": "KENNEDY, BRUCE P"
+        },
+        {
+            "name": "persons",
+            "value": "KAWACHI, ICHIRO"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HARVARD UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "INCOME"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1996-04-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "PEAR"
+            }
+        ],
+        "original": "By ROBERT PEAR"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c7808eb7c8105d6f9396",
+    "word_count": 615,
+    "slideshow_credits": null
+}

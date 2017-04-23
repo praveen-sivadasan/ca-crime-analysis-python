@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/12/business/making-a-difference-activist-heads-campaign-to-halt-deal-with-taiwan.html",
+    "snippet": "In his 26 years as a production worker at the McDonnell Douglas Corporation's Douglas Aircraft plant in Long Beach, Calif., Bob Gamboa has seen the company endure constant questions about its viability. But now McDonnell Douglas is planning to sel...",
+    "lead_paragraph": "In his 26 years as a production worker at the McDonnell Douglas Corporation's Douglas Aircraft plant in Long Beach, Calif., Bob Gamboa has seen the company endure constant questions about its viability. But now McDonnell Douglas is planning to sell 40 percent of its commercial aircraft business to Taiwan, and Mr. Gamboa, who is the political director for the United Aerospace Workers local, fears that the future may be bleak for tens of thousands of aerospace workers in California. Worried that McDonnell Douglas will phase out production at Long Beach and move jobs to Asia and other sites in the United States, Mr. Gamboa began an effort last week to rally political pressure to delay the company's planned deal with Taiwan Aerospace. Backed by California's aerospace workers' unions, Mr. Gamboa said he wanted to find a \"patriotic alternative,\" like an investment in McDonnell Douglas by companies in the United States or by the unions' own pension funds.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Activist Heads Campaign To Halt Deal With Taiwan",
+        "kicker": "MAKING A DIFFERENCE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GAMBOA, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MCDONNELL DOUGLAS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "TAIWAN AEROSPACE CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "DOUGLAS AIRCRAFT CO"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS (LABOR)"
+        }
+    ],
+    "pub_date": "1992-01-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19dbf8eb7c8105d6b04ed",
+    "word_count": 331,
+    "slideshow_credits": null
+}

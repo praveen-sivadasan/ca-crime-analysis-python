@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/24/us/slump-catches-up-with-once-booming-california.html",
+    "snippet": "The mighty California economy is stumbling, marking the delayed arrival of the national recession on the West Coast and prompting concern that the state's downturn could outlast the slump in the rest of the country.    The nation's most populous s...",
+    "lead_paragraph": "The mighty California economy is stumbling, marking the delayed arrival of the national recession on the West Coast and prompting concern that the state's downturn could outlast the slump in the rest of the country. The nation's most populous state is being battered on many fronts. The unemployment rate has jumped in the last six months, to 7 percent, from 5.1 percent in June. That is well above the national average of 6.2 percent and leaves California with the third-highest rate of joblessness among the big industrial states. Economists expect additional layoffs in important industries like construction and aerospace, both of which are slumping badly.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Slump Catches Up With Once-Booming California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1991-02-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19d768eb7c8105d6af8cc",
+    "word_count": 1496,
+    "slideshow_credits": null
+}

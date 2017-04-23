@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1998/12/01/science/l-how-redwoods-grow-215198.html",
+    "snippet": "To the Editor:    Re ''Clues to Redwoods' Mighty Growth Emerge in Fog'' (Nov. 24):...",
+    "lead_paragraph": "To the Editor: Re ''Clues to Redwoods' Mighty Growth Emerge in Fog'' (Nov. 24):",
+    "abstract": "John Weeks letter notes that redwoods will not grow again in clear-cut area, since they need their own rain-forest environment (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "How Redwoods Grow"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WEEKS, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TREES AND SHRUBS"
+        },
+        {
+            "name": "subject",
+            "value": "REDWOOD TREES"
+        }
+    ],
+    "pub_date": "1998-12-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd1e16e8eb7c8105d729f0d",
+    "word_count": 71,
+    "slideshow_credits": null
+}

@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/11/business/loss-ahead-for-shearson.html",
+    "snippet": "The action taken yesterday against the First Capital Life Insurance Company will have a large impact on Shearson Lehman Brothers, which announced that it would take a charge to earnings of about $144 million related to its 28 percent stake in the ...",
+    "lead_paragraph": "The action taken yesterday against the First Capital Life Insurance Company will have a large impact on Shearson Lehman Brothers, which announced that it would take a charge to earnings of about $144 million related to its 28 percent stake in the company. As a result, even though Wall Street is continuing to see good profits this quarter, Shearson, which posted the worst quarter in the securities business last year, is likely to report heavy losses again this quarter.",
+    "abstract": null,
+    "print_page": "36",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Loss Ahead for Shearson"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST CAPITAL LIFE INSURANCE CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SHEARSON LEHMAN BROTHERS"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY REPORTS"
+        }
+    ],
+    "pub_date": "1991-05-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kurt",
+                "rank": 1,
+                "lastname": "EICHENWALD"
+            }
+        ],
+        "original": "By KURT EICHENWALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cfb08eb7c8105d708612",
+    "word_count": 368,
+    "slideshow_credits": null
+}

@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/06/business/technology-a-lab-to-renew-the-vineyards.html",
+    "snippet": "A VORACIOUS insect, the phylloxera louse, which devastated vineyards across Europe and California in the 19th century, has returned to northern California. And there is still no defense against the intruder except to pull up the infested vines and...",
+    "lead_paragraph": "A VORACIOUS insect, the phylloxera louse, which devastated vineyards across Europe and California in the 19th century, has returned to northern California. And there is still no defense against the intruder except to pull up the infested vines and plant new ones. An Oregon biotechnology company sees the problem as an opportunity to expand into the grape-growing industry. The company, Agritope Inc., is promising to deliver large quantities of grapevine rootstock -- roots to which buds have been grafted -- that is resistant to the phylloxera. And it expects to be able to insure that its vines are also free of viruses and bacteria.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Technology; A Lab to Renew the Vineyards"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AGRITOPE INC"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "PHYLLOXERA"
+        },
+        {
+            "name": "subject",
+            "value": "INSECTS"
+        }
+    ],
+    "pub_date": "1992-09-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c36c8eb7c8105d6f277b",
+    "word_count": 1239,
+    "slideshow_credits": null
+}

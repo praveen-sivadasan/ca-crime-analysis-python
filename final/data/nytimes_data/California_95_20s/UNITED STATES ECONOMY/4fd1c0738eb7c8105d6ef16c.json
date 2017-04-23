@@ -1,0 +1,80 @@
+{
+    "web_url": "https://www.nytimes.com/1995/09/05/us/president-rebuts-some-gop-themes-on-economic-woes.html",
+    "snippet": "Directly challenging some of the Presidential campaign themes of California's Republican Governor, President Clinton today told a cheering crowd here that immigration, affirmative action and welfare were not responsible for the economic distress o...",
+    "lead_paragraph": "Directly challenging some of the Presidential campaign themes of California's Republican Governor, President Clinton today told a cheering crowd here that immigration, affirmative action and welfare were not responsible for the economic distress of the middle class. In a day that strongly resembled a Labor Day campaign kickoff, in a state crucial to his re-election hopes, Mr. Clinton said the answers to stagnant wages lay instead with a higher minimum wage and more education and training programs for workers, two initiatives the White House has advocated against Republican opposition. And he reminded his listeners to remember their roots.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "PRESIDENT REBUTS SOME G.O.P. THEMES ON ECONOMIC WOES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1995-09-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Alison",
+                "rank": 1,
+                "lastname": "MITCHELL"
+            }
+        ],
+        "original": "By ALISON MITCHELL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c0738eb7c8105d6ef16c",
+    "word_count": 1050,
+    "slideshow_credits": null
+}

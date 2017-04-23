@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/30/us/california-senate-reluctantly-passes-grim-budget.html",
+    "snippet": "The two-month-long budget crisis in California took a large step toward conclusion early this morning when the State Senate reluctantly passed an austere recession-era budget that cuts deeply into health and welfare services and state support for ...",
+    "lead_paragraph": "The two-month-long budget crisis in California took a large step toward conclusion early this morning when the State Senate reluctantly passed an austere recession-era budget that cuts deeply into health and welfare services and state support for cities and counties. The bill, which closely resembles the no-new-taxes plan proposed by the Republican Governor, Pete Wilson, now goes to the fractious State Assembly, where its fate is uncertain. But with the Democratic-controlled Senate having passed it by a solid 33-to-5 vote, the Assembly has been put in the difficult position of either yielding to the Governor or plunging the state still deeper into crisis.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Senate Reluctantly Passes Grim Budget"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-08-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b3b08eb7c8105d6d79b5",
+    "word_count": 749,
+    "slideshow_credits": null
+}

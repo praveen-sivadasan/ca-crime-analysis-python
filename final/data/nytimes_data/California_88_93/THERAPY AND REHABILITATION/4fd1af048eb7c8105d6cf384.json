@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/22/style/chronicle-680390.html",
+    "snippet": "LEAD: The line between the press and the personages blurs tonight when TINA BROWN, the editor of Vanity Fair, gives a benefit attended by many of her cover subjects to aid another Vanity Fair subject, Phoenix House....",
+    "lead_paragraph": "LEAD: The line between the press and the personages blurs tonight when TINA BROWN, the editor of Vanity Fair, gives a benefit attended by many of her cover subjects to aid another Vanity Fair subject, Phoenix House.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Chronicle"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CHRONICLE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, TINA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN FERNANDO VALLEY"
+        },
+        {
+            "name": "organizations",
+            "value": "VANITY FAIR"
+        },
+        {
+            "name": "organizations",
+            "value": "PHOENIX HOUSE"
+        },
+        {
+            "name": "subject",
+            "value": "THERAPY AND REHABILITATION"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1990-03-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Susan",
+                "middlename": "Heller",
+                "lastname": "ANDERSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By SUSAN HELLER ANDERSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1af048eb7c8105d6cf384",
+    "word_count": 206,
+    "slideshow_credits": null
+}

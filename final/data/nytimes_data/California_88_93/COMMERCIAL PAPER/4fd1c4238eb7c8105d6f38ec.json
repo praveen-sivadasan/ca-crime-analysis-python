@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/22/business/new-troubles-for-salomon-suits-grow-clients-defect.html",
+    "snippet": "Salomon Brothers Inc. suffered several new blows yesterday in the growing Treasury markets scandal, as more clients suspended doing business with the firm, a state treasury announced it would stop buying the short-term debt the firm issues to fina...",
+    "lead_paragraph": "Salomon Brothers Inc. suffered several new blows yesterday in the growing Treasury markets scandal, as more clients suspended doing business with the firm, a state treasury announced it would stop buying the short-term debt the firm issues to finance itself, and more investors queued up to sue the firm. The World Bank, one of the most valuable and blue-chip customers in the securities industry, also announced yesterday that it was suspending all business activities with Salomon through Sept. 30.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "New Troubles for Salomon: Suits Grow, Clients Defect"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SALOMON BROTHERS INC"
+        },
+        {
+            "name": "organizations",
+            "value": "TREASURY DEPARTMENT"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "COMMERCIAL PAPER"
+        }
+    ],
+    "pub_date": "1991-08-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kurt",
+                "rank": 1,
+                "lastname": "EICHENWALD"
+            }
+        ],
+        "original": "By KURT EICHENWALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c4238eb7c8105d6f38ec",
+    "word_count": 1094,
+    "slideshow_credits": null
+}

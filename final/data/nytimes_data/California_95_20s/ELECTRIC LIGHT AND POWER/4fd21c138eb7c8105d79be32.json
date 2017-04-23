@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1998/11/08/business/business-energy-plan-gets-a-lift-in-california.html",
+    "snippet": "DEREGULATION of the electricity industry dodged a bullet when California voters thumpingly defeated Proposition 9 last Tuesday, 73 percent to 27 percent, to the industry's great relief. The complex model of competition introduced in California las...",
+    "lead_paragraph": "DEREGULATION of the electricity industry dodged a bullet when California voters thumpingly defeated Proposition 9 last Tuesday, 73 percent to 27 percent, to the industry's great relief. The complex model of competition introduced in California last year is now free to proceed there and in other states. ''The concept has been sanctified,'' said Dan Scotto, an analyst for Carnegie, Childs & Company. ''For two years, many states sat on the fence. They are now going to feel a lot more comfortable going ahead.''",
+    "abstract": "California's electric power industry breathes sigh of relief as voters defeat proposition to re-regulate industry (M)",
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Energy Plan Gets a Lift In California",
+        "kicker": "BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-11-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Money and Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Agis",
+                "rank": 1,
+                "lastname": "SALPUKAS"
+            }
+        ],
+        "original": "By AGIS SALPUKAS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21c138eb7c8105d79be32",
+    "word_count": 305,
+    "slideshow_credits": null
+}

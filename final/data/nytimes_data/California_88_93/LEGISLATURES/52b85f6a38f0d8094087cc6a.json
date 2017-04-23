@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/03/us/new-congressional-districts-proposed-by-california-panel.html",
+    "snippet": "The state Supreme Court released new political maps today that could substantially increase the number of minorities who are state legislators and Congressmen.   Federal law requires the Legislature to draw new Congressional and legislative distri...",
+    "lead_paragraph": "The state Supreme Court released new political maps today that could substantially increase the number of minorities who are state legislators and Congressmen. Federal law requires the Legislature to draw new Congressional and legislative district lines every 10 years to reflect United States Census data. The court took over the task in September, when Gov. Pete Wilson vetoed plans drawn by the Democratic-controlled Legislature.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "New Congressional Districts Proposed by California Panel"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CONGRESS"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "REAPPORTIONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1991-12-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b85f6a38f0d8094087cc6a",
+    "word_count": "127",
+    "slideshow_credits": null
+}

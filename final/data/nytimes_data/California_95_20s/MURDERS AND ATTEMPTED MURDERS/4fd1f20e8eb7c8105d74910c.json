@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1996/08/16/us/san-diego-college-student-held-in-slayings-of-three-professors.html",
+    "snippet": "A graduate engineering student defending his thesis before a faculty committee opened fire with a handgun today, killing three professors, the authorities said.    The gunman was arrested immediately after the shooting on the San Diego State Unive...",
+    "lead_paragraph": "A graduate engineering student defending his thesis before a faculty committee opened fire with a handgun today, killing three professors, the authorities said. The gunman was arrested immediately after the shooting on the San Diego State University campus, about 10 miles from the downtown convention center where the Republican National Convention is being held.",
+    "abstract": "Frederick Martin Davidson, graduate engineering student defending thesis before faculty committee at San Diego State University, opens fire with handgun killing three professors (S)",
+    "print_page": "18",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "San Diego College Student Held In Slayings of Three Professors"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIDSON, FREDERICK MARTIN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN DIEGO STATE UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        }
+    ],
+    "pub_date": "1996-08-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f20e8eb7c8105d74910c",
+    "word_count": "449",
+    "slideshow_credits": null
+}

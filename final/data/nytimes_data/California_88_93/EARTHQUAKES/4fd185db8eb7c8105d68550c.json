@@ -1,0 +1,59 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/california-quake-condolences-soviets-vividly-recalling-earthquake-tragedy.html",
+    "snippet": "LEAD: The Soviet Union offered its condolences and assistance to the United States today because of the California earthquake....",
+    "lead_paragraph": "LEAD: The Soviet Union offered its condolences and assistance to the United States today because of the California earthquake.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Soviets, Vividly Recalling Earthquake Tragedy in Armenia, Offer Aid to U.S.",
+        "kicker": "THE CALIFORNIA QUAKE: CONDOLENCES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "POPE"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd185db8eb7c8105d68550c",
+    "word_count": 571,
+    "slideshow_credits": null
+}

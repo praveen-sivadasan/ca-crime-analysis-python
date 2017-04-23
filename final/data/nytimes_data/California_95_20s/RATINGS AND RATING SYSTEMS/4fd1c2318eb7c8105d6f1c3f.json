@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1996/02/21/garden/wine-talk-058920.html",
+    "snippet": "ORLEY ASHENFELTER, the Princeton University economist who regularly upsets the wine establishment with his unorthodox approach to judging vintages, has completed a new classification of California cabernet sauvignons.         His method is similar...",
+    "lead_paragraph": "ORLEY ASHENFELTER, the Princeton University economist who regularly upsets the wine establishment with his unorthodox approach to judging vintages, has completed a new classification of California cabernet sauvignons. His method is similar to the most famous of all wine rankings, the 1855 classification of the wines of Bordeaux: it is based not on tasting and sniffing, the traditional tools of wine experts, but on the prices of mature wines at auction.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ASHENFELTER, ORLEY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "RATINGS AND RATING SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1996-02-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c2318eb7c8105d6f1c3f",
+    "word_count": 1109,
+    "slideshow_credits": null
+}

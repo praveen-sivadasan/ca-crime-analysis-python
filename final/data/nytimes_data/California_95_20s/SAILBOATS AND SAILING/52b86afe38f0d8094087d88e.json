@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/02/17/us/sailboat-reported-missing.html",
+    "snippet": "A Wyoming man sailing in the Gulf of California was being sought today by the United States Coast Guard and Mexican Navy because the boat's emergency beacon sent a signal, the authorities said. Petty Officer Trent Jones, at the 11th Coast Guard Di...",
+    "lead_paragraph": "A Wyoming man sailing in the Gulf of California was being sought today by the United States Coast Guard and Mexican Navy because the boat's emergency beacon sent a signal, the authorities said. Petty Officer Trent Jones, at the 11th Coast Guard District headquarters, identified the man as George Van Sickle and said he was sailing with his dog aboard the 17-foot sailboat Ruddy Duck from Punta Lobos to Loreto.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Sailboat Reported Missing"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN SICKLE, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "SAILBOATS AND SAILING"
+        },
+        {
+            "name": "subject",
+            "value": "BOATS AND BOATING"
+        }
+    ],
+    "pub_date": "1995-02-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b86afe38f0d8094087d88e",
+    "word_count": "70",
+    "slideshow_credits": null
+}

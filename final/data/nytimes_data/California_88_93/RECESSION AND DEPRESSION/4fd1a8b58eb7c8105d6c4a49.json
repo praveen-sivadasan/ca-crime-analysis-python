@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/28/business/company-news-disney-doubts-trade-report.html",
+    "snippet": "Recession and the Persian Gulf war slowed the turnstiles at Disneyland and kept attendance flat at Southern California's four other major amusement parks, an industry publication reported.   This week's Amusement Business magazine estimated that D...",
+    "lead_paragraph": "Recession and the Persian Gulf war slowed the turnstiles at Disneyland and kept attendance flat at Southern California's four other major amusement parks, an industry publication reported. This week's Amusement Business magazine estimated that Disneyland attendance dropped about 10 percent, to 11.6 million this year.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Disney Doubts Trade Report",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DISNEY, WALT, CO"
+        },
+        {
+            "name": "organizations",
+            "value": "DISNEYLAND"
+        },
+        {
+            "name": "subject",
+            "value": "RECESSION AND DEPRESSION"
+        },
+        {
+            "name": "subject",
+            "value": "AMUSEMENT PARKS"
+        },
+        {
+            "name": "subject",
+            "value": "PERSIAN GULF WAR"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER BEHAVIOR"
+        }
+    ],
+    "pub_date": "1991-12-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a8b58eb7c8105d6c4a49",
+    "word_count": 181,
+    "slideshow_credits": null
+}

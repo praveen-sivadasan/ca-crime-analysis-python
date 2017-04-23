@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/13/nyregion/c-corrections-573393.html",
+    "snippet": "Because of an editing error, an article on Wednesday about a 1990 census report on the number of people who moved to other states referred incorrectly to the effect of a population shift on California. California lost more residents to other state...",
+    "lead_paragraph": "Because of an editing error, an article on Wednesday about a 1990 census report on the number of people who moved to other states referred incorrectly to the effect of a population shift on California. California lost more residents to other states than New York did over the last decade, but it still attracted more new residents than it lost.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POPULATION"
+        },
+        {
+            "name": "subject",
+            "value": "POPULATION SHIFTS"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "CENSUS"
+        }
+    ],
+    "pub_date": "1993-03-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1b8da8eb7c8105d6e0c63",
+    "word_count": 60,
+    "slideshow_credits": null
+}

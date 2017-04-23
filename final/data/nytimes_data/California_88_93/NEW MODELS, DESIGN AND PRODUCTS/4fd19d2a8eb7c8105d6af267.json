@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/12/business/company-news-gm-rolls-out-new-saturn-line.html",
+    "snippet": "LEAD: Saturn, the General Motors Corporation's new small-car division, shipped the first 1,000 cars from its assembly complex here. The vehicles are destined for California, where they will go on sale Oct. 25....",
+    "lead_paragraph": "LEAD: Saturn, the General Motors Corporation's new small-car division, shipped the first 1,000 cars from its assembly complex here. The vehicles are destined for California, where they will go on sale Oct. 25.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "G.M. Rolls Out New Saturn Line",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SATURN DIVISION OF GENERAL MOTORS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        }
+    ],
+    "pub_date": "1990-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "Reuters",
+        "original": "Reuters",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd19d2a8eb7c8105d6af267",
+    "word_count": 126,
+    "slideshow_credits": null
+}

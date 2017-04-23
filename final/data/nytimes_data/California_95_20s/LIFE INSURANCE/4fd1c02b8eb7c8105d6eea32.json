@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/09/27/business/allianz-life-fine-sought.html",
+    "snippet": "The California Insurance Department announced on Monday that it would seek a $5 million fine against the Allianz Life Insurance Company over sales practices that the department said had led consumers to buy life insurance while believing that they...",
+    "lead_paragraph": "The California Insurance Department announced on Monday that it would seek a $5 million fine against the Allianz Life Insurance Company over sales practices that the department said had led consumers to buy life insurance while believing that they were investing in retirement savings plans.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Allianz Life Fine Sought"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALLIANZ LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        }
+    ],
+    "pub_date": "1995-09-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c02b8eb7c8105d6eea32",
+    "word_count": 45,
+    "slideshow_credits": null
+}

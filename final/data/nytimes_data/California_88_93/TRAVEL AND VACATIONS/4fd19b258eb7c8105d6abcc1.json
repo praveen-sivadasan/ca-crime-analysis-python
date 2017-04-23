@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/26/opinion/topics-of-the-times-customs-customized.html",
+    "snippet": "LEAD: Some 58,000 Californians who brought home trinkets from foreign travels last year are understandably furious at learning, after the fact, that they owe a 6.5 percent use tax. They are also learning the rigors of life in the age of computers....",
+    "lead_paragraph": "LEAD: Some 58,000 Californians who brought home trinkets from foreign travels last year are understandably furious at learning, after the fact, that they owe a 6.5 percent use tax. They are also learning the rigors of life in the age of computers.",
+    "abstract": null,
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Topics of The Times;   Customs, Customized"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "SALES TAX"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "CUSTOMS (TARIFF)"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+        }
+    ],
+    "pub_date": "1990-01-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd19b258eb7c8105d6abcc1",
+    "word_count": 217,
+    "slideshow_credits": null
+}

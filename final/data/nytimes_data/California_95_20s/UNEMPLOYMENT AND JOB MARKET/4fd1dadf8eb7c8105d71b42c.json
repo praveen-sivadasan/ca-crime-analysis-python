@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1997/02/11/science/young-astronomers-scan-night-sky-and-help-wanted-ads.html",
+    "snippet": "AT the age of 26, Brenda Frye, a Berkeley graduate student, already seems assured of a career in the exclusive science of cutting-edge astronomy. She has had the privilege of controlling one of the largest telescopes in the world and has done sign...",
+    "lead_paragraph": "AT the age of 26, Brenda Frye, a Berkeley graduate student, already seems assured of a career in the exclusive science of cutting-edge astronomy. She has had the privilege of controlling one of the largest telescopes in the world and has done significant research, including investigations of the chemistry of star-forming nurseries lying near the edge of the known universe. During one observing run, the atmosphere in the control room at one of the twin telescopes of the Keck Observatory in Hawaii was especially tense because Miss Frye was trying out some new software. The idea was to align a narrow slit in the telescope with one spiral arm of a galaxy many millions of light-years away. Light shining through the slit was to be analyzed spectroscopically to reveal the chemical composition and motion of the spiral arm.",
+    "abstract": "New technology is heralding what promises to be golden age of astronomical discovery, but it is still difficult to gain foothold in professional asronomy, astrophysics and cosmology; recent survey found only 14 percent of new doctorate recipients in astrophysics found permanent jobs immediately; traditional center of astronomy in United States is California, partly because sky is usually clear over some of state's mountains and also because California observatories have been richly financed by private benefactors; photo (M)",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Young Astronomers Scan Night Sky and Help Wanted Ads",
+        "kicker": "A NEW UNIVERSE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "SPACE"
+        },
+        {
+            "name": "subject",
+            "value": "TELESCOPES AND OBSERVATORIES"
+        }
+    ],
+    "pub_date": "1997-02-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Malcolm",
+                "middlename": "W.",
+                "lastname": "BROWNE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MALCOLM W. BROWNE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dadf8eb7c8105d71b42c",
+    "word_count": 1699,
+    "slideshow_credits": null
+}

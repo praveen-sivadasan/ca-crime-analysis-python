@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/27/us/a-dying-fish-may-force-california-to-break-its-water-habits.html",
+    "snippet": "A decade ago, Peter Moyle would trawl the sloughs of the Suisun Marsh and haul in nets thick with delta smelt, an unremarkable creature smelling of cucumber and barely three inches long that was of interest only to a few fishery biologists.   Now ...",
+    "lead_paragraph": "A decade ago, Peter Moyle would trawl the sloughs of the Suisun Marsh and haul in nets thick with delta smelt, an unremarkable creature smelling of cucumber and barely three inches long that was of interest only to a few fishery biologists. Now the delta smelt is all but gone from these brackish waters and is vanishing elsewhere in the Sacramento-San Joaquin River delta, a casualty of California's drought and the huge pumping projects that divert fresh water from the rivers and estuaries in the northern half of the state to the farms and cities of the arrid south.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Dying Fish May Force California to Break Its Water Habits"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FISH AND WILDLIFE SERVICE"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "ENDANGERED AND EXTINCT SPECIES"
+        },
+        {
+            "name": "subject",
+            "value": "SMELT (FISH)"
+        },
+        {
+            "name": "subject",
+            "value": "FISH AND OTHER MARINE LIFE"
+        }
+    ],
+    "pub_date": "1991-10-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1acc28eb7c8105d6cca52",
+    "word_count": 1567,
+    "slideshow_credits": null
+}

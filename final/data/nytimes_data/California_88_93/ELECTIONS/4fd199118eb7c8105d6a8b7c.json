@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/07/us/gop-nominee-for-california-governor-steers-careful-course-to-the-center.html",
+    "snippet": "LEAD: The setting could not have been further from the urban scourge of crack babies. But it was here in this wealthy coastal enclave that Pete Wilson, United States Senator and Republican candidate for governor of California, brought his oft-repe...",
+    "lead_paragraph": "LEAD: The setting could not have been further from the urban scourge of crack babies. But it was here in this wealthy coastal enclave that Pete Wilson, United States Senator and Republican candidate for governor of California, brought his oft-repeated message of compassion.",
+    "abstract": null,
+    "print_page": "38",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "G.O.P. Nominee for California Governor Steers Careful Course to the Center"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-10-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd199118eb7c8105d6a8b7c",
+    "word_count": 1462,
+    "slideshow_credits": null
+}

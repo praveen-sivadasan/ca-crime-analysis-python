@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/04/garden/wine-talk-064595.html",
+    "snippet": "BROKEN all your New Year's resolutions by now?   Not me. I made only one, and it's going to be easy to keep. I'm going to drink more zinfandel in 1995....",
+    "lead_paragraph": "BROKEN all your New Year's resolutions by now? Not me. I made only one, and it's going to be easy to keep. I'm going to drink more zinfandel in 1995.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1995-01-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cab48eb7c8105d6ff698",
+    "word_count": 1044,
+    "slideshow_credits": null
+}

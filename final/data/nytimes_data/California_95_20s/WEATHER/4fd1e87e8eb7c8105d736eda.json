@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1999/04/16/us/fog-not-smog-in-southern-california.html",
+    "snippet": "Dense fog blankets southern California; photo (S)...",
+    "lead_paragraph": null,
+    "abstract": "Dense fog blankets southern California; photo (S)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fog, Not Smog, in Southern California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FOG"
+        }
+    ],
+    "pub_date": "1999-04-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd1e87e8eb7c8105d736eda",
+    "word_count": 0,
+    "slideshow_credits": null
+}

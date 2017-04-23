@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/03/business/for-migrant-workers-legality-lowers-wages.html",
+    "snippet": "LEAD: Thanks to the Federal Immigration Reform and Control Act of 1986, some 700,000 migrant workers in California's $16.6 billion agricultural industry have applied for legal residency in the United States. But the stamp of impending legitimacy h...",
+    "lead_paragraph": "LEAD: Thanks to the Federal Immigration Reform and Control Act of 1986, some 700,000 migrant workers in California's $16.6 billion agricultural industry have applied for legal residency in the United States. But the stamp of impending legitimacy has yielded a mixed harvest for workers.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "FOR MIGRANT WORKERS, LEGALITY LOWERS WAGES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "MIGRANT LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "WAGES AND SALARIES"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION REFORM AND CONTROL ACT OF 1986"
+        }
+    ],
+    "pub_date": "1989-12-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kathleen",
+                "rank": 1,
+                "lastname": "SHARP"
+            }
+        ],
+        "original": "By KATHLEEN SHARP; Kathleen Sharp is a business writer based in Santa Barbara, Calif"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1898a8eb7c8105d68a8fb",
+    "word_count": 1317,
+    "slideshow_credits": null
+}

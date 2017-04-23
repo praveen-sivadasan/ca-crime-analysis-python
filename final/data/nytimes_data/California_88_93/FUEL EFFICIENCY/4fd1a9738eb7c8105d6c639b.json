@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/15/us/california-limits-sought-for-smog.html",
+    "snippet": "LEAD: Sweeping anti-smog proposals introduced today call for drastic reductions in automobile emissions in California by the year 2000, a goal some manufacturers call impossible....",
+    "lead_paragraph": "LEAD: Sweeping anti-smog proposals introduced today call for drastic reductions in automobile emissions in California by the year 2000, a goal some manufacturers call impossible.",
+    "abstract": null,
+    "print_page": "28",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA LIMITS SOUGHT FOR SMOG"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FUEL EFFICIENCY"
+        },
+        {
+            "name": "subject",
+            "value": "SMOG"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1989-12-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9738eb7c8105d6c639b",
+    "word_count": 374,
+    "slideshow_credits": null
+}

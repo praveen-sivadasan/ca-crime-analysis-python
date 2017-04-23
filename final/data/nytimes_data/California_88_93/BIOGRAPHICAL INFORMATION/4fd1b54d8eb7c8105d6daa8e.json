@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/04/us/1992-campaign-woman-barbara-boxer-2-senate-nominees-who-have-paid-political-dues.html",
+    "snippet": "As newlyweds in 1962, Barbara and Stewart Boxer chose a Brooklyn apartment that seemed the perfect place to start their marriage, but for the musty carpet in the lobby, which the landlord promised would be replaced any day.   Months passed with no...",
+    "lead_paragraph": "As newlyweds in 1962, Barbara and Stewart Boxer chose a Brooklyn apartment that seemed the perfect place to start their marriage, but for the musty carpet in the lobby, which the landlord promised would be replaced any day. Months passed with no action.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN Woman in the News: Barbara Boxer; 2 Senate Nominees Who Have Paid Political Dues"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "WOMAN IN THE NEWS (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1992-06-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1b54d8eb7c8105d6daa8e",
+    "word_count": 677,
+    "slideshow_credits": null
+}

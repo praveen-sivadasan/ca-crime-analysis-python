@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1999/06/29/opinion/c-correction-376205.html",
+    "snippet": "Because of an editing error, an article Sunday incorrectly compared Supreme Court votes last week and last month on states' rights cases. A 7-to-2 opinion last month in a California case upholding Federal rights included three Justices who were in...",
+    "lead_paragraph": "Because of an editing error, an article Sunday incorrectly compared Supreme Court votes last week and last month on states' rights cases. A 7-to-2 opinion last month in a California case upholding Federal rights included three Justices who were in the majority of a 5-to-4 vote last week upholding states' rights.",
+    "abstract": "Correction**June 27 article incorrectly compared Supreme Court votes on states' rights cases; 7-to-2 opinion last month in California case upholding Federal rights included three Justices who were in majority of 5-to-4 vote last week upholding states' rights",
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Correction"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1999-06-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Corrections; Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1ea268eb7c8105d7394db",
+    "word_count": 51,
+    "slideshow_credits": null
+}

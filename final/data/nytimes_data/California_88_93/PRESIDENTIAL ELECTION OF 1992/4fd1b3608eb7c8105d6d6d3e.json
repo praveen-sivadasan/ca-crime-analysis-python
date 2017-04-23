@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/08/us/the-1992-campaign-buchanan-vows-to-stay-in-race-despite-vote.html",
+    "snippet": "In a statement that is likely to antagonize Republicans worried that his campaign will divide the party and wound the President, Patrick J. Buchanan said today that he does not intend to drop out of the race even if it is clear that he cannot win ...",
+    "lead_paragraph": "In a statement that is likely to antagonize Republicans worried that his campaign will divide the party and wound the President, Patrick J. Buchanan said today that he does not intend to drop out of the race even if it is clear that he cannot win the nomination. In an interview with Associated Press Radio, Mr. Buchanan said that if he did not win any of the 11 primaries on Tuesday, or if he did not do well in the Illinois or Michigan primaries on March 17, it would be \"extremely difficult, virtually impossible\" to wrest the Republican nomination from President Bush.",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Buchanan Vows to Stay in Race, Despite Vote",
+        "kicker": "THE 1992 CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "BUCHANAN, PATRICK J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-03-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Steven",
+                "middlename": "A.",
+                "lastname": "HOLMES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By STEVEN A. HOLMES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b3608eb7c8105d6d6d3e",
+    "word_count": 480,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/09/13/garden/wine-talk-188189.html",
+    "snippet": "LEAD: IT may be coincidental, but the season for wine making is also the season for wine buying. All the wine, at least in the Northern Hemisphere, will have been made in the next month or so; similarly, some 75 percent of all wine purchases for t...",
+    "lead_paragraph": "LEAD: IT may be coincidental, but the season for wine making is also the season for wine buying. All the wine, at least in the Northern Hemisphere, will have been made in the next month or so; similarly, some 75 percent of all wine purchases for the year will be made between now and New Year's Eve, the busiest social season of the year.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1989-09-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7eb8eb7c8105d6c3355",
+    "word_count": 1248,
+    "slideshow_credits": null
+}

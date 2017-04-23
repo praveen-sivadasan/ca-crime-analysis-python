@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/2000/10/01/opinion/l-california-s-freeway-to-learning-438359.html",
+    "snippet": "To the Editor:    Re ''California Makes College an Entitlement,'' by Abigail Thernstrom (Op-Ed, Sept. 26):...",
+    "lead_paragraph": "To the Editor: Re ''California Makes College an Entitlement,'' by Abigail Thernstrom (Op-Ed, Sept. 26):",
+    "abstract": "Richard Grayson letter recalls days before grade inflation in college, when B reflected solid achievement (S)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Freeway to Learning"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GRAYSON, RICHARD"
+        },
+        {
+            "name": "persons",
+            "value": "THERNSTROM, ABIGAIL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GRADING OF STUDENTS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        }
+    ],
+    "pub_date": "2000-10-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd20a6b8eb7c8105d776ee3",
+    "word_count": 148,
+    "slideshow_credits": null
+}

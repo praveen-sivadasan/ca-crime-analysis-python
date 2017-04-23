@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/06/us/c-corrections-693292.html",
+    "snippet": "An article last Thursday about a California airport where scores of airliners are idled misidentified a company that buys planes in large numbers and leases them to carriers. It is GATX Capital, a subsidiary of the GATX Corporation. The company sa...",
+    "lead_paragraph": "An article last Thursday about a California airport where scores of airliners are idled misidentified a company that buys planes in large numbers and leases them to carriers. It is GATX Capital, a subsidiary of the GATX Corporation. The company says it has only one plane at the field.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1992-08-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Corrections; U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1d13e8eb7c8105d70bc2e",
+    "word_count": 49,
+    "slideshow_credits": null
+}

@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/26/us/california-court-agrees-to-oversee-redistricting.html",
+    "snippet": "The California Supreme Court todaygranted Gov. Pete Wilson's request that it take over reapportionment, saying it would oversee the drawing of new political district lines for the 1992 elections.   The outcome of the redistricting by the court, mo...",
+    "lead_paragraph": "The California Supreme Court todaygranted Gov. Pete Wilson's request that it take over reapportionment, saying it would oversee the drawing of new political district lines for the 1992 elections. The outcome of the redistricting by the court, most of whose members were appointed by Republican governors, is likely to determine the political balance of power in the state for the rest of the decade.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Court Agrees to Oversee Redistricting"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "REAPPORTIONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1991-09-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a4c08eb7c8105d6bd227",
+    "word_count": 526,
+    "slideshow_credits": null
+}

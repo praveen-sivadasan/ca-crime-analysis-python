@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1995/11/23/us/7-die-in-fiery-truck-crash.html",
+    "snippet": "A big rig lost control on a rain-slicked highway Wednesday and hit a logging  truck and a car in a fiery head-on crash that killed seven people.         The accident just south of Dunsmuir shut down 60 miles of Interstate 5 for several hours, snar...",
+    "lead_paragraph": "A big rig lost control on a rain-slicked highway Wednesday and hit a logging truck and a car in a fiery head-on crash that killed seven people. The accident just south of Dunsmuir shut down 60 miles of Interstate 5 for several hours, snarling Thanksgiving eve traffic. Dunsmuir is 300 miles north of San Francisco.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "7 Die in Fiery Truck Crash"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1995-11-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ec4e8eb7c8105d73d896",
+    "word_count": 124,
+    "slideshow_credits": null
+}

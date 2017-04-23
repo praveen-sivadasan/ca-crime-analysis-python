@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/26/us/us-judge-voids-california-limit-on-political-campaign-donations.html",
+    "snippet": "LEAD: A Federal judge today rejected limits on campaign contributions that were imposed by California voters in a 1988 referendum, ruling that they gave an unfair advantage to incumbents....",
+    "lead_paragraph": "LEAD: A Federal judge today rejected limits on campaign contributions that were imposed by California voters in a 1988 referendum, ruling that they gave an unfair advantage to incumbents.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. Judge Voids California Limit On Political Campaign Donations"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KARLTON, LAWRENCE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-09-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1990c8eb7c8105d6a87b2",
+    "word_count": 545,
+    "slideshow_credits": null
+}

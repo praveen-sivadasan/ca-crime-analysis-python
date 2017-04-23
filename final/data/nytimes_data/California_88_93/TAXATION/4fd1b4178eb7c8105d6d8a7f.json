@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/19/us/the-supreme-court-backers-of-78-tax-revolt-hail-ruling.html",
+    "snippet": "Backers of the California property tax revolt that was upheld today by the United States Supreme Court rejoiced in what they said was an affirmation of the citizen's right to keep down taxes.   \"The question was, 'Do people have a right to control...",
+    "lead_paragraph": "Backers of the California property tax revolt that was upheld today by the United States Supreme Court rejoiced in what they said was an affirmation of the citizen's right to keep down taxes. \"The question was, 'Do people have a right to control their own destiny regarding taxation?' And the answer is: yes,\" said Joel D. Fox, president of the Howard Jarvis Taxpayers Association.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Backers of '78 Tax Revolt Hail Ruling",
+        "kicker": "THE SUPREME COURT"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY TAXES"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1992-06-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b4178eb7c8105d6d8a7f",
+    "word_count": 766,
+    "slideshow_credits": null
+}

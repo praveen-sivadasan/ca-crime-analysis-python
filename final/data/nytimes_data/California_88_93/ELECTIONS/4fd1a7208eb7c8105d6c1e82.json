@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/27/us/california-democrats-criticize-chief.html",
+    "snippet": "After a two-year grace period, California Democrats have started telling Jerry Brown jokes again. Republicans, of course, never stopped.   The one getting the most laughs this week has to do with the former Governor's reported interest in running ...",
+    "lead_paragraph": "After a two-year grace period, California Democrats have started telling Jerry Brown jokes again. Republicans, of course, never stopped. The one getting the most laughs this week has to do with the former Governor's reported interest in running for the Senate in 1992. Sonny Bono, the former singer who is now Mayor of Palm Springs, has declared his interest in seeking the Republican nomination. If both men win their primaries, the joke goes, the voters would be faced with Sonny and Jer.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Democrats Criticize Chief"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "REGISTRATION OF VOTERS"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-11-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7208eb7c8105d6c1e82",
+    "word_count": 1082,
+    "slideshow_credits": null
+}

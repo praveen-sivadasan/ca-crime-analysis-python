@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/08/business/regulator-urges-shearson-to-add-to-insurer-s-funds.html",
+    "snippet": "A dispute between Shearson Lehman Brothers and California insurance regulators intensified yesterday, with the state's Insurance Commissioner contending that the Wall Street firm had a responsibility to infuse a struggling insurance company with m...",
+    "lead_paragraph": "A dispute between Shearson Lehman Brothers and California insurance regulators intensified yesterday, with the state's Insurance Commissioner contending that the Wall Street firm had a responsibility to infuse a struggling insurance company with more capital. The company, the First Capital Life Insurance Company, has more investments in \"junk bonds\" than any other insurer still independently operating. Shearson, which owns 28 percent of the insurer's parent, has been the largest seller on Wall Street of the company's policies and contracts.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Regulator Urges Shearson To Add to Insurer's Funds"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GARAMENDI, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST CAPITAL LIFE INSURANCE CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SHEARSON LEHMAN BROTHERS"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE INSURANCE"
+        }
+    ],
+    "pub_date": "1991-05-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kurt",
+                "rank": 1,
+                "lastname": "EICHENWALD"
+            }
+        ],
+        "original": "By KURT EICHENWALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a32e8eb7c8105d6ba47a",
+    "word_count": 675,
+    "slideshow_credits": null
+}

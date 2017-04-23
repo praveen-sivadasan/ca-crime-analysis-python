@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1999/06/27/business/a-culture-of-trial-despite-error.html",
+    "snippet": "LOU L. PAI'S last assignment at Enron had all the hallmarks of a career maker.    As the chairman and chief executive of Enron Energy Services, Mr. Pai led the company's charge to become the nation's premier marketer of electricity to residential ...",
+    "lead_paragraph": "LOU L. PAI'S last assignment at Enron had all the hallmarks of a career maker. As the chairman and chief executive of Enron Energy Services, Mr. Pai led the company's charge to become the nation's premier marketer of electricity to residential customers as states like California deregulated their utility industries. Oops. After an intensive, two-year campaign that sent Enron's stock on a roller-coaster ride, the company has declared retail electric sales a dead end for now.",
+    "abstract": "Lou L Pai, chairman of Enron Energy Services, is now promoting sale of electricity and natural gas to large commercial users, taking advantage of utility dergulation; photo; Enron's earlier, less successful, venture into retail electricity sales in California noted (S)",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Culture of Trial, Despite Error"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PAI, LOU L"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ENRON ENERGY SERVICES"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY AND ORGANIZATION PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1999-06-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Money and Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Agis",
+                "rank": 1,
+                "lastname": "SALPUKAS"
+            }
+        ],
+        "original": "By AGIS SALPUKAS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20f208eb7c8105d78160b",
+    "word_count": 592,
+    "slideshow_credits": null
+}

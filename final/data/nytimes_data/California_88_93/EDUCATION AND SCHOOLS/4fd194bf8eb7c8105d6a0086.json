@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/07/weekinreview/headliners-in-the-picture.html",
+    "snippet": "LEAD: When it came time to dissect a frog in her high school biology class, Jenifer Graham wanted no part of it. Her grade in the class was reduced from an A to a B as a result, and the California teen-ager, a vegetarian who opposes the killing of...",
+    "lead_paragraph": "LEAD: When it came time to dissect a frog in her high school biology class, Jenifer Graham wanted no part of it. Her grade in the class was reduced from an A to a B as a result, and the California teen-ager, a vegetarian who opposes the killing of animals for scientific purposes, took the matter to court.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Headliners; In the Picture"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GRAHAM, JENIFER"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "FROGS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        }
+    ],
+    "pub_date": "1988-08-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Education; Week in Review",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd194bf8eb7c8105d6a0086",
+    "word_count": 201,
+    "slideshow_credits": null
+}

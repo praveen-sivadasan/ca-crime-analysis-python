@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1997/12/20/us/us-appeals-court-upholds-california-term-limits-law.html",
+    "snippet": "Upholding a measure that has dramatically reshaped electoral politics in the nation's most populous state, a Federal appeals court ruled today that legislative term limits approved seven years ago by California voters do not infringe politicians' ...",
+    "lead_paragraph": "Upholding a measure that has dramatically reshaped electoral politics in the nation's most populous state, a Federal appeals court ruled today that legislative term limits approved seven years ago by California voters do not infringe politicians' constitutional rights, and that voters were well aware they were adopting lifetime limits on lawmakers' service. The 8-to-3 ruling by the United States Court of Appeals for the Ninth Circuit, in San Francisco, reversed two earlier Federal court rulings this year, both of which had overturned the limits. Opponents of term limits vowed to appeal today's ruling to the United States Supreme Court.",
+    "abstract": "Federal appeals court rules that legislative term limits approved seven years ago by California voters do not infringe on politicians' constitutional rights and that voters were well aware that they were adopting lifetime limits on lawmakers' service; 8-to-3 ruling reverses two earlier Federal court rulings overturning limits (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. Appeals Court Upholds California Term Limits Law"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES AND PARLIAMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "TERM LIMITS (POLITICAL OFFICE)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1997-12-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d88b8eb7c8105d717801",
+    "word_count": 534,
+    "slideshow_credits": null
+}

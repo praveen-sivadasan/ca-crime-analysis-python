@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/30/us/justices-criticizing-appeals-court-restore-a-death-sentence.html",
+    "snippet": "Criticizing fellow Federal judges in unusually harsh language, a narrowly divided Supreme Court ruled today that the Federal appeals court in California had committed a ''grave abuse of discretion'' by intervening at the last minute to overturn a ...",
+    "lead_paragraph": "Criticizing fellow Federal judges in unusually harsh language, a narrowly divided Supreme Court ruled today that the Federal appeals court in California had committed a ''grave abuse of discretion'' by intervening at the last minute to overturn a convicted murderer's 14-year-old death sentence. The prisoner, Thomas M. Thompson, whose appeals had been rejected twice by the United States Supreme Court and four times by the California Supreme Court, was scheduled for execution in less than two days when the United States Court of Appeals for the Ninth Circuit invoked an unusual procedure last Aug. 3 to reopen its final judgment against him.",
+    "abstract": "Supreme Court rules, 5-4, that Federal appeals court in California had committed 'grave abuse of discretion' by intervening at last minute to overturn convicted murderer Thomas M Thompson's 14-year-old death sentence (M)",
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Justices, Criticizing Appeals Court, Restore a Death Sentence"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "THOMPSON, THOMAS M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "APPEALS COURTS"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1998-04-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd216c48eb7c8105d791b10",
+    "word_count": 775,
+    "slideshow_credits": null
+}

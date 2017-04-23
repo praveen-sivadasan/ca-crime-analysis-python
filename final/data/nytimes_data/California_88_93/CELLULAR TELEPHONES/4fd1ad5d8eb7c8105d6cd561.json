@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/16/business/company-news-residential-users-dropped-from-cellular-phone-test.html",
+    "snippet": "U S West Inc. said yesterday that it had dropped residential users from a test of a new generation of smaller cellular telephones that run on fewer batteries. But the regional telephone company added medium-sized businesses and a local government ...",
+    "lead_paragraph": "U S West Inc. said yesterday that it had dropped residential users from a test of a new generation of smaller cellular telephones that run on fewer batteries. But the regional telephone company added medium-sized businesses and a local government to the 10-month trial, which will begin in January. \"Given the speed with which the Federal Communications Commission has acted to allot licenses, U S West no longer believed a market trial of residential customers would provide customer information in a time frame to be of value,\" the company said. The trial was originally scheduled for April 1994. U S West said results of the technical trial involving 300 businesses would be just as valid without residential users.",
+    "abstract": null,
+    "print_page": "41",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "RESIDENTIAL USERS DROPPED FROM CELLULAR PHONE TEST",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "US WEST INC"
+        },
+        {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1993-10-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ad5d8eb7c8105d6cd561",
+    "word_count": 120,
+    "slideshow_credits": null
+}

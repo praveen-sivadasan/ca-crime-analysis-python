@@ -1,0 +1,85 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/29/us/california-redistricting-battle-is-casting-shadows-across-the-us.html",
+    "snippet": "LEAD: While the voters and news organizations focus on the heated race for the Democratic nomination for governor of California, political professionals from the White House to Los Angeles are riveted on how Californians will vote on two ballot me...",
+    "lead_paragraph": "LEAD: While the voters and news organizations focus on the heated race for the Democratic nomination for governor of California, political professionals from the White House to Los Angeles are riveted on how Californians will vote on two ballot measures that could eventually help to alter the balance of power in",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Redistricting Battle Is Casting Shadows Across the U.S."
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "POPULATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "REAPPORTIONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        },
+        {
+            "name": "subject",
+            "value": "CENSUS"
+        }
+    ],
+    "pub_date": "1990-05-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1af038eb7c8105d6cf312",
+    "word_count": 1168,
+    "slideshow_credits": null
+}

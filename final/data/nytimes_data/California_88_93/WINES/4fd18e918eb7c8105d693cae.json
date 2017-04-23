@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/14/garden/wine-talk-106290.html",
+    "snippet": "LEAD: IT'S your broker on the phone. Does he have an undervalued takeover prospect? No, he has a trip to Chateau Lafite-Rothschild, in Bordeaux. Included is a private train down from Paris and dinner with Baron Eric de Rothschild, the managing par...",
+    "lead_paragraph": "LEAD: IT'S your broker on the phone. Does he have an undervalued takeover prospect? No, he has a trip to Chateau Lafite-Rothschild, in Bordeaux. Included is a private train down from Paris and dinner with Baron Eric de Rothschild, the managing partner.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "WINE TALK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHALONE INC"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY AND ORGANIZATION PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1990-02-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e918eb7c8105d693cae",
+    "word_count": 1591,
+    "slideshow_credits": null
+}

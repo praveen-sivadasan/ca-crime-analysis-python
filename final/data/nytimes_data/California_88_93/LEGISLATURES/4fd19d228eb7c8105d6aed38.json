@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/25/nyregion/c-corrections-891091.html",
+    "snippet": "An article yesterday about staff reductions for California legislators referred incorrectly to results of the November election. California voters chose the second Republican Governor in a row, not the third....",
+    "lead_paragraph": "An article yesterday about staff reductions for California legislators referred incorrectly to results of the November election. California voters chose the second Republican Governor in a row, not the third.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AIDES AND EMPLOYEES"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1991-01-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd19d228eb7c8105d6aed38",
+    "word_count": 30,
+    "slideshow_credits": null
+}

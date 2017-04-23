@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/15/us/five-people-killed-in-california-shootings.html",
+    "snippet": "LEAD: At least five people were killed today in a series of shootings in the wine country northeast of San Francisco....",
+    "lead_paragraph": "LEAD: At least five people were killed today in a series of shootings in the wine country northeast of San Francisco.",
+    "abstract": null,
+    "print_page": "28",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Five People Killed in California Shootings"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SALCIDO, RAMON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        }
+    ],
+    "pub_date": "1989-04-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd183c18eb7c8105d681c68",
+    "word_count": 281,
+    "slideshow_credits": null
+}

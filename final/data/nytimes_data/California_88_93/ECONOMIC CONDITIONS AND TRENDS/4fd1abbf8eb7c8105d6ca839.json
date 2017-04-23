@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/20/us/california-leader-explains-speech-mix-up.html",
+    "snippet": "Gov. Pete Wilson blamed himself and his press office today for the confusion surrounding the existence and identity of three men he referred to in his State of the State Message.   In a rare Sunday news conference, the Republican Governor introduc...",
+    "lead_paragraph": "Gov. Pete Wilson blamed himself and his press office today for the confusion surrounding the existence and identity of three men he referred to in his State of the State Message. In a rare Sunday news conference, the Republican Governor introduced three men he said were the people he used in his Jan. 8 speech as examples of Californians who had been harmed by the recession. The introductions came days after published reports in which Wilson staff members said the three workers did not actually exist but were composites.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Leader Explains Speech Mix-Up"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1992-01-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1abbf8eb7c8105d6ca839",
+    "word_count": 210,
+    "slideshow_credits": null
+}

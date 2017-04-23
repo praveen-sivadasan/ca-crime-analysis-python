@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/29/opinion/california-s-dangerous-adolescents.html",
+    "snippet": "\"People say Tiananmen Square couldn't happen here. It can't right now because we're armed and we have a way to retaliate.\"    \"By having 200 million armed Americans, the Government of the United States would never have the thought of becoming tyra...",
+    "lead_paragraph": "\"People say Tiananmen Square couldn't happen here. It can't right now because we're armed and we have a way to retaliate.\" \"By having 200 million armed Americans, the Government of the United States would never have the thought of becoming tyrannical.\"",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Dangerous Adolescents"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1990-12-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd197108eb7c8105d6a4f01",
+    "word_count": 312,
+    "slideshow_credits": null
+}

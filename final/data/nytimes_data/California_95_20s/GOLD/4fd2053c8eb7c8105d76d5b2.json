@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1998/03/15/travel/travel-advisory-echoes-of-the-gold-rush-and-the-cry-of-eureka.html",
+    "snippet": "One hundred and fifty years after James Marshall plucked a shiny nugget of gold from the American River, the Oakland Museum of California has mounted a major exhibition devoted to the mass migration of fortune seekers caused by Marshall's discover...",
+    "lead_paragraph": "One hundred and fifty years after James Marshall plucked a shiny nugget of gold from the American River, the Oakland Museum of California has mounted a major exhibition devoted to the mass migration of fortune seekers caused by Marshall's discovery. ''Gold Rush! California's Untold Stories'' consists of three shows that explore the history and legacy of the event that transformed the state. The largest of the three, ''Gold Fever! The Lure and Legacy of the California Gold Rush,'' uses a theatrical audio guide, film, reconstructed archeological digs, and more than 1,000 artifacts, photographs and paintings to examine the impact of the gold rush on the state's economy, its population, its environment and its ethnic makeup.",
+    "abstract": "Oakland Museum of California has mounted major exhibition devoted to mass migration of fortune seekers caused by James Marshall's discovery of gold one hundred and fifty years ago; Gold Rush! California's Untold Stories consists of three shows that explore history and legacy of the event that transformed the state; photo (L)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Echoes of the Gold Rush and the Cry of 'Eureka!'",
+        "kicker": "TRAVEL ADVISORY"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MARSHALL, JAMES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "OAKLAND MUSEUM"
+        },
+        {
+            "name": "subject",
+            "value": "GOLD"
+        },
+        {
+            "name": "subject",
+            "value": "HISTORY"
+        }
+    ],
+    "pub_date": "1998-03-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christopher",
+                "rank": 1,
+                "lastname": "HALL"
+            }
+        ],
+        "original": "By CHRISTOPHER HALL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2053c8eb7c8105d76d5b2",
+    "word_count": 324,
+    "slideshow_credits": null
+}

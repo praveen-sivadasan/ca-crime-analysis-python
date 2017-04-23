@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/17/us/california-lets-nontraditional-families-register.html",
+    "snippet": "In what they hope will be the first step toward gaining benefits like health insurance and pensions, people who think of themselves as families but may not meet the traditional definition are registering with the State of California.    There have...",
+    "lead_paragraph": "In what they hope will be the first step toward gaining benefits like health insurance and pensions, people who think of themselves as families but may not meet the traditional definition are registering with the State of California. There have been seven such registrations, under a law originally intended to allow the registration of unincorporated nonprofit associations like lodges fraternal societies. They include two homosexual couples, an unmarried heterosexual couple, a stepfamily, a married couple with different last names and a family made up of a manand three refugee boys for whom he is the legal guardian.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Lets Nontraditional Families Register"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FAMILIES AND FAMILY LIFE"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1990-12-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tamar",
+                "rank": 1,
+                "lastname": "LEWIN"
+            }
+        ],
+        "original": "By TAMAR LEWIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c5cc8eb7c8105d6f6742",
+    "word_count": 645,
+    "slideshow_credits": null
+}

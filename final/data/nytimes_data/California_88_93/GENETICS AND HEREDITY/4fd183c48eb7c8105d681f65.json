@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/12/world/c-corrections-329289.html",
+    "snippet": "LEAD: An article Saturday on a proposal in California for the genetic tracking of criminals misstated the purpose of a gasoline tax increase backed by Gov. George Deukmejian. The higher taxes are meant to finance road construction and maintenance....",
+    "lead_paragraph": "LEAD: An article Saturday on a proposal in California for the genetic tracking of criminals misstated the purpose of a gasoline tax increase backed by Gov. George Deukmejian. The higher taxes are meant to finance road construction and maintenance.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "EXCISE TAXES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "GENETICS AND HEREDITY"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        }
+    ],
+    "pub_date": "1989-04-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World; Corrections",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd183c48eb7c8105d681f65",
+    "word_count": 77,
+    "slideshow_credits": null
+}

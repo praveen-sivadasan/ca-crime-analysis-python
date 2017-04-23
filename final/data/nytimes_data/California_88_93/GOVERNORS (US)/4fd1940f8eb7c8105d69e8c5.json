@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/04/us/california-race-is-becoming-symbolic-for-women.html",
+    "snippet": "LEAD: When the race for the Democratic nomination for governor of California ends on Tuesday, it seems likely that the result will turn, more than anything else, on sex. The candidate leading in the polls is a woman who has emerged in the minds of...",
+    "lead_paragraph": "LEAD: When the race for the Democratic nomination for governor of California ends on Tuesday, it seems likely that the result will turn, more than anything else, on sex. The candidate leading in the polls is a woman who has emerged in the minds of female Democrats as a strong symbol of their aspirations for political equality and power.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Race Is Becoming Symbolic for Women"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-06-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1940f8eb7c8105d69e8c5",
+    "word_count": 1140,
+    "slideshow_credits": null
+}

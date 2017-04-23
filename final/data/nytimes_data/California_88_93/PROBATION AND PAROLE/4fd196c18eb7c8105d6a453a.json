@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/12/nyregion/c-corrections-676989.html",
+    "snippet": "LEAD: A brief article by The Associated Press on Aug. 18 about the denial of parole for Elmer (Geronimo) Pratt, a former Black Panther Party leader, referred incorrectly to his use of heroin. In a California parole hearing, remarks about his drug ...",
+    "lead_paragraph": "LEAD: A brief article by The Associated Press on Aug. 18 about the denial of parole for Elmer (Geronimo) Pratt, a former Black Panther Party leader, referred incorrectly to his use of heroin. In a California parole hearing, remarks about his drug use dealt with the period before, not after, he was imprisoned for the murder of a woman in 1968.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PRATT, ELMER"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1989-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd196c18eb7c8105d6a453a",
+    "word_count": 121,
+    "slideshow_credits": null
+}

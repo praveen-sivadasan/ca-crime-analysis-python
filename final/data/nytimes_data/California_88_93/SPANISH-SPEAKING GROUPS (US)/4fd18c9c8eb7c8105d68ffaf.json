@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/06/us/hispanic-vote-is-wooed-with-eye-toward-fall.html",
+    "snippet": "LEAD: When Gov. Michael S. Dukakis, the son of Greek immigrants, visits the Mexican-American barrios of East Los Angeles, he delights audiences with his flawless Spanish....",
+    "lead_paragraph": "LEAD: When Gov. Michael S. Dukakis, the son of Greek immigrants, visits the Mexican-American barrios of East Los Angeles, he delights audiences with his flawless Spanish.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Hispanic Vote Is Wooed With Eye Toward Fall"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KMEX-TV"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH LANGUAGE"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        }
+    ],
+    "pub_date": "1988-06-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18c9c8eb7c8105d68ffaf",
+    "word_count": 1012,
+    "slideshow_credits": null
+}

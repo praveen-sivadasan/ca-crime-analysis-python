@@ -1,0 +1,33 @@
+{
+    "web_url": "https://www.nytimes.com/1998/02/17/us/world-news-briefs-more-rain-returns-to-soggy-california.html",
+    "snippet": "Rain clouds rolled back over sodden California today, ending a sunny interlude and starting another week of stormy weather after a series of storms battered the state.    ''The storm systems are stacked up out there over the Pacific,'' said Diana ...",
+    "lead_paragraph": "Rain clouds rolled back over sodden California today, ending a sunny interlude and starting another week of stormy weather after a series of storms battered the state. ''The storm systems are stacked up out there over the Pacific,'' said Diana Henderson of the National Weather Service. ''We've got about five more. It'll be a storm, then a day or so to dry out, and then another storm.''",
+    "abstract": "Another week of stormy weather begins in California, ending sunny interlude after series of storms battered state (S)",
+    "print_page": "17",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "World News Briefs; More Rain Returns To Soggy California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        }
+    ],
+    "pub_date": "1998-02-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e5798eb7c8105d7309b8",
+    "word_count": 141,
+    "slideshow_credits": null
+}

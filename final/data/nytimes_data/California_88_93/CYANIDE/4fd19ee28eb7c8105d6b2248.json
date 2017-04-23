@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/27/opinion/should-state-executions-run-on-schedule.html",
+    "snippet": "\"Treason to the Constitution\" is a strong charge. It was the phrase employed in 1821 in argument before Chief Justice John Marshall to describe a Federal court's failure to exercise its jurisdiction in a case properly brought before it. On Saturda...",
+    "lead_paragraph": "\"Treason to the Constitution\" is a strong charge. It was the phrase employed in 1821 in argument before Chief Justice John Marshall to describe a Federal court's failure to exercise its jurisdiction in a case properly brought before it. On Saturday evening, April 18, a courageous Federal judge, Marilyn Hall Patel, refused to commit treason to the Constitution and, in a suit brought under the Civil Rights Act, ordered a hearing on whether death by cyanide gas was cruel and unusual punishment prohibited by the Constitution. Her order also affected the execution of Robert Alton Harris, the condemned murderer scheduled to die on April 21. The state immediately appealed to my court, the Ninth Circuit. The established standards, built up over the years by the judiciary, are these: First, \"cruel and unusual\" means \"cruel and unusual\" in today's terms. Not even the most doctrinaire \"original intent\" jurist maintains that the determination is to be made as of 1791, when the Bill of Rights became part of the Constitution. Since Weems v. United States in 1909, we have been committed to an evolving standard of human decency.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Should State Executions Run on Schedule?"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CYANIDE"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        }
+    ],
+    "pub_date": "1992-04-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "John",
+                "middlename": "T.",
+                "lastname": "Noonan",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By John T. Noonan;"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd19ee28eb7c8105d6b2248",
+    "word_count": 710,
+    "slideshow_credits": null
+}

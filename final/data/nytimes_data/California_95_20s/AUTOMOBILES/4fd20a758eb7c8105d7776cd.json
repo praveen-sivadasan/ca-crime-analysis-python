@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/09/us/california-upholds-rule-for-pollutionless-car-by-03.html",
+    "snippet": "California regulators voted today to keep a rule requiring that 10 percent of cars offered for sale in the state starting in 2003 emit little or no pollution, a goal that the industry has said is unreachable.    The unanimous decision by the Calif...",
+    "lead_paragraph": "California regulators voted today to keep a rule requiring that 10 percent of cars offered for sale in the state starting in 2003 emit little or no pollution, a goal that the industry has said is unreachable. The unanimous decision by the California Air Resources Board, which regulates air pollution in the state, is expected to increase the number of electric cars on the road by a huge amount, not only in California but also in New York, Maine, Massachusetts and Vermont, which have opted to follow California pollution rules.",
+    "abstract": "California Air Resources Board votes unanimously to keep rule requiring that 10 percent of cars offered for sale in state starting in 2003 emit little or no pollution, goal industry says is unreachable; rule is expected to increase number of electric cars on road by huge amount in state and other states that have opted to follow California's pollution rules (M)",
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Upholds Rule For Pollutionless Car by '03"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC VEHICLES"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "2000-09-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20a758eb7c8105d7776cd",
+    "word_count": 698,
+    "slideshow_credits": null
+}

@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1993/01/06/us/california-is-preparing-for-two-new-storms.html",
+    "snippet": "California, still drying off from an unusually wet and snowy December, was bracing today for two more storms, which are expected to set off mud slides in canyons, flooding in low-lying areas and high waves along the coast.   A warning by the Natio...",
+    "lead_paragraph": "California, still drying off from an unusually wet and snowy December, was bracing today for two more storms, which are expected to set off mud slides in canyons, flooding in low-lying areas and high waves along the coast. A warning by the National Weather Service advised residents to monitor radio and television for emergency notices, and a winter storm watch was issued for the Sierra Nevada tonight.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Is Preparing for Two New Storms"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1993-01-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c8208eb7c8105d6fa711",
+    "word_count": 185,
+    "slideshow_credits": null
+}

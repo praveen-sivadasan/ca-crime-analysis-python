@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1989/02/07/us/officer-guilty-in-marine-death.html",
+    "snippet": "LEAD: A court-martial jury today convicted a Marine sergeant of negligence in the death of a Marine who was left behind after a military exercise in the California desert last August....",
+    "lead_paragraph": "LEAD: A court-martial jury today convicted a Marine sergeant of negligence in the death of a Marine who was left behind after a military exercise in the California desert last August.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Officer Guilty in Marine Death"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "TURNELL, THOMAS"
+        },
+        {
+            "name": "persons",
+            "value": "ROTHER, JASON J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MARINE CORPS"
+        },
+        {
+            "name": "subject",
+            "value": "COURTS-MARTIAL"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY PERSONNEL"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1989-02-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd182078eb7c8105d67ed5c",
+    "word_count": 411,
+    "slideshow_credits": null
+}

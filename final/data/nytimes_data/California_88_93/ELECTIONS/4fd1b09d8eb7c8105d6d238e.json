@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/24/us/ballot-becomes-a-burden-in-california.html",
+    "snippet": "LEAD: Like millions of California voters, Cyrus Chartres will not only vote for a new governor in November but will also decide whether he wants to create an elected environmental ''advocate'' for the state, limit the terms of state lawmakers, buy...",
+    "lead_paragraph": "LEAD: Like millions of California voters, Cyrus Chartres will not only vote for a new governor in November but will also decide whether he wants to create an elected environmental ''advocate'' for the state, limit the terms of state lawmakers, buy unlogged forests and allow the state to put out contracts for prison labor, just to mention a few of the choices on the ballot.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ballot Becomes a Burden in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "CALIFORNIA POLL"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-09-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b09d8eb7c8105d6d238e",
+    "word_count": 1429,
+    "slideshow_credits": null
+}

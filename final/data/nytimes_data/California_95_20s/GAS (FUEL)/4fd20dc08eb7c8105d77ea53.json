@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/15/automobiles/autos-on-friday-technology-cars-and-natural-gas-a-better-fit.html",
+    "snippet": "THE Dodge Charger design study, introduced by DaimlerChrysler last week at the North American International Auto Show here, looks like a modern rendition of the 1960's muscle car from which it got its name. Under its long hood, the Charger concept...",
+    "lead_paragraph": "THE Dodge Charger design study, introduced by DaimlerChrysler last week at the North American International Auto Show here, looks like a modern rendition of the 1960's muscle car from which it got its name. Under its long hood, the Charger concept car, like its predecessor, has a powerful V8 -- in this case, a supercharged 4.7-liter engine producing 325 horsepower. But instead of the gas-guzzling, pollution-belching engines of Chargers in the late 60's and early 70's, the show car has a superclean engine that runs on compressed natural gas, known as C.N.G. If the Charger were put into production, it would qualify as an ultra-low-emission vehicle in California.",
+    "abstract": "Dodge Charger design study by DaimlerChrylser looks like modern rendition of model from 1960's but features superclean engine that runs on compressed natural gas; if put into production, car would qualify as ultra-low-emission vehicle in California; chart of gas storage system developed by Applied Physic Laboratory at Johns Hopkins University; photo (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "AUTOS ON FRIDAY /Technology; Cars and Natural Gas: A Better Fit"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DAIMLERCHRYSLER"
+        },
+        {
+            "name": "organizations",
+            "value": "JOHNS HOPKINS UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1999-01-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Automobiles",
+    "section_name": "Automobiles",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michelle",
+                "rank": 1,
+                "lastname": "KREBS"
+            }
+        ],
+        "original": "By MICHELLE KREBS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20dc08eb7c8105d77ea53",
+    "word_count": 628,
+    "slideshow_credits": null
+}

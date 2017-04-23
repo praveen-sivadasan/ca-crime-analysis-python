@@ -1,0 +1,86 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/16/business/delivery-vans-in-fuels-test.html",
+    "snippet": "LEAD: The Federal Express Corporation said today that it had agreed to participate in what California officials said was the most comprehensive study yet of vehicles using less-polluting alternative fuels....",
+    "lead_paragraph": "LEAD: The Federal Express Corporation said today that it had agreed to participate in what California officials said was the most comprehensive study yet of vehicles using less-polluting alternative fuels.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Delivery Vans in Fuels Test"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL EXPRESS CORP"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "FUEL"
+        },
+        {
+            "name": "subject",
+            "value": "METHANOL"
+        },
+        {
+            "name": "subject",
+            "value": "ETHANOL"
+        },
+        {
+            "name": "subject",
+            "value": "LPG (LIQUEFIED PETROLEUM GAS)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC VEHICLES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOL"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "VANS"
+        }
+    ],
+    "pub_date": "1990-10-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c1088eb7c8105d6efd81",
+    "word_count": 238,
+    "slideshow_credits": null
+}

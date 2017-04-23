@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/04/us/bush-hails-clinton-speech.html",
+    "snippet": "Former President George Bush has praised his successor's speechmaking ability but differs with his stances on revamping health care.   In a speech on Saturday to the California Grocers Association, Mr. Bush said he came away impressed with Preside...",
+    "lead_paragraph": "Former President George Bush has praised his successor's speechmaking ability but differs with his stances on revamping health care. In a speech on Saturday to the California Grocers Association, Mr. Bush said he came away impressed with President Clinton's nationally televised address on health care.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Bush Hails Clinton Speech"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1993-10-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e9f18eb7c8105d73906e",
+    "word_count": 277,
+    "slideshow_credits": null
+}

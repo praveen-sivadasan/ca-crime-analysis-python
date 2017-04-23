@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1999/07/01/us/national-news-briefs-serial-killer-sentenced-to-death-in-california.html",
+    "snippet": "The serial killer Charles Ng was sentenced to death today for sexual tortures and murders in rural California in the mid-1980's....",
+    "lead_paragraph": "The serial killer Charles Ng was sentenced to death today for sexual tortures and murders in rural California in the mid-1980's.",
+    "abstract": "Serial killer Charles Ng is sentenced to death for sexual tortures and murders in rural California in the mid-1980's (S)",
+    "print_page": "17",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Serial Killer Sentenced To Death in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "NG, CHARLES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "SEX CRIMES"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "SERIAL MURDERS"
+        }
+    ],
+    "pub_date": "1999-07-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd2007e8eb7c8105d763b1b",
+    "word_count": "44",
+    "slideshow_credits": null
+}

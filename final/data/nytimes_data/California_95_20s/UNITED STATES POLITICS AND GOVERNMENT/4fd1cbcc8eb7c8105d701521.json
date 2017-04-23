@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1996/07/17/garden/at-lunch-with-arianna-huffington-a-phoenix-of-the-right-rises.html",
+    "snippet": "AN editor's phone call interrupts the post-deadline languor of Arianna Huffington, striving columnist and firebird of right-wing Republican polemics, at Coco Pazzo, the East Side restaurant, where she is lingering over caffe latte and the dregs of...",
+    "lead_paragraph": "AN editor's phone call interrupts the post-deadline languor of Arianna Huffington, striving columnist and firebird of right-wing Republican polemics, at Coco Pazzo, the East Side restaurant, where she is lingering over caffe latte and the dregs of her husband's failed 1994 race for the Senate. \"Michael's money is from the oil business,\" she says with a buoyant smile, discussing the breathtaking $28.3 million worth of his family fortune spent on the California campaign. \"You have dry wells in that business that are a lot more expensive than the Senate campaign,\" she adds with a twinkle of self-satire that only the resiliently rich may appreciate.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "AT LUNCH WITH: Arianna Huffington;A Phoenix of the Right Rises"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HUFFINGTON, ARIANNA STASSINOPOULOS"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+        },
+        {
+            "name": "persons",
+            "value": "HUFFINGTON, MICHAEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "CONSERVATISM (US POLITICS)"
+        }
+    ],
+    "pub_date": "1996-07-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden; Washington",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Francis",
+                "middlename": "X.",
+                "lastname": "CLINES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANCIS X. CLINES"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1cbcc8eb7c8105d701521",
+    "word_count": 1430,
+    "slideshow_credits": null
+}

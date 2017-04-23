@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/15/weekinreview/jan-8-14-el-nino-s-return-unrelenting-rains-punish-much-of-california.html",
+    "snippet": "California has long endured severe natural hazards -- earthquakes, wildfires, mudslides. This winter it is flooding, from the redwood country in the north to Malibu near Los Angeles, as a recurring Pacific weather phenomenon known as El Nino pushe...",
+    "lead_paragraph": "California has long endured severe natural hazards -- earthquakes, wildfires, mudslides. This winter it is flooding, from the redwood country in the north to Malibu near Los Angeles, as a recurring Pacific weather phenomenon known as El Nino pushes the jet stream out of its normal position and steers storm after storm toward the state. By the weekend, state officials said that the storms had caused $200 million in damage and that at least 11 people had died. Rock slides had closed the coastal highway in Sonoma County, and state emergency officials said 3,000 people and been forced from their homes. Some 34 counties were declared disaster areas by the Federal Government.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Jan. 8-14: El Nino's Return; Unrelenting Rains Punish Much of California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "EL NINO (PACIFIC OCEAN CURRENT)"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-01-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By MARC D. CHARNEY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c5268eb7c8105d6f54fb",
+    "word_count": 160,
+    "slideshow_credits": null
+}

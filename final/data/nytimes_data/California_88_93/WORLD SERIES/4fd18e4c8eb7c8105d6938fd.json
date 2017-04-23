@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/27/sports/world-series-stewart-finds-solace-in-disaster-rescue.html",
+    "snippet": "LEAD: In the fitful hours that passed after the earthquake, when he was back home and trying to regain a sense of security, Dave Stewart could not sleep....",
+    "lead_paragraph": "LEAD: In the fitful hours that passed after the earthquake, when he was back home and trying to regain a sense of security, Dave Stewart could not sleep.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Stewart Finds Solace In Disaster Rescue",
+        "kicker": "WORLD SERIES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "STEWART, DAVE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "OAKLAND ATHLETICS"
+        },
+        {
+            "name": "subject",
+            "value": "BASEBALL"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "WORLD SERIES"
+        }
+    ],
+    "pub_date": "1989-10-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "MARTINEZ"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL MARTINEZ, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e4c8eb7c8105d6938fd",
+    "word_count": 767,
+    "slideshow_credits": null
+}

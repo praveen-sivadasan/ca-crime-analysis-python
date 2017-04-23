@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1996/11/16/us/law-on-repetitive-motion-injury-is-approved.html",
+    "snippet": "After years of debate, California regulators approved on Thursday the nation's first law intended to curb the growing problem of repetitive motion injuries at work.    The law is a narrow, measured step, reflecting the heated politics and complex ...",
+    "lead_paragraph": "After years of debate, California regulators approved on Thursday the nation's first law intended to curb the growing problem of repetitive motion injuries at work. The law is a narrow, measured step, reflecting the heated politics and complex science surrounding the field of ergonomics, a discipline that tries to design jobs and tools to fit the physical limits of workers. Labor organizations as well as employer groups said they planned to challenge the California regulations.",
+    "abstract": "California regulators approve nation's first law intended to curb growing problem of repetitive motion injuries at work; law is narrow, measured step, reflecting heated politics and complex science surrounding field of ergonomics; labor organizations as well as employer groups say they plan to challenge new regulation; on Federal level, Occupational Safety and Health Administration has been working since 1990 to develop ergonomic standard to protect workers; it has been prevented from moving ahead with rule-writing effort because of pressure from business lobbyists and conservative Republicans in Congress (M)",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Law on Repetitive Motion Injury Is Approved"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR UNIONS"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "LOBBYING AND LOBBYISTS"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRIAL AND OCCUPATIONAL HAZARDS"
+        },
+        {
+            "name": "subject",
+            "value": "REPETITIVE MOTION DISORDERS"
+        }
+    ],
+    "pub_date": "1996-11-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Steve",
+                "rank": 1,
+                "lastname": "LOHR"
+            }
+        ],
+        "original": "By STEVE LOHR"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f5e68eb7c8105d74fee4",
+    "word_count": 785,
+    "slideshow_credits": null
+}

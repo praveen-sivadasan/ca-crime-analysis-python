@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1996/02/18/us/edmund-g-brown-is-dead-at-90-he-led-california-in-boom-years.html",
+    "snippet": "Edmund G. (Pat) Brown, the former Governor of California who fathered the state's modern economic boom with expansive government programs to build freeways, vast water systems and public universities open to all at low cost, died on Friday at his ...",
+    "lead_paragraph": "Edmund G. (Pat) Brown, the former Governor of California who fathered the state's modern economic boom with expansive government programs to build freeways, vast water systems and public universities open to all at low cost, died on Friday at his home here. He was 90. Mr. Brown died of a heart attack, but had been ill for some time, said a granddaughter, Kathleen Kelly.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Edmund G. Brown Is Dead at 90; He Led California in Boom Years"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "DEATHS"
+        }
+    ],
+    "pub_date": "1996-02-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.; Obituaries",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "Obituary; Biography",
+    "_id": "4fd1f0278eb7c8105d745cac",
+    "word_count": 1661,
+    "slideshow_credits": null
+}

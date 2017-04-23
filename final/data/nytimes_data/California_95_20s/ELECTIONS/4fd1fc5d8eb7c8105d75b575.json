@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1997/08/23/opinion/l-actor-isn-t-running-753491.html",
+    "snippet": "To the Editor:    How sad it is that Maureen Dowd seems so consumed with creating heat at the expense of shedding light. For the record, her Aug. 20 column is erroneous. It is made up of the kind of half-truths and speculation that people all too ...",
+    "lead_paragraph": "To the Editor: How sad it is that Maureen Dowd seems so consumed with creating heat at the expense of shedding light. For the record, her Aug. 20 column is erroneous. It is made up of the kind of half-truths and speculation that people all too often assume are only the province of the supermarket tabloids.",
+    "abstract": "Tom Selleck letter says he has no plans of running for political office, as Maureen Dowd suggests in her Aug 20 column (S)",
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Actor Isn't Running"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DOWD, MAUREEN"
+        },
+        {
+            "name": "persons",
+            "value": "SELLECK, TOM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1997-08-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd1fc5d8eb7c8105d75b575",
+    "word_count": 97,
+    "slideshow_credits": null
+}

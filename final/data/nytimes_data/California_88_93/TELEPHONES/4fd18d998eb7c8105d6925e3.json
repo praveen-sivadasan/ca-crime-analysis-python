@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/18/business/company-news-phone-rate-proposal.html",
+    "snippet": "LEAD: The California Public Utilities Commission, in part of a nationwide trend toward telephone deregulation, today proposed loosening controls on local telephone rates in the state....",
+    "lead_paragraph": "LEAD: The California Public Utilities Commission, in part of a nationwide trend toward telephone deregulation, today proposed loosening controls on local telephone rates in the state.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Phone-Rate Proposal",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "PROFITS (INDUSTRY-WIDE)"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1989-08-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18d998eb7c8105d6925e3",
+    "word_count": 263,
+    "slideshow_credits": null
+}

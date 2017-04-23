@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/06/16/us/after-weeks-delay-gov-wilson-finally-makes-it-official-he-s-seeking-presidency.html",
+    "snippet": "After weeks of delaying his declaration of candidacy for the Republican Presidential nomination, Gov. Pete Wilson of California said today that indeed, he was running.   At his campaign headquarters in Sacramento, Mr. Wilson and his aides unfurled...",
+    "lead_paragraph": "After weeks of delaying his declaration of candidacy for the Republican Presidential nomination, Gov. Pete Wilson of California said today that indeed, he was running. At his campaign headquarters in Sacramento, Mr. Wilson and his aides unfurled a \"Pete Wilson for President\" banner over another one saying \"Pete Wilson for President Exploratory Committee.\"",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "After Weeks of Delay, Gov. Wilson Finally Makes It Official: He's Seeking Presidency"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1995-06-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "L.",
+                "lastname": "BERKE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD L. BERKE"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1cc768eb7c8105d7030c1",
+    "word_count": 851,
+    "slideshow_credits": null
+}

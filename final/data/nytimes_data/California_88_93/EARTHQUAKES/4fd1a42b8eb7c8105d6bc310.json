@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1993/02/27/us/a-jarring-echo-of-orson-welles.html",
+    "snippet": "A university radio station broadcast a \"War of the Worlds\"-style report of a major earthquake in California on Thursday, but the program was stopped after 20 minutes because of the reaction of shaken listeners.   The broadcast reported that a majo...",
+    "lead_paragraph": "A university radio station broadcast a \"War of the Worlds\"-style report of a major earthquake in California on Thursday, but the program was stopped after 20 minutes because of the reaction of shaken listeners. The broadcast reported that a major quake in Los Angeles had killed thousands of people and caused huge fires, floods and mudslides. It was intended to increase earthquake awareness, said Roger Takacs, the student who created the fictional program for radio station KZSC at the University of California at Santa Cruz.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "A Jarring Echo of Orson Welles"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HOAXES"
+        },
+        {
+            "name": "subject",
+            "value": "RADIO"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1993-02-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a42b8eb7c8105d6bc310",
+    "word_count": 194,
+    "slideshow_credits": null
+}

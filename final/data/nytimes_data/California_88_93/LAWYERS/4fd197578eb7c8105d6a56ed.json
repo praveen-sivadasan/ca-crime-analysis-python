@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/03/style/chronicle-711490.html",
+    "snippet": "LEAD: MARVIN MITCHELSON, the celebrity divorce lawyer, has conceded misconduct in seven allegations involving client relations, but the California bar has dismissed more serious charges involving misappropriation of funds....",
+    "lead_paragraph": "LEAD: MARVIN MITCHELSON, the celebrity divorce lawyer, has conceded misconduct in seven allegations involving client relations, but the California bar has dismissed more serious charges involving misappropriation of funds.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Chronicle"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CHRONICLE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "MITCHELSON, MARVIN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "STATE BAR OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LAWYERS"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGAL PROFESSION"
+        }
+    ],
+    "pub_date": "1990-05-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Robert",
+                "middlename": "E.",
+                "lastname": "TOMASSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By ROBERT E. TOMASSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197578eb7c8105d6a56ed",
+    "word_count": 170,
+    "slideshow_credits": null
+}

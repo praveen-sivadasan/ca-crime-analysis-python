@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/07/us/white-house-draws-the-ire-of-base-panel.html",
+    "snippet": "Only 800 jobs, and not the thousands cited by some Clinton Administration officials, are at issue in one Pentagon proposal on how the White House could respond to an independent commission's recommendation that an Air Force base in California be c...",
+    "lead_paragraph": "Only 800 jobs, and not the thousands cited by some Clinton Administration officials, are at issue in one Pentagon proposal on how the White House could respond to an independent commission's recommendation that an Air Force base in California be closed, members and aides of the commission said today. The reason, they said, is that the commission's recommendation already gives the Defense Department the authority to keep in California more than 10,000 of the 11,000 jobs now at the post, McClellan Air Force Base near Sacramento, by awarding work done there to private companies within the state. So no intervention by President Clinton is needed to save those jobs, said members of the independent panel, the Defense Base Closure and Realignment Commission.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "White House Draws the Ire Of Base Panel"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEFENSE BASE CLOSURE AND REALIGNMENT COMMISSION"
+        },
+        {
+            "name": "subject",
+            "value": "DEFENSE CONTRACTS"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "MCCLELLAN AIR FORCE BASE (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1995-07-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 1,
+                "lastname": "SCHMITT"
+            }
+        ],
+        "original": "By ERIC SCHMITT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd201498eb7c8105d7652ef",
+    "word_count": 697,
+    "slideshow_credits": null
+}

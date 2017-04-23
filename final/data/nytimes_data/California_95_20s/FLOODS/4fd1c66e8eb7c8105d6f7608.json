@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/13/us/break-in-rain-lets-evacuees-return-home.html",
+    "snippet": "People forced from homes and businesses in the floods that have inundated wide areas of the state began returning today to assess the damage, using a break between storm fronts to begin thinking of recovery from the devastating rains.   Gov. Pete ...",
+    "lead_paragraph": "People forced from homes and businesses in the floods that have inundated wide areas of the state began returning today to assess the damage, using a break between storm fronts to begin thinking of recovery from the devastating rains. Gov. Pete Wilson declared a state of emergency for 10 more counties, bringing the total to 34, as a result of nine days of powerful storms. President Clinton issued a a Federal declaration of disaster for 24 of those counties on Tuesday, making owners of homes and businesses eligible for low-interest loans and other relief. Mr. President Clinton will visit California on Monday night and Tuesday.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Break in Rain Lets Evacuees Return Home"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-01-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c66e8eb7c8105d6f7608",
+    "word_count": 751,
+    "slideshow_credits": null
+}

@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/22/sports/notebook-expansion-gets-a-bit-of-a-setback.html",
+    "snippet": "LEAD: The National Hockey League hopes to expand by seven teams in this decade, but its gradually growing image of stability has been shaken recently by the Minnesota North Stars' threat to move to northern California....",
+    "lead_paragraph": "LEAD: The National Hockey League hopes to expand by seven teams in this decade, but its gradually growing image of stability has been shaken recently by the Minnesota North Stars' threat to move to northern California.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Expansion Gets a Bit of a Setback",
+        "kicker": "NOTEBOOK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL HOCKEY LEAGUE"
+        },
+        {
+            "name": "organizations",
+            "value": "MINNESOTA NORTH STARS"
+        },
+        {
+            "name": "subject",
+            "value": "RELOCATION OF BUSINESS"
+        },
+        {
+            "name": "subject",
+            "value": "HOCKEY, ICE"
+        }
+    ],
+    "pub_date": "1990-02-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Joe",
+                "rank": 1,
+                "lastname": "LAPOINTE"
+            }
+        ],
+        "original": "By JOE LAPOINTE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1acfd8eb7c8105d6cce64",
+    "word_count": 868,
+    "slideshow_credits": null
+}

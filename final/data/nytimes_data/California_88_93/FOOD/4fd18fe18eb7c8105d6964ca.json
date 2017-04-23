@@ -1,0 +1,89 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/11/us/california-alliance-proposes-vote-on-broad-environmental-measure.html",
+    "snippet": "LEAD: In a move that has as much to do with California politics as the environment, an alliance of politicians and environmentalists today offered a ballot measure that they called the broadest effort ever mounted to protect air, food and water ag...",
+    "lead_paragraph": "LEAD: In a move that has as much to do with California politics as the environment, an alliance of politicians and environmentalists today offered a ballot measure that they called the broadest effort ever mounted to protect air, food and water against chemical contamination.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Alliance Proposes Vote On Broad Environmental Measure"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WATER POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "CHEMICALS"
+        },
+        {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1989-10-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18fe18eb7c8105d6964ca",
+    "word_count": 1432,
+    "slideshow_credits": null
+}

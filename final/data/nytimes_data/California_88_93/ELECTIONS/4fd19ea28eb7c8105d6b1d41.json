@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/04/us/the-1990-campaign-at-end-more-pressure-on-feinstein.html",
+    "snippet": "They were the kind of voters Dianne Feinstein had to motivate to win, elderly Mexican-Americans at the Casa Ramona Community Center here amid the vast suburbs east of Los Angeles. \"I need your help -- we need to mobilize our vote,\" the Democratic ...",
+    "lead_paragraph": "They were the kind of voters Dianne Feinstein had to motivate to win, elderly Mexican-Americans at the Casa Ramona Community Center here amid the vast suburbs east of Los Angeles. \"I need your help -- we need to mobilize our vote,\" the Democratic candidate urged them on Friday, after a lunch of tamales, beans and rice. But as the heated race for governor of California nears an end, the newest opinion polls carry ominous signs for Ms. Feinstein in her battle against Senator Pete Wilson.",
+    "abstract": null,
+    "print_page": "36",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "At End, More Pressure on Feinstein",
+        "kicker": "THE 1990 CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-11-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19ea28eb7c8105d6b1d41",
+    "word_count": 1178,
+    "slideshow_credits": null
+}

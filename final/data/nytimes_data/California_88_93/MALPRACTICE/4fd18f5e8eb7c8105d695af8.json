@@ -1,0 +1,81 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/24/us/justices-dismiss-suit-over-clergy.html",
+    "snippet": "LEAD: In a case that had prompted national alarm among church leaders, the California Supreme Court held today that neither the clergy nor others unlicensed as counselors or therapists could be held legally liable for failing to provide proper car...",
+    "lead_paragraph": "LEAD: In a case that had prompted national alarm among church leaders, the California Supreme Court held today that neither the clergy nor others unlicensed as counselors or therapists could be held legally liable for failing to provide proper care for the people they advise.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "JUSTICES DISMISS SUIT OVER CLERGY"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "NALLY, KENNETH"
+        },
+        {
+            "name": "persons",
+            "value": "LUCAS, MALCOLM M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GRACE COMMUNITY CHURCH OF THE VALLEY"
+        },
+        {
+            "name": "subject",
+            "value": "LICENSES"
+        },
+        {
+            "name": "subject",
+            "value": "MALPRACTICE"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "RELIGION AND CHURCHES"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1988-11-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18f5e8eb7c8105d695af8",
+    "word_count": 1234,
+    "slideshow_credits": null
+}

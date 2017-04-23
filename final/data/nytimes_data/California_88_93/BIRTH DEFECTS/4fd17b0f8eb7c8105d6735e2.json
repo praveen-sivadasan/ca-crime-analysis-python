@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/10/garden/out-of-the-west-food-safety.html",
+    "snippet": "LEAD: CALIFORNIANS, never shy about taking the lead in social trends, are now shaking up the food industry:...",
+    "lead_paragraph": "LEAD: CALIFORNIANS, never shy about taking the lead in social trends, are now shaking up the food industry:",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Out of the West: Food Safety"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WARRINER, THOMAS E"
+        },
+        {
+            "name": "persons",
+            "value": "ROE, DAVID B"
+        },
+        {
+            "name": "persons",
+            "value": "GARDNER, SHERWIN"
+        },
+        {
+            "name": "persons",
+            "value": "CARRICK, ROGER L"
+        },
+        {
+            "name": "persons",
+            "value": "REINHOLD, ROBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GROCERY MANUFACTURERS OF AMERICA"
+        },
+        {
+            "name": "subject",
+            "value": "BIRTH DEFECTS"
+        },
+        {
+            "name": "subject",
+            "value": "LABELS AND LABELING"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD ADDITIVES"
+        }
+    ],
+    "pub_date": "1988-08-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd17b0f8eb7c8105d6735e2",
+    "word_count": 1993,
+    "slideshow_credits": null
+}

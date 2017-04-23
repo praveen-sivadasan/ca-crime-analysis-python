@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1999/10/03/us/gore-effort-is-encouraged-by-support-from-union.html",
+    "snippet": "In the first good news for his campaign in some time, Vice President Al Gore today received the support of a major health care workers union local.    In a head-to-head straw poll, Mr. Gore beat former Senator Bill Bradley, 55 percent to 38 percen...",
+    "lead_paragraph": "In the first good news for his campaign in some time, Vice President Al Gore today received the support of a major health care workers union local. In a head-to-head straw poll, Mr. Gore beat former Senator Bill Bradley, 55 percent to 38 percent, for the endorsement of Local 250 of the Health Care Workers Union of the Service Employees International Union.",
+    "abstract": "gore ef",
+    "print_page": "36",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Gore Effort Is Encouraged By Support From Union"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "persons",
+            "value": "BRADLEY, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEALTH CARE WORKERS UNION"
+        },
+        {
+            "name": "subject",
+            "value": "ENDORSEMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "1999-10-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Katharine",
+                "middlename": "Q.",
+                "lastname": "SEELYE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KATHARINE Q. SEELYE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd201718eb7c8105d765f2e",
+    "word_count": 794,
+    "slideshow_credits": null
+}

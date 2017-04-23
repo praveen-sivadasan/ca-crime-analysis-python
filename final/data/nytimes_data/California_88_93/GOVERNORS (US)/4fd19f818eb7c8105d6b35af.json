@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/20/us/candidate-tries-to-unblur-his-image.html",
+    "snippet": "LEAD: In the campaign for the Democratic nomination for governor of the most populous state, Attorney General John K. Van de Kamp of California is a politician of paradoxes....",
+    "lead_paragraph": "LEAD: In the campaign for the Democratic nomination for governor of the most populous state, Attorney General John K. Van de Kamp of California is a politician of paradoxes.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Candidate Tries to Unblur His Image"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-05-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f818eb7c8105d6b35af",
+    "word_count": 1751,
+    "slideshow_credits": null
+}

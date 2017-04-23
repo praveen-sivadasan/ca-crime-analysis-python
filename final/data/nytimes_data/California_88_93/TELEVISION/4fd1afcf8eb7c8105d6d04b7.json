@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/10/business/the-media-business-cbs-affiliate-in-california-plans-earlier-prime-time.html",
+    "snippet": "The CBS television affiliate in San Francisco, KPIX-TV, yesterday became the second West Coast television station to decide to move its network prime-time programs to 7 P.M. each night from 8 P.M.   The decision may lead even more stations in the ...",
+    "lead_paragraph": "The CBS television affiliate in San Francisco, KPIX-TV, yesterday became the second West Coast television station to decide to move its network prime-time programs to 7 P.M. each night from 8 P.M. The decision may lead even more stations in the West to change their hours of prime time. One or more of KPIX's competitors among network affiliates in San Francsico may adopt a similar policy, the manager of KPIX said yesterday.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CBS Affiliate in California Plans Earlier Prime Time",
+        "kicker": "THE MEDIA BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KPIX-TV"
+        },
+        {
+            "name": "organizations",
+            "value": "CBS INC"
+        },
+        {
+            "name": "subject",
+            "value": "STATIONS AND NETWORKS"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "SCHEDULES AND TIMETABLES"
+        }
+    ],
+    "pub_date": "1991-12-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bill",
+                "rank": 1,
+                "lastname": "CARTER"
+            }
+        ],
+        "original": "By BILL CARTER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1afcf8eb7c8105d6d04b7",
+    "word_count": 448,
+    "slideshow_credits": null
+}

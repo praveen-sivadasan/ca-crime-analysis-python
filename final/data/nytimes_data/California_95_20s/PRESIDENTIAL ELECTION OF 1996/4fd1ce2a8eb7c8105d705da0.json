@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1995/07/04/us/military-officials-seek-way-to-save-jobs-in-california.html",
+    "snippet": "Pentagon officials have crafted a plan with members of the independent commission on the closing of military bases that they hope will save thousands of jobs at a California Air Force base and political face for President Clinton.   After intense ...",
+    "lead_paragraph": "Pentagon officials have crafted a plan with members of the independent commission on the closing of military bases that they hope will save thousands of jobs at a California Air Force base and political face for President Clinton. After intense negotiations over the weekend involving the commission, the military and the White House, the Pentagon is preparing to recommend that the President reject the panel's suggestion that 11,000 jobs at McClellan Air Force Base be transferred out of state.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "MILITARY OFFICIALS SEEK WAY TO SAVE JOBS IN CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "MCCLELLAN AIR FORCE BASE (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1995-07-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Eric",
+                "rank": 1,
+                "lastname": "SCHMITT"
+            }
+        ],
+        "original": "By ERIC SCHMITT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ce2a8eb7c8105d705da0",
+    "word_count": 955,
+    "slideshow_credits": null
+}

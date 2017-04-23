@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/01/13/us/curb-on-news-copters-urged.html",
+    "snippet": "LEAD: The National Transportation Safety Board is calling for tighter curbs on the use of helicopters by the news media at accident scenes, saying that they often interfere with rescue or cleanup operations....",
+    "lead_paragraph": "LEAD: The National Transportation Safety Board is calling for tighter curbs on the use of helicopters by the news media at accident scenes, saying that they often interfere with rescue or cleanup operations.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Curb on News Copters Urged"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL AVIATION ADMINISTRATION"
+        },
+        {
+            "name": "organizations",
+            "value": "TRANSPORTATION SAFETY BOARD, NATIONAL"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "RESCUES"
+        },
+        {
+            "name": "subject",
+            "value": "NAVIES"
+        },
+        {
+            "name": "subject",
+            "value": "HELICOPTERS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1988-01-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd175d48eb7c8105d66b64d",
+    "word_count": 215,
+    "slideshow_credits": null
+}

@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/09/us/conflicting-votes-on-election-funds-set-stage-for-confusion-in-california.html",
+    "snippet": "LEAD: In an act of political will that had politicians and lawyers scratching their heads in confusion today, California voters on Tuesday approved two conflicting proposals on financing political campaigns....",
+    "lead_paragraph": "LEAD: In an act of political will that had politicians and lawyers scratching their heads in confusion today, California voters on Tuesday approved two conflicting proposals on financing political campaigns.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Conflicting Votes on Election Funds Set Stage for Confusion in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-06-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17a148eb7c8105d671ea7",
+    "word_count": 948,
+    "slideshow_credits": null
+}

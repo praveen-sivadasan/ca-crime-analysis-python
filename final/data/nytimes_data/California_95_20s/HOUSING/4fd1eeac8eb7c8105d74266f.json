@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1997/01/26/business/l-the-irs-is-watching-342793.html",
+    "snippet": "To the Editor:    Re ''I.R.S. Is Getting a Look at Some Mortgage Applications'' (Spending It, Dec. 29), and ''How to Whip the Bullies on the Mortgage Playground'' (From the Desk Of, Dec. 29):...",
+    "lead_paragraph": "To the Editor: Re ''I.R.S. Is Getting a Look at Some Mortgage Applications'' (Spending It, Dec. 29), and ''How to Whip the Bullies on the Mortgage Playground'' (From the Desk Of, Dec. 29):",
+    "abstract": "Letter by William K Klein on Dec 29 article on how big mortgage lenders in California are working with Internal Revenue Service to verify incomes of certain mortgage applicants; questions what has happened to right of privacy (S)",
+    "print_page": "38",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The I.R.S. Is Watching"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KLEIN, WILLIAM K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERNAL REVENUE SERVICE"
+        },
+        {
+            "name": "subject",
+            "value": "MORTGAGES"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVACY, RIGHT OF"
+        }
+    ],
+    "pub_date": "1997-01-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Money and Business/Financial Desk",
+    "section_name": "Business; Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd1eeac8eb7c8105d74266f",
+    "word_count": 200,
+    "slideshow_credits": null
+}

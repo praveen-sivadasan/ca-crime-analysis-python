@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1998/01/21/business/kpmg-settling-suit-by-teachers-in-california.html",
+    "snippet": "KPMG Peat Marwick agreed yesterday to settle a class-action lawsuit filed on behalf of some 20,000 California teachers who contended that the accounting firm was not independent when it audited the financial books of real estate partnerships that ...",
+    "lead_paragraph": "KPMG Peat Marwick agreed yesterday to settle a class-action lawsuit filed on behalf of some 20,000 California teachers who contended that the accounting firm was not independent when it audited the financial books of real estate partnerships that the teachers had invested in. KPMG and another defendant in the case, Comerica Inc. a banking company, agreed to pay the teachers $14 million, according to a settlement agreement filed in Orange County Superior Court. For its part, KPMG will pay ''something less than $10 million,'' said a lawyer for the firm.",
+    "abstract": "KPMG Peat Marwick agrees to settle class-action lawsuit filed on behalf of some 20,000 California teachers who contended that accounting firm was not independent when it audited financial books of real estate partnerships that teachers had invested in; KPMG and another defendant in case, Comerica Inc, a banking company, agree to pay teachers $14 million; KPMG will pay something less than $10 million; neither firm nor bank admit any fault; teachers estimate their losses at $100 million (L)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "KPMG Settling Suit by Teachers In California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TEACHERS MANAGEMENT AND INVESTMENT CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "KPMG PEAT MARWICK"
+        },
+        {
+            "name": "organizations",
+            "value": "COMERICA INC"
+        },
+        {
+            "name": "subject",
+            "value": "ACCOUNTING AND ACCOUNTANTS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1998-01-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Education; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Melody",
+                "rank": 1,
+                "lastname": "PETERSEN"
+            }
+        ],
+        "original": "By MELODY PETERSEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e3568eb7c8105d72d0f1",
+    "word_count": 704,
+    "slideshow_credits": null
+}

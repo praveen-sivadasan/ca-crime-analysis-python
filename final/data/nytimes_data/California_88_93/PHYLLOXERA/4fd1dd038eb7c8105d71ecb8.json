@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/12/garden/wine-talk-872592.html",
+    "snippet": "TWO years ago, when we last took a look at California's battle with the phylloxera bug, the experts were predicting that replanting diseased vines in the Napa Valley alone could eventually cost $250 million. Now they've doubled that figure for the...",
+    "lead_paragraph": "TWO years ago, when we last took a look at California's battle with the phylloxera bug, the experts were predicting that replanting diseased vines in the Napa Valley alone could eventually cost $250 million. Now they've doubled that figure for the Napa region and are talking about replacing 150,000 acres of vines in Napa and Sonoma counties at a total cost of $1 billion Should the infestation spread elsewhere, the cost could go higher. Already, traces of phylloxera are in Washington State's vineyards.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "PHYLLOXERA"
+        }
+    ],
+    "pub_date": "1992-08-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dd038eb7c8105d71ecb8",
+    "word_count": 1242,
+    "slideshow_credits": null
+}

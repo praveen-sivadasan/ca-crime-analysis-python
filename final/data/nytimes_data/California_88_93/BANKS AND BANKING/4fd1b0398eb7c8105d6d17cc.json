@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/04/business/a-new-plan-to-buy-s-l-s.html",
+    "snippet": "Postmaster General Anthony M. Frank and Kohlberg, Kravis, Roberts & Company, the Wall Street buyout firm, are considering a plan to take over several troubled California savings and loans financed by private money and Government assistance.   If s...",
+    "lead_paragraph": "Postmaster General Anthony M. Frank and Kohlberg, Kravis, Roberts & Company, the Wall Street buyout firm, are considering a plan to take over several troubled California savings and loans financed by private money and Government assistance. If such a deal can be put together, Mr. Frank presumably would leave the Postal Service to run the institutions. He said he had no immediate plans to leave but added that he had served longer than his three predecessors and did not rule out a return to the savings industry.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A New Plan to Buy S.& L.'s."
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FRANK, ANTHONY M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KOHLBERG KRAVIS ROBERTS & CO"
+        },
+        {
+            "name": "organizations",
+            "value": "POSTAL SERVICE, US"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1991-07-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b0398eb7c8105d6d17cc",
+    "word_count": 246,
+    "slideshow_credits": null
+}

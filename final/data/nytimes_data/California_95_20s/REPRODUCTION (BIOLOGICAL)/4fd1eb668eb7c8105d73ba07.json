@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1995/09/22/us/fertility-doctors-records-seized.html",
+    "snippet": "Federal and state agents have seized the records of fertility doctors who are accused of taking patients' eggs and implanting them in other women without consent.   Investigators from the Federal Bureau of Investigation, the Internal Revenue Servi...",
+    "lead_paragraph": "Federal and state agents have seized the records of fertility doctors who are accused of taking patients' eggs and implanting them in other women without consent. Investigators from the Federal Bureau of Investigation, the Internal Revenue Service and other agencies served warrants on Tuesday at the offices of Dr. Ricardo H. Asch in Laguna Hills and Santa Ana and at his home in Newport Beach. They also seized records from his partners, Dr. Jose Balmaceda and Dr. Sergio Stone, and the doctors' bookkeeper.",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Fertility Doctors' Records Seized"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ASCH, RICARDO"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REPRODUCTION (BIOLOGICAL)"
+        }
+    ],
+    "pub_date": "1995-09-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1eb668eb7c8105d73ba07",
+    "word_count": 246,
+    "slideshow_credits": null
+}

@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/04/opinion/in-the-nation-vive-la-difference.html",
+    "snippet": "LEAD: Former Mayor Dianne Feinstein of San Francisco may win Tuesday's Democratic gubernatorial primary and could even become governor of California, one political buff suggests, because ''she's the only candidate in the race who can dress in red....",
+    "lead_paragraph": "LEAD: Former Mayor Dianne Feinstein of San Francisco may win Tuesday's Democratic gubernatorial primary and could even become governor of California, one political buff suggests, because ''she's the only candidate in the race who can dress in red.''",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Vive la Difference?",
+        "kicker": "IN THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-06-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tom",
+                "rank": 1,
+                "lastname": "Wicker"
+            }
+        ],
+        "original": "By Tom Wicker"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1aef38eb7c8105d6ceb0b",
+    "word_count": 800,
+    "slideshow_credits": null
+}

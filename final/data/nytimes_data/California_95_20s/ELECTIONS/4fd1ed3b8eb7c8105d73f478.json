@@ -1,0 +1,79 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/20/us/focus-shifts-to-contests-in-the-house.html",
+    "snippet": "When Mayor Willie Brown of San Francisco, the wily survivor of dozens of electoral contests, heard the other day that Bob Dole had decided to campaign extensively in California despite the long odds against him here, he knew it could mean only one...",
+    "lead_paragraph": "When Mayor Willie Brown of San Francisco, the wily survivor of dozens of electoral contests, heard the other day that Bob Dole had decided to campaign extensively in California despite the long odds against him here, he knew it could mean only one thing. ''They've decided,'' he said, ''that the best they can do now is concentrate their resources on the House races to save as many seats as they possibly can.''",
+    "abstract": "Bob Dole's decision to concentrate on California in last days of Presidential race, despite long odds against him, is viewed as effort to save as many Republican House seats as possible; wily observer Willy Brown offers that assessment, as do dozens of other politicians of both parties; review of Congressional races around California; at least ten of California's 52 House seats are up for grabs and candidates are pouring millions of dollars into campaigns; Democratic Repr Vic Fazio and Republican Robert K Dornan are two veterans in tight races (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Focus Shifts To Contests In the House",
+        "kicker": "POLITICS: STATE BY STATE -- CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FAZIO, VIC"
+        },
+        {
+            "name": "persons",
+            "value": "DORNAN, ROBERT K"
+        },
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, WILLIE L JR"
+        },
+        {
+            "name": "glocations",
+            "value": "UNITED STATES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CONGRESS"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr",
+                "firstname": "R.",
+                "middlename": "W.",
+                "lastname": "APPLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By R. W. APPLE Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ed3b8eb7c8105d73f478",
+    "word_count": 1571,
+    "slideshow_credits": null
+}

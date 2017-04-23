@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/05/us/rose-bird-a-commentator.html",
+    "snippet": "LEAD: Rose Bird, who was ousted by the voters as California's Chief Justice, will become a commentator for television stations KABC in Los Angeles and KGO in San Francisco, which are owned by Capital Cities/ABC Inc. Ms. Bird will begin work within...",
+    "lead_paragraph": "LEAD: Rose Bird, who was ousted by the voters as California's Chief Justice, will become a commentator for television stations KABC in Los Angeles and KGO in San Francisco, which are owned by Capital Cities/ABC Inc. Ms. Bird will begin work within the next few days, a spokesman for KABC said.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rose Bird a Commentator"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BIRD, ROSE ELIZABETH"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "JUDGES"
+        },
+        {
+            "name": "subject",
+            "value": "COURTS"
+        }
+    ],
+    "pub_date": "1988-02-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1854e8eb7c8105d68454e",
+    "word_count": 101,
+    "slideshow_credits": null
+}

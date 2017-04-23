@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/29/business/california-acts-on-2-insurers.html",
+    "snippet": "LEAD: California's Insurance Commissioner, Roxani M. Gillespie, today ordered two of the state's largest auto insurers to stop their practice of writing new policies exclusively under costly high-risk plans....",
+    "lead_paragraph": "LEAD: California's Insurance Commissioner, Roxani M. Gillespie, today ordered two of the state's largest auto insurers to stop their practice of writing new policies exclusively under costly high-risk plans.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Acts On 2 Insurers"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GILLESPIE, ROXANI M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "STATE FARM MUTUAL AUTOMOBILE INSURANCE CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SAFECO CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        }
+    ],
+    "pub_date": "1988-11-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17c808eb7c8105d675cd7",
+    "word_count": 130,
+    "slideshow_credits": null
+}

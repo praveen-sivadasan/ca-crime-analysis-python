@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1996/09/08/us/ex-klan-chief-stirs-storm-in-california.html",
+    "snippet": "A storm has erupted in California over an invitation to a former Ku Klux Klan leader, David Duke, to speak in favor of a November ballot proposition that would end the state's affirmative action programs benefiting women and minorities.    Gov. Pe...",
+    "lead_paragraph": "A storm has erupted in California over an invitation to a former Ku Klux Klan leader, David Duke, to speak in favor of a November ballot proposition that would end the state's affirmative action programs benefiting women and minorities. Gov. Pete Wilson, who supports the proposition, tried to distance himself from Mr. Duke on Thursday, saying the invitation was a sham and that the former Klan leader did not represent mainstream opposition to the affirmative action policies.",
+    "abstract": "California State University at Northridge student government has invited former Ku Klux Klan leader David Duke to speak in favor of ballot proposition to end state's affirmative action programs, invitation opposed by initiative sponsor; Gov Pete Wilson, who backs proposition, calls invitation sham and holds Duke does not represent mainstream opposition to affirmative action; Duke will debate Joe Hicks, civil rights aide (S)",
+    "print_page": "30",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Ex-Klan Chief Stirs Storm in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DUKE, DAVID"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "HICKS, JOE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KU KLUX KLAN"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA STATE UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1996-09-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ccc88eb7c8105d703235",
+    "word_count": 187,
+    "slideshow_credits": null
+}

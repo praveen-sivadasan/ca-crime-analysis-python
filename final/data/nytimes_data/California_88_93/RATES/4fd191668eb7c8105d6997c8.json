@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/20/business/company-news-rate-plan-approved-at-diablo-canyon-unit.html",
+    "snippet": "LEAD: Rate payers may have to absorb up to $4.5 billion of the $5.5 billion cost of building the Diablo Canyon nuclear power plant under a plan that was approved today by the California Public Utilties Commission and immediately attacked by consum...",
+    "lead_paragraph": "LEAD: Rate payers may have to absorb up to $4.5 billion of the $5.5 billion cost of building the Diablo Canyon nuclear power plant under a plan that was approved today by the California Public Utilties Commission and immediately attacked by consumer groups.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rate Plan Approved At Diablo Canyon Unit",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DIABLO CANYON ATOMIC POWER PLANT"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC GAS & ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "ATOMIC ENERGY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1988-12-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd191668eb7c8105d6997c8",
+    "word_count": 391,
+    "slideshow_credits": null
+}

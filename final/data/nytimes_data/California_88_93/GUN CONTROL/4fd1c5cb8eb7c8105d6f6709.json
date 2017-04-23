@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/02/us/california-rush-to-comply-with-firearms-law.html",
+    "snippet": "Strict new firearm regulations took effect in California today after a last-minute rush to meet a registration deadline for military-style semiautomatic weapons.    The laws ban the sale of 56 types of semiautomatic weapons and put into effect a 1...",
+    "lead_paragraph": "Strict new firearm regulations took effect in California today after a last-minute rush to meet a registration deadline for military-style semiautomatic weapons. The laws ban the sale of 56 types of semiautomatic weapons and put into effect a 15-day waiting period for the purchase of rifles and shotguns, a precaution that had previously applied only to handguns.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Rush to Comply With Firearms Law"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GUN CONTROL"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1991-01-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c5cb8eb7c8105d6f6709",
+    "word_count": 814,
+    "slideshow_credits": null
+}

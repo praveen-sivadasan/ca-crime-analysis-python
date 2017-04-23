@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/28/business/the-media-business-advertising-addenda-ground-zero-gets-antismoking-work.html",
+    "snippet": "The California Health Services Department named Ground Zero in Marina del Rey, Calif., to handle its tobacco education account. Billings were estimated at $125 million for the five-year contract.    Colleen Stevens, chief for the media campaign at...",
+    "lead_paragraph": "The California Health Services Department named Ground Zero in Marina del Rey, Calif., to handle its tobacco education account. Billings were estimated at $125 million for the five-year contract. Colleen Stevens, chief for the media campaign at the Department of Health Services tobacco control program, said the decision came after a three-month review that was narrowed to Ground Zero and one other finalist, Dailey & Associates in West Hollywood, Calif., part of the Interpublic Group of Companies. Other participants in the review included: DGWB in Irvine, Calif. and Goodby, Silverstein & Partners in San Francisco, part of the Omnicom Group.",
+    "abstract": "California Health Services Department names the ad agency Ground Zero to handle its tobacco education account (S)",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ground Zero Gets Antismoking Work",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GROUND ZERO"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING AND TOBACCO"
+        }
+    ],
+    "pub_date": "2000-08-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Patrick",
+                "rank": 1,
+                "lastname": "McGeehan"
+            }
+        ],
+        "original": "By Patrick McGeehan"
+    },
+    "type_of_material": "News",
+    "_id": "4fd217888eb7c8105d793015",
+    "word_count": 185,
+    "slideshow_credits": null
+}

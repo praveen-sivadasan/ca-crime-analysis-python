@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1996/05/30/us/farm-workers-sign-accord-with-lettuce-growers-ending-a-long-andbitter-conflict.html",
+    "snippet": "After nearly 18 years of supermarket boycotts, legal clashes and bitter conflicts in the fields, the United Farm Workers of America and one of the nation's top lettuce growers signed a work contract today, laying to rest one of the oldest American...",
+    "lead_paragraph": "After nearly 18 years of supermarket boycotts, legal clashes and bitter conflicts in the fields, the United Farm Workers of America and one of the nation's top lettuce growers signed a work contract today, laying to rest one of the oldest American farm labor disputes. Along with setting out the terms for five years of employment for more than 400 workers who pick Red Coach lettuce, mainly in the Salinas Valley, the agreement appeared to mark the passing of a generation of internecine farmer-laborer fights over California's bounty, labor analysts said.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Farm Workers Sign Accord With Lettuce Growers, Ending a Long andBitter Conflict"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNITED FARM WORKERS OF AMERICA UNITED FARM WORKERS OF AMERICA"
+        },
+        {
+            "name": "subject",
+            "value": "MIGRANT LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "CONTRACTS"
+        },
+        {
+            "name": "subject",
+            "value": "BOYCOTTS"
+        },
+        {
+            "name": "subject",
+            "value": "LETTUCE"
+        }
+    ],
+    "pub_date": "1996-05-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carey",
+                "rank": 1,
+                "lastname": "GOLDBERG"
+            }
+        ],
+        "original": "By CAREY GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f1378eb7c8105d747b5e",
+    "word_count": 949,
+    "slideshow_credits": null
+}

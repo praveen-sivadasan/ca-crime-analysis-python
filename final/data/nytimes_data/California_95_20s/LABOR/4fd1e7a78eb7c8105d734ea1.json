@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1995/04/16/us/3-grocery-chains-settle-with-workers.html",
+    "snippet": "An eight-day-old strike against one Northern California supermarket chain, and a lockout by two others, ended late Friday night with a tentative settlement on a new contract.   The settlement sent 32,000 checkers, baggers and butchers, represented...",
+    "lead_paragraph": "An eight-day-old strike against one Northern California supermarket chain, and a lockout by two others, ended late Friday night with a tentative settlement on a new contract. The settlement sent 32,000 checkers, baggers and butchers, represented by the United Food and Commercial Workers, back to work at more than 400 supermarkets run by the three chains: Safeway, Lucky Stores and Save Mart.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "3 Grocery Chains Settle With Workers"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAFEWAY STORES INC"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES"
+        },
+        {
+            "name": "organizations",
+            "value": "SAVE MART"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "STRIKES"
+        },
+        {
+            "name": "subject",
+            "value": "LOCKOUTS"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        }
+    ],
+    "pub_date": "1995-04-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e7a78eb7c8105d734ea1",
+    "word_count": 224,
+    "slideshow_credits": null
+}

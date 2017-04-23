@@ -1,0 +1,51 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/12/garden/points-west-where-summer-subtly-slips-into-fall.html",
+    "snippet": "LEAD: ''Fall is definitely here,'' my husband said the other morning, returning from the front yard with the newspapers. How did he know? ''Because the car seats are damp,'' he said. ''I guess it's time to put the top up.''...",
+    "lead_paragraph": "LEAD: ''Fall is definitely here,'' my husband said the other morning, returning from the front yard with the newspapers. How did he know? ''Because the car seats are damp,'' he said. ''I guess it's time to put the top up.''",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Where Summer Subtly Slips Into Fall",
+        "kicker": "POINTS WEST"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SEASONS AND MONTHS"
+        }
+    ],
+    "pub_date": "1988-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Anne",
+                "middlename": "Taylor",
+                "lastname": "FLEMING",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANNE TAYLOR FLEMING, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a0298eb7c8105d6b43a1",
+    "word_count": 742,
+    "slideshow_credits": null
+}

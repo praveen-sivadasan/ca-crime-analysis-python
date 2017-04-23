@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/22/magazine/wine-and-the-winner-is.html",
+    "snippet": "LEAD: YOU KNOW THE SCENE: DIRTY HARRY , alias Clint Eastwood, has just dispatched the villain with an unerring shot. Reholstering his .357 Magnum, he mutters: ''A man's got to know his limitations.''...",
+    "lead_paragraph": "LEAD: YOU KNOW THE SCENE: DIRTY HARRY , alias Clint Eastwood, has just dispatched the villain with an unerring shot. Reholstering his .357 Magnum, he mutters: ''A man's got to know his limitations.''",
+    "abstract": null,
+    "print_page": "64",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine;   AND THE WINNER IS . . ."
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1990-04-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b8a18eb7c8105d6e07a6",
+    "word_count": 1039,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1989/02/21/us/senator-opens-his-campaign-to-be-governor-of-california.html",
+    "snippet": "LEAD: Senator Pete Wilson, who won re-election to his second six-year term just three months ago, today announced his candidacy for the Republican nomination for governor in 1990....",
+    "lead_paragraph": "LEAD: Senator Pete Wilson, who won re-election to his second six-year term just three months ago, today announced his candidacy for the Republican nomination for governor in 1990.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Senator Opens His Campaign To Be Governor of California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1989-02-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd199f18eb7c8105d6aaab6",
+    "word_count": 161,
+    "slideshow_credits": null
+}

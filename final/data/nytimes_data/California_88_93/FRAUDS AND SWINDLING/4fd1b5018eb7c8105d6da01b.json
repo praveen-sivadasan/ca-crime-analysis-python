@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/12/business/accusation-of-fraud-at-sears.html",
+    "snippet": "The California Department of Consumer Affairs today charged Sears, Roebuck & Company's automotive repair shops with systematically defrauding customers by performing unnecessary service and repairs, saying it would seek to revoke the company's lic...",
+    "lead_paragraph": "The California Department of Consumer Affairs today charged Sears, Roebuck & Company's automotive repair shops with systematically defrauding customers by performing unnecessary service and repairs, saying it would seek to revoke the company's license to do such business in the state. The department's Bureau of Automotive Repair said it was charging all 72 Sears auto repair shops in the state with fraud, false advertising and failure to clearly state parts and labor on invoices. Other charges include false or misleading statements and willful departure from accepted trade standards.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Accusation Of Fraud At Sears"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CONRAN, JIM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SEARS ROEBUCK & CO"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "LICENSES"
+        },
+        {
+            "name": "subject",
+            "value": "MISLEADING AND DECEPTIVE ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "REPAIR SERVICES"
+        }
+    ],
+    "pub_date": "1992-06-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b5018eb7c8105d6da01b",
+    "word_count": 1017,
+    "slideshow_credits": null
+}

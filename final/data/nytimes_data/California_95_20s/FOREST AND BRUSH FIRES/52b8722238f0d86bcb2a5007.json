@@ -1,0 +1,38 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/02/us/brush-fire-in-california-has-burned-5500-acres.html",
+    "snippet": "Hundreds of firefighters battled a brush fire today in Southern California, which has burned about 5,500 acres and forced residents to flee dozens of ranches....",
+    "lead_paragraph": "Hundreds of firefighters battled a brush fire today in Southern California, which has burned about 5,500 acres and forced residents to flee dozens of ranches.",
+    "abstract": "Hundreds of firefighters battle brush fire in Southern California that has burned approximately 5,500 acres and forced residents to flee dozens of ranches (S)",
+    "print_page": "17",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Brush Fire in California Has Burned 5,500 Acres",
+        "kicker": "National News Briefs"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        }
+    ],
+    "pub_date": "1997-09-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b8722238f0d86bcb2a5007",
+    "word_count": "56",
+    "slideshow_credits": null
+}

@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/18/nyregion/c-corrections-076891.html",
+    "snippet": "An article in Business Day yesterday about the California economy misstated Wells Fargo & Company's earnings and provision for loan losses in the third quarter. Earnings totaled $86 million, down 47 percent from $163 million, and the provision was...",
+    "lead_paragraph": "An article in Business Day yesterday about the California economy misstated Wells Fargo & Company's earnings and provision for loan losses in the third quarter. Earnings totaled $86 million, down 47 percent from $163 million, and the provision was $200 million, not $350 million.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1991-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1d3418eb7c8105d70f381",
+    "word_count": 44,
+    "slideshow_credits": null
+}

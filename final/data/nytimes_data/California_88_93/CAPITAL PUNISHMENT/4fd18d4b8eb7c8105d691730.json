@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/27/us/question-arises-as-execution-nears-would-california-death-be-a-signal.html",
+    "snippet": "LEAD: The scheduled death of Robert Alton Harris in the gas chamber here, the first state killing in California in nearly a quarter of a century, will not merely be No. 122 in a string of executions since the United States Supreme Court reinstated...",
+    "lead_paragraph": "LEAD: The scheduled death of Robert Alton Harris in the gas chamber here, the first state killing in California in nearly a quarter of a century, will not merely be No. 122 in a string of executions since the United States Supreme Court reinstated capital punishment in 1976.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Question Arises as Execution Nears: Would California Death Be a Signal?"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1990-02-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18d4b8eb7c8105d691730",
+    "word_count": 1321,
+    "slideshow_credits": null
+}

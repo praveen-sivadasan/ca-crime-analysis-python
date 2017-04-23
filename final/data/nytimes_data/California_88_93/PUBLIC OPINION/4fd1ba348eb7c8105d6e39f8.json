@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/06/us/the-1992-campaign-california-democrats-soar-as-gop-crumbles.html",
+    "snippet": "Enjoying heady leads in the polls, Barbara Boxer and Dianne Feinstein, running for the two Senate seats from California, are reaping the benefits of a unified, efficient Democratic operation in the state and of a fractious Republican party that is...",
+    "lead_paragraph": "Enjoying heady leads in the polls, Barbara Boxer and Dianne Feinstein, running for the two Senate seats from California, are reaping the benefits of a unified, efficient Democratic operation in the state and of a fractious Republican party that is losing moderate voters. \"The Democrats are running the best campaign I've seen them run, on both the national and state level,\" said Steven A. Merksamer, a leading Republican strategist in the state who was chief of staff to Gov. George Deukmejian. \"And the Republicans, traditionally a fine-tuned machine, are spending all their time destroying each other.\"",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Democrats Soar as G.O.P. Crumbles",
+        "kicker": "THE 1992 CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "REGISTRATION OF VOTERS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1992-10-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ba348eb7c8105d6e39f8",
+    "word_count": 759,
+    "slideshow_credits": null
+}

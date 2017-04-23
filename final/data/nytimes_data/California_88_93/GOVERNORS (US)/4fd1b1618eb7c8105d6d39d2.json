@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/08/us/candidates-in-california-clash-in-exchange-over-governorship.html",
+    "snippet": "LEAD: The two major candidates for governor clashed sharply in their first debate tonight, saying California was a troubled state in need of new leadership but offering different prescriptions for the future....",
+    "lead_paragraph": "LEAD: The two major candidates for governor clashed sharply in their first debate tonight, saying California was a troubled state in need of new leadership but offering different prescriptions for the future.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Candidates in California Clash In Exchange Over Governorship"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "DEBATING"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1990-10-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b1618eb7c8105d6d39d2",
+    "word_count": 819,
+    "slideshow_credits": null
+}

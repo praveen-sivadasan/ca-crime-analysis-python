@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1998/11/06/business/california-to-toughen-its-emissions-standards.html",
+    "snippet": "Despite strong objections from Detroit's Big Three auto makers, environmental regulators in California voted tonight to require cars, minivans and nearly all sport utility vehicles and pickup trucks to meet identical and much more stringent emissi...",
+    "lead_paragraph": "Despite strong objections from Detroit's Big Three auto makers, environmental regulators in California voted tonight to require cars, minivans and nearly all sport utility vehicles and pickup trucks to meet identical and much more stringent emissions rules. Tonight's vote makes California the first state to impose car emissions standards on so-called light trucks, a category that includes sport utility vehicles, minivans and pickup trucks. Regulated as work vehicles, light trucks have been allowed until now to emit up to three times as much pollution per mile as cars.",
+    "abstract": "Environmental regulators in California vote to require cars, minivans and nearly all sport utility vehicles and pickup trucks meet identical and much more stringent emission rules over strong objections from Detroit's Big Three auto makers; vote makes California first state to impose car emissions standards on so-called light trucks; new regulations would start with 2004 model year (M)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California to Toughen Its Emissions Standards"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "FORD MOTOR CO"
+        },
+        {
+            "name": "organizations",
+            "value": "CHRYSLER CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "UTILITY VEHICLES AND OTHER LIGHT TRUCKS"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "VANS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1998-11-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Keith",
+                "rank": 1,
+                "lastname": "BRADSHER"
+            }
+        ],
+        "original": "By KEITH BRADSHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21c108eb7c8105d79bc0f",
+    "word_count": 699,
+    "slideshow_credits": null
+}

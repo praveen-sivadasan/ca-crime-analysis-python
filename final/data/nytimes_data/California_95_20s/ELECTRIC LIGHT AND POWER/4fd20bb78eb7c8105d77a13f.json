@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/30/business/california-utility-tells-of-shift-in-bonds.html",
+    "snippet": "Southern California Edison was able to borrow money inexpensively for years partly because it permitted investors in some of its bonds to sell them back to the company. Investors rarely made use of the option as long as they had confidence in Edis...",
+    "lead_paragraph": "Southern California Edison was able to borrow money inexpensively for years partly because it permitted investors in some of its bonds to sell them back to the company. Investors rarely made use of the option as long as they had confidence in Edison's ability to pay interest and principal. Now, though, the company's weakened financial condition, brought on by spikes in wholesale power costs that it has been unable so far to pass along to ratepayers, has led many investors to sell the bonds back.",
+    "abstract": "Edison International's main unit, Southern California Edison, reports having been forced by prior agreement to buy back $419 million worth of pollution control bonds 'that could not be remarketed' (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "California Utility Tells of Shift in Bonds"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EDISON INTERNATIONAL INC"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTHERN CALIFORNIA EDISON CO"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "2000-12-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd20bb78eb7c8105d77a13f",
+    "word_count": 116,
+    "slideshow_credits": null
+}

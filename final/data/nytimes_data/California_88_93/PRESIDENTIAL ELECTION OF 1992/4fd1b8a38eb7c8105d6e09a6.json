@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/25/us/democrats-approve-rules-to-allow-earlier-primaries.html",
+    "snippet": "LEAD: The Democratic Party today approved the rules under which it will pick its 1992 Presidential candidate, and did so with a speed and civility that was almost breathtaking to party leaders who lived through the fierce squabbles of the last two...",
+    "lead_paragraph": "LEAD: The Democratic Party today approved the rules under which it will pick its 1992 Presidential candidate, and did so with a speed and civility that was almost breathtaking to party leaders who lived through the fierce squabbles of the last two decades.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Democrats Approve Rules To Allow Earlier Primaries"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1990-03-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "ORESKES"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL ORESKES, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b8a38eb7c8105d6e09a6",
+    "word_count": 681,
+    "slideshow_credits": null
+}

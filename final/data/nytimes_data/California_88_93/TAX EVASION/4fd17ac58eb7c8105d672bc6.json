@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1988/07/03/us/celebrity-lawyer-defending-himself-from-accusations-on-several-fronts.html",
+    "snippet": "LEAD: Marvin Mitchelson, the lawyer who added ''palimony'' to the legal lexicon and who counseled celebrities from Bianca Jagger to Carl Sagan to Joan Collins, remains as much as ever in the public eye. But, suddenly, the spotlight has turned hars...",
+    "lead_paragraph": "LEAD: Marvin Mitchelson, the lawyer who added ''palimony'' to the legal lexicon and who counseled celebrities from Bianca Jagger to Carl Sagan to Joan Collins, remains as much as ever in the public eye. But, suddenly, the spotlight has turned harsh and penetrating.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Celebrity Lawyer Defending Himself From Accusations on Several Fronts"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MITCHELSON, MARVIN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERNAL REVENUE SERVICE"
+        },
+        {
+            "name": "subject",
+            "value": "LAWYERS"
+        },
+        {
+            "name": "subject",
+            "value": "TAX EVASION"
+        },
+        {
+            "name": "subject",
+            "value": "SEX CRIMES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "LEGAL PROFESSION"
+        }
+    ],
+    "pub_date": "1988-07-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "David",
+                "rank": 1,
+                "lastname": "MARGOLICK"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By DAVID MARGOLICK, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17ac58eb7c8105d672bc6",
+    "word_count": 1636,
+    "slideshow_credits": null
+}

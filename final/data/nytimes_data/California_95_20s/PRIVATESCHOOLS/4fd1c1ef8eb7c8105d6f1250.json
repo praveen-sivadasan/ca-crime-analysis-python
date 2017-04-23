@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1996/01/10/us/california-chief-proposes-school-choice-plan.html",
+    "snippet": "Gov. Pete Wilson has proposed a limited voucher system in which the state would pay a large part of the costs for students from the state's worst schools  to attend the public, private or religious school of their choice.         Mr. Wilson, who m...",
+    "lead_paragraph": "Gov. Pete Wilson has proposed a limited voucher system in which the state would pay a large part of the costs for students from the state's worst schools to attend the public, private or religious school of their choice. Mr. Wilson, who made the proposal in his annual State of the State message, had opposed a broader plan two years ago on the ground that it was too expensive.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Chief Proposes School-Choice Plan"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "VOUCHERS"
+        },
+        {
+            "name": "subject",
+            "value": "SECTARIAN SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVATESCHOOLS"
+        }
+    ],
+    "pub_date": "1996-01-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "The New York Times",
+        "original": "By The New York Times",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c1ef8eb7c8105d6f1250",
+    "word_count": 524,
+    "slideshow_credits": null
+}

@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1995/05/03/us/displaced-aerospace-workers-face-grim-future-in-california-economy.html",
+    "snippet": "Martha Sias had no idea what she was producing before she was laid off from her high-security job as an assembler of military aircraft parts for the Lockheed Corporation, but she says she was very good at it.   \"You have your blueprints here; you ...",
+    "lead_paragraph": "Martha Sias had no idea what she was producing before she was laid off from her high-security job as an assembler of military aircraft parts for the Lockheed Corporation, but she says she was very good at it. \"You have your blueprints here; you have your parts here,\" she said. \"You sit in a little cubicle, and you're making that one part. What it goes to, where it goes to, they don't tell you.\"",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Displaced Aerospace Workers Face Grim Future in California Economy"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DEFENSE CONTRACTS"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY AIRCRAFT"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS AND JOB REDUCTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1995-05-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cc6e8eb7c8105d702a2e",
+    "word_count": 1626,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1992/12/22/us/feinstein-fined-over-90-race.html",
+    "snippet": "Senator Dianne Feinstein and her campaign committee and treasurer were fined $190,000 today for improperly reporting $8.4 million in receipts, spending and loans during her unsuccessful 1990 race for governor....",
+    "lead_paragraph": "Senator Dianne Feinstein and her campaign committee and treasurer were fined $190,000 today for improperly reporting $8.4 million in receipts, spending and loans during her unsuccessful 1990 race for governor.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Feinstein Fined Over '90 Race"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1992-12-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c8248eb7c8105d6faabb",
+    "word_count": 30,
+    "slideshow_credits": null
+}

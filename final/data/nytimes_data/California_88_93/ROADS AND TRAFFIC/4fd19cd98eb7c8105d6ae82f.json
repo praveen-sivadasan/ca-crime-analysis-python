@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/16/us/california-land-of-freeways-plans-to-build-toll-highways.html",
+    "snippet": "LEAD: California's first planned toll roads were announced Friday, marking the first time that motorists will face fees on anything but bridges....",
+    "lead_paragraph": "LEAD: California's first planned toll roads were announced Friday, marking the first time that motorists will face fees on anything but bridges.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California, Land of Freeways, Plans to Build Toll Highways"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "TOLLS"
+        }
+    ],
+    "pub_date": "1990-09-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd19cd98eb7c8105d6ae82f",
+    "word_count": 110,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/12/us/cost-of-auto-insurance-increases-in-california.html",
+    "snippet": "LEAD: Three days after Californians voted for a sweeping rollback in insurance rates, insurance agents and state officials say people are paying higher premiums for automobile coverage than before, at least for the time being....",
+    "lead_paragraph": "LEAD: Three days after Californians voted for a sweeping rollback in insurance rates, insurance agents and state officials say people are paying higher premiums for automobile coverage than before, at least for the time being.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cost of Auto Insurance Increases in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-11-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17bda8eb7c8105d67473c",
+    "word_count": 855,
+    "slideshow_credits": null
+}

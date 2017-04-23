@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/07/opinion/in-the-nation-the-public-voice-amplified.html",
+    "snippet": "LEAD: Voters in California this week needed to know a little bit about a lot of things - mountain lions, chiropractic and trial procedures, to name only a few. That made the measly 39.5 percent of the electorate who actually went to the polls part...",
+    "lead_paragraph": "LEAD: Voters in California this week needed to know a little bit about a lot of things - mountain lions, chiropractic and trial procedures, to name only a few. That made the measly 39.5 percent of the electorate who actually went to the polls part of a dubious national trend - instant popular government.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Public Voice - Amplified",
+        "kicker": "IN THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tom",
+                "rank": 1,
+                "lastname": "Wicker"
+            }
+        ],
+        "original": "By Tom Wicker"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd195a88eb7c8105d6a210b",
+    "word_count": 749,
+    "slideshow_credits": null
+}

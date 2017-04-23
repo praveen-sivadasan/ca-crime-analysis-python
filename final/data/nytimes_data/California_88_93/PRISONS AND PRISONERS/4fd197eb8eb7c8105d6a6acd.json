@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/19/us/steering-inmates-to-jobs-by-innovative-training.html",
+    "snippet": "Even as the nation's overloaded prison systems struggle to house, feed and control three-quarters of a million inmates, a modest but hopeful array of experimental counseling and education programs have begun to emerge.    One goal of these program...",
+    "lead_paragraph": "Even as the nation's overloaded prison systems struggle to house, feed and control three-quarters of a million inmates, a modest but hopeful array of experimental counseling and education programs have begun to emerge. One goal of these programs is simply to keep convicts busy and out of more trouble during their long months or years in prison. And given the tightening fiscal constraints of government agencies these days, all the programs are run on a shoestring.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Steering Inmates to Jobs By Innovative Training"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        }
+    ],
+    "pub_date": "1991-01-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Andrew",
+                "middlename": "H.",
+                "lastname": "MALCOLM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By ANDREW H. MALCOLM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd197eb8eb7c8105d6a6acd",
+    "word_count": 1267,
+    "slideshow_credits": null
+}

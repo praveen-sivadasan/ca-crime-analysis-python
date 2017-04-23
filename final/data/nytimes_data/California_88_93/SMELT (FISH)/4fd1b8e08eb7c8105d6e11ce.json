@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/06/us/fish-called-imperiled-but-is-the-water-too.html",
+    "snippet": "After an 18-month review, the United States Fish and Wildlife Service on Thursday declared a tiny, nearly translucent fish a threatened species, a step that could ultimately place a further strain on California's already burdened water supply.   T...",
+    "lead_paragraph": "After an 18-month review, the United States Fish and Wildlife Service on Thursday declared a tiny, nearly translucent fish a threatened species, a step that could ultimately place a further strain on California's already burdened water supply. The fish is the delta smelt, which grows to a length of only three inches and is found almost exclusively in the Upper Sacramento-San Joaquin Delta east of San Francisco, the state's largest source of water. Scientists say the smelt's numbers have declined by 90 percent in the last two decades, from 2.6 million to about 200,000.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Fish Called Imperiled (but Is the Water, Too?)"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FISH AND WILDLIFE SERVICE"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "ENDANGERED AND EXTINCT SPECIES"
+        },
+        {
+            "name": "subject",
+            "value": "SMELT (FISH)"
+        },
+        {
+            "name": "subject",
+            "value": "FISH AND OTHER MARINE LIFE"
+        }
+    ],
+    "pub_date": "1993-03-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b8e08eb7c8105d6e11ce",
+    "word_count": "302",
+    "slideshow_credits": null
+}

@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1999/02/11/us/51-million-verdict-awarded-to-smoker-is-biggest-of-its-kind.html",
+    "snippet": "A state jury in San Francisco has ordered the Philip Morris Companies to pay $51.5 million to a woman who says her inoperable lung cancer was caused by more than 35 years of smoking cigarettes, primarily Philip Morris's Marlboro brand.    The judg...",
+    "lead_paragraph": "A state jury in San Francisco has ordered the Philip Morris Companies to pay $51.5 million to a woman who says her inoperable lung cancer was caused by more than 35 years of smoking cigarettes, primarily Philip Morris's Marlboro brand. The judgment is by far the largest ever reached in a smoking-related lawsuit.",
+    "abstract": "California jury orders Philip Morris Cos to pay $51.5 million to Patrica Henley, 53, who says her inoperable lung cancer was caused by more than 35 years of smoking company's cigarettes; award includes $50 million in punitive damages; company to appeal; analysts say award could spur rush of new suits by individuals (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "$51 Million Verdict Awarded to Smoker Is Biggest of Its Kind"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HENLEY, PATRICA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PHILIP MORRIS COMPANIES INC"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "LUNGS"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING AND TOBACCO"
+        }
+    ],
+    "pub_date": "1999-02-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Barry",
+                "rank": 1,
+                "lastname": "MEIER"
+            }
+        ],
+        "original": "By BARRY MEIER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20d878eb7c8105d77e0d6",
+    "word_count": 737,
+    "slideshow_credits": null
+}

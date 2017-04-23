@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/29/us/los-angeles-journal-in-relentless-pursuit-of-avocado-rustlers.html",
+    "snippet": "LEAD: The two government agents are suspicious. While prowling through this city's vast wholesale produce market, a known distribution point for contraband, they notice one cardboard box stacked among many because it appears to have been opened an...",
+    "lead_paragraph": "LEAD: The two government agents are suspicious. While prowling through this city's vast wholesale produce market, a known distribution point for contraband, they notice one cardboard box stacked among many because it appears to have been opened and later resealed.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Los Angeles Journal; In Relentless Pursuit Of Avocado Rustlers"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AVACADO COMMISSION, CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROBBERIES AND THEFTS"
+        },
+        {
+            "name": "subject",
+            "value": "AVACADOS"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        }
+    ],
+    "pub_date": "1989-12-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "LEV"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL LEV, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18a208eb7c8105d68bfcb",
+    "word_count": 712,
+    "slideshow_credits": null
+}

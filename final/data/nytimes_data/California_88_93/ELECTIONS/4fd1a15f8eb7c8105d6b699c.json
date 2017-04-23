@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/31/us/the-1992-campaign-on-the-trail-women-lead-in-california-senate-races.html",
+    "snippet": "Two Democratic women enjoy sizable leads over their Republican opponents in campaigns for California's two open Senate seats, according to a Field Poll released today.   Both former Mayor Dianne Feinstein of San Francisco and Representative Barbar...",
+    "lead_paragraph": "Two Democratic women enjoy sizable leads over their Republican opponents in campaigns for California's two open Senate seats, according to a Field Poll released today. Both former Mayor Dianne Feinstein of San Francisco and Representative Barbara Boxer had 18-point leads.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: On the Trail; WOMEN LEAD IN CALIFORNIA SENATE RACES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "FIELD POLL"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1992-07-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a15f8eb7c8105d6b699c",
+    "word_count": 99,
+    "slideshow_credits": null
+}

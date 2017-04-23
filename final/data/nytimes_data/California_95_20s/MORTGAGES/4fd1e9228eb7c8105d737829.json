@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1999/03/07/magazine/the-human-habitat-emptying-out-in-california-making-a-home-a-house.html",
+    "snippet": "These pictures show the interiors of foreclosed properties, houses whose inhabitants have been evicted for failing to keep up with their mortgage payments. They are all in Southern California, which has been booming for nearly a century now. We ar...",
+    "lead_paragraph": "These pictures show the interiors of foreclosed properties, houses whose inhabitants have been evicted for failing to keep up with their mortgage payments. They are all in Southern California, which has been booming for nearly a century now. We are currently enjoying a time of prosperity, which may sometimes seem hard to believe as we observe continuing industrial layoffs and plant closings, but then we can also observe the regular transformation of exurban cornfields into tracts of $300,000 neo-colonial four-bedroom homes with state-of-the-art kitchens. We can also be reassured by statistics: according to Brian Carey, an economist with the Mortgage Bankers Association of America, a mere 1.14 percent of American homes were in a state of foreclosure in 1998. That, however, translates into the more sobering figure of 500,000 homes, half of which will end up being repossessed. If each housed, on average, a family of four, that means more than a million people last year had to find storage for their furniture, check into motels or arrange to sleep on friends' couches, figure out ways to go about their lives while avoiding the subject of their credit history -- and that's only counting those capable of getting a mortgage in the first place. Some of them undoubtedly brought this upon themselves, throwing their dollars at gaming tables or psychoactive substances or dubious investments, but many others got sick, got old, got redundant, got depressed or just plain got behind.",
+    "abstract": "Photos of interiors of some foreclosed properties, houses whose inhabitants were evicted for failing to keep up with mortgage payments in Southern California; only 1.14 percent of American homes were in state of forecloseure in 1998, but that translates into 500,000 homes, half of which will end up being repossessed; photos (M)",
+    "print_page": "74",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE HUMAN HABITAT: Emptying Out in California; Making a Home a House"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MORTGAGES"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "FORECLOSURES"
+        }
+    ],
+    "pub_date": "1999-03-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Luc",
+                "rank": 1,
+                "lastname": "Sante"
+            }
+        ],
+        "original": "By Luc Sante"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e9228eb7c8105d737829",
+    "word_count": 515,
+    "slideshow_credits": null
+}

@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/08/garden/how-the-west-was-warmed-quilts-of-yore.html",
+    "snippet": "LEAD: IN 1984 a nonprofit organization called the California Heritage Quilt Project was formed to study and record the history of California quilts and quilt makers. The culmination of that project was an exhibition that traveled all over the stat...",
+    "lead_paragraph": "LEAD: IN 1984 a nonprofit organization called the California Heritage Quilt Project was formed to study and record the history of California quilts and quilt makers. The culmination of that project was an exhibition that traveled all over the state and the recent publication of ''Ho for California: Pioneer Women and Their Quilts'' (E.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "How the West Was Warmed: Quilts of Yore"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA HERITAGE QUILT PROJECT"
+        },
+        {
+            "name": "subject",
+            "value": "BEDS AND BEDDING"
+        }
+    ],
+    "pub_date": "1990-03-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Home Desk",
+    "section_name": "Home and Garden; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Ann",
+                "rank": 1,
+                "lastname": "BARRY"
+            }
+        ],
+        "original": "By ANN BARRY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1934b8eb7c8105d69d730",
+    "word_count": 662,
+    "slideshow_credits": null
+}

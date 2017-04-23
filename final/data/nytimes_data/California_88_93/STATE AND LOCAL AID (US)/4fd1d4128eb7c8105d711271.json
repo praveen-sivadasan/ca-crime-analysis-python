@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/31/us/california-legislature-passes-budget-with-big-cuts.html",
+    "snippet": "The two-month-long fiscal crisis in California has moved closer to conclusion with the passage of an austere recession-era budget package that cuts deeply into health and welfare services and state support for colleges, cities and counties.   The ...",
+    "lead_paragraph": "The two-month-long fiscal crisis in California has moved closer to conclusion with the passage of an austere recession-era budget package that cuts deeply into health and welfare services and state support for colleges, cities and counties. The State Assembly passed the main $57 billion budget bill on Saturday evening after an impassioned speech by Speaker Willie L. Brown Jr. urging colleagues to pass the bill even though it closely resembled the no-new-taxes budget favored by his main political rival, Gov. Pete Wilson.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Legislature Passes Budget With Big Cuts"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-08-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4128eb7c8105d711271",
+    "word_count": 378,
+    "slideshow_credits": null
+}

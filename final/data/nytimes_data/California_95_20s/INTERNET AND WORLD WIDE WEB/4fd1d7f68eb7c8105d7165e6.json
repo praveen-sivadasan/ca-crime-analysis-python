@@ -1,0 +1,80 @@
+{
+    "web_url": "https://www.nytimes.com/1997/10/19/us/killing-sets-stage-for-fight-over-e-mail-to-california-newspaper.html",
+    "snippet": "A murder trial in California is turning into a first test of a newspaper's right to shield its readers' E-mail and Internet use from a defense lawyer's claim that electronic coverage of a case can taint a jury pool.    James Farley, a defense lawy...",
+    "lead_paragraph": "A murder trial in California is turning into a first test of a newspaper's right to shield its readers' E-mail and Internet use from a defense lawyer's claim that electronic coverage of a case can taint a jury pool. James Farley, a defense lawyer in the murder case, has subpoenaed The Ventura County Star for electronic mail, poll results published on the newspaper's Web site and the digital footprints that visitors to the site have left to determine whether the newspaper's electronic coverage of the crime may have influenced potential jurors beyond the paper's circulation area. Until now, defense teams trying to find untainted jury pools have been satisfied to move trials only beyond the range of local news media.",
+    "abstract": "Murder trial in California is turning into first test of newspaper's right to shield its readers' E-mail and Internet use from defense lawyer's claim that electronic coverage of case can taint jury pool; defense lawyer James Farley has subpoenaed Ventura County Star to determine whether its electronic coverage of crime may have influenced potential jurors beyond paper's circulation area; his client, Michael Dally, is charged with conspiring with his girlfriend, Diana Haun, to murder his wife, Sherri Dally; Haun was convicted of murder on Sept 28 (M)",
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Killing Sets Stage for Fight Over E-Mail to California Newspaper"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HAUN, DIANA"
+        },
+        {
+            "name": "persons",
+            "value": "DALLY, SHERRI"
+        },
+        {
+            "name": "persons",
+            "value": "FARLEY, JAMES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "VENTURA COUNTY STAR"
+        },
+        {
+            "name": "organizations",
+            "value": "DALLY, MICHAEL"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRONIC MAIL"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNET AND WORLD WIDE WEB"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1997-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Technology; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Iver",
+                "rank": 1,
+                "lastname": "PETERSON"
+            }
+        ],
+        "original": "By IVER PETERSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d7f68eb7c8105d7165e6",
+    "word_count": 573,
+    "slideshow_credits": null
+}

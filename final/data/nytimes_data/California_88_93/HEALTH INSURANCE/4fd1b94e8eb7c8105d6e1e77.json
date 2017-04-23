@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1993/04/24/business/transamerica-draws-fire-on-cancer-test.html",
+    "snippet": "An unorthodox cancer test used since 1990 by the Transamerica Occidental Life Insurance Company to screen some applicants has come under increasing fire.   The California Insurance Department has criticized the Transamerica insurance unit for fail...",
+    "lead_paragraph": "An unorthodox cancer test used since 1990 by the Transamerica Occidental Life Insurance Company to screen some applicants has come under increasing fire. The California Insurance Department has criticized the Transamerica insurance unit for failing to disclose to applicants that the Tumor Associated Antigen test is a test for cancer and is not always reliable. This week, the company, the nation's eighth-largest life insurer, agreed to give applicants a separate brochure describing its medical evaluation in greater detail.",
+    "abstract": null,
+    "print_page": "36",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Transamerica Draws Fire on Cancer Test"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TRANSAMERICA OCCIDENTAL LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        }
+    ],
+    "pub_date": "1993-04-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Health; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            }
+        ],
+        "original": "By ANDREA ADELSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b94e8eb7c8105d6e1e77",
+    "word_count": 560,
+    "slideshow_credits": null
+}

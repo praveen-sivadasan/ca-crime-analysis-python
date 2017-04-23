@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/04/us/alaska-airlines-will-ground-18-jets-because-inconsistent-tests-vital-part.html",
+    "snippet": "Alaska Airlines decided late Thursday night to ground 18 of its 34 MD-80 aircraft, the same model as the plane that crashed off the California coast in January when a part in the tail broke.    The airline's decision followed its discovery that a ...",
+    "lead_paragraph": "Alaska Airlines decided late Thursday night to ground 18 of its 34 MD-80 aircraft, the same model as the plane that crashed off the California coast in January when a part in the tail broke. The airline's decision followed its discovery that a measurement tool that it makes to check wear in the tail mechanism was producing inconsistent readings and that as a result, parts might be unacceptably worn.",
+    "abstract": "Alaska Airlines will ground 18 of its 34 MD-80 aircraft, same model as plane that crashed off California coast in January when a part in tail broke; airline's decision follows its discovery that measurement tool that it makes to check wear in tail mechanism is producing inconsistent readings (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Alaska Airlines Will Ground 18 Jets Because of Inconsistent Tests on a Vital Part"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALASKA AIRLINES"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        }
+    ],
+    "pub_date": "2000-08-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd237138eb7c8105d7c997d",
+    "word_count": 450,
+    "slideshow_credits": null
+}

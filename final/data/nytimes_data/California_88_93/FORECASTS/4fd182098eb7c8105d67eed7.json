@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/14/us/rain-is-late-but-now-hope-flowers.html",
+    "snippet": "LEAD: March came in like a lion, lashing California with rains from the Oregon border to the Mexican border and blanketing the Sierra Nevada with new snow. It was late, perhaps too late, but it raised hopes that the largest agricultural state coul...",
+    "lead_paragraph": "LEAD: March came in like a lion, lashing California with rains from the Oregon border to the Mexican border and blanketing the Sierra Nevada with new snow. It was late, perhaps too late, but it raised hopes that the largest agricultural state could avoid a third straight dry year, with consequences felt all the way to the East Coast.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rain Is Late, but Now Hope Flowers"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        }
+    ],
+    "pub_date": "1989-03-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd182098eb7c8105d67eed7",
+    "word_count": 1168,
+    "slideshow_credits": null
+}

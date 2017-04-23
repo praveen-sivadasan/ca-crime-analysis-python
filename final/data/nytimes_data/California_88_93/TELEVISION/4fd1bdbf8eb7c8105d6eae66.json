@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/28/magazine/publuc-stages-burn-baby-burn.html",
+    "snippet": "I was 7 when I tried to burn down the forest bordering my suburban neighborhood. My friends and I had no good excuse with which to placate the army of parents who descended after only a few sticks and shrubs went up in flames.   It never would hav...",
+    "lead_paragraph": "I was 7 when I tried to burn down the forest bordering my suburban neighborhood. My friends and I had no good excuse with which to placate the army of parents who descended after only a few sticks and shrubs went up in flames. It never would have occurred to us to say that Howdy Doody, that notorious reprobate among television puppets of the time, made us do it. Only in retrospect could I argue that we were 60's rebels in embryo, venting antiauthoritarian impulses against that fascist, Smokey the Bear.",
+    "abstract": null,
+    "print_page": "40",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Burn, Baby, Burn!",
+        "kicker": "PUBLUC STAGES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        }
+    ],
+    "pub_date": "1993-11-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Frank",
+                "rank": 1,
+                "lastname": "Rich"
+            }
+        ],
+        "original": "By Frank Rich"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bdbf8eb7c8105d6eae66",
+    "word_count": 1173,
+    "slideshow_credits": null
+}

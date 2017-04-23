@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1993/12/30/us/89-million-awarded-family-who-sued-hmo.html",
+    "snippet": "In a sign of surging conflict over medical cost containment, a California jury has awarded $89.3 million to the family of a woman whose health maintenance organization refused to pay for a costly, experimental procedure to treat the breast cancer ...",
+    "lead_paragraph": "In a sign of surging conflict over medical cost containment, a California jury has awarded $89.3 million to the family of a woman whose health maintenance organization refused to pay for a costly, experimental procedure to treat the breast cancer that ultimately killed her. The award, by far the largest in a case involving the denial of medical benefits, has sent nervous tremors through the health insurance industry, which is struggling to define limits on the coverage of therapies that are experimental or have only a slight chance of success.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "$89 Million Awarded Family Who Sued H.M.O."
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "HEALTH NET"
+        },
+        {
+            "name": "persons",
+            "value": "FOX, NELENE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEALTH NET"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BREAST"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1993-12-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Erik",
+                "rank": 1,
+                "lastname": "ECKHOLM"
+            }
+        ],
+        "original": "By ERIK ECKHOLM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e0ef8eb7c8105d728020",
+    "word_count": 1246,
+    "slideshow_credits": null
+}

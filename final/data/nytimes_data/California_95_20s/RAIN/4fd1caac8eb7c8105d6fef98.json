@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/14/us/a-new-storm-unloads-rain-on-california.html",
+    "snippet": "A new storm front rolled in off the Pacific today and began giving California yet another drenching.   The front hit land first in the rugged redwood region of Humboldt and Mendocino Counties north of here, then moved steadily inland and south dow...",
+    "lead_paragraph": "A new storm front rolled in off the Pacific today and began giving California yet another drenching. The front hit land first in the rugged redwood region of Humboldt and Mendocino Counties north of here, then moved steadily inland and south down a soggy coast already heavily damaged by flooding from a week and a half of rain.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A New Storm Unloads Rain on California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        }
+    ],
+    "pub_date": "1995-01-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Keith",
+                "rank": 1,
+                "lastname": "SCHNEIDER"
+            }
+        ],
+        "original": "By KEITH SCHNEIDER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1caac8eb7c8105d6fef98",
+    "word_count": 890,
+    "slideshow_credits": null
+}

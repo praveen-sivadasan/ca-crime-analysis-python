@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/30/us/names-list-leads-to-ethics-debate.html",
+    "snippet": "The message on Elliot Hessayon's answering machine appeared to be a simple solicitation for a candidate in last month's State Assembly election, but its implications have led him to file a complaint with the Medical Board of California.    \"This i...",
+    "lead_paragraph": "The message on Elliot Hessayon's answering machine appeared to be a simple solicitation for a candidate in last month's State Assembly election, but its implications have led him to file a complaint with the Medical Board of California. \"This is Alex Koleszar calling from Burke for Assembly campaign headquarters,\" the message said. \"I actually had gotten your telephone number from Dr. Jenkins.\"",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "NAMES LIST LEADS TO ETHICS DEBATE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "JENKINS, ROBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)"
+        },
+        {
+            "name": "subject",
+            "value": "DISCLOSURE OF INFORMATION"
+        }
+    ],
+    "pub_date": "1991-07-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a4808eb7c8105d6bccb9",
+    "word_count": 715,
+    "slideshow_credits": null
+}

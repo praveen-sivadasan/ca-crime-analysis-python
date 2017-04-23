@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/25/us/california-fears-rainless-december.html",
+    "snippet": "LEAD: If rain or snow do not start falling soon, Sierra skiers could be riding on rocks in January and California's central coastal farmers could be rationing water in July....",
+    "lead_paragraph": "LEAD: If rain or snow do not start falling soon, Sierra skiers could be riding on rocks in January and California's central coastal farmers could be rationing water in July.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA FEARS RAINLESS DECEMBER"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "IRRIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "FARMERS"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "SKIING"
+        }
+    ],
+    "pub_date": "1989-12-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aad88eb7c8105d6c8b50",
+    "word_count": 477,
+    "slideshow_credits": null
+}

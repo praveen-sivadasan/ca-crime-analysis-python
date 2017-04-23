@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1996/02/29/business/wells-fargo-selling-61-banks-to-bar-antitrust-step.html",
+    "snippet": "Wells Fargo & Company said today that it would sell 61 branches with $2.5 billion in deposits to eliminate antitrust objections to its planned $11.6 billion purchase of First Interstate Bancorp.         Wells Fargo, which said it expected the acqu...",
+    "lead_paragraph": "Wells Fargo & Company said today that it would sell 61 branches with $2.5 billion in deposits to eliminate antitrust objections to its planned $11.6 billion purchase of First Interstate Bancorp. Wells Fargo, which said it expected the acquisition to be completed April 1, said the sales were part of an agreement it had reached with state and Federal regulators. The Justice Department said the divestiture package was among the largest ever required in an antitrust settlement.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wells Fargo Selling 61 Banks to Bar Antitrust Step"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BINGAMAN, ANNE K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "JUSTICE DEPARTMENT"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST INTERSTATE BANCORP"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1996-02-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Bloomberg",
+                "middlename": "Business",
+                "lastname": "News",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Bloomberg Business News"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d9b28eb7c8105d719493",
+    "word_count": 279,
+    "slideshow_credits": null
+}

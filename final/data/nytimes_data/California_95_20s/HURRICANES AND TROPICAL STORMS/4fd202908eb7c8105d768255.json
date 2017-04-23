@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/14/us/national-news-briefs-strong-pacific-hurricane-heads-toward-california.html",
+    "snippet": "Fueled by El Nino, the strongest hurricane on record for the eastern Pacific churned toward Southern California early today.    Hurricane Linda could weaken as it approaches shore, and the eye of the powerful storm should stay offshore, meteorolog...",
+    "lead_paragraph": "Fueled by El Nino, the strongest hurricane on record for the eastern Pacific churned toward Southern California early today. Hurricane Linda could weaken as it approaches shore, and the eye of the powerful storm should stay offshore, meteorologists said. A hurricane has never been recorded as striking the California coast.",
+    "abstract": "Hurricane Linda, strongest hurricane on record for eastern Pacific, is heading for Southern California; meteorologists predict that it will weaken and stay offshore (S)",
+    "print_page": "33",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Strong Pacific Hurricane Heads Toward California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HURRICANE LINDA"
+        },
+        {
+            "name": "subject",
+            "value": "HURRICANES AND TROPICAL STORMS"
+        }
+    ],
+    "pub_date": "1997-09-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd202908eb7c8105d768255",
+    "word_count": "165",
+    "slideshow_credits": null
+}

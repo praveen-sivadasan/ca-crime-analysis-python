@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/06/business/suit-opposes-lucky-s-deal.html",
+    "snippet": "LEAD: The Attorney General of California, John Van de Kamp, has filed suit to challenge the American Stores Company's acquisition of Lucky Stores Inc., contending the merger was anti-competitive....",
+    "lead_paragraph": "LEAD: The Attorney General of California, John Van de Kamp, has filed suit to challenge the American Stores Company's acquisition of Lucky Stores Inc., contending the merger was anti-competitive.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Suit Opposes Lucky's Deal"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN STORES CO"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        }
+    ],
+    "pub_date": "1988-09-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17cb58eb7c8105d6762c1",
+    "word_count": 210,
+    "slideshow_credits": null
+}

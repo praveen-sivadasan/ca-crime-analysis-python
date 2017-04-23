@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/03/us/california-legislator-is-found-guilty-of-extortion.html",
+    "snippet": "LEAD: A State Senator, the first person to stand trial on charges stemming from a Federal investigation of Statehouse corruption, was convicted today of extortion, racketeering and money laundering....",
+    "lead_paragraph": "LEAD: A State Senator, the first person to stand trial on charges stemming from a Federal investigation of Statehouse corruption, was convicted today of extortion, racketeering and money laundering.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Legislator Is Found Guilty of Extortion"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MONTOYA, JOSEPH"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MONEY LAUNDERING"
+        },
+        {
+            "name": "subject",
+            "value": "RACKETEERING AND RACKETEERS"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "EXTORTION"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1990-02-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd190898eb7c8105d69770f",
+    "word_count": 526,
+    "slideshow_credits": null
+}

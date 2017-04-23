@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/28/business/company-news-2-california-health-care-providers-agree-to-a-1.8-billion-merger.html",
+    "snippet": "Two big California health maintenance organizations, Wellpoint Health Networks and Health Systems International have agreed to a $1.8 billion stock swap that would create the biggest stockholder-owned H.M.O. in the lucrative California market and ...",
+    "lead_paragraph": "Two big California health maintenance organizations, Wellpoint Health Networks and Health Systems International have agreed to a $1.8 billion stock swap that would create the biggest stockholder-owned H.M.O. in the lucrative California market and the fifth largest in the country, people close to the deal said yesterday. The companies said Wellpoint was \"in discussions\" to buy Health Systems. Health Systems stockholders would receive 1.09 shares of Wellpoint common stock for each Health Systems share and a proportionate share of $1.2 billion in cash.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "2 California Health Care Providers Agree to a $1.8 Billion Merger",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEALTH SYSTEMS INTERNATIONAL INC"
+        },
+        {
+            "name": "organizations",
+            "value": "BLUE CROSS AND BLUE SHIELD"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLPOINT HEALTH NETWORKS INC"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVATIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRY PROFILES"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1995-03-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Milt",
+                "rank": 1,
+                "lastname": "FREUDENHEIM"
+            }
+        ],
+        "original": "By MILT FREUDENHEIM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cb7d8eb7c8105d700f59",
+    "word_count": 992,
+    "slideshow_credits": null
+}

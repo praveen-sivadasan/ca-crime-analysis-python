@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1998/03/12/us/democrat-s-widow-wins-california-house-race.html",
+    "snippet": "Lois Capps, a former teacher and school nurse from Santa Barbara, Calif., turned back an aggressive challenge from her Republican opponent to hold onto the Democratic Congressional seat vacated by the death of her husband, Walter, last fall, boost...",
+    "lead_paragraph": "Lois Capps, a former teacher and school nurse from Santa Barbara, Calif., turned back an aggressive challenge from her Republican opponent to hold onto the Democratic Congressional seat vacated by the death of her husband, Walter, last fall, boosting her party's morale in the first Congressional contest of the year. The race highlighted divisions within the Republican Party and the increasingly aggressive role of outside interest groups in Congressional elections.",
+    "abstract": "Lois Capps, turns back aggressive challenge from her Republican opponent, State Assemblyman Tom Bordonaro, to hold onto Democratic Congressional seat in California vacated by death of her husband Walter last fall; Capps wins 53 percent of votes and Bordonaro 45 percent with all of precincts reporting; graph (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Democrat's Widow Wins California House Race"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CAPPS, WALTER"
+        },
+        {
+            "name": "persons",
+            "value": "CAPPS, LOIS"
+        },
+        {
+            "name": "persons",
+            "value": "BORDONARO, TOM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1998-03-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20be88eb7c8105d77a92c",
+    "word_count": 368,
+    "slideshow_credits": null
+}

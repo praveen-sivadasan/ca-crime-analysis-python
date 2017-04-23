@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/26/us/big-rains-return-to-california.html",
+    "snippet": "One day after the state canceled a drought alert issued last May, an unrelenting storm brought more rain to Southern California today and forced rescue workers to halt a search for a man caught in an avalanche.   Workers assembled 40 miles east of...",
+    "lead_paragraph": "One day after the state canceled a drought alert issued last May, an unrelenting storm brought more rain to Southern California today and forced rescue workers to halt a search for a man caught in an avalanche. Workers assembled 40 miles east of Los Angeles at the Mount Baldy Ski Area to hunt for the man, a snowboarder lost on Tuesday, but foul weather and fear of another avalanche forced them to wait.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Big Rains Return to California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "AVALANCHES AND LANDSLIDES"
+        }
+    ],
+    "pub_date": "1995-01-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c66e8eb7c8105d6f75da",
+    "word_count": 295,
+    "slideshow_credits": null
+}

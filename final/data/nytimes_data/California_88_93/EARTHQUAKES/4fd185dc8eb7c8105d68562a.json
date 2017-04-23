@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/18/us/earthquake-northern-california-bush-pledges-support-skinner-en-route-site.html",
+    "snippet": "LEAD: President Bush, pledging to ''do everything we possibly can'' to aid victims of the earthquake that struck San Francisco this evening, activated a Federal disaster team late tonight and sent the Secretary of Transportation to California to a...",
+    "lead_paragraph": "LEAD: President Bush, pledging to ''do everything we possibly can'' to aid victims of the earthquake that struck San Francisco this evening, activated a Federal disaster team late tonight and sent the Secretary of Transportation to California to assess the damage.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bush Pledges Support; Skinner Is en Route to Site",
+        "kicker": "EARTHQUAKE IN NORTHERN CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "SKINNER, SAMUEL K"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "ROSENTHAL"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANDREW ROSENTHAL, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd185dc8eb7c8105d68562a",
+    "word_count": 497,
+    "slideshow_credits": null
+}

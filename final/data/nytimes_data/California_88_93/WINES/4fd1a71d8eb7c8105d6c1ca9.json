@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/26/business/california-wineries-look-overseas.html",
+    "snippet": "Facing an ever-weaker market at home, California wine makers are increasingly interested in exports.    The most attractive markets for American wine makers are countries that historically consume wine but make little of their own, like Britain, C...",
+    "lead_paragraph": "Facing an ever-weaker market at home, California wine makers are increasingly interested in exports. The most attractive markets for American wine makers are countries that historically consume wine but make little of their own, like Britain, Canada and Switzerland. But some California wine makers are also making inroads, albeit small ones, in France and Italy, two of the biggest wine producers.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Wineries Look Overseas"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1990-12-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a71d8eb7c8105d6c1ca9",
+    "word_count": 1529,
+    "slideshow_credits": null
+}

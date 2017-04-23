@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/21/business/car-industry-protests-california-antipollution-plan.html",
+    "snippet": "LEAD: The American automotive industry must overcome vast technological hurdles and what it sees as an unreasonably tight timetable before it can provide vehicles that meet the air-quality standards imposed on Friday by regional officials in South...",
+    "lead_paragraph": "LEAD: The American automotive industry must overcome vast technological hurdles and what it sees as an unreasonably tight timetable before it can provide vehicles that meet the air-quality standards imposed on Friday by regional officials in Southern California.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Car Industry Protests California Antipollution Plan"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "TRANSIT SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1989-03-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Doron",
+                "middlename": "P.",
+                "lastname": "LEVIN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By DORON P. LEVIN, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd188558eb7c8105d688b97",
+    "word_count": 829,
+    "slideshow_credits": null
+}

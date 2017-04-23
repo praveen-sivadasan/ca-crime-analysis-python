@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/07/us/2-men-share-record-lottery-prize.html",
+    "snippet": "LEAD: Two blue-collar workers, one of whom could find no one to share his bet, were catapulted to fame and wealth today when they split North America's largest lottery jackpot, $51.4 million....",
+    "lead_paragraph": "LEAD: Two blue-collar workers, one of whom could find no one to share his bet, were catapulted to fame and wealth today when they split North America's largest lottery jackpot, $51.4 million.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "2 Men Share Record Lottery Prize"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CARROLL, SHELBY"
+        },
+        {
+            "name": "persons",
+            "value": "PENNINGTON, RANDY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LOTTERIES"
+        }
+    ],
+    "pub_date": "1988-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd191148eb7c8105d698c0c",
+    "word_count": 391,
+    "slideshow_credits": null
+}

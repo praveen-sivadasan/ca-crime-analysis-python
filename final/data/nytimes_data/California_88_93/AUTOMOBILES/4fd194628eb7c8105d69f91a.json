@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/30/us/california-adopts-new-car-emission-rules.html",
+    "snippet": "LEAD: The California Air Resources Board adopted strict auto emission rules Friday to compel production of a new generation of ultra-clean cars and fuels, toughening the strictest air quality controls in the nation....",
+    "lead_paragraph": "LEAD: The California Air Resources Board adopted strict auto emission rules Friday to compel production of a new generation of ultra-clean cars and fuels, toughening the strictest air quality controls in the nation.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Adopts New Car Emission Rules"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "ENERGY EFFICIENCY"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        }
+    ],
+    "pub_date": "1990-09-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd194628eb7c8105d69f91a",
+    "word_count": 259,
+    "slideshow_credits": null
+}

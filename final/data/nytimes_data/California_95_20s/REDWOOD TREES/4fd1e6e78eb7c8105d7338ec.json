@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1998/11/24/science/clues-to-redwoods-mighty-growth-emerge-in-fog.html",
+    "snippet": "Always an awe-inspiring sight, the giant redwoods that tower along the California coast are perhaps at their majestic best on foggy days, when these ancients, among the botanical wonders of the world, can be glimpsed through wisps of swirling mist...",
+    "lead_paragraph": "Always an awe-inspiring sight, the giant redwoods that tower along the California coast are perhaps at their majestic best on foggy days, when these ancients, among the botanical wonders of the world, can be glimpsed through wisps of swirling mist. But now scientists are learning that fog among the redwoods is more than just picturesque. They believe fog may be crucial to the well-being of these rapidly disappearing forests and an answer to the long-pondered question: Why are redwoods the tallest trees on earth?",
+    "abstract": "Dr Todd Dawson shows how the fog along California coast is be crucial to well-being of redwood forests and may account for why redwoods are the tallest trees on Earth; says ability of a redwood to capture water suspended in fog can provide immense amount of water to the trees and to the ground around them; says the resulting moist environment reduces rate at which water must move up through the redwoods, thereby reducing the water demands that keep other plants from growing to such heights; drawing (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Clues To Redwoods' Mighty Growth Emerge in Fog"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAWSON, TODD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TREES AND SHRUBS"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "REDWOOD TREES"
+        },
+        {
+            "name": "subject",
+            "value": "FOG"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        }
+    ],
+    "pub_date": "1998-11-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Carol",
+                "middlename": "Kaesuk",
+                "lastname": "YOON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By CAROL KAESUK YOON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e6e78eb7c8105d7338ec",
+    "word_count": 1371,
+    "slideshow_credits": null
+}

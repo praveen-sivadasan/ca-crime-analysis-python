@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/06/weekinreview/nation-california-has-29-ballot-with-proliferation-ballot-initiatives-suddenly.html",
+    "snippet": "LEAD: HIRAM JOHNSON, leader of the California Progressive movement of the early 1900's, would probably agree that democracy has gotten a little out of hand this year. But he might argue that the crowded state ballot hardly reflects the direct demo...",
+    "lead_paragraph": "LEAD: HIRAM JOHNSON, leader of the California Progressive movement of the early 1900's, would probably agree that democracy has gotten a little out of hand this year. But he might argue that the crowded state ballot hardly reflects the direct democracy he espoused.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIA HAS 29 ON THE BALLOT: WITH PROLIFERATION OF BALLOT INITIATIVES, SUDDENLY EVERYONE'S INTEREST IS SPECIAL",
+        "kicker": "THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-11-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1995a8eb7c8105d6a9523",
+    "word_count": 1190,
+    "slideshow_credits": null
+}

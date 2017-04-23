@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/26/business/company-news-dual-effort-to-survive-by-glenfed.html",
+    "snippet": "GlenFed Inc., owner of Glendale Federal Bank in Glendale, Calif., the nation's fifth-largest savings and loan association, is fighting for its life.    Confronted by a California economy on the ropes and Federal regulators embarrassed by their fai...",
+    "lead_paragraph": "GlenFed Inc., owner of Glendale Federal Bank in Glendale, Calif., the nation's fifth-largest savings and loan association, is fighting for its life. Confronted by a California economy on the ropes and Federal regulators embarrassed by their failure to prevent widespread collapses in the savings industry, GlenFed is battling on two fronts.",
+    "abstract": null,
+    "print_page": "34",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Dual Effort To Survive By GlenFed",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GLENDALE FEDERAL BANK"
+        },
+        {
+            "name": "organizations",
+            "value": "GLENFED INC"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1992-09-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "QUINT"
+            }
+        ],
+        "original": "By MICHAEL QUINT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b79f8eb7c8105d6dea6a",
+    "word_count": 609,
+    "slideshow_credits": null
+}

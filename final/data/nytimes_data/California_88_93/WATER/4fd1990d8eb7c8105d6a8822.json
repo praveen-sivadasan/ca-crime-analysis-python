@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/18/business/technology-a-thirsty-california-is-trying-desalination.html",
+    "snippet": "FACING a possible fifth year of sustained drought, communities along the California coast are looking to desalinated ocean or bay water as a way to quench their thirst and water their lawns.    While most water districts are only looking at desali...",
+    "lead_paragraph": "FACING a possible fifth year of sustained drought, communities along the California coast are looking to desalinated ocean or bay water as a way to quench their thirst and water their lawns. While most water districts are only looking at desalination now because alternative sources are dry, advances in technology over the past few years have helped make seawater a competitive source for drinking water. As California's population growth continues to outstrip its water supply, communities are looking beyond the current drought and investigating desalination as a long-term solution.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Technology; A Thirsty California Is Trying Desalination"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        }
+    ],
+    "pub_date": "1990-11-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1990d8eb7c8105d6a8822",
+    "word_count": 1074,
+    "slideshow_credits": null
+}

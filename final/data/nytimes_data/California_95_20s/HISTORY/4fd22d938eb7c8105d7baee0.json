@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/01/01/news/reflections-los-angeles-usa-we-accepted-that-we-were-working-for-good-country.html",
+    "snippet": "Not so long ago, when people referred to immigrants in Southern California, they usually meant someone like John Fleetwood. Mr. Fleetwood, 80, came from Kansas City in 1939 to work in aircraft manufacturing. He climbed his way up to running the op...",
+    "lead_paragraph": "Not so long ago, when people referred to immigrants in Southern California, they usually meant someone like John Fleetwood. Mr. Fleetwood, 80, came from Kansas City in 1939 to work in aircraft manufacturing. He climbed his way up to running the operation that produced the Apollo command modules. His daughter has become the mayor of the town in which he lived for many years, Downey. He left when it started to become heavily populated by the next wave of immigrants, Hispanics.",
+    "abstract": "John Fleetwood recalls moving from Kansas City to Southern California in 1939 to work in aircraft manufacturing; Thuy Ti Nguyen, who left Vietnam when she was two and moved first to New Orleans and then to Oakland and Los Angeles, where she is studying law, describes her hopes for the future; photos; chronology of California's history since 1913 (M)",
+    "print_page": "48",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "'We Accepted That We Were Working for the Good of the Country'",
+        "kicker": "REFLECTIONS: LOS ANGELES, U.S.A."
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "NGUYEN, THUY TI"
+        },
+        {
+            "name": "persons",
+            "value": "FLEETWOOD, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HISTORY"
+        }
+    ],
+    "pub_date": "2000-01-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "The Millennium",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "Sterngold"
+            }
+        ],
+        "original": "By James Sterngold"
+    },
+    "type_of_material": "Chronology",
+    "_id": "4fd22d938eb7c8105d7baee0",
+    "word_count": 578,
+    "slideshow_credits": null
+}

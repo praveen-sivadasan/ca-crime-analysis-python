@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/19/weekinreview/the-nation-limiting-the-arms-that-citizens-may-bear.html",
+    "snippet": "LEAD: ACTIONS last week in California and Washington against assault rifles left the forces for and against gun control wondering whether the balance of power between them had shifted, perhaps opening the way for approval of other state and Federa...",
+    "lead_paragraph": "LEAD: ACTIONS last week in California and Washington against assault rifles left the forces for and against gun control wondering whether the balance of power between them had shifted, perhaps opening the way for approval of other state and Federal restrictions.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Limiting the Arms That Citizens May Bear",
+        "kicker": "THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "GUN CONTROL"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1989-03-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a2038eb7c8105d6b7d3d",
+    "word_count": 1026,
+    "slideshow_credits": null
+}

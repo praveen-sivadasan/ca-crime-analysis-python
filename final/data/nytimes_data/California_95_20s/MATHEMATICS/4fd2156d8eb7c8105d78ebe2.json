@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1997/12/14/us/in-new-math-standards-california-stresses-skills-over-analysis.html",
+    "snippet": "Seeking to quell a bitter dispute over how best to teach math, the California Board of Education has approved a set of standards for the state's public school students that emphasizes mastery of basic computational skills over the ability to analy...",
+    "lead_paragraph": "Seeking to quell a bitter dispute over how best to teach math, the California Board of Education has approved a set of standards for the state's public school students that emphasizes mastery of basic computational skills over the ability to analyze and solve intricate word problems. But the lengthy list of expectations for students in all grades, which was approved by the board in a unanimous vote on Thursday night, seems to have fanned the controversy.",
+    "abstract": "California Board of Education approves set of mathematical standards for state's public school students that emphasizes mastery of basic computational skills over ability to analyze and solve intricate word problems (M)",
+    "print_page": "43",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In New Math Standards, California Stresses Skills Over Analysis"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MATHEMATICS"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        }
+    ],
+    "pub_date": "1997-12-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jacques",
+                "rank": 1,
+                "lastname": "STEINBERG"
+            }
+        ],
+        "original": "By JACQUES STEINBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2156d8eb7c8105d78ebe2",
+    "word_count": 540,
+    "slideshow_credits": null
+}

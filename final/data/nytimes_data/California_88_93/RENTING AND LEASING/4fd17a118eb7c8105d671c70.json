@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/07/us/plan-for-oil-drilling-off-california-is-halted.html",
+    "snippet": "LEAD: Interior Secretary Donald Hodel today suspended plans to lease 1.1 million acres off the northern California coast for oil drilling....",
+    "lead_paragraph": "LEAD: Interior Secretary Donald Hodel today suspended plans to lease 1.1 million acres off the northern California coast for oil drilling.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Plan for Oil Drilling Off California Is Halted"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HODEL, DONALD P"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERIOR, DEPARTMENT OF THE"
+        },
+        {
+            "name": "subject",
+            "value": "OFFSHORE EXPLORATION AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "RENTING AND LEASING"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "EXPLORATION OF RESOURCES"
+        }
+    ],
+    "pub_date": "1988-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17a118eb7c8105d671c70",
+    "word_count": 510,
+    "slideshow_credits": null
+}

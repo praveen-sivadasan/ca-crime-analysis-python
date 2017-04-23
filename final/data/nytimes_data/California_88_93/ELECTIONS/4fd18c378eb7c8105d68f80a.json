@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/18/us/backers-fail-to-get-lethal-injection-bid-on-california-ballot.html",
+    "snippet": "LEAD: Backers of a measure that would allow the terminally ill patient to request a lethal injection from a physican have failed to gather enough signatures to place the measure on the November ballot in California....",
+    "lead_paragraph": "LEAD: Backers of a measure that would allow the terminally ill patient to request a lethal injection from a physican have failed to gather enough signatures to place the measure on the November ballot in California.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Backers Fail to Get Lethal Injection Bid On California Ballot"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DEATH"
+        },
+        {
+            "name": "subject",
+            "value": "MERCY DEATH (EUTHANASIA)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-05-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18c378eb7c8105d68f80a",
+    "word_count": 274,
+    "slideshow_credits": null
+}

@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/04/us/lawyer-pressing-insurance-battle.html",
+    "snippet": "LEAD: Harvey Rosenfield is still fighting his war....",
+    "lead_paragraph": "LEAD: Harvey Rosenfield is still fighting his war.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "LAWYER PRESSING INSURANCE BATTLE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ROSENFIELD, HARVY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-12-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1995d8eb7c8105d6a9719",
+    "word_count": 814,
+    "slideshow_credits": null
+}

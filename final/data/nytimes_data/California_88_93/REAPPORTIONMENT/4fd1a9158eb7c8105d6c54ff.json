@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/03/us/surgery-on-gop-was-deft-not-painless.html",
+    "snippet": "Some called it ruthless gerrymandering, others representative democracy in action. Either way, the reapportionment of California's Congressional districts a decade ago was a classic exercise of political power.   Just before that reapportionment, ...",
+    "lead_paragraph": "Some called it ruthless gerrymandering, others representative democracy in action. Either way, the reapportionment of California's Congressional districts a decade ago was a classic exercise of political power. Just before that reapportionment, the two parties were about even in Washington, with 22 Democrats and 21 Republicans. California gained two seats in Congress in the 1980 census, but the Republicans lost four seats after reapportionment. The new districts, some with bizarre loops, legs and zigzags, produced 28 Democrcats and 17 Republicans.",
+    "abstract": null,
+    "print_page": "28",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Surgery on G.O.P. Was Deft, Not Painless"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CONGRESS"
+        },
+        {
+            "name": "subject",
+            "value": "REAPPORTIONMENT"
+        }
+    ],
+    "pub_date": "1991-03-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9158eb7c8105d6c54ff",
+    "word_count": 433,
+    "slideshow_credits": null
+}

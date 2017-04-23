@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1997/02/15/us/california-flood-damage-may-exceed-1.8-billion.html",
+    "snippet": "Flood damage from California's New Year storms is likely to top $1.8 billion, Gov. Pete Wilson said on Thursday as he ordered a speed-up in levee repairs and the installation of new river-monitoring stations.    A special flood emergency action te...",
+    "lead_paragraph": "Flood damage from California's New Year storms is likely to top $1.8 billion, Gov. Pete Wilson said on Thursday as he ordered a speed-up in levee repairs and the installation of new river-monitoring stations. A special flood emergency action team established last month by Mr. Wilson issued a 30-day status report that identified hundreds of millions of dollars in losses across the northern and central parts of the state.",
+    "abstract": "Gov Pete Wilson says flood damage from California's New Year storms is likely to exceed $1.8 billion; orders speed-up in levee repairs (S)",
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "California Flood Damage May Exceed $1.8 Billion",
+        "kicker": "National News Briefs"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1997-02-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1cd7a8eb7c8105d70488e",
+    "word_count": 120,
+    "slideshow_credits": null
+}

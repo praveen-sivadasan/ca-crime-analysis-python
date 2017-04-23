@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/04/us/california-educators-assert-lottery-has-failed-to-pay-off-for-the-schools.html",
+    "snippet": "LEAD: The California lottery has created many big winners, but the public school system has yet to hit the jackpot....",
+    "lead_paragraph": "LEAD: The California lottery has created many big winners, but the public school system has yet to hit the jackpot.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Educators Assert Lottery Has Failed to Pay Off for the Schools"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "LOTTERIES"
+        }
+    ],
+    "pub_date": "1988-10-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Louis",
+                "rank": 1,
+                "lastname": "FREEDBERG"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By LOUIS FREEDBERG, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17de48eb7c8105d6783bd",
+    "word_count": 1055,
+    "slideshow_credits": null
+}

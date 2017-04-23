@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/09/health/a-new-mental-disorder-appears-in-abuse-cases.html",
+    "snippet": "In a complaint last month against a woman who was once honored at the White House for her work with children, the California Department of Social Services described how three children in her care had died, suffering heart attacks or suffocating fr...",
+    "lead_paragraph": "In a complaint last month against a woman who was once honored at the White House for her work with children, the California Department of Social Services described how three children in her care had died, suffering heart attacks or suffocating from overdoses of medication. The state's complaint, based on a confidential medical report, accuses Yvonne Eldridge, 40 years old, of Walnut Creek, of causing or contributing to the deaths of the three children and of harming others.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A New Mental Disorder Appears in Abuse Cases"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ELDRIDGE, YVONNE"
+        },
+        {
+            "name": "subject",
+            "value": "MUNCHAUSEN'S SYNDROME"
+        },
+        {
+            "name": "subject",
+            "value": "CHILD ABUSE"
+        },
+        {
+            "name": "subject",
+            "value": "FOSTER CARE"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        }
+    ],
+    "pub_date": "1992-10-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": null,
+    "section_name": "Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maureen",
+                "rank": 1,
+                "lastname": "BALLEZA"
+            }
+        ],
+        "original": "By MAUREEN BALLEZA"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b79e8eb7c8105d6de943",
+    "word_count": 1200,
+    "slideshow_credits": null
+}

@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/10/business/the-soul-of-the-ultimate-machine.html",
+    "snippet": "THE Silicon Valley crowd that assembled last week in a San Francisco airport hotel had come to hear about mobile electronic commerce, a most immediate concern for people who spend many of their waking hours thinking about whether their latest e-bu...",
+    "lead_paragraph": "THE Silicon Valley crowd that assembled last week in a San Francisco airport hotel had come to hear about mobile electronic commerce, a most immediate concern for people who spend many of their waking hours thinking about whether their latest e-business solution will merit venture capital dollars. They learned about something very different.",
+    "abstract": "Dr Larry Smarr, one of world's most respected computer technologists, says Internet is evolving into single vast computer fashioned out of billions of interconnected processors; will head California Institute of Telecommunications and Information Technology, new state-financed research academy that will focus on engineering new types of sensors, creating advanced digital wireless Internet and designing new class of distributed-computing machines; institute will also work on applying those technologies in various fields; chronology of Smarr's career; photos (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Soul of the Ultimate Machine"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SMARR, LARRY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA INSTITUTE OF TELECOMMUNICATIONS AND INFORMATION TECH"
+        },
+        {
+            "name": "subject",
+            "value": "APPOINTMENTS AND EXECUTIVE CHANGES"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+        }
+    ],
+    "pub_date": "2000-12-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Money and Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "John",
+                "rank": 1,
+                "lastname": "MARKOFF"
+            }
+        ],
+        "original": "By JOHN MARKOFF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd22d3d8eb7c8105d7ba03b",
+    "word_count": 2446,
+    "slideshow_credits": null
+}

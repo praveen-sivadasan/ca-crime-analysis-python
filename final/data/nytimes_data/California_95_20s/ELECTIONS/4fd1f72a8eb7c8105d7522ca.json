@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1997/12/20/us/national-news-briefs-no-indictments-brought-in-california-vote-query.html",
+    "snippet": "A grand jury declined to return indictments in an investigation into illegal voting in last year's upset of Representative Bob Dornan, Republican of California, by a Democratic newcomer, Loretta Sanchez.    A 984-vote loser in his bid for a 10th t...",
+    "lead_paragraph": "A grand jury declined to return indictments in an investigation into illegal voting in last year's upset of Representative Bob Dornan, Republican of California, by a Democratic newcomer, Loretta Sanchez. A 984-vote loser in his bid for a 10th term, Mr. Dornan maintained that there was voter fraud and asked the House of Representatives to call a new election. The House investigation has been inconclusive, and the legislators have put the question off until they return next year.",
+    "abstract": "Grand jury declines to return indictments in an investigation into illegal voting in last year's upset of Repr Bob Dornan, California Republican, by Democratic newcomer, Loretta Sanchez; Dornan had charged there was voter fraud (S)",
+    "print_page": "10",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; No Indictments Brought In California Vote Query"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SANCHEZ, LORETTA"
+        },
+        {
+            "name": "persons",
+            "value": "DORNAN, ROBERT K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1997-12-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f72a8eb7c8105d7522ca",
+    "word_count": "114",
+    "slideshow_credits": null
+}

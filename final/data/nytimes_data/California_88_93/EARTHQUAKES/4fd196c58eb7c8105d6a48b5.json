@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/california-quake-southern-california-los-angeles-residents-face-their-peril.html",
+    "snippet": "LEAD: Psychic tremors from the San Francisco earthquake are rattling in Los Angeles, where people are engaged in a flurry of preparations for ''the big one'' they usually prefer not to think about....",
+    "lead_paragraph": "LEAD: Psychic tremors from the San Francisco earthquake are rattling in Los Angeles, where people are engaged in a flurry of preparations for ''the big one'' they usually prefer not to think about.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Los Angeles Residents Face Their Peril, Briefly",
+        "kicker": "THE CALIFORNIA QUAKE: SOUTHERN CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "LOS ANGELES (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd196c58eb7c8105d6a48b5",
+    "word_count": 859,
+    "slideshow_credits": null
+}

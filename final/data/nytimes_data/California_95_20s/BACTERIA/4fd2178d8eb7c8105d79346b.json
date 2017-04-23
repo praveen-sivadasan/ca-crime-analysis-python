@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/2000/07/12/dining/wine-talk-feasting-lethally-on-california-s-vineyards.html",
+    "snippet": "THE big news in the California wine country two years ago was the victorious conclusion to the 15-year, multimillion-dollar war against phylloxera, a parasite killer that eventually wiped out some 50,000 acres of  prime California vineyard land.  ...",
+    "lead_paragraph": "THE big news in the California wine country two years ago was the victorious conclusion to the 15-year, multimillion-dollar war against phylloxera, a parasite killer that eventually wiped out some 50,000 acres of prime California vineyard land. The diseased vines were uprooted and burned and new ones planted, at enormous cost. One winemaker, the Robert Mondavi Winery in the Napa Valley, reported that replanting its vineyards cost $50 million.",
+    "abstract": "Pierce's diease, bacterium spread by tiny insect called the glassy-winged sharpshooter, is killing grapevines in California's southernmost vineyards and is spreading northward with astonishing speed and frightening results; there is no known cure; several prominent wineries have been forced to shut down vineyards or parts of vineyards; photo (M)",
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Feasting Lethally on California's Vineyards",
+        "kicker": "WINE TALK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PIERCE'S DISEASE"
+        },
+        {
+            "name": "subject",
+            "value": "GLASSY-WINGED SHARPSHOOTER (INSECT)"
+        },
+        {
+            "name": "subject",
+            "value": "BACTERIA"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "2000-07-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Dining and Wine; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2178d8eb7c8105d79346b",
+    "word_count": 951,
+    "slideshow_credits": null
+}

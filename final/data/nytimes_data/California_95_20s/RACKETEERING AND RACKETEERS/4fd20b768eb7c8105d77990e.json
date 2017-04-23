@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1999/03/14/us/mexican-mob-in-california-is-the-target-of-prosecutors.html",
+    "snippet": "As guilty verdicts were read, over and over, in the racketeering prosecution two years ago of the prison gang known as la Eme, a pattern emerged: one defendant, Victor Murillo, was being acquitted of all counts. His co-defendants cheered and ultim...",
+    "lead_paragraph": "As guilty verdicts were read, over and over, in the racketeering prosecution two years ago of the prison gang known as la Eme, a pattern emerged: one defendant, Victor Murillo, was being acquitted of all counts. His co-defendants cheered and ultimately, he was the only one of 13 men on trial to be set free. But last month, Mr. Murillo's name surfaced again, as Federal prosecutors filed two new indictments against 27 suspected members of la Eme (so named for the Spanish pronunciation of the letter M). That time, however, Mr. Murillo was a murder victim.",
+    "abstract": "Federal prosecutors file two new indictments aginst 27 suspected members of la Eme, which is known as the Mexican Mafia and is one of California's oldest and still most powerful prison gangs; Victor Murillo, who was acquitted in an previous trial of gang members, is one of the murder victims cited in new indictment (M)",
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Mexican Mob In California Is the Target Of Prosecutors"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MURILLO, VICTOR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LA EME"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "MEXICAN-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "RACKETEERING AND RACKETEERS"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        }
+    ],
+    "pub_date": "1999-03-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christian",
+                "rank": 1,
+                "lastname": "BERTHELSEN"
+            }
+        ],
+        "original": "By CHRISTIAN BERTHELSEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20b768eb7c8105d77990e",
+    "word_count": 671,
+    "slideshow_credits": null
+}

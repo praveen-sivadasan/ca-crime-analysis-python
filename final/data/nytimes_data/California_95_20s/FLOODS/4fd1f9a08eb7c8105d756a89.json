@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/09/us/hundreds-flee-northern-california-floods.html",
+    "snippet": "Hundreds of residents were evacuated today along three rivers that were rapidly rising after a string of drenching, blustery storms.   The Russian River near Guerneville, about 60 miles northwest of San Francisco, reached flood stage of 32 feet by...",
+    "lead_paragraph": "Hundreds of residents were evacuated today along three rivers that were rapidly rising after a string of drenching, blustery storms. The Russian River near Guerneville, about 60 miles northwest of San Francisco, reached flood stage of 32 feet by this afternoon. It was expected to rise to 49 feet.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Hundreds Flee Northern California Floods"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-01-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f9a08eb7c8105d756a89",
+    "word_count": "197",
+    "slideshow_credits": null
+}

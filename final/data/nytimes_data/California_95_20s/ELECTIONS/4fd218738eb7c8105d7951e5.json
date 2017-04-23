@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1998/05/31/us/confidence-runs-high-for-popular-california-senator.html",
+    "snippet": "Barbara Boxer has spent much of her political career defying the odds. When she first ran for the Senate in 1992 after representing the progressive Bay Area in the House of Representatives for 10 years, she was dismissed as too liberal, too paroch...",
+    "lead_paragraph": "Barbara Boxer has spent much of her political career defying the odds. When she first ran for the Senate in 1992 after representing the progressive Bay Area in the House of Representatives for 10 years, she was dismissed as too liberal, too parochial, too out of step with voters statewide. Her victory was a squeaker, and the morning after, the naysayers began predicting her demise after one term.",
+    "abstract": "Sen Barbara Boxer of California is running for re-election with 44 percent approval rating from voters in Field Poll; analysts say Boxer is buoyed by relative anonymity of her Republican challengers and her unquestionable skills as campaigner; she is considered one of Senate's most liberal voices, point that will be used against her by her Republican challengers, Matt Fong, State Treasurer, and Darrell Issa, businessman; photo (M)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Confidence Runs High for Popular California Senator"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FONG, MATT"
+        },
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "persons",
+            "value": "ISSA, DARRELL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "FIELD POLL"
+        }
+    ],
+    "pub_date": "1998-05-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Frank",
+                "rank": 1,
+                "lastname": "BRUNI"
+            }
+        ],
+        "original": "By FRANK BRUNI"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd218738eb7c8105d7951e5",
+    "word_count": 1233,
+    "slideshow_credits": null
+}

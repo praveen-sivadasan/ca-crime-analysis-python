@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/10/us/california-s-high-court-broadens-use-of-illegally-obtained-evidence.html",
+    "snippet": "LEAD: The California Supreme Court has ruled that statements by suspects that were illegally obtained by the police may be admitted as evidence if the suspects choose to testify at their trial. The decision upset longstanding rules barring the use...",
+    "lead_paragraph": "LEAD: The California Supreme Court has ruled that statements by suspects that were illegally obtained by the police may be admitted as evidence if the suspects choose to testify at their trial. The decision upset longstanding rules barring the use of illegally seized evidence in criminal trials in the state.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's High Court Broadens Use of Illegally Obtained Evidence"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SELF-INCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "TRIALS"
+        },
+        {
+            "name": "subject",
+            "value": "CONFESSIONS"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1988-02-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18ba48eb7c8105d68e941",
+    "word_count": 554,
+    "slideshow_credits": null
+}

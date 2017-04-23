@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/17/us/killer-of-7-gets-penalty-of-death.html",
+    "snippet": "A jury today sentenced a winery worker to die in the San Quentin gas chamber for the 1989 slayings of his wife, two of their children, three in-laws and his boss.    The man, Ramon Salcido, showed no reaction when an interpreter told him the jury'...",
+    "lead_paragraph": "A jury today sentenced a winery worker to die in the San Quentin gas chamber for the 1989 slayings of his wife, two of their children, three in-laws and his boss. The man, Ramon Salcido, showed no reaction when an interpreter told him the jury's verdict, although one juror wept as the sentence was read. Formal sentencing was scheduled for Dec. 17.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "KILLER OF 7 GETS PENALTY OF DEATH"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SALCIDO, RAMON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1990-11-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b2388eb7c8105d6d5296",
+    "word_count": 404,
+    "slideshow_credits": null
+}

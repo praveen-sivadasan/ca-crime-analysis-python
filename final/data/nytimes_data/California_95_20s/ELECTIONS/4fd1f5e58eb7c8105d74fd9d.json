@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1996/11/04/opinion/science-votes-no-on-california-s-marijuana-plan.html",
+    "snippet": "To the Editor:    Your Oct. 30 news article on Proposition 215, the California ballot initiative that would make the medical use of marijuana legal, misses the point....",
+    "lead_paragraph": "To the Editor: Your Oct. 30 news article on Proposition 215, the California ballot initiative that would make the medical use of marijuana legal, misses the point.",
+    "abstract": "Dr Mitchell S Rosenthal letter on Oct 30 article on California ballot initiative to legalize medical use of marijuana (S)",
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Science Votes No on California's Marijuana Plan"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ROSENTHAL, MITCHELL S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "MARIJUANA"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1996-11-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1f5e58eb7c8105d74fd9d",
+    "word_count": 221,
+    "slideshow_credits": null
+}

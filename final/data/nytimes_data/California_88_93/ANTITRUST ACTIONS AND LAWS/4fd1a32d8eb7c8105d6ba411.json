@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/17/business/company-news-san-diego-gas-merger-canceled.html",
+    "snippet": "The Southern California Edison Company and the San Diego Gas and Electric Company said that they had canceled their merger agreement, eight days after California regulators rejected the deal on the ground that it was anti-competitive. Southern Cal...",
+    "lead_paragraph": "The Southern California Edison Company and the San Diego Gas and Electric Company said that they had canceled their merger agreement, eight days after California regulators rejected the deal on the ground that it was anti-competitive. Southern California Edison, a unit of the SCEcorp, said that it had reviewed the California Public Utilities Commission's rejection of the merger and decided not to appeal.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "San Diego Gas Merger Canceled",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTHERN CALIFORNIA EDISON CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN DIEGO GAS & ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "1991-05-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a32d8eb7c8105d6ba411",
+    "word_count": 155,
+    "slideshow_credits": null
+}

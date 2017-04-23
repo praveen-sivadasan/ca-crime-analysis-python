@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/12/business/company-news-california-bank-merger.html",
+    "snippet": "The California Attorney General's office said today that it had cleared the proposed merger of the BankAmerica Corporation and the Security Pacific Corporation after BankAmerica agreed to sell 52 branches in California with more than $2 billion of...",
+    "lead_paragraph": "The California Attorney General's office said today that it had cleared the proposed merger of the BankAmerica Corporation and the Security Pacific Corporation after BankAmerica agreed to sell 52 branches in California with more than $2 billion of deposits. The proposed merger of San Francisco-based BankAmerica and Los Angeles-based Security Pacific would be the largest such deal in the history of the industry. There are concerns that the merger might harm competition in banking in the West.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "California Bank Merger",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BANKAMERICA CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "SECURITY PACIFIC CORP"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1992-03-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b1fc8eb7c8105d6d4d6e",
+    "word_count": 183,
+    "slideshow_credits": null
+}

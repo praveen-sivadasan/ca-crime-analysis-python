@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/22/us/the-1992-campaign-media-campaign-in-california-little-but-commercials.html",
+    "snippet": "From the state that brought you Jane Fonda, water bars and brown rice risotto comes a new, potentially alarming trend: the stump-free campaign.   California has a primary election coming up in less than two weeks, and a historic one at that, with ...",
+    "lead_paragraph": "From the state that brought you Jane Fonda, water bars and brown rice risotto comes a new, potentially alarming trend: the stump-free campaign. California has a primary election coming up in less than two weeks, and a historic one at that, with two open United States Senate seats. But you wouldn't know it from following many of the candidates around. They don't hold campaign rallies or make speeches or attend Kiwanis club luncheons. In fact, some of them don't even bother to put out campaign schedules.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Media; Campaign in California: Little but Commercials"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1992-05-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Elizabeth",
+                "rank": 1,
+                "lastname": "KOLBERT"
+            }
+        ],
+        "original": "By ELIZABETH KOLBERT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19fbf8eb7c8105d6b3e13",
+    "word_count": 797,
+    "slideshow_credits": null
+}

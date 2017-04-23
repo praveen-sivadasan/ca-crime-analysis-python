@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/16/us/the-1992-campaign-democrats-clinton-directs-his-restored-voice-straight-at-bush.html",
+    "snippet": "After nursing strained vocal cords for a week, Gov. Bill Clinton of Arkansas returned to the campaign trail today, trying to claim the high ground in the contest for the Democratic Presidential nomination. He also sharpened his criticism of Presid...",
+    "lead_paragraph": "After nursing strained vocal cords for a week, Gov. Bill Clinton of Arkansas returned to the campaign trail today, trying to claim the high ground in the contest for the Democratic Presidential nomination. He also sharpened his criticism of President Bush, whom he accused of a \"grandstand play\" on labor issues. In campaign appearances here and in San Francisco, Mr. Clinton all but ignored Edmund G. Brown Jr., the former California Governor who remains his chief opponent for the nomination. Mr. Clinton said victories in New York, Wisconsin and Kansas \"satisfied\" him that voters had rejected Mr. Brown's tax simplification proposal.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Democrats; Clinton Directs His Restored Voice Straight at Bush"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, JERRY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-04-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Gwen",
+                "rank": 1,
+                "lastname": "IFILL"
+            }
+        ],
+        "original": "By GWEN IFILL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b5048eb7c8105d6da21f",
+    "word_count": 816,
+    "slideshow_credits": null
+}

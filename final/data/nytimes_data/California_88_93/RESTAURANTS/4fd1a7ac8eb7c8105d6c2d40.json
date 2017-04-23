@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/23/business/company-news-sale-by-marriott.html",
+    "snippet": "The Marriott Corporation agreed to sell 120 coffee shops it owns in California to a privately held restaurant company for $65 million. The restaurants, Bob's Big Boy and Allie's, are being sold to the Restaurant Enterprises Group of Irvine, Calif....",
+    "lead_paragraph": "The Marriott Corporation agreed to sell 120 coffee shops it owns in California to a privately held restaurant company for $65 million. The restaurants, Bob's Big Boy and Allie's, are being sold to the Restaurant Enterprises Group of Irvine, Calif., which operates 514 restaurants in 26 states.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sale by Marriott",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "RESTAURANT ENTERPRISES GROUP"
+        },
+        {
+            "name": "organizations",
+            "value": "MARRIOTT CORP"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "RESTAURANTS"
+        }
+    ],
+    "pub_date": "1991-01-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7ac8eb7c8105d6c2d40",
+    "word_count": 49,
+    "slideshow_credits": null
+}

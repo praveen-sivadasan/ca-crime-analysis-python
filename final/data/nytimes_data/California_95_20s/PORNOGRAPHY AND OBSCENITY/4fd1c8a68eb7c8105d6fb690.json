@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/04/20/us/anti-smut-law-is-stalled.html",
+    "snippet": "Attorney General Daniel E. Lungren of California has said he will obey a judge's order to stop enforcing a law intended to curb sales of adult publications to minors....",
+    "lead_paragraph": "Attorney General Daniel E. Lungren of California has said he will obey a judge's order to stop enforcing a law intended to curb sales of adult publications to minors.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Anti-Smut Law Is Stalled"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUNGREN, DANIEL E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "MAGAZINES"
+        },
+        {
+            "name": "subject",
+            "value": "PORNOGRAPHY AND OBSCENITY"
+        }
+    ],
+    "pub_date": "1995-04-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c8a68eb7c8105d6fb690",
+    "word_count": 29,
+    "slideshow_credits": null
+}

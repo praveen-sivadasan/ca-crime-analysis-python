@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/30/us/in-step-toward-budget-california-assembly-backs-tax-increases.html",
+    "snippet": "In a major breakthrough in long-stalled negotiations to close a $14.3 billion budget gap, the California Assembly passed large tax increases late Friday night and cut payments to families on welfare.   The actions, which include increases in sales...",
+    "lead_paragraph": "In a major breakthrough in long-stalled negotiations to close a $14.3 billion budget gap, the California Assembly passed large tax increases late Friday night and cut payments to families on welfare. The actions, which include increases in sales and alcohol taxes and in motor-vehicle fees, still leave California $2 billion to $3 billion away from a balanced budget for the 1992 fiscal year, with a deadline of midnight Sunday. But Gov. Pete Wilson, who had faced a tax rebellion among fellow Republicans in the Assembly, said this afternoon that he was pleased by the actions and that he had received most of what he had asked for from the Democratic-controlled Legislature.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "In Step Toward Budget, California Assembly Backs Tax Increases"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "INCOME TAX"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1991-06-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cfb18eb7c8105d7086ff",
+    "word_count": 723,
+    "slideshow_credits": null
+}

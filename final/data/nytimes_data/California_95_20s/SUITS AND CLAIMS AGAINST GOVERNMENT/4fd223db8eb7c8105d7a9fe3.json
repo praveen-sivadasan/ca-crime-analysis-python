@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1999/04/17/us/california-governor-ducked-immigrant-feud-some-say.html",
+    "snippet": "A day after Gov. Gray Davis asked a Federal appeals court to mediate a dispute over a ballot measure that would end government services to illegal immigrants and their children, some advocates for immigrants expressed their dismay, contending that...",
+    "lead_paragraph": "A day after Gov. Gray Davis asked a Federal appeals court to mediate a dispute over a ballot measure that would end government services to illegal immigrants and their children, some advocates for immigrants expressed their dismay, contending that the Governor had taken the easy way out. ''We are disappointed in the Governor's decision,'' Genethia Hayes, executive director of the Greater Los Angeles Southern Christian Leadership Conference and a Davis supporter, said today. ''This is a way for him not to really have to make a tough decision, and making tough decisions is why we worked so hard to get him elected.''",
+    "abstract": "Advocates for immigrants criticize California Gov Gray Davis for asking US appeals court to mediate dispute over ballot measure that would end government services to illegal immigrants; measure, Proposition 187, passed by nearly 60 percent of vote in 1994, although 77 percent of Hispanic voters and over 50 percent of blacks voted against it; opponents of measure sued almost as soon as polls closed, and it has been tied up in court ever since (M)",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Governor Ducked Immigrant Feud, Some Say"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 187 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1999-04-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Don",
+                "rank": 1,
+                "lastname": "TERRY"
+            }
+        ],
+        "original": "By DON TERRY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd223db8eb7c8105d7a9fe3",
+    "word_count": 791,
+    "slideshow_credits": null
+}

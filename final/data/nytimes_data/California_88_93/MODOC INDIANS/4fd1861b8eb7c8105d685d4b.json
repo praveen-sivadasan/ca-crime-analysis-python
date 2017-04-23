@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/27/travel/where-eagles-soar.html",
+    "snippet": "LEAD: ON a visit to a Modoc Indian battle site in northeastern California late last February, an unseasonably warm day on which the snow had melted, the air was thick with the pungent scent of sagebrush. Gleaming black lizards darted between cleft...",
+    "lead_paragraph": "LEAD: ON a visit to a Modoc Indian battle site in northeastern California late last February, an unseasonably warm day on which the snow had melted, the air was thick with the pungent scent of sagebrush. Gleaming black lizards darted between clefts in the rocks. To the northwest, beyond the peaceful, dreaming waters of Tule Lake, the white cone of Mount Shasta shone in the clear light; in the middle distance, leaping fingers of flame edged by black smoke rose from the fields of horseradish farmers burning stubble left over from pasture of the year before.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Where Eagles Soar"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "MODOC INDIANS"
+        }
+    ],
+    "pub_date": "1988-11-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Travel",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Cheryll",
+                "middlename": "Aimee",
+                "lastname": "BARRON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By CHERYLL AIMEE BARRON; CHERYLL AIMEE BARRON is a writer who lives in Sausalito, Calif"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1861b8eb7c8105d685d4b",
+    "word_count": 2503,
+    "slideshow_credits": null
+}

@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/01/us/black-and-hispanic-admissions-off-sharply-at-u-of-california.html",
+    "snippet": "In a demonstration of the impact of California's referendum that banned the use of race and ethnicity in college admissions, the state's most competitive public universities today announced steep drops in admissions of black and Hispanic applicant...",
+    "lead_paragraph": "In a demonstration of the impact of California's referendum that banned the use of race and ethnicity in college admissions, the state's most competitive public universities today announced steep drops in admissions of black and Hispanic applicants for next fall's freshman class. At the University of California at Berkeley, the most selective public university in the country, African-Americans, Hispanic Americans and American Indians together made up 10.4 percent of the admitted freshmen for 1998; in 1997, they made up 23.1 percent. At the University of California at Los Angeles, representation by these groups fell to 12.7 percent, from 19.8 percent last year.",
+    "abstract": "Universities of California at Berkeley and Los Angeles, in demonstration of impact of referendum that banned use of race and ethnicity in college admissions, announce steep drops in admissions of black and Hispanic applicants for next fall's freshman class; African-Americans, Hispanic Americans and American Indians made up 10.4 percent of admitted freshmen at Berkeley campus in 1998; they made up 23.1 percent in 1997; representation by these groups fell to 12.7 percent at UCLA from 19.8 percent last year; photos (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Black and Hispanic Admissions Off Sharply at U. of California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "INDIANS, AMERICAN"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKS"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "ENROLLMENT"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-04-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Ethan",
+                "rank": 1,
+                "lastname": "BRONNER"
+            }
+        ],
+        "original": "By ETHAN BRONNER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd217bb8eb7c8105d793689",
+    "word_count": 1608,
+    "slideshow_credits": null
+}

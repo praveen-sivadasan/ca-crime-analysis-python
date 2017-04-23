@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1996/08/11/weekinreview/vengeance-for-polly.html",
+    "snippet": "There were all sorts of small things that drew public attention to the killing of Polly Klaas. Her quiet, suburban hometown of Petaluma, Calif., had been seen in the movie ''American Graffiti.'' The actress Winona Ryder had grown up there, too, an...",
+    "lead_paragraph": "There were all sorts of small things that drew public attention to the killing of Polly Klaas. Her quiet, suburban hometown of Petaluma, Calif., had been seen in the movie ''American Graffiti.'' The actress Winona Ryder had grown up there, too, and joined in the search after Polly was taken at knifepoint from a slumber party at her home. And there was always the shy, innocent smile of a 12-year-old girl that kept connecting to people for weeks after she was kidnapped in October 1993 and for months after her body was found. When jurors decided the fate of Polly's confessed killer last week, they, too, seemed to have had that photographed smile in mind.",
+    "abstract": "Death sentence for Richard Allen Davis for murder of Polly Klaas in California noted; her photo (S)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Vengeance for Polly",
+        "kicker": "August 4-10"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KLAAS, POLLY"
+        },
+        {
+            "name": "persons",
+            "value": "DAVIS, RICHARD ALLEN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1996-08-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f6798eb7c8105d750e69",
+    "word_count": 220,
+    "slideshow_credits": null
+}

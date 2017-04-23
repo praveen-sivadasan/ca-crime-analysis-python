@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/28/opinion/a-louder-voice-for-the-largest-state.html",
+    "snippet": "LEAD: In Presidential elections, California is regarded as a showdown state. But in Presidential primaries, Calfornia hardly shows up. The reason the most populous state has so little to say about who runs is simple: California's primary is held i...",
+    "lead_paragraph": "LEAD: In Presidential elections, California is regarded as a showdown state. But in Presidential primaries, Calfornia hardly shows up. The reason the most populous state has so little to say about who runs is simple: California's primary is held in June, after nearly all other states have voted and the race in both parties has largely been decided.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Louder Voice for the Largest State"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTIONS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-08-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd1baf08eb7c8105d6e550d",
+    "word_count": 450,
+    "slideshow_credits": null
+}

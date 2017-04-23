@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/13/us/five-indicted-for-insurance-fraud-in-california.html",
+    "snippet": "In what prosecutors said was one of the largest cases of insurance fraud, a Federal grand jury today indicted five California residents, including two doctors, on charges of trying to bilk insurers of more than $1 billion by filing falsified medic...",
+    "lead_paragraph": "In what prosecutors said was one of the largest cases of insurance fraud, a Federal grand jury today indicted five California residents, including two doctors, on charges of trying to bilk insurers of more than $1 billion by filing falsified medical claims. Prosecutors said the four men and one woman had been charged with luring thousands of people into medical clinics in Southern California, primarily through phone calls from sales agents promising free or very inexpensive medical tests. Operating Since 1984 The indictment charged that patients would undergo a battery of diagnostic examinations, including blood, urine and allergy tests, regardless of their medical condition or need for tests, and often before being examined by a doctor.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Five Indicted for Insurance Fraud in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1991-06-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c41e8eb7c8105d6f36d4",
+    "word_count": 363,
+    "slideshow_credits": null
+}

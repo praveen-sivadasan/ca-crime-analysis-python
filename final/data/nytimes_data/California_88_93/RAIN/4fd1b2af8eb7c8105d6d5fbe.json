@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/16/us/another-storm-faced-down-in-west.html",
+    "snippet": "Surrounded by walls of soggy sandbags, fast-rushing creeks and, in some places, floating furniture, Southern Californians congratulated themselves today on facing down yet another major rainstorm.   \"We feel now we can put up with practically anyt...",
+    "lead_paragraph": "Surrounded by walls of soggy sandbags, fast-rushing creeks and, in some places, floating furniture, Southern Californians congratulated themselves today on facing down yet another major rainstorm. \"We feel now we can put up with practically anything,\" said Caroline Mirano of Topanga Canyon, just north of Los Angeles. In recent months she has also lived through some of the other caprices of nature that California has to offer: earthquakes, drought and brushfires.",
+    "abstract": null,
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Another Storm Faced Down in West"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        }
+    ],
+    "pub_date": "1992-02-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b2af8eb7c8105d6d5fbe",
+    "word_count": 596,
+    "slideshow_credits": null
+}

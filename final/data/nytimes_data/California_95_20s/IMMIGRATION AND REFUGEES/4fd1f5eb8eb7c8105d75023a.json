@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1996/11/01/opinion/undertow-for-the-gop.html",
+    "snippet": "Just as California's Proposition 13 in 1978 ushered in the anti-tax wave Republicans have ridden to this day, the state's backlash against immigration and affirmative action was supposed to energize enough ''angry white men'' to bury Democrats for...",
+    "lead_paragraph": "Just as California's Proposition 13 in 1978 ushered in the anti-tax wave Republicans have ridden to this day, the state's backlash against immigration and affirmative action was supposed to energize enough ''angry white men'' to bury Democrats for a decade. But these so-called wedge issues are not helping Republican Congressional candidates here. In fact, they're laying the groundwork for erosion of the Republican base in the nation's pivotal electoral state. Blame Pete Wilson and Newt Gingrich. Republican strategists misread the meaning of Mr. Wilson's come-from-behind romp over Kathleen Brown in the 1994 race for Governor. Yes, Mr. Wilson's disciplined campaign, tied to Proposition 187's call for ending government benefits to illegal immigrants, was effective. But lost amid the excitement was the fact that Ms. Brown's own weaknesses were more decisive.",
+    "abstract": "Matthew Miller Op-Ed column contends that California's backlash against immigration and affirmative action was supposed to energize enough 'angry white men' to bury Democrats for decade; maintains that these so-called wedge issues are not helping Republican Congressional candidates in California; asserts that opposition to Proposition 209, which would bar state and local governments from using quotas or preferences based on race, ethnicity and sex, has risen since Bob Dole and GOP embraced it (M)",
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Undertow for the G.O.P."
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "QUOTAS"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 209 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-11-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Matthew",
+                "rank": 1,
+                "lastname": "Miller"
+            }
+        ],
+        "original": "By Matthew Miller"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1f5eb8eb7c8105d75023a",
+    "word_count": 558,
+    "slideshow_credits": null
+}

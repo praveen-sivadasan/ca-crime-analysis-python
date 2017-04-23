@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1998/07/16/us/california-cleared-to-end-bilingualism.html",
+    "snippet": "A Federal judge today refused to block enforcement of the statewide ballot measure that ended most bilingual education programs in the California public schools, clearing the way for the new policy to be carried out when classes start in a few wee...",
+    "lead_paragraph": "A Federal judge today refused to block enforcement of the statewide ballot measure that ended most bilingual education programs in the California public schools, clearing the way for the new policy to be carried out when classes start in a few weeks. ''Proposition 227 may go into effect, of course subject to review of my decision by a higher court,'' said Judge Charles Legge of Federal District Court in San Francisco, referring to the ballot proposal that passed by 61 percent to 39 percent last month. The measure calls for a radical overhaul of how schools teach students with limited English proficiency, essentially ending dual-language instruction in favor of one year of English immersion before students are shifted into regular classes.",
+    "abstract": "Judge Charles Legge refuses to block enforcement of statewide ballot measure ending most bilingual education programs in California public schools (M)",
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Cleared to End Bilingualism"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LEGGE, CHARLES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BILINGUAL EDUCATION"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-07-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fe058eb7c8105d75e895",
+    "word_count": 767,
+    "slideshow_credits": null
+}

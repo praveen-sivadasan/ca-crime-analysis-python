@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/07/nyregion/c-corrections-569275.html",
+    "snippet": "A transcript by The Associated Press on Tuesday for the decision by Judge N. Sanders Sauls in Leon County, Fla., and a front-page article based on it, rendered a phrase incorrectly in his closing reference to the Gore campaign's case against state...",
+    "lead_paragraph": "A transcript by The Associated Press on Tuesday for the decision by Judge N. Sanders Sauls in Leon County, Fla., and a front-page article based on it, rendered a phrase incorrectly in his closing reference to the Gore campaign's case against state and county authorities over certifying the election results. The judge said the plaintiffs ''shall take nothing by this action and the defendants may go hence without day'' -- that is, without the setting of a new meeting date. He did not say ''without delay.''",
+    "abstract": "Correction of Dec 2 article on proposed remedies for California's energy prolems, which referred incorrectly to 1988 voter initiative",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "2000-12-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd20bbe8eb7c8105d77a527",
+    "word_count": 86,
+    "slideshow_credits": null
+}

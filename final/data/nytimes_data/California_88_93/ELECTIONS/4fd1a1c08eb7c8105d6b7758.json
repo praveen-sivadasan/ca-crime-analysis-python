@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/09/us/long-california-ballot-creates-timely-debate.html",
+    "snippet": "LEAD: Because California has one of the longest ballots in state history this year, several counties had said before the election they would enforce a 1919 state law limiting each voter to 10 minutes in the voting booth....",
+    "lead_paragraph": "LEAD: Because California has one of the longest ballots in state history this year, several counties had said before the election they would enforce a 1919 state law limiting each voter to 10 minutes in the voting booth.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Long California Ballot Creates Timely Debate"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1988-11-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a1c08eb7c8105d6b7758",
+    "word_count": 278,
+    "slideshow_credits": null
+}

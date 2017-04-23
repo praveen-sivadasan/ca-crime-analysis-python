@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/29/business/company-news-ford-says-78-of-dealers-are-backing-online-venture.html",
+    "snippet": "The Ford Motor Company said yesterday that 78 percent of its eligible member dealers had agreed to participate in FordDirect.com, which will sell cars and trucks on the Internet at the prices dealers pay. The Ford dealers council said 3,194 of the...",
+    "lead_paragraph": "The Ford Motor Company said yesterday that 78 percent of its eligible member dealers had agreed to participate in FordDirect.com, which will sell cars and trucks on the Internet at the prices dealers pay. The Ford dealers council said 3,194 of the 4,080 eligible dealers in the United States, who account for 90 percent of Ford sales, had committed themselves to participating in FordDirect.com. The first online site is expected to be running in California next month. Automakers are trying to compete with online car-buying Web sites like Autobytel.com, Autoweb.com, CarsDirect.com and Greenlight.com, while trying not to threaten their traditional dealers.",
+    "abstract": "Ford Motor Co says 78 percent of its eligible member dealers have agreed to participate in FordDirect.com, which will sell cars and trucks on Internet at prices dealers pay; first online site is expected to be running in California in October (S)",
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "FORD SAYS 78% OF DEALERS ARE BACKING ONLINE VENTURE",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FORDDIRECT.COM"
+        },
+        {
+            "name": "organizations",
+            "value": "FORD MOTOR CO"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+        }
+    ],
+    "pub_date": "2000-09-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd21a718eb7c8105d799316",
+    "word_count": 103,
+    "slideshow_credits": null
+}

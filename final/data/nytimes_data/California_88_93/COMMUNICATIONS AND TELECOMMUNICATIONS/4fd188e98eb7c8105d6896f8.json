@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/the-california-quake-status-of-travel-and-phones.html",
+    "snippet": "LEAD: The status of national transportation and communication services in the San Francisco area:...",
+    "lead_paragraph": "LEAD: The status of national transportation and communication services in the San Francisco area:",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Status of Travel And Phones",
+        "kicker": "THE CALIFORNIA QUAKE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TRANSPORTATION"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "COMMUNICATIONS AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd188e98eb7c8105d6896f8",
+    "word_count": 132,
+    "slideshow_credits": null
+}

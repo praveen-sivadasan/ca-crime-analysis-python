@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/21/us/the-1990-election-the-1990-campaign-california-candidates-from-two-cities.html",
+    "snippet": "LEAD:    PETE WILSON: Republican...",
+    "lead_paragraph": "LEAD: PETE WILSON: Republican",
+    "abstract": null,
+    "print_page": "25",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1990 ELECTION: The 1990 Campaign;   California: Candidates From Two Cities"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-10-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd19b988eb7c8105d6ac77d",
+    "word_count": 415,
+    "slideshow_credits": null
+}

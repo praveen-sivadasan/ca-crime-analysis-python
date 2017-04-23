@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/17/nyregion/c-corrections-81092.html",
+    "snippet": "A chart with an article last Sunday about the troubles of the public university systems in California misstated the student-to-faculty ratios and the faculty totals at California State University. For the 1966-67 academic year, the ratio was 16.9 ...",
+    "lead_paragraph": "A chart with an article last Sunday about the troubles of the public university systems in California misstated the student-to-faculty ratios and the faculty totals at California State University. For the 1966-67 academic year, the ratio was 16.9 to 1, with 7,779 faculty members; for the 1990-91 year, the ratio was 18.4 to 1, with 15,099 faculty members. These figures are adjusted by the university to convert part-time faculty members to their full-time equivalents. The chart also misstated the growth in the student population for that period. It was 112 percent, not 115 percent.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1991-11-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Education; Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1ca208eb7c8105d6fdf9e",
+    "word_count": 94,
+    "slideshow_credits": null
+}

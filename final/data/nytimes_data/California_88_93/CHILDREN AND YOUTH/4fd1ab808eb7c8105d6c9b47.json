@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/23/us/man-who-burned-his-son-in-1983-is-to-be-freed-from-california-jail.html",
+    "snippet": "LEAD: A man who set fire to his son in 1983 in what he said was a murder-suicide plan leaves prison on Wednesday, but prison officials are keeping relocation plans secret....",
+    "lead_paragraph": "LEAD: A man who set fire to his son in 1983 in what he said was a murder-suicide plan leaves prison on Wednesday, but prison officials are keeping relocation plans secret.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Man Who Burned His Son in 1983 Is to Be Freed From California Jail"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ROTHENBERG, DAVID"
+        },
+        {
+            "name": "persons",
+            "value": "ROTHENBERG, CHARLES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        }
+    ],
+    "pub_date": "1990-01-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ab808eb7c8105d6c9b47",
+    "word_count": 512,
+    "slideshow_credits": null
+}

@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1988/11/10/business/california-insurers-in-turmoil.html",
+    "snippet": "LEAD: The California insurance market, the nation's largest, was thrown into turmoil today after voters narrowly approved a measure that mandates cuts of at least 20 percent in the rates for automobile insurance and most other types of coverage....",
+    "lead_paragraph": "LEAD: The California insurance market, the nation's largest, was thrown into turmoil today after voters narrowly approved a measure that mandates cuts of at least 20 percent in the rates for automobile insurance and most other types of coverage.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Insurers In Turmoil"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIREMAN'S FUND INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-11-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190cb8eb7c8105d698197",
+    "word_count": 867,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/01/opinion/california-s-lead-on-health.html",
+    "snippet": "California's sullen two-month budget crisis has overshadowed a proud legislative victory on health care reform. The state legislature has just passed a bill that would provide every Californian affordable medical insurance through a reform known a...",
+    "lead_paragraph": "California's sullen two-month budget crisis has overshadowed a proud legislative victory on health care reform. The state legislature has just passed a bill that would provide every Californian affordable medical insurance through a reform known as managed competition. The bill creates a commission to work out details that would be presented to the legislature in 1994. Gov. Pete Wilson must now decide whether to sign the bill. He has taken no position on its merits, but he is a Republican. The bill's author, John Garamendi, is the State Insurance Commissioner and an ambitious Democrat who might well desire Mr. Wilson's job. It would not be surprising if the Governor looked hard for reasons to veto the bill.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Lead on Health"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1992-09-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Health; Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd1c35a8eb7c8105d6f1f51",
+    "word_count": 347,
+    "slideshow_credits": null
+}

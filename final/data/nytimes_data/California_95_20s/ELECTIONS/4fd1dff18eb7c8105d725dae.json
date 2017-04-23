@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1998/08/14/us/california-gop-senate-nominee-goes-from-long-shot-to-star.html",
+    "snippet": "Less than three months ago, Matt Fong was little known outside California, where he is State Treasurer. Now, Republican heavyweights like Newt Gingrich and Trent Lott regard him as a new best friend.    Since he narrowly won the Republican nominat...",
+    "lead_paragraph": "Less than three months ago, Matt Fong was little known outside California, where he is State Treasurer. Now, Republican heavyweights like Newt Gingrich and Trent Lott regard him as a new best friend. Since he narrowly won the Republican nomination in June to oppose Senator Barbara Boxer in the fall, Mr. Fong has pulled virtually even with her in the polls, giving Republican leaders new reason to believe they can gain five Senate seats for a filibuster-proof majority of 60.",
+    "abstract": "California State Treasurer Matt Fong, having narrowly won the Republican nomination in June to oppose Sen Barbara Boxer in the fall, has pulled virtually even with her in opinion polls; photo (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California G.O.P. Senate Nominee Goes From Long Shot to Star"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FONG, MATT"
+        },
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1998-08-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "JANOFSKY"
+            }
+        ],
+        "original": "By MICHAEL JANOFSKY"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1dff18eb7c8105d725dae",
+    "word_count": 1091,
+    "slideshow_credits": null
+}

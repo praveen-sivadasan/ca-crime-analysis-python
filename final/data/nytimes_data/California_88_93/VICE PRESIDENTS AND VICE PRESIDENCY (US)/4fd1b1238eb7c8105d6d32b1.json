@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/21/opinion/essay-reading-mario-s-mind.html",
+    "snippet": "When I was in Tokyo last month, they asked me what the possibility was that I would run for President. I told them that question was too easy.   If they had asked me, \"Do you think there is a possibility that while the Governor of New York is in J...",
+    "lead_paragraph": "When I was in Tokyo last month, they asked me what the possibility was that I would run for President. I told them that question was too easy. If they had asked me, \"Do you think there is a possibility that while the Governor of New York is in Japan there will be an earthquake and a typhoon in two days?\" I would have said, \"Not likely.\" But of course -- there was an earthquake and a typhoon in those two days. So the unlikely sometimes happens. But I can't get away with this cuteness routine forever. I've been saying I have no plans to run, and no plans to make plans, but now it's a year to Election Day and it's time to stop playing Hamlet and start playing for keeps.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Essay; Reading Mario's Mind"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "KERREY, BOB"
+        },
+        {
+            "name": "persons",
+            "value": "CUOMO, MARIO M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "VICE PRESIDENTS AND VICE PRESIDENCY (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1991-10-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "William",
+                "rank": 1,
+                "lastname": "SAFIRE"
+            }
+        ],
+        "original": "By WILLIAM SAFIRE"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1b1238eb7c8105d6d32b1",
+    "word_count": 789,
+    "slideshow_credits": null
+}

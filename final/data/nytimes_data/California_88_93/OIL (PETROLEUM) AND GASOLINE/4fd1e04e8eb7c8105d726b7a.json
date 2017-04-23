@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1993/09/10/business/company-news-chevron-will-upgrade-2-refineries-in-california.html",
+    "snippet": "The Chevron Corporation said yesterday that it would spend about $950 million to upgrade two California refineries to meet cleaner gasoline standards. An executive of Chevron said the cost of compliance with the Federal Clean Air Act and Californi...",
+    "lead_paragraph": "The Chevron Corporation said yesterday that it would spend about $950 million to upgrade two California refineries to meet cleaner gasoline standards. An executive of Chevron said the cost of compliance with the Federal Clean Air Act and California Air Resources Board mandates \"will likely mean higher fuel prices in the future.\" Complying with California's stricter laws could cost consumers an additional 8 cents a gallon, said Bruce Frolich, the vice president of manufacturing for the Chevron U.S.A. Products Company.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "CHEVRON WILL UPGRADE 2 REFINERIES IN CALIFORNIA",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHEVRON CORP"
+        },
+        {
+            "name": "subject",
+            "value": "REFINERIES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1993-09-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e04e8eb7c8105d726b7a",
+    "word_count": 124,
+    "slideshow_credits": null
+}

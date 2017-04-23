@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/08/magazine/works-in-progress-oh-give-me-a-home.html",
+    "snippet": "LEAD: IN CALIFORNIA, WHERE THE ANTELOPE play is mostly in the state's northeast corner, though that wasn't always so. And since 1982, the state's Department of Fish and Game has been working to insure that it won't always be. This winter, the agen...",
+    "lead_paragraph": "LEAD: IN CALIFORNIA, WHERE THE ANTELOPE play is mostly in the state's northeast corner, though that wasn't always so. And since 1982, the state's Department of Fish and Game has been working to insure that it won't always be. This winter, the agency continued its effort to relocate many pronghorn antelope to former habitats.",
+    "abstract": null,
+    "print_page": "78",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "'Oh, Give Me a Home...'",
+        "kicker": "WORKS IN PROGRESS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ANTELOPE"
+        }
+    ],
+    "pub_date": "1990-04-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bruce",
+                "rank": 1,
+                "lastname": "Weber"
+            }
+        ],
+        "original": "By Bruce Weber"
+    },
+    "type_of_material": "News",
+    "_id": "4fd193488eb7c8105d69d433",
+    "word_count": 345,
+    "slideshow_credits": null
+}

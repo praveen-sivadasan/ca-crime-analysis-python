@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/30/us/supreme-court-continues-stay-barring-medical-use-of-marijuana.html",
+    "snippet": "The Supreme Court continued a ban today on the distribution of marijuana for medical purposes in California, signaling that it might consider the issue in its fall term.    The court voted 7 to 1 to grant an emergency request from the Clinton admi...",
+    "lead_paragraph": "The Supreme Court continued a ban today on the distribution of marijuana for medical purposes in California, signaling that it might consider the issue in its fall term. The court voted 7 to 1 to grant an emergency request from the Clinton administration to postpone enforcement of a lower court ruling that would have allowed the Oakland Cannabis Buyers' Cooperative to distribute the drug.",
+    "abstract": "Supreme Court continues ban on distribution of marijuana for medical purposes in California; may consider issue in fall session (S)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Supreme Court Continues Stay Barring Medical Use of Marijuana"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "MARIJUANA"
+        }
+    ],
+    "pub_date": "2000-08-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "David",
+                "rank": 1,
+                "lastname": "STOUT"
+            }
+        ],
+        "original": "By DAVID STOUT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd236c48eb7c8105d7c8f1e",
+    "word_count": 280,
+    "slideshow_credits": null
+}

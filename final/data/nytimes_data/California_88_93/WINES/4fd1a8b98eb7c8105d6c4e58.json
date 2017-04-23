@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/25/business/seagram-suit-is-dismissed.html",
+    "snippet": "A San Francisco Superior Court judge has dismissed multimillion-dollar lawsuits filed against Joseph E. Seagram & Sons Inc. by two small California wineries, Seagram said on Friday.   The wineries, Lambert Bridge and Carneros Creek Winery had accu...",
+    "lead_paragraph": "A San Francisco Superior Court judge has dismissed multimillion-dollar lawsuits filed against Joseph E. Seagram & Sons Inc. by two small California wineries, Seagram said on Friday. The wineries, Lambert Bridge and Carneros Creek Winery had accused Seagram of breaking an exclusive distribution agreement and damaging their positions in the premium wine market.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Seagram Suit Is Dismissed"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LAMBERT BRIDGE WINERY"
+        },
+        {
+            "name": "organizations",
+            "value": "SEAGRAM, JOSEPH E, & SONS INC"
+        },
+        {
+            "name": "organizations",
+            "value": "CARNEROS CREEK WINERY"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        }
+    ],
+    "pub_date": "1991-11-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a8b98eb7c8105d6c4e58",
+    "word_count": 130,
+    "slideshow_credits": null
+}

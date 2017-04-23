@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/14/garden/wine-talk-550490.html",
+    "snippet": "LEAD: WHEN President John F. Kennedy ordered United States embassies around the world to begin serving American wines, the know-it-alls shuddered and affected great sympathy for our poor diplomats and their hapless guests....",
+    "lead_paragraph": "LEAD: WHEN President John F. Kennedy ordered United States embassies around the world to begin serving American wines, the know-it-alls shuddered and affected great sympathy for our poor diplomats and their hapless guests.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KRUG, CHARLES, WINERY"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1990-03-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aefe8eb7c8105d6cf079",
+    "word_count": 1178,
+    "slideshow_credits": null
+}

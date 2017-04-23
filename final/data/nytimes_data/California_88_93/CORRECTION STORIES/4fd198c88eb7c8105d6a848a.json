@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/08/nyregion/c-corrections-402691.html",
+    "snippet": "A headline yesterday about a speech by Ronald Reagan referred incorrectly to his audience. It was a joint session of the California Legislature, not just the Assembly....",
+    "lead_paragraph": "A headline yesterday about a speech by Ronald Reagan referred incorrectly to his audience. It was a joint session of the California Legislature, not just the Assembly.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REAGAN, RONALD WILSON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1991-05-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd198c88eb7c8105d6a848a",
+    "word_count": 27,
+    "slideshow_credits": null
+}

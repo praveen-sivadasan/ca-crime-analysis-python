@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/24/us/five-die-in-15-vehicle-crash.html",
+    "snippet": "LEAD: Five people were killed today when as many as 15 vehicles collided in dense fog in the San Joaquin Valley, where fog often poses a road hazard. Four members of one family and the driver of another vehicle were killed, California Highway Patr...",
+    "lead_paragraph": "LEAD: Five people were killed today when as many as 15 vehicles collided in dense fog in the San Joaquin Valley, where fog often poses a road hazard. Four members of one family and the driver of another vehicle were killed, California Highway Patrol said.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Five Die in 15-Vehicle Crash"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "FOG"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1990-01-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aa878eb7c8105d6c84f7",
+    "word_count": 89,
+    "slideshow_credits": null
+}

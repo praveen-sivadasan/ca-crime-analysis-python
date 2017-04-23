@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1999/07/25/us/political-briefing-california-democrats-duel-with-democrats.html",
+    "snippet": "California Democrats came out of last fall's elections in the best political shape in decades, capturing the Governor's office for the first time in 16 years and winning the race for Lieutenant Governor, as well as winning solid control of both ho...",
+    "lead_paragraph": "California Democrats came out of last fall's elections in the best political shape in decades, capturing the Governor's office for the first time in 16 years and winning the race for Lieutenant Governor, as well as winning solid control of both houses of the State Legislature. Hopes rose for speedy action on the party's governing agenda, much of it in legislative limbo for years because of standoffs between Republican governors and Democratic legislative leaders.",
+    "abstract": "California Assembly Speaker Antonio Villaraigosa and Senate Pres Pro Tem John Burton, agressive, liberal Democrats, are squabbling over agenda with Gov Gray Davis, cautious centrist Democrat with ties to business community; Davis has begun contacting committee heads and bill authors directly about legislation, angering leaders; Davis holds legislature must implement his vision, interview (M)",
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Democrats Duel With Democrats",
+        "kicker": "POLITICAL BRIEFING"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BURTON, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "persons",
+            "value": "VILLARAIGOSA, ANTONIO"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1999-07-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "By B. Drummond Ayres Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ea288eb7c8105d739601",
+    "word_count": 390,
+    "slideshow_credits": null
+}

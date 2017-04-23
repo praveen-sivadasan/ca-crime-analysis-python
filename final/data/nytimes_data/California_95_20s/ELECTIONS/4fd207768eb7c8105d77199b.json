@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/2000/04/25/us/justices-enter-debate-on-primary-format.html",
+    "snippet": "The Supreme Court wrestled today with a civics question of constitutional dimension and major practical implications: do the political parties or the electorate as a whole control the nominating process?    At issue was California's so-called blan...",
+    "lead_paragraph": "The Supreme Court wrestled today with a civics question of constitutional dimension and major practical implications: do the political parties or the electorate as a whole control the nominating process? At issue was California's so-called blanket primary, in which voters of all party affiliations receive the same ballot on which they can make any set of choices, without regard to party. A voter can select a favorite Democratic candidate for the gubernatorial nomination, for example, while choosing among Republicans for a state assembly nomination and among Libertarian Party options for a local race.",
+    "abstract": "Supreme Court hears arguments on California's primary system, in which voters of all party affiliations receive same ballot on which they can make any set of choices, without regard to party (M)",
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Justices Enter Debate on Primary Format"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-04-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd207768eb7c8105d77199b",
+    "word_count": 965,
+    "slideshow_credits": null
+}

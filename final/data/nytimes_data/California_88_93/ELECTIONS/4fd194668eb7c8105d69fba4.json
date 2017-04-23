@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/26/us/the-1990-campaign-california-republican-running-against-apple-pie.html",
+    "snippet": "Ordinarily a four-term Republican incumbent like Representative Al McCandless could coast to re-election in this desert district, where Republicans outnumber Democrats by 47 to 44 percent and where the constituents include party stalwarts like Ger...",
+    "lead_paragraph": "Ordinarily a four-term Republican incumbent like Representative Al McCandless could coast to re-election in this desert district, where Republicans outnumber Democrats by 47 to 44 percent and where the constituents include party stalwarts like Gerald R. Ford, Bob Hope, Frank Sinatra and Spiro T. Agnew. But Mr. McCandless is running against Ralph Waite, the actor who played the Depression-era father John Walton in the 1970's hit television series \"The Waltons.\" And if voters somehow associate Mr. Waite, a liberal Democrat, with Pa's family virtues of honesty, hard work and trustworthiness, well, the Democrats would not mind a bit.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Republican Running Against Apple Pie",
+        "kicker": "THE 1990 CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WAITE, RALPH"
+        },
+        {
+            "name": "persons",
+            "value": "MCCANDLESS, AL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-10-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194668eb7c8105d69fba4",
+    "word_count": 1286,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1996/12/18/us/campaign-aide-indicted.html",
+    "snippet": "The campaign treasurer of Representative Jay C. Kim, Republican of California, was indicted today on charges of accepting illegal corporate money, witness tampering and causing false reports to be filed with the Federal Election Commission....",
+    "lead_paragraph": "The campaign treasurer of Representative Jay C. Kim, Republican of California, was indicted today on charges of accepting illegal corporate money, witness tampering and causing false reports to be filed with the Federal Election Commission.",
+    "abstract": "Seokuk Ma, campaign treasurer for Repr Jay C Kim, California Republican, is indicted on charges of accepting illegal corporate money, witness tampering and false reporting to Federal Election Commission (S)",
+    "print_page": "10",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Campaign Aide Indicted"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KIM, JAY C"
+        },
+        {
+            "name": "persons",
+            "value": "MA, SEOKUK"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL ELECTION COMMISSION"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1996-12-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1fad48eb7c8105d758cf8",
+    "word_count": "101",
+    "slideshow_credits": null
+}

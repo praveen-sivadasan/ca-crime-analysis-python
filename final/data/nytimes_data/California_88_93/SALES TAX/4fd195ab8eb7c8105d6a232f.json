@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/28/opinion/l-average-californians-078290.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Average Californians"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BURNS, T G"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHEVRON CORP"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "EXCISE TAXES"
+        },
+        {
+            "name": "subject",
+            "value": "SALES TAX"
+        },
+        {
+            "name": "subject",
+            "value": "GASOLINE"
+        }
+    ],
+    "pub_date": "1990-05-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd195ab8eb7c8105d6a232f",
+    "word_count": 136,
+    "slideshow_credits": null
+}

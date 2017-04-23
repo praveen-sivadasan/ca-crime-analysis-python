@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/30/business/california-proposal-would-let-industry-sell-pollution-rights.html",
+    "snippet": "Southern California's air-quality regulators said today that they planned a radical new approach to controlling air pollution, allowing companies to purchase the right to pollute if they could not or chose not to reduce emissions on their own.   T...",
+    "lead_paragraph": "Southern California's air-quality regulators said today that they planned a radical new approach to controlling air pollution, allowing companies to purchase the right to pollute if they could not or chose not to reduce emissions on their own. The new approach, which is still subject to formal approval, would supplant the current system of tight company-by-company regulation and would be the largest and most ambitious attempt yet to clean up the air by replacing regulatory fiat with free-market forces.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Proposal Would Let Industry Sell Pollution Rights"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1992-01-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Front Page; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b36d8eb7c8105d6d7777",
+    "word_count": 1203,
+    "slideshow_credits": null
+}

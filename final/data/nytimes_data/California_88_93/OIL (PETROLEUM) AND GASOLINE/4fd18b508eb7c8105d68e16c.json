@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/11/business/pledge-sought-on-oil-rights.html",
+    "snippet": "LEAD: Oil companies should be guaranteed the right to produce oil they find in authorized offshore explorations, Ken T. Derr, the chairman of the Chevron Corporation, said Thursday....",
+    "lead_paragraph": "LEAD: Oil companies should be guaranteed the right to produce oil they find in authorized offshore explorations, Ken T. Derr, the chairman of the Chevron Corporation, said Thursday.",
+    "abstract": null,
+    "print_page": "42",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Pledge Sought On Oil Rights"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DERR, KEN T"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHEVRON CORP"
+        },
+        {
+            "name": "subject",
+            "value": "OFFSHORE EXPLORATION AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "EXPLORATION OF RESOURCES"
+        }
+    ],
+    "pub_date": "1989-11-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "Reuters",
+        "original": "Reuters",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18b508eb7c8105d68e16c",
+    "word_count": 128,
+    "slideshow_credits": null
+}

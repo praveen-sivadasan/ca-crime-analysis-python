@@ -1,0 +1,34 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/14/business/finance-new-issues-california-offers-200-million-issue.html",
+    "snippet": "LEAD: California is offering $200 million of general obligation bonds through underwriters led by the Bank of America's Bank Investment Securities division....",
+    "lead_paragraph": "LEAD: California is offering $200 million of general obligation bonds through underwriters led by the Bank of America's Bank Investment Securities division.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Offers $200 Million Issue",
+        "kicker": "FINANCE/NEW ISSUES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1989-06-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd184098eb7c8105d682123",
+    "word_count": 93,
+    "slideshow_credits": null
+}

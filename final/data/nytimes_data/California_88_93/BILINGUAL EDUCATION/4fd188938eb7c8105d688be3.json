@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/03/02/us/education-bilingual-education-survives-in-california.html",
+    "snippet": "LEAD: A year ago, advocates of English as California's official language were cheering their landslide victory in a statewide vote on the issue. They looked forward to ending the state's bilingual education program....",
+    "lead_paragraph": "LEAD: A year ago, advocates of English as California's official language were cheering their landslide victory in a statewide vote on the issue. They looked forward to ending the state's bilingual education program.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bilingual Education Survives in California",
+        "kicker": "EDUCATION"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "EDUCATION PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BILINGUAL EDUCATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        }
+    ],
+    "pub_date": "1988-03-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Deirdre",
+                "rank": 1,
+                "lastname": "CARMODY"
+            }
+        ],
+        "original": "By DEIRDRE CARMODY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd188938eb7c8105d688be3",
+    "word_count": 497,
+    "slideshow_credits": null
+}

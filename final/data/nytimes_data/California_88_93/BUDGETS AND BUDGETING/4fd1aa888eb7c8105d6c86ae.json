@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/11/us/lean-budget-plan-in-california.html",
+    "snippet": "LEAD: Gov. George Deukmejian today proposed a lean $53.7 billion budget for California, calling for freezes in spending on health, welfare, AIDS programs and other social services....",
+    "lead_paragraph": "LEAD: Gov. George Deukmejian today proposed a lean $53.7 billion budget for California, calling for freezes in spending on health, welfare, AIDS programs and other social services.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Lean Budget Plan in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1990-01-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aa888eb7c8105d6c86ae",
+    "word_count": 327,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1990/04/02/us/supreme-court-said-to-agree-to-take-california-death-case.html",
+    "snippet": "LEAD: The state official leading the fight to carry out California's first execution in 23 years said Saturday that the Supreme Court had agreed to consider an appeal of a ruling that blocked the death sentence....",
+    "lead_paragraph": "LEAD: The state official leading the fight to carry out California's first execution in 23 years said Saturday that the Supreme Court had agreed to consider an appeal of a ruling that blocked the death sentence.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Supreme Court Said to Agree To Take California Death Case"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HARRIS, ROBERT ALTON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        }
+    ],
+    "pub_date": "1990-04-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ad008eb7c8105d6cd112",
+    "word_count": 136,
+    "slideshow_credits": null
+}

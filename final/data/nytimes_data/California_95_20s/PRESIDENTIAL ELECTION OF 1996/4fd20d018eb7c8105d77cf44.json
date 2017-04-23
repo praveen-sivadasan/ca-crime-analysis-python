@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1996/11/01/us/irate-but-ambivalent-in-rural-california.html",
+    "snippet": "If you flew over the vast farm land of the San Joaquin Valley, you would see an endless patchwork quilt of emerald green orchards, muddied wheat fields awaiting the next seeding and acres of fluffy cotton tufts not yet picked. And in a corner of t...",
+    "lead_paragraph": "If you flew over the vast farm land of the San Joaquin Valley, you would see an endless patchwork quilt of emerald green orchards, muddied wheat fields awaiting the next seeding and acres of fluffy cotton tufts not yet picked. And in a corner of the Kahl family's almond orchard, you would see an unusual item sprouting in this fertile valley -- a blue Dole/Kemp billboard. A Dole campaign worker drove by on Wednesday and, after receiving permission, planted the billboard here, facing a fig orchard. Roger and Sherry Kahl, who are not wild about Bob Dole but viscerally loathe President Clinton, were happy to have it.",
+    "abstract": "Ambivalent mood of voters in California's rural San Joaquin Valley assessed; Bob Dole should be strongly ahead of Pres Clinton in conservative area, but instead, they are neck and neck; photo (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Irate but Ambivalent in Rural California",
+        "kicker": "POLITICS: THE RESPONSE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-11-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Katharine",
+                "middlename": "Q.",
+                "lastname": "SEELYE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KATHARINE Q. SEELYE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20d018eb7c8105d77cf44",
+    "word_count": 1388,
+    "slideshow_credits": null
+}

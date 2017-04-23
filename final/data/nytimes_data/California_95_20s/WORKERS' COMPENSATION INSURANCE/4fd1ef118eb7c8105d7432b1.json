@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/27/business/market-place-workers-compensation-insurers-in-california-face-problems.html",
+    "snippet": "CHANGES in the California workers' compensation laws have been a mixed blessing for insurance companies that sell the policies to employers.    For 18 months after the revisions in mid-1993, insurers and employers alike benefited from the sharp dr...",
+    "lead_paragraph": "CHANGES in the California workers' compensation laws have been a mixed blessing for insurance companies that sell the policies to employers. For 18 months after the revisions in mid-1993, insurers and employers alike benefited from the sharp drop in claims, particularly the fraudulent variety. But as is often the case in insurance, the good times attracted more insurers who promptly cut prices. On average, prices have dropped more than 30 percent, and some insurers now say that some companies are not collecting enough premiums to pay the claims they will eventually face.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Market Place; Workers' compensation insurers in California face problems."
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "MARKET PLACE (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ZENITH NATIONAL INSURANCE CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "FREMONT GENERAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "WORKERS' COMPENSATION INSURANCE"
+        }
+    ],
+    "pub_date": "1995-03-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "Quint"
+            }
+        ],
+        "original": "By Michael Quint"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ef118eb7c8105d7432b1",
+    "word_count": 705,
+    "slideshow_credits": null
+}

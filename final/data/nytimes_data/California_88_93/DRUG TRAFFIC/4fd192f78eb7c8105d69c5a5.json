@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/19/opinion/ban-murder-machines-then-what-the-drug-war-needs-more-than-panic.html",
+    "snippet": "LEAD: Foreign agents are organizing disaffected young Americans and arming them for war. They have already seized control of whole neighborhoods, murdering hundreds in the process. Police and public officials are outgunned and overwhelmed....",
+    "lead_paragraph": "LEAD: Foreign agents are organizing disaffected young Americans and arming them for war. They have already seized control of whole neighborhoods, murdering hundreds in the process. Police and public officials are outgunned and overwhelmed.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ban Murder Machines. Then What?; The Drug War Needs More Than Panic"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ADDICTION AND ABUSE"
+        },
+        {
+            "name": "subject",
+            "value": "GUN CONTROL"
+        },
+        {
+            "name": "subject",
+            "value": "THERAPY AND REHABILITATION"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1989-03-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd192f78eb7c8105d69c5a5",
+    "word_count": 671,
+    "slideshow_credits": null
+}

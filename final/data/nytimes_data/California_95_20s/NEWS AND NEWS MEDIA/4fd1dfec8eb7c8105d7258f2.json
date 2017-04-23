@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1998/07/05/magazine/word-image-when-is-private-pain-a-public-good.html",
+    "snippet": "In media law, it is often a case of give me liberty or give me space. Often, the freedom of the media turns out to rob some citizens of privacy, and the edification of a mass audience requires the mortification of some individuals. The instruments...",
+    "lead_paragraph": "In media law, it is often a case of give me liberty or give me space. Often, the freedom of the media turns out to rob some citizens of privacy, and the edification of a mass audience requires the mortification of some individuals. The instruments of intrusion grow more powerful in every decade, but the tension between liberty and privacy persists unchanged. More than a century has passed since Louis Brandeis and Samuel Warren complained in a famous Harvard Law Review essay about the invention of ''new mechanical devices'' and ''instantaneous photographs'' that allow the media to overstep ''the obvious bounds of propriety and decency.'' Things that should be ''whispered in the closet'' were being widely published merely to satisfy ''that weak side of human nature that is never wholly cast down by the misfortunes and frailties of our neighbors.'' Just imagine: poor Brandeis objected in 1890 to reading ''the details of sexual relations'' in his morning paper!",
+    "abstract": "Max Frankel Word & Image column on California Supreme Court ruling in suit by accident victim over television coverage that media cannot by punished for publishing 'private facts' about 'newsworthy' event but can be sued for using 'intrusive tactics;' holds arguments approving publication of private matters contain potential threat to news gathering and arguments deploring intrusive tactics leave media probably excessive latitude; scores stand that news value depends on 'social value' of published material; photo (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Word & Image; When Is Private Pain a Public Good?"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVACY"
+        }
+    ],
+    "pub_date": "1998-07-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Max",
+                "rank": 1,
+                "lastname": "Frankel"
+            }
+        ],
+        "original": "By Max Frankel"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dfec8eb7c8105d7258f2",
+    "word_count": 995,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/31/us/california-firm-on-internments.html",
+    "snippet": "LEAD: An effort to revise what California schoolchildren are taught about the internment of Japanese-Americans during World War II was soundly defeated Tuesday by the State Legislature....",
+    "lead_paragraph": "LEAD: An effort to revise what California schoolchildren are taught about the internment of Japanese-Americans during World War II was soundly defeated Tuesday by the State Legislature.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "California Firm on Internments"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FERGUSON, GIL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "JAPANESE-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "CONCENTRATION CAMPS"
+        },
+        {
+            "name": "subject",
+            "value": "HISTORY"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "WORLD WAR II (1939-45)"
+        }
+    ],
+    "pub_date": "1990-08-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "Reuters",
+        "organization": "Reuters"
+    },
+    "type_of_material": "News",
+    "_id": "52b85cb838f0d8094087c915",
+    "word_count": "273",
+    "slideshow_credits": null
+}

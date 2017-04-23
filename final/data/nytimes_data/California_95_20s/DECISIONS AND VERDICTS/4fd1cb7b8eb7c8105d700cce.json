@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/23/us/ruling-on-definition-of-family-justices-back-a-welfare-curb.html",
+    "snippet": "The Supreme Court today unanimously upheld a California welfare regulation intended to save the state money by counting all needy children living in the same household under the care of a relative as a single family.   The regulation replaced an a...",
+    "lead_paragraph": "The Supreme Court today unanimously upheld a California welfare regulation intended to save the state money by counting all needy children living in the same household under the care of a relative as a single family. The regulation replaced an approach under which only members of the same nuclear family were counted as a family unit when calculating monthly welfare grants.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ruling on Definition of 'Family,' Justices Back a Welfare Curb"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1995-03-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cb7b8eb7c8105d700cce",
+    "word_count": 608,
+    "slideshow_credits": null
+}

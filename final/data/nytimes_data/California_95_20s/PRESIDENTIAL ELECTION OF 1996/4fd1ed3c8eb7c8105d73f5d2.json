@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1996/09/28/us/kemp-leads-gop-charge-in-california.html",
+    "snippet": "Jack Kemp began a busy four-day campaign swing through California today, part of what aides sought to portray as an intensive effort to put President Clinton on the defensive in a critical electoral battleground.    Vigorously disputing reports th...",
+    "lead_paragraph": "Jack Kemp began a busy four-day campaign swing through California today, part of what aides sought to portray as an intensive effort to put President Clinton on the defensive in a critical electoral battleground. Vigorously disputing reports that Bob Dole's advisers see no real chance of carrying California, Republican strategists said that the campaign had spent about $1.25 million on television advertising in the state in the last two weeks and that it would continue to invest considerable money and time here for the duration of the campaign.",
+    "abstract": "Jack Kemp begins busy four-day swing through California with stop in Fillmore, his wife's hometown, on her birthday; photo; Republican strategists vigorously dispute reports that Bob Dole's campaign sees no real chance of carrying California; note major ad campaigns in state (S)",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Kemp Leads G.O.P. Charge in California",
+        "kicker": "POLITICS: THE RUNNING MATE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KEMP, JACK"
+        },
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "persons",
+            "value": "KEMP, JOANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-09-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ed3c8eb7c8105d73f5d2",
+    "word_count": 990,
+    "slideshow_credits": null
+}

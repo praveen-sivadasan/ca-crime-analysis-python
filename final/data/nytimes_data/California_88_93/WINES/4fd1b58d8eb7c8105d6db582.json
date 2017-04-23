@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/30/garden/wine-talk-421292.html",
+    "snippet": "\"THE reports of my death,\" wrote Mark Twain, \"are greatly exaggerated.\"   The same is being said of what this column reported in August about the state of the California wine industry. Since then, winery owners and people who track the industry cl...",
+    "lead_paragraph": "\"THE reports of my death,\" wrote Mark Twain, \"are greatly exaggerated.\" The same is being said of what this column reported in August about the state of the California wine industry. Since then, winery owners and people who track the industry closely have been writing and calling, saying, \"Not me\" and \"not us.\" They are right. And so was this column. That's the way it is with statistics.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "WINE TALK (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1992-09-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b58d8eb7c8105d6db582",
+    "word_count": 1109,
+    "slideshow_credits": null
+}

@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1998/03/07/us/interest-groups-run-own-race-in-california.html",
+    "snippet": "Californians are long used to the televised cut-and-thrust of political advertising in a state where distances are huge and civic discourse muted. But in the special election to fill a vacant seat in the 22d Congressional District here next Tuesda...",
+    "lead_paragraph": "Californians are long used to the televised cut-and-thrust of political advertising in a state where distances are huge and civic discourse muted. But in the special election to fill a vacant seat in the 22d Congressional District here next Tuesday, many of the commercials are not even the work of the candidates, and local issues sometimes seem all but lost. To be sure, Lois Capps, a former school nurse and the Democratic nominee to succeed her husband, Walter, who died of a heart attack last year, is running commercials attacking her Republican opponent, State Assemblyman Tom Bordonaro, as ''too extreme for the Central Coast.'' And Mr. Bordonaro's advertisements accuse Mrs. Capps of ''filling the airwaves with distortions about my record.''",
+    "abstract": "Special interest groups are running own campaigns in California race between Lois Capps, Democrat, and Assemblyman Tom Bordonaro, Republican, for Congressional seat held by Capps' late husband, Walter; groups, spending without limits or reporting requirements, are eager to claim victory in first Congressional race of year (M)",
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Interest Groups Run Own Race in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BORDONARO, TOM J"
+        },
+        {
+            "name": "persons",
+            "value": "CAPPS, WALTER"
+        },
+        {
+            "name": "persons",
+            "value": "CAPPS, LOIS"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1998-03-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fb418eb7c8105d7596ac",
+    "word_count": 1113,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/12/03/us/friends-and-family-mourn-slain-model.html",
+    "snippet": "Glossy photos of a smiling Linda Sobek decorated a church where mourners remembered the model for the vibrancy of her life and the sadness of her death.          \"I remember that smile,\" said Eric Dickerson, a running back who knew the former Los ...",
+    "lead_paragraph": "Glossy photos of a smiling Linda Sobek decorated a church where mourners remembered the model for the vibrancy of her life and the sadness of her death. \"I remember that smile,\" said Eric Dickerson, a running back who knew the former Los Angeles Raiders cheerleader when he played on the team. \"She was a real cheerful person. She just didn't deserve that.\"",
+    "abstract": null,
+    "print_page": "42",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Friends and Family Mourn Slain Model"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "RATHBUN, CHARLES"
+        },
+        {
+            "name": "persons",
+            "value": "SOBEK, LINDA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        }
+    ],
+    "pub_date": "1995-12-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ece88eb7c8105d73e923",
+    "word_count": 234,
+    "slideshow_credits": null
+}

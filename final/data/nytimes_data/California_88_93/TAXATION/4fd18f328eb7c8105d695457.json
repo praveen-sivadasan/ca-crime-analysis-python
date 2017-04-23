@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1989/09/12/obituaries/paul-gann-co-author-of-california-tax-revolt-measure-dies-at-77.html",
+    "snippet": "LEAD: Paul Gann, co-author of the Proposition 13 tax revolt referendum a decade ago in California, died yesterday in a Sacramento hospital from pneumonia, complicated by AIDS. He was 77 years old....",
+    "lead_paragraph": "LEAD: Paul Gann, co-author of the Proposition 13 tax revolt referendum a decade ago in California, died yesterday in a Sacramento hospital from pneumonia, complicated by AIDS. He was 77 years old.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Paul Gann, Co-Author of California Tax Revolt Measure, Dies at 77"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GANN, PAUL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "DEATHS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1989-09-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Obituary",
+    "section_name": "Obituaries",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "John",
+                "middlename": "T.",
+                "lastname": "McQUISTON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By JOHN T. McQUISTON"
+    },
+    "type_of_material": "Obituary",
+    "_id": "4fd18f328eb7c8105d695457",
+    "word_count": 703,
+    "slideshow_credits": null
+}

@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1993/01/22/us/upturn-continues-in-most-areas-fed-reports.html",
+    "snippet": "With the notable exception of California, the economy showed continued improvement in December and early January, with sizable gains in retail sales augmented by better activity in factories and residential construction, a survey published today b...",
+    "lead_paragraph": "With the notable exception of California, the economy showed continued improvement in December and early January, with sizable gains in retail sales augmented by better activity in factories and residential construction, a survey published today by the Federal Reserve Board said. But the survey found that over all employers were moving slowly in adding to payrolls as they tried to squeeze still more productivity from current workers. The cost of health benefits was repeatedly cited as a deterrent to hiring.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Upturn Continues in Most Areas, Fed Reports"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL RESERVE BOARD"
+        },
+        {
+            "name": "subject",
+            "value": "RECESSION AND DEPRESSION"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+        }
+    ],
+    "pub_date": "1993-01-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By ROBERT D. HERSHEY Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1db858eb7c8105d71c2c3",
+    "word_count": 579,
+    "slideshow_credits": null
+}

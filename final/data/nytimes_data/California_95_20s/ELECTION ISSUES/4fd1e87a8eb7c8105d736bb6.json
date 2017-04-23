@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/09/nyregion/c-corrections-796441.html",
+    "snippet": "An article on Oct. 15 about education as an issue in the election for California governor referred incorrectly to a link between Dan Schnur, a Republican political consultant, and a 1993 campaign for a ballot measure to create a voucher system for...",
+    "lead_paragraph": "An article on Oct. 15 about education as an issue in the election for California governor referred incorrectly to a link between Dan Schnur, a Republican political consultant, and a 1993 campaign for a ballot measure to create a voucher system for public schools. He took no role in the 1993 campaign; it was managed by another consultant, Ken Khachigian. This correction was scheduled for publication in October but was misplaced.",
+    "abstract": "Correction: Oct 15, 1998, article about education as issue in California gubernatorial race misstated role of political consultant Dan Schnur",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SCHNUR, DAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1999-01-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Education; Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1e87a8eb7c8105d736bb6",
+    "word_count": 71,
+    "slideshow_credits": null
+}

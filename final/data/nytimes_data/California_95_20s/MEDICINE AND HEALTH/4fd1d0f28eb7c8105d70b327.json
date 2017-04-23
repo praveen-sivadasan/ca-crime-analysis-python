@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1995/09/29/business/caremark-plans-to-buy-cigna-medical.html",
+    "snippet": "Caremark International Inc. said today that it would acquire the Cigna Medical Group, which operates 29 clinics in Los Angeles, from Cigna Health Care of California, a managed health care subsidiary of the Cigna Corporation.   Caremark said the de...",
+    "lead_paragraph": "Caremark International Inc. said today that it would acquire the Cigna Medical Group, which operates 29 clinics in Los Angeles, from Cigna Health Care of California, a managed health care subsidiary of the Cigna Corporation. Caremark said the deal would make it the nation's largest manager of physician practices in prepaid health plans. Financial terms were not disclosed.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Caremark Plans to Buy Cigna Medical"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CAREMARK INTERNATIONAL INC"
+        },
+        {
+            "name": "organizations",
+            "value": "CIGNA CORP"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "DOCTORS"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1995-09-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d0f28eb7c8105d70b327",
+    "word_count": 335,
+    "slideshow_credits": null
+}

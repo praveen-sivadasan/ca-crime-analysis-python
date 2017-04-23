@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/19/us/cigars-and-pipe-tobacco-to-get-warning-labels.html",
+    "snippet": "LEAD: Most cigars sold in the United States, and possibly some pipe and loose cigarette tobacco, will soon carry cancer warning labels as a result of an agreement reached today by manufacturers to settle a lawsuit filed by the California Attorney ...",
+    "lead_paragraph": "LEAD: Most cigars sold in the United States, and possibly some pipe and loose cigarette tobacco, will soon carry cancer warning labels as a result of an agreement reached today by manufacturers to settle a lawsuit filed by the California Attorney General.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cigars and Pipe Tobacco To Get Warning Labels"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "CIGARS"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING"
+        },
+        {
+            "name": "subject",
+            "value": "LABELING AND LABELS"
+        },
+        {
+            "name": "subject",
+            "value": "PIPES, SMOKING"
+        }
+    ],
+    "pub_date": "1988-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "S.",
+                "lastname": "WILSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By DAVID S. WILSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a0358eb7c8105d6b4d5a",
+    "word_count": 626,
+    "slideshow_credits": null
+}

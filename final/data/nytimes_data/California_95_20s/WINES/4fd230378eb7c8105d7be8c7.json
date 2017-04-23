@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/2000/03/15/dining/wine-talk-for-a-winery-value-is-all-in-the-family.html",
+    "snippet": "WHEN he graduated from Holy Cross College in 1973, Mike Benziger could have gone home to White Plains and built a nice life for himself. He could have joined Park-Benziger, the wine importing house founded in New York by his grandfather Joe 40 yea...",
+    "lead_paragraph": "WHEN he graduated from Holy Cross College in 1973, Mike Benziger could have gone home to White Plains and built a nice life for himself. He could have joined Park-Benziger, the wine importing house founded in New York by his grandfather Joe 40 years earlier and run by his father, Bruno. But no. He chose to go to California for postgraduate work in skiing and surfing. To fill in the time between the slopes and the Pacific, he worked in a wine shop, using the knowledge he had acquired from the family business. He promptly fell in love with California wine. Within a few years, he had lured his entire family west to share his enthusiasm, including his parents and his six brothers and sisters. Together, they founded the Glen Ellen Winery in 1981 on an 85-acre parcel of vineyard land just north of the town of Sonoma, an hour's drive north of San Francisco. It turned out to be one of the more successful gambles of the last two decades in the California wine boom.",
+    "abstract": "Frank J Prial Wine Talk column on Benziger Family Winery of California; photo of family members at their winery in Glen Ellen (M)",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "For a Winery, Value Is All in the Family",
+        "kicker": "WINE TALK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BENZIGER FAMILY WINERY"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "2000-03-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Dining and Wine; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "Prial",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Frank J. Prial"
+    },
+    "type_of_material": "News",
+    "_id": "4fd230378eb7c8105d7be8c7",
+    "word_count": 939,
+    "slideshow_credits": null
+}

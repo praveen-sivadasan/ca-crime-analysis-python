@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1997/01/28/business/at-t-is-venturing-cautiously-into-local-telephone-business.html",
+    "snippet": "The AT&T Corporation announced its first significant foray into the local telephone business yesterday. But the modest scope of its two new services underscored that AT&T was tiptoeing into this $100 billion market, even a year after it was thrown...",
+    "lead_paragraph": "The AT&T Corporation announced its first significant foray into the local telephone business yesterday. But the modest scope of its two new services underscored that AT&T was tiptoeing into this $100 billion market, even a year after it was thrown open to competition. Starting on Feb. 3, AT&T said it would offer local phone service to small- and medium-size business customers in California. The long-distance carrier will not build its own local operations but will lease lines on the existing local network of Pacific Telesis Group.",
+    "abstract": "AT&T Corp sets modest foray into local phone business; will offer service to small- and medium-size business customers in California, leasing lines from Pacific Telesis Group; will offer to handle local outgoing calls for large business customers in 35 states that have dedicated lines connecting their offices to AT&T's long-distance network; analysts say plans are less ambitious than those of MCI Communications (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "AT&T Is Venturing Cautiously Into Local Telephone Business"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AT&T CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "MCI COMMUNICATIONS INC"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC TELESIS GROUP"
+        },
+        {
+            "name": "subject",
+            "value": "RENTING AND LEASING"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1997-01-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Mark",
+                "rank": 1,
+                "lastname": "LANDLER"
+            }
+        ],
+        "original": "By MARK LANDLER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1eeac8eb7c8105d74273c",
+    "word_count": 750,
+    "slideshow_credits": null
+}

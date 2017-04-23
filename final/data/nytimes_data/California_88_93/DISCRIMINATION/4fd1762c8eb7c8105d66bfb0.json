@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1988/01/20/us/california-women-receiving-millions-to-settle-bias-case.html",
+    "snippet": "LEAD: In a multimillion dollar settlement, the State Farm Insurance Company has agreed to pay damages and back pay to women who were refused jobs as insurance sales agents in California over a 13-year period....",
+    "lead_paragraph": "LEAD: In a multimillion dollar settlement, the State Farm Insurance Company has agreed to pay damages and back pay to women who were refused jobs as insurance sales agents in California over a 13-year period.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Women Receiving Millions To Settle Bias Case"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "STATE FARM INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "HIRING AND PROMOTION"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        }
+    ],
+    "pub_date": "1988-01-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1762c8eb7c8105d66bfb0",
+    "word_count": 719,
+    "slideshow_credits": null
+}

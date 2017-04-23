@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/the-california-quake-seismology-geologists-track-quake-to-predict-future-risk.html",
+    "snippet": "LEAD: Teams of geologists fanned out into the rugged mountains above Santa Cruz today to piece together the nature and extent of Tuesday's earthquake, map aftershocks and gather data to help determine earthquake risk in nearby areas....",
+    "lead_paragraph": "LEAD: Teams of geologists fanned out into the rugged mountains above Santa Cruz today to piece together the nature and extent of Tuesday's earthquake, map aftershocks and gather data to help determine earthquake risk in nearby areas.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Geologists Track Quake To Predict Future Risk",
+        "kicker": "THE CALIFORNIA QUAKE: SEISMOLOGY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SANTA CRUZ (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sandra",
+                "rank": 1,
+                "lastname": "BLAKESLEE"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SANDRA BLAKESLEE, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18f2e8eb7c8105d695119",
+    "word_count": 1131,
+    "slideshow_credits": null
+}

@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/2000/07/19/us/freeing-a-hydroelectric-giant-california-frets-about-control.html",
+    "snippet": "It has been a long, long time since water cascading from the Sierra Nevada here flowed through its riverbed in anything like the way that nature intended.    Here, as across California, the route is determined by a network of elaborate plumbing: a...",
+    "lead_paragraph": "It has been a long, long time since water cascading from the Sierra Nevada here flowed through its riverbed in anything like the way that nature intended. Here, as across California, the route is determined by a network of elaborate plumbing: an extraordinary system of tunnels, canals, pipes, dams and reservoirs, all built decades ago by the Pacific Gas and Electric Company in order to transform billions of gallons of water into staggering amounts of electricity.",
+    "abstract": "California faces problem of keeping some control over Pacific Gas & Electric Co's huge hydroelectric system of dams, reservoirs, power plants and artifical waterways as deregulation separates power distribution and generation; deregulation plan raises concerns about how need for providing electrical power will be balanced against environmental protection needs; company and state's other utilities have already sold most of their conventional generating plants; map; photos (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Freeing a Hydroelectric Giant, California Frets About Control"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC GAS AND ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "HYDROELECTRIC POWER"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "2000-07-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Douglas",
+                "rank": 1,
+                "lastname": "JEHL"
+            }
+        ],
+        "original": "By DOUGLAS JEHL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd208788eb7c8105d7732f2",
+    "word_count": 1615,
+    "slideshow_credits": null
+}

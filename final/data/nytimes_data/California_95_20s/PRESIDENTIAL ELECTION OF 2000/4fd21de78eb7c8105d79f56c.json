@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/24/us/gore-building-network-in-california.html",
+    "snippet": "As Vice President, Al Gore has traveled to California so many times that aides have lost count. They think his latest trip this weekend, his second of the year already, is the 52d. But they are not eager to bet on it.    While the exact number doe...",
+    "lead_paragraph": "As Vice President, Al Gore has traveled to California so many times that aides have lost count. They think his latest trip this weekend, his second of the year already, is the 52d. But they are not eager to bet on it. While the exact number does not matter much, what Mr. Gore has done there behind the scenes probably does. Over the last three years, he has built a prodigious network of constituent groups and contributors to help him win California's 54 electoral votes, the most of any state, and help him become the fifth incumbent Vice President to capture the White House by election. (The others were John Adams, Thomas Jefferson, Martin Van Buren and George Bush.)",
+    "abstract": "Article discusses growing importance of California in Presidential election race; notes that Vice President Al Gore over last three years has built prodigious network of constituent groups and contributors to help him win state's 54 electoral votes; plans of other Democratic Presidential hopefuls, including Bill Bradley and Sen John F Kerry, for state discussed; photo (M)",
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Gore Building Network in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "persons",
+            "value": "KERRY, JOHN F"
+        },
+        {
+            "name": "persons",
+            "value": "BRADLEY, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "1999-01-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "JANOFSKY"
+            }
+        ],
+        "original": "By MICHAEL JANOFSKY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21de78eb7c8105d79f56c",
+    "word_count": 1299,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/26/us/national-news-briefs-high-winds-in-california.html",
+    "snippet": "Strong winds wreaked havoc on parts of Southern California today, fanning a remote wildfire, knocking out power and forcing highway officials to post warnings for Christmas Day travelers.    Gusts up to 65 miles per hour made it difficult for Vent...",
+    "lead_paragraph": "Strong winds wreaked havoc on parts of Southern California today, fanning a remote wildfire, knocking out power and forcing highway officials to post warnings for Christmas Day travelers. Gusts up to 65 miles per hour made it difficult for Ventura County firefighters to battle a blaze that had grown to 100 acres by midday.",
+    "abstract": "Strong winds wreak havoc on parts of Southern California, fanning remote wildfire, knocking out power and forcing highway officials to post warnings for Christmas Day travelers (S)",
+    "print_page": "22",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; High Winds in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKOUTS (ELECTRICAL)"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "WIND"
+        }
+    ],
+    "pub_date": "2000-12-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd242c68eb7c8105d7dc4cd",
+    "word_count": 131,
+    "slideshow_credits": null
+}

@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/19/us/deferral-of-drilling-off-california-coast-is-at-bush-s-request.html",
+    "snippet": "LEAD: Vice President Bush generally supports off-shore oil drilling but he has urged that the policy be deferred in at least one area off Northern California....",
+    "lead_paragraph": "LEAD: Vice President Bush generally supports off-shore oil drilling but he has urged that the policy be deferred in at least one area off Northern California.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Deferral of Drilling Off California Coast Is at Bush's Request"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "OFFSHORE EXPLORATION AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1988-09-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194c28eb7c8105d6a026d",
+    "word_count": 264,
+    "slideshow_credits": null
+}

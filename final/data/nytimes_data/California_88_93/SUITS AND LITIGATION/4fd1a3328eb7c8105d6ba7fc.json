@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/01/education/california-has-agreed-on-bailing-out-schools.html",
+    "snippet": "California officials agreed last night to bail out the bankrupt Richmond Unified School District, but Gov. Pete Wilson maintained that he still planned to appeal the county court order that forced the state to rescue the system.    At the same tim...",
+    "lead_paragraph": "California officials agreed last night to bail out the bankrupt Richmond Unified School District, but Gov. Pete Wilson maintained that he still planned to appeal the county court order that forced the state to rescue the system. At the same time, state education officials in California and elsewhere said they were concerned that the case might send the wrong message to other mismanaged school systems.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Has Agreed On Bailing Out Schools"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "EDUCATION PAGE (NYT)"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        }
+    ],
+    "pub_date": "1991-05-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": null,
+    "section_name": "Education",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By WILLIAM CELIS 3d"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a3328eb7c8105d6ba7fc",
+    "word_count": 755,
+    "slideshow_credits": null
+}

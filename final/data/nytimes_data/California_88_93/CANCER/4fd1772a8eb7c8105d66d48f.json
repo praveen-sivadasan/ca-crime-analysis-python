@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/25/garden/california-considers-cancer-warning-on-alcohol.html",
+    "snippet": "LEAD: SCIENTIFIC advisers to Gov....",
+    "lead_paragraph": "LEAD: SCIENTIFIC advisers to Gov.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Considers Cancer Warning on Alcohol"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SCIENTIFIC ADVISORY PANEL"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "LIQUOR"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOL"
+        }
+    ],
+    "pub_date": "1988-05-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1772a8eb7c8105d66d48f",
+    "word_count": 530,
+    "slideshow_credits": null
+}

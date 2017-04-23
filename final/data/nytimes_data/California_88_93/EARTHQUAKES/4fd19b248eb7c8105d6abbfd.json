@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/17/us/northern-california-jolted.html",
+    "snippet": "LEAD: An earthquake shook a sparsely populated area in Northern California today but no injuries or major damage was reported, the United States Geological Survey said. The epicenter was off the Pacific Coast, about 50 miles southwest of Eureka. A...",
+    "lead_paragraph": "LEAD: An earthquake shook a sparsely populated area in Northern California today but no injuries or major damage was reported, the United States Geological Survey said. The epicenter was off the Pacific Coast, about 50 miles southwest of Eureka. A spokesman for the earthquake center here said the tremor, which measured 5.3 on the Richter scale, was unrelated to the major earthquake that shook the San Franciso Bay area last Oct.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Northern California Jolted"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1990-01-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "Reuters",
+        "original": "Reuters",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd19b248eb7c8105d6abbfd",
+    "word_count": 142,
+    "slideshow_credits": null
+}

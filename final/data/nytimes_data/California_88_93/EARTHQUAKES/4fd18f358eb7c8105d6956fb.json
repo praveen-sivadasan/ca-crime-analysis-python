@@ -1,0 +1,38 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/the-california-quake-geologists-can-t-find-quake-s-surface-signs.html",
+    "snippet": "LEAD: Puzzled scientists yesterday continued hunting without success for signs of surface movement along a 30-mile segment of the San Andreas fault that ruptured deep in the earth Tuesday afternoon, causing wide damage in Northern California....",
+    "lead_paragraph": "LEAD: Puzzled scientists yesterday continued hunting without success for signs of surface movement along a 30-mile segment of the San Andreas fault that ruptured deep in the earth Tuesday afternoon, causing wide damage in Northern California.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Geologists Can't Find Quake's Surface Signs",
+        "kicker": "THE CALIFORNIA QUAKE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd18f358eb7c8105d6956fb",
+    "word_count": 189,
+    "slideshow_credits": null
+}

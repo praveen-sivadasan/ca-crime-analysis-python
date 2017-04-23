@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/26/business/l-day-care-lessons-842189.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Day Care Lessons"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KAHN, ROBERT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHILDREN'S LOBBY, CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "CHILD CARE"
+        }
+    ],
+    "pub_date": "1989-03-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business; Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd183208eb7c8105d68083f",
+    "word_count": 94,
+    "slideshow_credits": null
+}

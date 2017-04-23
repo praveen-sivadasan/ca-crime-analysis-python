@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/07/opinion/editorial-notebook-tv-executions-trite-overnight.html",
+    "snippet": "The California public television station that sued for the right to film the state's executions used practical First Amendment arguments to make its case. But the station, KQED of San Francisco, turned to myth for the claim that television images ...",
+    "lead_paragraph": "The California public television station that sued for the right to film the state's executions used practical First Amendment arguments to make its case. But the station, KQED of San Francisco, turned to myth for the claim that television images of state-inflicted death would have more value than words alone. Broadcast images are disposable. The more dramatic they are, the more they are shown, the quicker their impact is exhausted. The first gas chamber death would shock. The third would be familiar. A dozen times, and it would be no more compelling than wallpaper. The film of Los Angeles policemen bludgeoning a helpless victim will transform itself in just this way.",
+    "abstract": null,
+    "print_page": "34",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "TV Executions: Trite Overnight",
+        "kicker": "EDITORIAL NOTEBOOK"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KQED"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "PHOTOGRAPHY"
+        }
+    ],
+    "pub_date": "1991-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Brent",
+                "rank": 1,
+                "lastname": "STAPLES"
+            }
+        ],
+        "original": "By BRENT STAPLES"
+    },
+    "type_of_material": "Editorial",
+    "_id": "4fd1af8b8eb7c8105d6d0271",
+    "word_count": 523,
+    "slideshow_credits": null
+}

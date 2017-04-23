@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/16/business/lush-crops-and-profits-in-california.html",
+    "snippet": "LEAD: Jack Pandol Sr. can watch the grape harvest on his family's 9,000-acre ranch near Delano in the heart of California's lush San Joaquin Valley this fall and permit himself a smile. ''Barring any unusual weather between now and Dec. 1,'' Mr. P...",
+    "lead_paragraph": "LEAD: Jack Pandol Sr. can watch the grape harvest on his family's 9,000-acre ranch near Delano in the heart of California's lush San Joaquin Valley this fall and permit himself a smile. ''Barring any unusual weather between now and Dec. 1,'' Mr. Pandol said, ''we're quite optimistic.''",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Lush Crops and Profits in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "IRRIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "FARMERS"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        }
+    ],
+    "pub_date": "1988-10-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd195858eb7c8105d6a1b83",
+    "word_count": 1263,
+    "slideshow_credits": null
+}

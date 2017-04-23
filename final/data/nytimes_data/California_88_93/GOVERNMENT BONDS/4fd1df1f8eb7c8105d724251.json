@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/09/business/credit-markets-rapid-transit-bonds-priced.html",
+    "snippet": "The Southern California Rapid Transit Authority brought a $162.2 million bond issue to market yesterday and tentatively priced it to yield a maximum of 6.60 percent for bonds due in 2008 and 2009....",
+    "lead_paragraph": "The Southern California Rapid Transit Authority brought a $162.2 million bond issue to market yesterday and tentatively priced it to yield a maximum of 6.60 percent for bonds due in 2008 and 2009.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rapid Transit Bonds Priced",
+        "kicker": "CREDIT MARKETS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "TRANSIT SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1992-10-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1df1f8eb7c8105d724251",
+    "word_count": 169,
+    "slideshow_credits": null
+}

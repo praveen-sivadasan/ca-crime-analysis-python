@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/16/business/insurers-are-liable-in-dumps-case.html",
+    "snippet": "The California Supreme Court ruled today that insurance companies were responsible for paying for government-ordered cleanups of toxic dumps created by the companies they insure.    The issue was whether companies were covered under comprehensive ...",
+    "lead_paragraph": "The California Supreme Court ruled today that insurance companies were responsible for paying for government-ordered cleanups of toxic dumps created by the companies they insure. The issue was whether companies were covered under comprehensive general liability policies for such cleanup orders. In a case brought by the FMC Corporation of Chicago against its insurance companies, the court ruled unanimously that the cleanups were covered. The decision could mean that more money will be made available for cleaning up hazardous waste sites. But it is a major setback for the insurance industry,which could face several billion dollars in cleanup costs in California alone. \"It's astronomically important in terms of the amount of money that will be made available to clean up America,\" said Wondie Russell, a San Francisco lawyer who has represented insured companies in similar cases. \"The insurance companies have largely been turning their backs on policyholders who are faced with these kinds of cleanups.\" Deborah Pitts, a Los Angeles lawyer who represented the AIU Insurance Company, said the court ruled on only one clause and that other clauses in the policies might still preclude coverage for toxic waste cleanups.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Insurers Are Liable in Dumps Case"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FMC CORP"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+        },
+        {
+            "name": "subject",
+            "value": "WASTE MATERIALS AND DISPOSAL"
+        },
+        {
+            "name": "subject",
+            "value": "SUPREME COURTS (STATE)"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1990-11-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c3dc8eb7c8105d6f3601",
+    "word_count": 190,
+    "slideshow_credits": null
+}

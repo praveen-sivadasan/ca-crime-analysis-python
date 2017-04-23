@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/29/us/poor-seekers-good-life-flock-california-middle-class-moves-away-sun-safety-state.html",
+    "snippet": "Like generations of westward migrants before them, Say Vann, his wife and six children piled into a truck five years ago and headed sight-unseen for California, looking for warmer weather, cleaner air, less crime, fresher vegetables and, most impo...",
+    "lead_paragraph": "Like generations of westward migrants before them, Say Vann, his wife and six children piled into a truck five years ago and headed sight-unseen for California, looking for warmer weather, cleaner air, less crime, fresher vegetables and, most important of all, higher welfare payments than they found in Pennsylvania, their first American home. What the Vanns found here was just what they had hoped for, just what fellow Cambodian refugees promised.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Poor Seekers of Good Life Flock to California, as Middle Class Moves Away; Sun, Safety and State Aid Lure One Family"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CAMBODIAN-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        }
+    ],
+    "pub_date": "1991-12-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ca268eb7c8105d6fe461",
+    "word_count": 1222,
+    "slideshow_credits": null
+}

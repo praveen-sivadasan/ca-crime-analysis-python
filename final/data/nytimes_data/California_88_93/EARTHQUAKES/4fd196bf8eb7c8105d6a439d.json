@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/18/us/earthquake-in-northern-california-chaos-and-uncertainty-for-the-rescue-teams.html",
+    "snippet": "LEAD: When 500 of the nation's earthquake specialists gathered in Sacramento in August to prepare for a shock like the one that hit Northern California today, they warned that the first hours would be a time of chaos and uncertainty....",
+    "lead_paragraph": "LEAD: When 500 of the nation's earthquake specialists gathered in Sacramento in August to prepare for a shock like the one that hit Northern California today, they warned that the first hours would be a time of chaos and uncertainty.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Chaos and Uncertainty For the Rescue Teams",
+        "kicker": "EARTHQUAKE IN NORTHERN CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd196bf8eb7c8105d6a439d",
+    "word_count": 699,
+    "slideshow_credits": null
+}

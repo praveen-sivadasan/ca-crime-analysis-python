@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/28/nyregion/c-corrections-515890.html",
+    "snippet": "LEAD: A chart in some copies yesterday, listing proposals for political reform in California, was published in error....",
+    "lead_paragraph": "LEAD: A chart in some copies yesterday, listing proposals for political reform in California, was published in error.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1990-09-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1a5158eb7c8105d6bd888",
+    "word_count": 48,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/17/us/man-angry-at-the-irs-admits-bombings.html",
+    "snippet": "A soft-spoken aerospace engineer has admitted hurling 13 pipe bombs from a launcher toward one Internal Revenue Service center and trying to blow up three others.    The 45-year-old defendant, Dean Harvey Hicks of Costa Mesa, Calif., who the autho...",
+    "lead_paragraph": "A soft-spoken aerospace engineer has admitted hurling 13 pipe bombs from a launcher toward one Internal Revenue Service center and trying to blow up three others. The 45-year-old defendant, Dean Harvey Hicks of Costa Mesa, Calif., who the authorities say was seeking revenge because the I.R.S. had refused him a tax deduction worth thousands of dollars, pleaded guilty to the charges in Federal District Court on Wednesday. He faces up to 43 years in prison when he is sentenced Oct. 16.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Man Angry at the I.R.S. Admits Bombings"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HICKS, DEAN HARVEY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERNAL REVENUE SERVICE"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "BOMBS AND BOMB PLOTS"
+        },
+        {
+            "name": "subject",
+            "value": "TAX DEDUCTIONS"
+        }
+    ],
+    "pub_date": "1991-08-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c4328eb7c8105d6f3f19",
+    "word_count": 275,
+    "slideshow_credits": null
+}

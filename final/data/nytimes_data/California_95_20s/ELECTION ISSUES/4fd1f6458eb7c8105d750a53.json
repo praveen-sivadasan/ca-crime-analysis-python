@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1996/08/29/us/dole-criticizes-clinton-as-lax-on-a-policy-to-combat-drugs.html",
+    "snippet": "Bob Dole and several California officials today attributed the recent rise in drug use among young people to what they called President Clinton's failure of moral leadership and by extension, his failure of character.    ''When we talk about drug ...",
+    "lead_paragraph": "Bob Dole and several California officials today attributed the recent rise in drug use among young people to what they called President Clinton's failure of moral leadership and by extension, his failure of character. ''When we talk about drug abuse, we're talking about fundamental issues of character,'' Michael D. Bradbury, the district attorney of Ventura County, said as he introduced Mr. Dole at an antidrug rally here as ''a man of unquestioned integrity, a man of unquestioned character, a man who will reclaim the moral high ground for the Presidency.''",
+    "abstract": "Bob Dole and several California officials attribute recent rise in drug use among young people to what they call Pres Clinton's failure of moral leadership and by extension, his failure of character (M)",
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Dole Criticizes Clinton as Lax On a Policy to Combat Drugs"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1996-08-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Katharine",
+                "middlename": "Q.",
+                "lastname": "SEELYE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KATHARINE Q. SEELYE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f6458eb7c8105d750a53",
+    "word_count": 690,
+    "slideshow_credits": null
+}

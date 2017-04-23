@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/14/us/quake-is-blamed-in-applications-drop.html",
+    "snippet": "LEAD: Not long after the earthquake last October, an admissions officer at the University of California at Santa Cruz produced a poster that he mailed to high school guidance counselors around the country....",
+    "lead_paragraph": "LEAD: Not long after the earthquake last October, an admissions officer at the University of California at Santa Cruz produced a poster that he mailed to high school guidance counselors around the country.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake Is Blamed in Applications Drop"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SANTA CRUZ (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "ENROLLMENT"
+        }
+    ],
+    "pub_date": "1990-03-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd191b28eb7c8105d699f05",
+    "word_count": 740,
+    "slideshow_credits": null
+}

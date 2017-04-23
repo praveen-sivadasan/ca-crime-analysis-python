@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1995/06/01/garden/a-grand-hotel-still-pink-still-posh.html",
+    "snippet": "Wandering into the Polo Lounge of the soon-to-reopen Beverly Hills Hotel, Kermit Beriker, the general manager, happily greeted several workers who were applying final touches to the lush forest green pillars.         \"Nothing has changed here -- i...",
+    "lead_paragraph": "Wandering into the Polo Lounge of the soon-to-reopen Beverly Hills Hotel, Kermit Beriker, the general manager, happily greeted several workers who were applying final touches to the lush forest green pillars. \"Nothing has changed here -- it's exactly as it was,\" Mr. Beriker said, walking into the lobby. \"We're back!\"",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Grand Hotel, Still Pink, Still Posh"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BEVERLY HILLS HOTEL"
+        },
+        {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+        },
+        {
+            "name": "subject",
+            "value": "RESTORATION AND REHABILITATION"
+        }
+    ],
+    "pub_date": "1995-06-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Home Desk",
+    "section_name": "Home and Garden; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bernard",
+                "rank": 1,
+                "lastname": "WEINRAUB"
+            }
+        ],
+        "original": "By BERNARD WEINRAUB"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cf568eb7c8105d707ca5",
+    "word_count": 1285,
+    "slideshow_credits": null
+}

@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/19/us/quake-jolts-california-coast.html",
+    "snippet": "LEAD: A moderate earthquake jolted the Northern California coastline early today, but no injuries or damage was reported. The epicenter of the earthquake, which registered 5.1 on the Richter scale, was at the juncture of the San Andreas and Mendoc...",
+    "lead_paragraph": "LEAD: A moderate earthquake jolted the Northern California coastline early today, but no injuries or damage was reported. The epicenter of the earthquake, which registered 5.1 on the Richter scale, was at the juncture of the San Andreas and Mendocino faults, 30 miles northeast of here, said a spokeswoman for the United States Geological Survey in Menlo Park.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake Jolts California Coast"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1990-01-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd191f18eb7c8105d69a61e",
+    "word_count": 115,
+    "slideshow_credits": null
+}

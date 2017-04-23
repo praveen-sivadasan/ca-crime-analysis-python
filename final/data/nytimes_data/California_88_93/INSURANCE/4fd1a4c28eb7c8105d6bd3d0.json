@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/16/us/california-moves-to-force-insurers-to-pay-2.5-billion-in-policy-rebates.html",
+    "snippet": "The California Insurance Department acted today to force the insurance industry to pay $2.5 billion in rebates to consumers. A spokesman for the industry said it would almost certainly fight the move in court.    In the latest effort to impose the...",
+    "lead_paragraph": "The California Insurance Department acted today to force the insurance industry to pay $2.5 billion in rebates to consumers. A spokesman for the industry said it would almost certainly fight the move in court. In the latest effort to impose the rate-cutting provisions of an insurance-overhaul initiative passed by the voters nearly three years ago, State Insurance Commissioner John Garamendi outlined new regulations that he said would result in rebates to holders of 20 million automobile, homeowner and fire policies in effect during 1989. Mr. Garamendi said the rebates for auto insurance would average more than $100 a car for that year.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Moves to Force Insurers To Pay $2.5 Billion in Policy Rebates"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REBATES"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        }
+    ],
+    "pub_date": "1991-08-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a4c28eb7c8105d6bd3d0",
+    "word_count": 764,
+    "slideshow_credits": null
+}

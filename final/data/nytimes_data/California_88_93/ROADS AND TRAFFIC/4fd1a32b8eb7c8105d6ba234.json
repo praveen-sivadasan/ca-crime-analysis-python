@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/26/us/johnny-carson-s-son-dies-in-an-auto-crash.html",
+    "snippet": "A son of the entertainer Johnny Carson was killed last Friday when his car went off a rural road and fell 100 feet down an embankment, the authorities said Monday.    The 39-year-old victim, Richard Wolcott Carson, was thrown from his four-wheel-d...",
+    "lead_paragraph": "A son of the entertainer Johnny Carson was killed last Friday when his car went off a rural road and fell 100 feet down an embankment, the authorities said Monday. The 39-year-old victim, Richard Wolcott Carson, was thrown from his four-wheel-drive vehicle, which then landed on its top in a culvert, said Russ Johnson of the California Highway Patrol. Mr. Johnson said Mr. Carson had been killed instantly.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Johnny Carson's Son Dies in an Auto Crash"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CARSON, JOHNNY"
+        },
+        {
+            "name": "persons",
+            "value": "CARSON, RICHARD WOLCOTT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1991-06-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a32b8eb7c8105d6ba234",
+    "word_count": 127,
+    "slideshow_credits": null
+}

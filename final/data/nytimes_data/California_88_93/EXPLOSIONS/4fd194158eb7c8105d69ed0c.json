@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/07/18/us/2-won-t-be-charged-in-bombing-case.html",
+    "snippet": "LEAD: Two members of the radical environmental group Earth First will not be charged with transporting the bomb that exploded in their car and injured them in May, lawyers for the two said today....",
+    "lead_paragraph": "LEAD: Two members of the radical environmental group Earth First will not be charged with transporting the bomb that exploded in their car and injured them in May, lawyers for the two said today.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "2 Won't Be Charged in Bombing Case"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHERNEY, DARRYL"
+        },
+        {
+            "name": "persons",
+            "value": "BARI, JUDI"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EARTH FIRST!"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "BOMBS AND BOMB PLOTS"
+        },
+        {
+            "name": "subject",
+            "value": "EXPLOSIONS"
+        }
+    ],
+    "pub_date": "1990-07-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194158eb7c8105d69ed0c",
+    "word_count": 749,
+    "slideshow_credits": null
+}

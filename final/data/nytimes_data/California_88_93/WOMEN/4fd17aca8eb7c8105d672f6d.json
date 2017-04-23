@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/1988/07/27/garden/points-west-the-california-work-ethic-be-beautiful.html",
+    "snippet": "LEAD: The reigning Miss California, Marlise Ricardos, is a 26-year-old, 5-foot-9, impressively slender Latin beauty who frosts her hair and sometimes wears blue contact lenses when she competes. She's the ultimate self-made competitor, a chemicall...",
+    "lead_paragraph": "LEAD: The reigning Miss California, Marlise Ricardos, is a 26-year-old, 5-foot-9, impressively slender Latin beauty who frosts her hair and sometimes wears blue contact lenses when she competes. She's the ultimate self-made competitor, a chemically ''sun streaked'' miss who rid herself of both pounds and ethnic identity to please pageant judges.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The California Work Ethic: Be Beautiful",
+        "kicker": "POINTS WEST"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEIGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        }
+    ],
+    "pub_date": "1988-07-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Anne",
+                "middlename": "Taylor",
+                "lastname": "FLEMING",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANNE TAYLOR FLEMING, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17aca8eb7c8105d672f6d",
+    "word_count": 947,
+    "slideshow_credits": null
+}

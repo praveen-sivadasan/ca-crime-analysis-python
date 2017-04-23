@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/18/us/fire-season-mild-despite-oakland-blaze-is-an-ominous-one.html",
+    "snippet": "California made history last year with its most devastating urban wildfire, in Oakland. The state also appears to have set another fire record, for the mildest recorded season in terms of acres burned.    Both records hold the sparks of possible f...",
+    "lead_paragraph": "California made history last year with its most devastating urban wildfire, in Oakland. The state also appears to have set another fire record, for the mildest recorded season in terms of acres burned. Both records hold the sparks of possible future disaster.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fire Season, Mild Despite Oakland Blaze, Is an Ominous One"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        }
+    ],
+    "pub_date": "1992-01-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cdce8eb7c8105d70559a",
+    "word_count": 950,
+    "slideshow_credits": null
+}

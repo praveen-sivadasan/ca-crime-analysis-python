@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/07/20/garden/a-portrait-of-tastes-in-wine.html",
+    "snippet": "LEAD: DESPITE a 1 percent reduction in wine consumption nationwide last year and a continuing decline of grape acreage in California, the volume of chardonnay planted there reached an all-time high in 1987, a leading California-oriented trade publ...",
+    "lead_paragraph": "LEAD: DESPITE a 1 percent reduction in wine consumption nationwide last year and a continuing decline of grape acreage in California, the volume of chardonnay planted there reached an all-time high in 1987, a leading California-oriented trade publication reports.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Portrait Of Tastes In Wine"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1988-07-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Howard",
+                "middlename": "G.",
+                "lastname": "GOLDBERG",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By HOWARD G. GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18c9b8eb7c8105d68fea4",
+    "word_count": 528,
+    "slideshow_credits": null
+}

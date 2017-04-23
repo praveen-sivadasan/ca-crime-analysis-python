@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/03/05/us/2000-campaign-advertising-fierce-ad-wars-ballot-measures-california.html",
+    "snippet": "On television and radio, the pitch is made relentlessly. Every commercial break brings another political come-on. But most of the time, it isn't the governor of Texas or the senator from Arizona, the vice president of the United States or the form...",
+    "lead_paragraph": "On television and radio, the pitch is made relentlessly. Every commercial break brings another political come-on. But most of the time, it isn't the governor of Texas or the senator from Arizona, the vice president of the United States or the former senator from New Jersey they are asking you to vote for. It is Yes or No.",
+    "abstract": "Television viewers in California are inundated with advertising about the 20 initiatives and referendums on the March 7 ballot; photos (M)",
+    "print_page": "31",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fierce Ad Wars on Ballot Measures in California",
+        "kicker": "THE 2000 CAMPAIGN: THE ADVERTISING"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICAL ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "2000-03-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Peter",
+                "rank": 1,
+                "lastname": "MARKS"
+            }
+        ],
+        "original": "By PETER MARKS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd23b4e8eb7c8105d7d046c",
+    "word_count": 1216,
+    "slideshow_credits": null
+}

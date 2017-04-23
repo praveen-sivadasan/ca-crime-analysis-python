@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1998/02/16/us/national-news-briefs-california-braces-for-the-next-storm.html",
+    "snippet": "Crews shored up levees at swollen rivers, stabilized slippery hillsides and tried to contain sewage and oil spills today as another El Nino-driven storm threatened to soak Southern California.    Up to four and a half inches of rain is expected in...",
+    "lead_paragraph": "Crews shored up levees at swollen rivers, stabilized slippery hillsides and tried to contain sewage and oil spills today as another El Nino-driven storm threatened to soak Southern California. Up to four and a half inches of rain is expected in some areas on Monday, the National Weather Service said.",
+    "abstract": "Southern California braces for another El Nino-driven storm that is expected to bring up to four and a half inches of rain in some areas (S)",
+    "print_page": "10",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; California Braces For the Next Storm"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "EL NINO (PACIFIC OCEAN CURRENT)"
+        }
+    ],
+    "pub_date": "1998-02-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd203e68eb7c8105d76a86a",
+    "word_count": 172,
+    "slideshow_credits": null
+}

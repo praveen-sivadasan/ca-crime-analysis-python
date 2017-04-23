@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1995/09/01/business/cable-operator-plans-to-expand.html",
+    "snippet": "Continental Cablevision Inc., the nation's third-largest cable television operator, said today that it planned to expand into the local telephone market in California.    Privately held Continental, the largest cable operator in Los Angeles, said ...",
+    "lead_paragraph": "Continental Cablevision Inc., the nation's third-largest cable television operator, said today that it planned to expand into the local telephone market in California. Privately held Continental, the largest cable operator in Los Angeles, said that it had requested permission from the California Public Utilities Commission to offer phone service in 10 California counties with 14 million residents.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Cable Operator Plans to Expand"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CONTINENTAL CABLEVISION INC"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1995-09-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd201f58eb7c8105d766f60",
+    "word_count": 132,
+    "slideshow_credits": null
+}

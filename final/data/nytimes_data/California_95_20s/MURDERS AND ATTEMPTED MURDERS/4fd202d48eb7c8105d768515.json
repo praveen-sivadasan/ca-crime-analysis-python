@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/11/21/us/memory-issue-prompts-retrial-in-murder-case.html",
+    "snippet": "A Federal appeals court today refused to reinstate the murder conviction of George Franklin, who had been charged with a 20-year-old killing based on his daughter's repressed memory.         The 3-to-0 ruling entitles Mr. Franklin to a new trial. ...",
+    "lead_paragraph": "A Federal appeals court today refused to reinstate the murder conviction of George Franklin, who had been charged with a 20-year-old killing based on his daughter's repressed memory. The 3-to-0 ruling entitles Mr. Franklin to a new trial. He is serving a life sentence.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Memory Issue Prompts Retrial In Murder Case"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FRANKLIN-LIPSKER, EILEEN"
+        },
+        {
+            "name": "persons",
+            "value": "FRANKLIN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MEMORY"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        }
+    ],
+    "pub_date": "1995-11-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd202d48eb7c8105d768515",
+    "word_count": 253,
+    "slideshow_credits": null
+}

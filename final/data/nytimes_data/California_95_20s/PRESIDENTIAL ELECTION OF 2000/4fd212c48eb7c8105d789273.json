@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/2000/03/06/us/2000-campaign-california-mccain-serves-lightning-rod-stirring-voter-interest.html",
+    "snippet": "Allen Pennington, a personnel worker in this bedroom community of strip malls and independent-minded voters, said today that he had been set to vote for Senator John McCain but switched his allegiance to Gov. George W. Bush after what he considere...",
+    "lead_paragraph": "Allen Pennington, a personnel worker in this bedroom community of strip malls and independent-minded voters, said today that he had been set to vote for Senator John McCain but switched his allegiance to Gov. George W. Bush after what he considered Mr. McCain's intemperate denunciation of religious conservative leaders Pat Robertson and the Rev. Jerry Falwell. ''I won't vote for him now, no matter what,'' said Mr. Pennington, 55, who considered himself a religious conservative. ''He lost my vote right there.''",
+    "abstract": "Republican presidential candidate Sen John McCain is only White House contender who rouses voters' passions in California, for better or for worse; his victory in crucial March 7 primary, in which winner will receive 162 delegates, could hinge on whether voters admire his audaciousness or are put off by it; photos (M)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "McCain Serves as a Lightning Rod, Stirring Voter Interest in a Crucial Primary",
+        "kicker": "THE 2000 CAMPAIGN: CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-03-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "L.",
+                "lastname": "BERKE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Adam",
+                "rank": 2,
+                "lastname": "CLYMER"
+            }
+        ],
+        "original": "By RICHARD L. BERKE with ADAM CLYMER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd212c48eb7c8105d789273",
+    "word_count": 1145,
+    "slideshow_credits": null
+}

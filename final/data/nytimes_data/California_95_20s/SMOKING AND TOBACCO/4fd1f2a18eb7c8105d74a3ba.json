@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1995/08/03/us/study-finds-schools-attract-tobacco-ads.html",
+    "snippet": "There are significantly more tobacco advertisements in stores near California schools than in stores farther away, according to a new study of more than 5,700 stores in that state.   The study, released today by the California Department of Health...",
+    "lead_paragraph": "There are significantly more tobacco advertisements in stores near California schools than in stores farther away, according to a new study of more than 5,700 stores in that state. The study, released today by the California Department of Health Services, also found that there is a significantly greater number of tobacco ads near the candy counters in stores near schools, and that they are more often set below three feet in those stores, where children can see them better.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Study Finds Schools Attract Tobacco Ads"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING AND TOBACCO"
+        }
+    ],
+    "pub_date": "1995-08-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Philip",
+                "middlename": "J.",
+                "lastname": "HILTS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By PHILIP J. HILTS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f2a18eb7c8105d74a3ba",
+    "word_count": 943,
+    "slideshow_credits": null
+}

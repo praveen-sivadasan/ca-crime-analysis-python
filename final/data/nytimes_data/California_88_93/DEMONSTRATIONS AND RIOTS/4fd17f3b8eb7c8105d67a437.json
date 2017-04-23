@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/16/us/beauty-contestant-denounces-the-indignities.html",
+    "snippet": "LEAD: A beauty contestant who pulled a protest banner from her bra in the middle of the Miss California pageant Monday says she plotted the disruption for a year and a half....",
+    "lead_paragraph": "LEAD: A beauty contestant who pulled a protest banner from her bra in the middle of the Miss California pageant Monday says she plotted the disruption for a year and a half.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Beauty Contestant Denounces the 'Indignities'"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ANDERSON, MICHELLE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BEAUTY CONTESTS"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        }
+    ],
+    "pub_date": "1988-06-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17f3b8eb7c8105d67a437",
+    "word_count": 413,
+    "slideshow_credits": null
+}

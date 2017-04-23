@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/22/business/corporate-bonds-status-stays-intact-for-salomon.html",
+    "snippet": "While controversy swirls around Salomon Brothers' bidding for Treasury securities, and it is barred from submitting bids for customers at future auctions, the firm has become even more prominent in the corporate bond market.    Salomon's strength ...",
+    "lead_paragraph": "While controversy swirls around Salomon Brothers' bidding for Treasury securities, and it is barred from submitting bids for customers at future auctions, the firm has become even more prominent in the corporate bond market. Salomon's strength in distributing new securities to investors was recognized yesterday when it joined Goldman, Sachs & Company in managing a $602 million issue of taxable bonds issued by the State of California.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corporate Bonds Status Stays Intact for Salomon"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SALOMON BROTHERS INC"
+        },
+        {
+            "name": "subject",
+            "value": "CORPORATE BONDS"
+        }
+    ],
+    "pub_date": "1991-08-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "QUINT"
+            }
+        ],
+        "original": "By MICHAEL QUINT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b0308eb7c8105d6d11d3",
+    "word_count": 339,
+    "slideshow_credits": null
+}

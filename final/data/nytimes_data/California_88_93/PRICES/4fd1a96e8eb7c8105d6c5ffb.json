@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/10/weekinreview/the-nation-even-in-california-finally-real-estate-is-not-hot.html",
+    "snippet": "LEAD: CALIFORNIANS are begining to learn what Texans did five years ago and New Yorkers more recently: that what goes up in real estate may also come down....",
+    "lead_paragraph": "LEAD: CALIFORNIANS are begining to learn what Texans did five years ago and New Yorkers more recently: that what goes up in real estate may also come down.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Even in California, Finally, Real Estate Is Not Hot",
+        "kicker": "THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        }
+    ],
+    "pub_date": "1989-12-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a96e8eb7c8105d6c5ffb",
+    "word_count": 891,
+    "slideshow_credits": null
+}

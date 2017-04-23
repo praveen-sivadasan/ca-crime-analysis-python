@@ -1,0 +1,51 @@
+{
+    "web_url": "https://www.nytimes.com/1993/05/02/travel/fare-of-the-country-california-s-prized-wild-mushrooms.html",
+    "snippet": "ONE November afternoon, when I was working for a small newspaper in northern California, a photographer walked in, dropped a pile of huge chanterelles and a few boletes on a counter and invited the staff to take some home. Exactly where he had col...",
+    "lead_paragraph": "ONE November afternoon, when I was working for a small newspaper in northern California, a photographer walked in, dropped a pile of huge chanterelles and a few boletes on a counter and invited the staff to take some home. Exactly where he had collected the mushrooms he wasn't saying -- somewhere on the Point Reyes peninsula. The chanterelles I had encountered previously were golden fluted fungi the size of fingers. These California mushrooms had the color and fluted edges, but they were the size of fists. Although I took the two or three chanterelles that were offered and listened to the discourse on how to clean and cook them, I was afraid to, and they sat on my desk until they dried. Only later, in my neighborhood market in San Francisco, when I saw them labeled Cantharellus cibarius and priced from $16 to $24 a pound, did I buy some, cook them and begin to realize what I had missed.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Prized Wild Mushrooms",
+        "kicker": "FARE OF THE COUNTRY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MUSHROOMS"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "NYTRAVEL"
+        }
+    ],
+    "pub_date": "1993-05-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Travel",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By SUSAN BENNER;"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ddc68eb7c8105d720799",
+    "word_count": 1792,
+    "slideshow_credits": null
+}

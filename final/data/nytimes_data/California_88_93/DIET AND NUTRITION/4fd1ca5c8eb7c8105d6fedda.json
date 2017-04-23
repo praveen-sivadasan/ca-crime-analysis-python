@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/24/garden/eating-well-a-french-chef-holds-the-cream-never-the-taste.html",
+    "snippet": "CREAM of Wheat, dried beets, chicken jus: this is not the stuff of mouth-watering meals, lovingly recalled. Until they have been in the hands of Michel Richard, one of the most exuberant and creative French chefs in the United States today.    Mr....",
+    "lead_paragraph": "CREAM of Wheat, dried beets, chicken jus: this is not the stuff of mouth-watering meals, lovingly recalled. Until they have been in the hands of Michel Richard, one of the most exuberant and creative French chefs in the United States today. Mr. Richard spends most of his waking hours running from his French-California restaurant, Citrus, in Los Angeles, to his three less-ambitious French-California restaurants in Santa Barbara, Calif., Washington and Baltimore -- all called Citronelle. He knows he should take a little time for a diet and exercise regimen, but says he's too busy conjuring up ways to make French food more accessible, more casual and more in keeping with what Americans say they want to eat.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A French Chef Holds the Cream, Never the Taste",
+        "kicker": "EATING WELL"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "RICHARD, MICHEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DIET AND NUTRITION"
+        },
+        {
+            "name": "subject",
+            "value": "RESTAURANTS"
+        },
+        {
+            "name": "subject",
+            "value": "BUTTER"
+        },
+        {
+            "name": "subject",
+            "value": "COOKING AND COOKBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "RECIPES"
+        },
+        {
+            "name": "subject",
+            "value": "DAIRY PRODUCTS"
+        }
+    ],
+    "pub_date": "1993-03-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden; Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Marian",
+                "rank": 1,
+                "lastname": "BURROS"
+            }
+        ],
+        "original": "By MARIAN BURROS"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1ca5c8eb7c8105d6fedda",
+    "word_count": 3055,
+    "slideshow_credits": null
+}

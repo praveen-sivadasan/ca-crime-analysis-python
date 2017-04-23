@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/24/us/stanford-agrees-to-return-ancient-bones-to-indians.html",
+    "snippet": "LEAD: In an exceptional agreement, Stanford University will return the skeletal remains of about 550 Ohlone Indians to their descendants in Northern California for reburial....",
+    "lead_paragraph": "LEAD: In an exceptional agreement, Stanford University will return the skeletal remains of about 550 Ohlone Indians to their descendants in Northern California for reburial.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Stanford Agrees to Return Ancient Bones to Indians"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "STANFORD UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "ARCHEOLOGY AND ANTHROPOLOGY"
+        },
+        {
+            "name": "subject",
+            "value": "INDIANS, AMERICAN"
+        },
+        {
+            "name": "subject",
+            "value": "OHLONE INDIANS"
+        }
+    ],
+    "pub_date": "1989-06-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd184128eb7c8105d682810",
+    "word_count": 1022,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/2000/11/03/opinion/l-california-power-market-993034.html",
+    "snippet": "To the Editor:    The Federal Energy Regulatory Commission has said that for California's electricity infrastructure to survive privatization, more power plants and transmission lines will have to be built (news article, Nov. 2). This may help bri...",
+    "lead_paragraph": "To the Editor: The Federal Energy Regulatory Commission has said that for California's electricity infrastructure to survive privatization, more power plants and transmission lines will have to be built (news article, Nov. 2). This may help bring electricity prices back down in the short run, but it will only reinforce a spiral of increasing energy demand and worsening pollution.",
+    "abstract": "Howard Slatkin letter warns that building more power plants and transmission lines in California would only reinforce spiral of increasing energy demand and worsening pollution, even if prices are brought down in short run (S)",
+    "print_page": "30",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Power Market"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SLATKIN, HOWARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRIVATIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "2000-11-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd21bd78eb7c8105d79b5c8",
+    "word_count": 108,
+    "slideshow_credits": null
+}

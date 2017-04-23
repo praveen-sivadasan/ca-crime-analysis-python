@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/25/business/vote-ends-wine-commission-in-california.html",
+    "snippet": "LEAD: The California Wine Commission was voted out of existence today, the victim of a rebellion by the state's small wineries....",
+    "lead_paragraph": "LEAD: The California Wine Commission was voted out of existence today, the victim of a rebellion by the state's small wineries.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Vote Ends Wine Commission in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WINE COMMISSION, CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        }
+    ],
+    "pub_date": "1990-05-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd195a88eb7c8105d6a20e5",
+    "word_count": 544,
+    "slideshow_credits": null
+}

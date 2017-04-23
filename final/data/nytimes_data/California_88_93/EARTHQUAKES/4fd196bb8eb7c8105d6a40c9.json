@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/22/us/building-codes-designs-for-last-quake-not-next.html",
+    "snippet": "LEAD: When it opened in 1957, the Nimitz Freeway in Oakland was an engineering marvel. The story of how it became a concrete graveyard is the story of California's century of attempts to define what makes a structure withstand an earthquake....",
+    "lead_paragraph": "LEAD: When it opened in 1957, the Nimitz Freeway in Oakland was an engineering marvel. The story of how it became a concrete graveyard is the story of California's century of attempts to define what makes a structure withstand an earthquake.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Building Codes: Designs for Last Quake, Not Next"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "BUILDINGS (STRUCTURES)"
+        }
+    ],
+    "pub_date": "1989-10-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Timothy",
+                "rank": 1,
+                "lastname": "EGAN"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By TIMOTHY EGAN, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd196bb8eb7c8105d6a40c9",
+    "word_count": 1011,
+    "slideshow_credits": null
+}

@@ -1,0 +1,72 @@
+{
+    "web_url": "https://www.nytimes.com/1998/08/25/business/northrop-to-cut-8000-jobs-in-wake-of-failed-merger.html",
+    "snippet": "The Northrop Grumman Corporation said today that it planned to reduce its work force by 8,000 people, or about 15 percent, by the end of 2000 as it tries to remain competitive as an independent aerospace company.     The announcement of the cutbac...",
+    "lead_paragraph": "The Northrop Grumman Corporation said today that it planned to reduce its work force by 8,000 people, or about 15 percent, by the end of 2000 as it tries to remain competitive as an independent aerospace company. The announcement of the cutbacks, most of which will be in Southern California, comes a month after the planned acquisition of Northrop by Lockheed Martin collapsed in the face of Government antitrust concerns. Since then, Northrop, the nation's fourth-largest aerospace company, has seen its stock plunge to about half its peak value amid doubts about whether the company can survive in an industry dominated by three larger rivals: Boeing, Lockheed and Raytheon.",
+    "abstract": "Northrop Grumman Corp says it will cut work force by 8,000 people, or about 15 percent, by the end of 2000 as it tries to remain competitive as independent company in wake of collapse of its acquisition by Lockheed Martin on antitrust grounds; most of cuts will be in Southern California; chairman Kent Kresa comments, interview (M)",
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Northrop to Cut 8,000 Jobs In Wake of Failed Merger"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KRESA, KENT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LOCKHEED MARTIN CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "NORTHROP GRUMMAN CORP"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS AND JOB REDUCTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1998-08-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20b2a8eb7c8105d7795df",
+    "word_count": 645,
+    "slideshow_credits": null
+}

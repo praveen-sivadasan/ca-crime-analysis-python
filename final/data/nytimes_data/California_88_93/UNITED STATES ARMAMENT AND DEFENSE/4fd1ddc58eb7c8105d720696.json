@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1993/05/31/business/california-sees-more-lost-jobs.html",
+    "snippet": "A state commission estimates that California will lose 125,000 jobs in the next four years because of Federal cuts in military spending and base closings.   The figure is up sharply from the commission's forecast last fall that 80,000 jobs would b...",
+    "lead_paragraph": "A state commission estimates that California will lose 125,000 jobs in the next four years because of Federal cuts in military spending and base closings. The figure is up sharply from the commission's forecast last fall that 80,000 jobs would be lost. Since then, Defense Secretary Les Aspin has proposed closing more military bases in California.",
+    "abstract": null,
+    "print_page": "38",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "California Sees More Lost Jobs"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1993-05-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ddc58eb7c8105d720696",
+    "word_count": 162,
+    "slideshow_credits": null
+}

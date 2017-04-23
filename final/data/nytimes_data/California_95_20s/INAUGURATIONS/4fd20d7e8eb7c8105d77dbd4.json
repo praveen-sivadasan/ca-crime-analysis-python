@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/05/us/california-s-new-governor-promises-to-overhaul-schools.html",
+    "snippet": "Declaring ''a time to do great things again,'' Gray Davis took office today as the 37th Governor of California, pledging to overhaul the troubled public schools of the nation's most populous state as the centerpiece of his efforts to shepherd its ...",
+    "lead_paragraph": "Declaring ''a time to do great things again,'' Gray Davis took office today as the 37th Governor of California, pledging to overhaul the troubled public schools of the nation's most populous state as the centerpiece of his efforts to shepherd its growth and preserve its prosperity in the coming years. In his inaugural address, Mr. Davis, the first Democrat to hold the state's top job in 16 years, sounded forceful notes of contrast with his Republican predecessor, Pete Wilson, and to a lesser degree with his onetime boss, former Gov. Edmund G. Brown Jr., whose 70's-era skepticism led him to proclaim a time of lower expectations for the Golden State.",
+    "abstract": "Gray Davis takes office as 37th Governor of California; pledges in his inaugural address to overhaul troubled public schools of nation's most populous state as centerpiece of his efforts to shepherd its growth and preserve its prosperity in coming years; photo (M)",
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's New Governor Promises to Overhaul Schools"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INAUGURATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1999-01-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20d7e8eb7c8105d77dbd4",
+    "word_count": 886,
+    "slideshow_credits": null
+}

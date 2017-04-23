@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1997/08/20/opinion/magnum-gop.html",
+    "snippet": "You'd think they had enough guys with high voices in the Republican Party. You'd think Jack Kemp all by himself would be enough of a high-talker to last the Republicans a good long time.    But no. Now some Republicans are trying to recruit Magnum...",
+    "lead_paragraph": "You'd think they had enough guys with high voices in the Republican Party. You'd think Jack Kemp all by himself would be enough of a high-talker to last the Republicans a good long time. But no. Now some Republicans are trying to recruit Magnum, P.I., the TV Vietnam vet who looks good in khaki shorts and Hawaiian shirts, to the G.O.P. A Republican strategist from Washington was spotted on Sunset Strip the other day, in town to talk to Tom Selleck about running for the Senate against Barbara Boxer next year, or perhaps in 2000, if Dianne Feinstein becomes governor and vacates her Senate seat.",
+    "abstract": "Maureen Dowd column on Republican efforts to recruit actor Tom Selleck to seek Senate seat from California (M)",
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Magnum, G.O.P.",
+        "kicker": "Liberties"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SELLECK, TOM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1997-08-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1,
+                "firstname": "Maureen",
+                "lastname": "DOWD"
+            }
+        ],
+        "original": "By MAUREEN DOWD"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1d53a8eb7c8105d7131c3",
+    "word_count": 716,
+    "slideshow_credits": null
+}

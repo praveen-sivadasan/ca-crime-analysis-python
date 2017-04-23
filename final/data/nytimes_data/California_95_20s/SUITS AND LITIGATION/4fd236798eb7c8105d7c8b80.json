@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/2000/06/25/health/checkups-for-the-blind-talking-atm-s.html",
+    "snippet": "FOR the estimated 1.1 million Americans who are legally blind, using an automated teller machine can be an exercise in frustration.    While many teller machines have Braille keys and labels, most blind people do not read Braille. Even for those w...",
+    "lead_paragraph": "FOR the estimated 1.1 million Americans who are legally blind, using an automated teller machine can be an exercise in frustration. While many teller machines have Braille keys and labels, most blind people do not read Braille. Even for those who do, advocates for the blind say that the Braille-equipped machines are next to useless because they require the user to follow a sequence of visual instructions on a screen.",
+    "abstract": "Efforts by California Council of the Blind has over the past year led to installation of several dozen automated teller machines that provide spoken instructions for the blind; now, National Federation of the Blind has launched federal lawsuit to make talking teller machines more widely available (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "For the Blind, Talking A.T.M.'s",
+        "kicker": "CHECKUPS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL FEDERATION OF THE BLIND"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA COUNCIL OF THE BLIND"
+        },
+        {
+            "name": "subject",
+            "value": "RECORDINGS (AUDIO)"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMATED TELLER MACHINES"
+        },
+        {
+            "name": "subject",
+            "value": "BLINDNESS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "2000-06-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Women's Health",
+    "section_name": "Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Joshua",
+                "rank": 1,
+                "lastname": "Brockman"
+            }
+        ],
+        "original": "By Joshua Brockman"
+    },
+    "type_of_material": "News",
+    "_id": "4fd236798eb7c8105d7c8b80",
+    "word_count": 337,
+    "slideshow_credits": null
+}

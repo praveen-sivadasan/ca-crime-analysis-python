@@ -1,0 +1,71 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/22/business/company-news-justice-o-connor-halts-lucky-stores-merger.html",
+    "snippet": "LEAD: Justice Sandra Day O'Connor of the United States Supreme Court issued a last-minute order today blocking the $2.5 billion merger of Lucky Stores Inc. of Dublin, Calif., and the American Stores Company of Salt Lake City at least until October...",
+    "lead_paragraph": "LEAD: Justice Sandra Day O'Connor of the United States Supreme Court issued a last-minute order today blocking the $2.5 billion merger of Lucky Stores Inc. of Dublin, Calif., and the American Stores Company of Salt Lake City at least until October.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Justice O'Connor Halts Lucky Stores Merger",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "O'CONNOR, SANDRA DAY"
+        },
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN STORES CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        }
+    ],
+    "pub_date": "1989-08-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18bf68eb7c8105d68f2a5",
+    "word_count": 441,
+    "slideshow_credits": null
+}

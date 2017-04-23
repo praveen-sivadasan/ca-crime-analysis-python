@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1993/12/21/business/company-news-pacific-bell-plans-to-build-interactive-network.html",
+    "snippet": "Pacific Bell said yesterday that it planned to build a network to carry interactive programming to 1.3 million California homes. The San Francisco-based telephone company, a unit of Pacific Telesis Group, said it filed four applications with the F...",
+    "lead_paragraph": "Pacific Bell said yesterday that it planned to build a network to carry interactive programming to 1.3 million California homes. The San Francisco-based telephone company, a unit of Pacific Telesis Group, said it filed four applications with the Federal Communications Commission yesterday to start building the network in parts of the San Francisco Bay area, Los Angeles, Orange County and San Diego next year. In addition to telephone and data services, the new network would carry interactive programming like movies on demand and home shopping and would carry cable television programming provided by other companies, allowing multiple operators in a single market.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "PACIFIC BELL PLANS TO BUILD INTERACTIVE NETWORK",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "PACIFIC BELL TELEPHONE CO PACIFIC BELL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "CABLE TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION PROGRAMS"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        }
+    ],
+    "pub_date": "1993-12-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e0f38eb7c8105d72836b",
+    "word_count": 104,
+    "slideshow_credits": null
+}

@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/06/us/despite-threats-to-actress-prison-to-release-attacker.html",
+    "snippet": "LEAD: An actress is terrified that a crazed fan who nearly butchered her seven years ago will try to finish the job after he is released from prison next week....",
+    "lead_paragraph": "LEAD: An actress is terrified that a crazed fan who nearly butchered her seven years ago will try to finish the job after he is released from prison next week.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Despite Threats to Actress, Prison to Release Attacker"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SALDANA, THERESA"
+        },
+        {
+            "name": "persons",
+            "value": "JACKSON, ARTHUR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "THREATS AND THREATENING MESSAGES"
+        },
+        {
+            "name": "subject",
+            "value": "ASSAULTS"
+        }
+    ],
+    "pub_date": "1989-06-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1840f8eb7c8105d682590",
+    "word_count": 714,
+    "slideshow_credits": null
+}

@@ -1,0 +1,33 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/18/us/quake-jars-part-of-california.html",
+    "snippet": "A moderate earthquake shook much of Southern California today, jarring people from Los Angeles to San Diego. There were no reports of damage. The quake was an aftershock of one of June's two big earthquakes. It registered 5.2 on the Richter scale ...",
+    "lead_paragraph": "A moderate earthquake shook much of Southern California today, jarring people from Los Angeles to San Diego. There were no reports of damage. The quake was an aftershock of one of June's two big earthquakes. It registered 5.2 on the Richter scale and was centered six miles southeast of Big Bear, about 80 miles east of Los Angeles, said Doug Smith at the California Institute of Technology in Pasadena.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake Jars Part of California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1992-08-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b8621438f0d8094087cf52",
+    "word_count": "69",
+    "slideshow_credits": null
+}

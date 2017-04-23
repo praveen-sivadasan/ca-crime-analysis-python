@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/04/us/nation-s-1st-wait-period-on-rifles-adopted.html",
+    "snippet": "LEAD: Gov. George Deukmejian today signed a bill requiring a 15-day waiting period to conduct background checks on people who apply to buy rifles and shotguns....",
+    "lead_paragraph": "LEAD: Gov. George Deukmejian today signed a bill requiring a 15-day waiting period to conduct background checks on people who apply to buy rifles and shotguns.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Nation's 1st Wait Period on Rifles Adopted"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GUN CONTROL"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "FIREARMS"
+        }
+    ],
+    "pub_date": "1990-03-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aef58eb7c8105d6ceba2",
+    "word_count": 232,
+    "slideshow_credits": null
+}

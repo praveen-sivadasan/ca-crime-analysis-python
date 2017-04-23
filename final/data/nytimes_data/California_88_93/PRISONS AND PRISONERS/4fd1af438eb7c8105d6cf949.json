@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/03/us/jail-in-california-is-a-breakout-artist-s-dream.html",
+    "snippet": "LEAD: Sheriff's Capt. Benny McLaughlin is having trouble keeping prisoners in his jail, one of the most overcrowded in California, but nobody is blaming the judicial system....",
+    "lead_paragraph": "LEAD: Sheriff's Capt. Benny McLaughlin is having trouble keeping prisoners in his jail, one of the most overcrowded in California, but nobody is blaming the judicial system.",
+    "abstract": null,
+    "print_page": "29",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Jail in California Is a Breakout Artist's Dream"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EAST COUNTY JAIL"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "PRISON ESCAPES"
+        }
+    ],
+    "pub_date": "1990-06-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1af438eb7c8105d6cf949",
+    "word_count": 632,
+    "slideshow_credits": null
+}

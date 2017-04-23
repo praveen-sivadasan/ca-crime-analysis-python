@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1999/05/29/nyregion/c-corrections-923567.html",
+    "snippet": "An article yesterday about efforts by the United Farm Workers of America to unionize strawberry workers in California misstated the value of the nation's annual strawberry crop. It is $600 million, not $600 billion....",
+    "lead_paragraph": "An article yesterday about efforts by the United Farm Workers of America to unionize strawberry workers in California misstated the value of the nation's annual strawberry crop. It is $600 million, not $600 billion.",
+    "abstract": "Correction of May 28 article on efforts to unionize strawberry workers in California, which misstated value of strawberry crop",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNITED FARM WORKERS OF AMERICA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "UNIONIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "STRAWBERRIES"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1999-05-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1ff448eb7c8105d76111c",
+    "word_count": 34,
+    "slideshow_credits": null
+}

@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1991/09/27/sports/sports-people-boxing-morales-s-alcohol-level.html",
+    "snippet": "FERNIE MORALES, who underwent emergency brain surgery Saturday after a bantamweight fight, tested positive for alcohol and might have been legally drunk during the bout, a newspaper reported today....",
+    "lead_paragraph": "FERNIE MORALES, who underwent emergency brain surgery Saturday after a bantamweight fight, tested positive for alcohol and might have been legally drunk during the bout, a newspaper reported today.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Morales's Alcohol Level",
+        "kicker": "SPORTS PEOPLE: BOXING"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MORALES, FERNIE"
+        },
+        {
+            "name": "persons",
+            "value": "CANIZALES, ORLANDO"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BOXING"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOL"
+        }
+    ],
+    "pub_date": "1991-09-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d3488eb7c8105d70f9b1",
+    "word_count": 145,
+    "slideshow_credits": null
+}

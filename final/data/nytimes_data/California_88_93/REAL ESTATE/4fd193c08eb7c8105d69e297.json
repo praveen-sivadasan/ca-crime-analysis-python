@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/07/business/talking-deals-pressure-to-sell-on-savings-units.html",
+    "snippet": "LEAD: LIKE the Landmark Land Company, which recently put its vast real estate portfolio up for sale, other California savings and loan associations are now trying to sell their properties to comply with new Government regulations....",
+    "lead_paragraph": "LEAD: LIKE the Landmark Land Company, which recently put its vast real estate portfolio up for sale, other California savings and loan associations are now trying to sell their properties to comply with new Government regulations.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Talking Deals;   Pressure to Sell On Savings Units"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "TALKING DEALS (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REAL ESTATE"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By Richard D. Hylton"
+    },
+    "type_of_material": "News",
+    "_id": "4fd193c08eb7c8105d69e297",
+    "word_count": 818,
+    "slideshow_credits": null
+}

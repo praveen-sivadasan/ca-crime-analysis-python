@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/07/opinion/l-for-later-presidential-primaries-417290.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "For Later Presidential Primaries"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HORRIGAN, TIMOTHY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTIONS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1990-03-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd19b658eb7c8105d6ac0a4",
+    "word_count": 313,
+    "slideshow_credits": null
+}

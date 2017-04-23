@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/19/us/first-baby-is-placed-in-organ-donor-ward.html",
+    "snippet": "LEAD: A baby born with most of his brain missing has become the first patient in a special ward set up to use such infants to supply organs for transplantation, hospital officials said today....",
+    "lead_paragraph": "LEAD: A baby born with most of his brain missing has become the first patient in a special ward set up to use such infants to supply organs for transplantation, hospital officials said today.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "First Baby Is Placed in Organ-Donor Ward"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LOMA LINDA UNIVERSITY MEDICAL CENTER"
+        },
+        {
+            "name": "subject",
+            "value": "TRANSPLANTS"
+        },
+        {
+            "name": "subject",
+            "value": "BABIES"
+        }
+    ],
+    "pub_date": "1988-02-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "Reuters",
+        "organization": "Reuters"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18ab68eb7c8105d68cb28",
+    "word_count": "215",
+    "slideshow_credits": null
+}

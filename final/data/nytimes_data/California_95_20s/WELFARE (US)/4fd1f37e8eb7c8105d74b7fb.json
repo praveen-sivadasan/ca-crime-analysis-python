@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1996/09/01/weekinreview/the-california-cutoff.html",
+    "snippet": "Gov. Pete Wilson of California said he was simply applying the law of the land when he ordered state agencies and colleges last week to stop doing anything that might help illegal immigrants. The new Federal welfare bill enacted on Aug. 22 made an...",
+    "lead_paragraph": "Gov. Pete Wilson of California said he was simply applying the law of the land when he ordered state agencies and colleges last week to stop doing anything that might help illegal immigrants. The new Federal welfare bill enacted on Aug. 22 made any foreigner ''who is not a qualified alien'' ineligible for all but a handful of public benefits. But in seeking some political benefit of his own from Washington's law, Mr. Wilson also ordered California's employees to verify the immigration status of the people they serve. In a state with some two million illegal immigrants and many more legal ones, it will be a task fraught with complications.",
+    "abstract": "California Gov Pete Wilson's move to cut off all services to illegal immigrants, response to new Federal welfare law, reviewed; at issue is his order to state workers to verify immigration status of people they serve (S)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The California Cutoff",
+        "kicker": "August 25-31"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1996-09-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f37e8eb7c8105d74b7fb",
+    "word_count": 163,
+    "slideshow_credits": null
+}

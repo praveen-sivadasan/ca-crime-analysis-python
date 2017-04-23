@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/06/us/vetoes-force-budget-fixing-session-in-california.html",
+    "snippet": "A snag in the agreement that ended a 63-day impasse over California's $57 billion budget this week will force lawmakers to return to the State Capitol next week for a special session.   Citing technical flaws in the budget measures that the Democr...",
+    "lead_paragraph": "A snag in the agreement that ended a 63-day impasse over California's $57 billion budget this week will force lawmakers to return to the State Capitol next week for a special session. Citing technical flaws in the budget measures that the Democratic-controlled Legislature sent him on Wednesday, Gov. Pete Wilson, a Republican, used his line-item veto this week to remove $520 million in education spending. He insisted that the action would not interrupt the flow of money to the public schools. But late Friday, legislative leaders recalled members for sessions in Sacramento on Wednesday.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Vetoes Force Budget-Fixing Session in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "VETOES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-09-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b46c8eb7c8105d6d92cf",
+    "word_count": 403,
+    "slideshow_credits": null
+}

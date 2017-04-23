@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/26/opinion/the-bishop-and-the-truce-of-tolerance.html",
+    "snippet": "LEAD: The Roman Catholic Bishop of San Diego has denied communion to Lucy Killea, a state Assemblywoman, because as a candidate for California's Senate she strongly advocates the pro-choice position in the abortion debate....",
+    "lead_paragraph": "LEAD: The Roman Catholic Bishop of San Diego has denied communion to Lucy Killea, a state Assemblywoman, because as a candidate for California's Senate she strongly advocates the pro-choice position in the abortion debate.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Bishop and the Truce of Tolerance"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KILLEA, LUCY"
+        },
+        {
+            "name": "persons",
+            "value": "MAHER, LEO T"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+        },
+        {
+            "name": "subject",
+            "value": "ABORTION"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1989-11-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd18a218eb7c8105d68c012",
+    "word_count": 554,
+    "slideshow_credits": null
+}

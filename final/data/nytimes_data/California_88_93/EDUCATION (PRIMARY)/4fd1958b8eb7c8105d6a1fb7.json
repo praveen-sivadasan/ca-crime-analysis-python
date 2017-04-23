@@ -1,0 +1,71 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/19/us/education-california-dropping-dick-and-jane.html",
+    "snippet": "LEAD: In their reading textbooks, elementary school students in California will seldom see Dick and Jane run. Instead, as early as next year, they will learn to read by using such classic tales as Aesop's Fables and stories by Mark Twain and other...",
+    "lead_paragraph": "LEAD: In their reading textbooks, elementary school students in California will seldom see Dick and Jane run. Instead, as early as next year, they will learn to read by using such classic tales as Aesop's Fables and stories by Mark Twain and other modern writers.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Dropping Dick and Jane",
+        "kicker": "EDUCATION"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "EDUCATION PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EDUCATION, BOARD OF"
+        },
+        {
+            "name": "subject",
+            "value": "READING"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION (PRIMARY)"
+        },
+        {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        }
+    ],
+    "pub_date": "1988-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "S.",
+                "lastname": "WILSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By DAVID S. WILSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1958b8eb7c8105d6a1fb7",
+    "word_count": 556,
+    "slideshow_credits": null
+}

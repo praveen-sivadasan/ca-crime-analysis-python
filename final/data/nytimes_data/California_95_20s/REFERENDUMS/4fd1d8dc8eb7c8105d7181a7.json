@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1996/07/14/us/political-briefing-the-states-and-the-issues.html",
+    "snippet": "California Brown May Have Last Laugh Yet...",
+    "lead_paragraph": "California Brown May Have Last Laugh Yet",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Political Briefing;THE STATES AND THE ISSUES"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, WILLIE"
+        },
+        {
+            "name": "persons",
+            "value": "PRENTER, ROBERT JR"
+        },
+        {
+            "name": "persons",
+            "value": "SETENCICH, BRIAN"
+        },
+        {
+            "name": "persons",
+            "value": "MCINTOSH, DAVID"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES AND PARLIAMENTS"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRIAL AND OCCUPATIONAL HAZARDS"
+        },
+        {
+            "name": "subject",
+            "value": "HUNTINGAND TRAPPING"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1996-07-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "By B. DRUMMOND AYRES Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d8dc8eb7c8105d7181a7",
+    "word_count": 1052,
+    "slideshow_credits": null
+}

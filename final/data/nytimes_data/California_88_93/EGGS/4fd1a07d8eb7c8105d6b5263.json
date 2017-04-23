@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/20/us/health-cholesterol-lower-in-california-eggs.html",
+    "snippet": "LEAD: Hens fed a secret diet have produced the first eggs certified by the state of California as lower in cholesterol than regular eggs....",
+    "lead_paragraph": "LEAD: Hens fed a secret diet have produced the first eggs certified by the state of California as lower in cholesterol than regular eggs.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Health; Cholesterol Lower In California Eggs"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "HEALTH PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROSEMARY FARM"
+        },
+        {
+            "name": "subject",
+            "value": "DIET AND NUTRITION"
+        },
+        {
+            "name": "subject",
+            "value": "EGGS"
+        },
+        {
+            "name": "subject",
+            "value": "CHOLESTEROL"
+        }
+    ],
+    "pub_date": "1988-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a07d8eb7c8105d6b5263",
+    "word_count": 180,
+    "slideshow_credits": null
+}

@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/07/us/chavez-s-condition-worsens-in-fast-over-grape-boycott.html",
+    "snippet": "LEAD: Cesar Chavez, head of the United Farm Workers, is suffering from bouts of nausea, dehydration, dizziness, and malnutrition, his doctor said today as Mr. Chavez entered the 21st day of a fast to call attention to his boycott of California tab...",
+    "lead_paragraph": "LEAD: Cesar Chavez, head of the United Farm Workers, is suffering from bouts of nausea, dehydration, dizziness, and malnutrition, his doctor said today as Mr. Chavez entered the 21st day of a fast to call attention to his boycott of California table grapes.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Chavez's Condition Worsens In Fast Over Grape Boycott"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHAVEZ, CESAR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FARM WORKERS OF AMERICA, UNITED"
+        },
+        {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+        },
+        {
+            "name": "subject",
+            "value": "GRAPES"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "MIGRANT LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "BOYCOTTS"
+        }
+    ],
+    "pub_date": "1988-08-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd19ac68eb7c8105d6aaf6e",
+    "word_count": 136,
+    "slideshow_credits": null
+}

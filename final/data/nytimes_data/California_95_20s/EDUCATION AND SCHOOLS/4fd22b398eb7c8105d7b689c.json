@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/22/opinion/l-bilingual-education-wasn-t-a-cure-789186.html",
+    "snippet": "To the Editor:    An Aug. 20 front-page article about the improvement in standardized test scores in California suggests that Proposition 227, which eliminated bilingual education, was a success. But as the article notes, it is not clear whether d...",
+    "lead_paragraph": "To the Editor: An Aug. 20 front-page article about the improvement in standardized test scores in California suggests that Proposition 227, which eliminated bilingual education, was a success. But as the article notes, it is not clear whether dropping bilingual education was responsible for these gains because other changes may also have occurred, including increased test preparation and reduction in class sizes in the lower grades.",
+    "abstract": "Prof Stephen Krashen letter questions link between California's curbs on bilingual education and rise in test scores; credits factors like smaller class sizes; also notes selective testing",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bilingual Education Wasn't a Cure"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KRASHEN, STEPHEN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BILINGUAL EDUCATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        }
+    ],
+    "pub_date": "2000-08-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd22b398eb7c8105d7b689c",
+    "word_count": 164,
+    "slideshow_credits": null
+}

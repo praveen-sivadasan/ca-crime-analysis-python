@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/05/us/california-tax-plan-loses-returning-state-to-turmoil.html",
+    "snippet": "California was thrown back into fiscal turmoil today after the Legislature failed to approve more taxes to balance the state budget in a chaotic session that ended minutes before a Wednesday midnight deadline.   But unlike Connecticut and Maine, C...",
+    "lead_paragraph": "California was thrown back into fiscal turmoil today after the Legislature failed to approve more taxes to balance the state budget in a chaotic session that ended minutes before a Wednesday midnight deadline. But unlike Connecticut and Maine, California faces no immediate shutdown of services. A spokesman for Gov. Pete Wilson said the state had enough cash reserves to carry it until about July 15, the next payday for state employees.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Tax Plan Loses, Returning State to Turmoil"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DEPARTMENTS AND AGENCIES"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1991-07-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1af858eb7c8105d6cff8e",
+    "word_count": 1008,
+    "slideshow_credits": null
+}

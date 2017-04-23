@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1993/06/06/us/top-graduates-in-science-also-put-dreams-on-hold.html",
+    "snippet": "These are unsettling job-hunting times, even for the certifiably brilliant progeny of the nation's top schools in science and engineering.    Seniors who had their hearts set on creating the technologies of the next century are having trouble just...",
+    "lead_paragraph": "These are unsettling job-hunting times, even for the certifiably brilliant progeny of the nation's top schools in science and engineering. Seniors who had their hearts set on creating the technologies of the next century are having trouble just lining up job interviews, and fresh new Ph.D.'s are settling for temporary teaching jobs offering little prospect of the security of tenure.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Top Graduates in Science Also Put Dreams on Hold"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HARVARD UNIVERSITY"
+        },
+        {
+            "name": "organizations",
+            "value": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA INSTITUTE OF TECHNOLOGY"
+        },
+        {
+            "name": "organizations",
+            "value": "STANFORD UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "SCIENCE AND TECHNOLOGY"
+        }
+    ],
+    "pub_date": "1993-06-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Technology; Science; Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Peter",
+                "middlename": "T.",
+                "lastname": "KILBORN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By PETER T. KILBORN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1de018eb7c8105d721411",
+    "word_count": 1481,
+    "slideshow_credits": null
+}

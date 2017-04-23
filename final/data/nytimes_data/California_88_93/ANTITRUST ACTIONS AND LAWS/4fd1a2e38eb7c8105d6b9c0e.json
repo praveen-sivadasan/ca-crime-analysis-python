@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/01/business/company-news-us-court-approves-supermarket-merger.html",
+    "snippet": "LEAD: A Federal appeals court today overturned a judge's order that had blocked the consolidation of the Lucky and Alpha Beta supermarket chains, ruling that California had no right to undo the merger....",
+    "lead_paragraph": "LEAD: A Federal appeals court today overturned a judge's order that had blocked the consolidation of the Lucky and Alpha Beta supermarket chains, ruling that California had no right to undo the merger.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. Court Approves Supermarket Merger",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ALPHA BETA CO"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN STORES CO"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL TRADE COMMISSION"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1989-04-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a2e38eb7c8105d6b9c0e",
+    "word_count": 417,
+    "slideshow_credits": null
+}

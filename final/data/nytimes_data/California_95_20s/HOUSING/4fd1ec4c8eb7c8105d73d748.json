@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1995/10/24/business/freddie-mac-quake-plan.html",
+    "snippet": "The Federal Home Loan Mortgage Corporation, known as Freddie Mac, said yesterday that it had decided to buy mortgages on condominiums covered by earthquake insurance from the proposed California Earthquake Authority. In the wake of last year's ear...",
+    "lead_paragraph": "The Federal Home Loan Mortgage Corporation, known as Freddie Mac, said yesterday that it had decided to buy mortgages on condominiums covered by earthquake insurance from the proposed California Earthquake Authority. In the wake of last year's earthquake near Los Angeles, most large insurance companies in the state stopped selling earthquake and homeowners insurance to new customers, and Freddie Mac said it would not buy mortgages on condominiums that lacked earthquake insurance.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Freddie Mac Quake Plan"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL HOME LOAN MORTGAGE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MORTGAGES"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        }
+    ],
+    "pub_date": "1995-10-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ec4c8eb7c8105d73d748",
+    "word_count": 72,
+    "slideshow_credits": null
+}

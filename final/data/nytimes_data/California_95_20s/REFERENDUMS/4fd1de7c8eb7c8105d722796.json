@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1998/03/19/us/judge-nullifies-most-of-california-immigrant-law.html",
+    "snippet": "A Federal judge has struck down virtually all remaining provisions of Proposition 187, driving one more nail into the coffin of the California ballot initiative, which was passed in 1994 to deny social services to illegal immigrants but has been b...",
+    "lead_paragraph": "A Federal judge has struck down virtually all remaining provisions of Proposition 187, driving one more nail into the coffin of the California ballot initiative, which was passed in 1994 to deny social services to illegal immigrants but has been blocked by court challenges ever since. The ruling, issued late Tuesday by Judge Mariana R. Pfaelzer of Federal District Court in Los Angeles, confirmed and elaborated on her preliminary ruling of last November, when she found that the measure unconstitutionally usurped Federal authority over immigration policy. Judge Pfaelzer's final ruling paves the way for an appeal by Gov. Pete Wilson, who made Proposition 187 a centerpiece of his re-election campaign in 1994.",
+    "abstract": "Judge Mariana R Pfaelzer nullifies virtually all remaining provisions of Proposition 187, California ballot initiative that was passed in 1994 to deny social services to illegal immigrants; measure has been blocked by court challenges ever since; ruling confirms and elaborates on her preliminary ruling in Nov when she found that measure unconstitutionally usurped Federal authority over immigration policy (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Judge Nullifies Most of California Immigrant Law"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PFAELZER, MARIANA R"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 187 (CALIFORNIA INITIATIVE)"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-03-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1de7c8eb7c8105d722796",
+    "word_count": 356,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1988/03/03/us/52-charged-in-poaching-case.html",
+    "snippet": "LEAD: An investigation has led to the arrest of 52 people suspected of operating a $100 million poaching ring that dealt in tiger, bear, sea lion and rhinoceros parts, state officials announced Tuesday. Twenty-three other people in Southern Califo...",
+    "lead_paragraph": "LEAD: An investigation has led to the arrest of 52 people suspected of operating a $100 million poaching ring that dealt in tiger, bear, sea lion and rhinoceros parts, state officials announced Tuesday. Twenty-three other people in Southern California are expected to be charged as a result of a 23-month investigation by the California Department of Fish and Game.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "52 Charged in Poaching Case"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ANIMALS"
+        },
+        {
+            "name": "subject",
+            "value": "POACHING"
+        }
+    ],
+    "pub_date": "1988-03-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd188998eb7c8105d689100",
+    "word_count": 134,
+    "slideshow_credits": null
+}

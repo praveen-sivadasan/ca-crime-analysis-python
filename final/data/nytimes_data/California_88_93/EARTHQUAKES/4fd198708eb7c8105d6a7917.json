@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/11/us/quake-hits-parts-of-california.html",
+    "snippet": "LEAD: An earthquake jolted a large area of cental and Southern California today, temporarily closing a vital aqueduct and catapulting rocks onto Interstate 5....",
+    "lead_paragraph": "LEAD: An earthquake jolted a large area of cental and Southern California today, temporarily closing a vital aqueduct and catapulting rocks onto Interstate 5.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake Hits Parts of California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1988-06-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd198708eb7c8105d6a7917",
+    "word_count": 200,
+    "slideshow_credits": null
+}

@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/07/business/media-business-advertising-addenda-california-seeks-ban-whittle-s-channel-one.html",
+    "snippet": "For the second time in two years, the head of the California public school system is attempting to nullify contracts between the schools and Channel One, the commercial television news show designed for classroom use.   Bill Honig, the State Super...",
+    "lead_paragraph": "For the second time in two years, the head of the California public school system is attempting to nullify contracts between the schools and Channel One, the commercial television news show designed for classroom use. Bill Honig, the State Superintendent of Public Instruction, and State Senator Art Torres, a Democrat from Los Angeles, are sponsoring a bill that would essentially ban the daily 12-minute news program, which includes two minutes of commercials, from California classrooms. A similar bill sponsored by the two officials last year passed in the State Senate but failed in the Assembly.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Seeks to Ban Whittle's Channel One",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "HONIG, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHANNEL ONE"
+        },
+        {
+            "name": "organizations",
+            "value": "WHITTLE COMMUNICATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        }
+    ],
+    "pub_date": "1991-03-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Education; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Kim",
+                "rank": 1,
+                "lastname": "Foltz"
+            }
+        ],
+        "original": "By Kim Foltz"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc928eb7c8105d6e8396",
+    "word_count": 191,
+    "slideshow_credits": null
+}

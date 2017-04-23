@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1999/10/23/us/national-news-briefs-7-women-are-killed-when-van-overturns.html",
+    "snippet": "A rental van of church members heading to a religious conference overturned on a coastal highway, killing seven women.     Fourteen members of the Kingdom of Jesus Christ Church in Los Angeles were in the van when it apparently skidded and tumbled...",
+    "lead_paragraph": "A rental van of church members heading to a religious conference overturned on a coastal highway, killing seven women. Fourteen members of the Kingdom of Jesus Christ Church in Los Angeles were in the van when it apparently skidded and tumbled on Thursday night. The cause was unknown.",
+    "abstract": "Rental van of church members heading to religious conference in San Francisco overturns on coastal highway, killing seven women (S)",
+    "print_page": "18",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; 7 Women Are Killed When Van Overturns"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "VANS"
+        }
+    ],
+    "pub_date": "1999-10-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd210018eb7c8105d7834c7",
+    "word_count": 106,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/22/business/2-executives-are-dismissed.html",
+    "snippet": "California regulators have dismissed two top executives of the First Executive Corporation, contending the officers had not cooperated with the state Insurance Department in its financial review of the company's Executive Life Insurance subsidiary...",
+    "lead_paragraph": "California regulators have dismissed two top executives of the First Executive Corporation, contending the officers had not cooperated with the state Insurance Department in its financial review of the company's Executive Life Insurance subsidiary. William J. Sanders, chief financial officer of First Executive, and Mark Furlong, the vice president for finance, were dismissed by Insurance Commissioner John Garamendi last Thursday, a spokesman for Mr. Garamendi said.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "2 Executives Are Dismissed"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SANDERS, WILLIAM J"
+        },
+        {
+            "name": "persons",
+            "value": "FURLONG, MARK"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST EXECUTIVE CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+        }
+    ],
+    "pub_date": "1991-04-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd19e238eb7c8105d6b0fde",
+    "word_count": 195,
+    "slideshow_credits": null
+}

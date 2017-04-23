@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/09/us/after-summer-of-power-woes-california-is-hurting-again.html",
+    "snippet": "It was not supposed to be like this.    Families asked to turn off their Christmas lights. Businesses required to shut down for hours for days on end. Utility executives demanding relief from the governor,  warning that the state's electrical syst...",
+    "lead_paragraph": "It was not supposed to be like this. Families asked to turn off their Christmas lights. Businesses required to shut down for hours for days on end. Utility executives demanding relief from the governor, warning that the state's electrical system is on the verge of collapse.",
+    "abstract": "California is again in midst of a power crisis so severe it is forced to take unprecedented measures to avoid running out of power; an unusually large number of state's power generators are shut down for maintenance or to comply with air quality standards; wholesale natural gas prices are up as much as 10-fold over this time last year; Californians thus risk seeing their gas bills rise as their lights dim; photo (M)",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "After Summer of Power Woes, California Is Hurting Again"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "SHORTAGES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "2000-12-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAURA M. HOLSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21bd98eb7c8105d79b76f",
+    "word_count": 1014,
+    "slideshow_credits": null
+}

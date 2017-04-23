@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/17/weekinreview/the-nation-california-is-tired-of-hearing-the-meaning-of-it-all.html",
+    "snippet": "CALIFORNIANS have long resented what they perceive as a condescending view of their sunny land in the national press. But as long as things went well, they could dismiss this as envy on the part of myopic East Coast editors forced to make their li...",
+    "lead_paragraph": "CALIFORNIANS have long resented what they perceive as a condescending view of their sunny land in the national press. But as long as things went well, they could dismiss this as envy on the part of myopic East Coast editors forced to make their livings slogging through the winter slush of Manhattan. The Californians could tune out, grow rich and get sun tanned. Now that times have turned tough on the West Coast, those tanned hides have proved thin. The California economy, which nearly everybody here thought invulnerable to national vicissitudes until recently, is deeply mired in recession and lagging the nation in recovery. Compounding this have been recent natural insults like the deadly fire that swept the hills above Oakland and Berkeley last month, not to mention the perennial problems of smog, street gangs and traffic congestion.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Is Tired Of Hearing the Meaning of It All",
+        "kicker": "THE NATION"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1991-11-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19dbb8eb7c8105d6b00ff",
+    "word_count": 828,
+    "slideshow_credits": null
+}

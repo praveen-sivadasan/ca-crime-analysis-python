@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/20/us/farmers-win-in-water-debate.html",
+    "snippet": "In a victory for farmers today, a Senate panel dropped an ambitious plan to shift Federal water supplies from California agriculture to wildlife conservation.    Instead, the Senate Energy and Natural Resources Committee adopted modest changes in ...",
+    "lead_paragraph": "In a victory for farmers today, a Senate panel dropped an ambitious plan to shift Federal water supplies from California agriculture to wildlife conservation. Instead, the Senate Energy and Natural Resources Committee adopted modest changes in water policy.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Farmers Win in Water Debate"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WILDLIFE SANCTUARIES"
+        },
+        {
+            "name": "subject",
+            "value": "IRRIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "FARMERS"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        }
+    ],
+    "pub_date": "1992-03-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b8607938f0d8094087cda9",
+    "word_count": "261",
+    "slideshow_credits": null
+}

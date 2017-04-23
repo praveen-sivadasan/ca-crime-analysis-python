@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/20/style/chronicle-620290.html",
+    "snippet": "LEAD: In the shifting sands of California politics, Brown is as close to a dynasty as you can get: for 29 of the last 39 years, a Brown has held a high state office. Now, KATHLEEN BROWN is campaigning for State Treasurer....",
+    "lead_paragraph": "LEAD: In the shifting sands of California politics, Brown is as close to a dynasty as you can get: for 29 of the last 39 years, a Brown has held a high state office. Now, KATHLEEN BROWN is campaigning for State Treasurer.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Chronicle"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, KATHLEEN"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G JR"
+        },
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G SR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-02-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Susan",
+                "middlename": "Heller",
+                "lastname": "ANDERSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By SUSAN HELLER ANDERSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e948eb7c8105d693f4f",
+    "word_count": 240,
+    "slideshow_credits": null
+}

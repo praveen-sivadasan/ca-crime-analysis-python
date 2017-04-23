@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/05/us/california-journal-usa-s-culinary-rule-hot-dogs-yes-dogs-no.html",
+    "snippet": "LEAD: Few issues so profoundly divide the multifarious cultural and religious groups that have multiplied on the West Coast in recent years as the relative gastronomic merits of the world's fauna....",
+    "lead_paragraph": "LEAD: Few issues so profoundly divide the multifarious cultural and religious groups that have multiplied on the West Coast in recent years as the relative gastronomic merits of the world's fauna.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Journal; U.S.A.'s Culinary Rule: Hot Dogs Yes, Dogs No"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DOGS"
+        },
+        {
+            "name": "subject",
+            "value": "CAMBODIAN-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "PETS AND PET FOODS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        }
+    ],
+    "pub_date": "1989-10-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd188ed8eb7c8105d689a1c",
+    "word_count": 747,
+    "slideshow_credits": null
+}

@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/16/us/hispanic-growth-in-california-makes-state-a-testing-ground.html",
+    "snippet": "LEAD: The vibrant prosperity of California has drawn and rewarded many waves of migrants, both American and foreign, but some see a gloomy alternative prospect if more is not done to absorb the state's fast-growing Hispanic work force....",
+    "lead_paragraph": "LEAD: The vibrant prosperity of California has drawn and rewarded many waves of migrants, both American and foreign, but some see a gloomy alternative prospect if more is not done to absorb the state's fast-growing Hispanic work force.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Hispanic Growth in California Makes State a Testing Ground"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MEXICAN-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1990-06-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd195aa8eb7c8105d6a22f6",
+    "word_count": 2004,
+    "slideshow_credits": null
+}

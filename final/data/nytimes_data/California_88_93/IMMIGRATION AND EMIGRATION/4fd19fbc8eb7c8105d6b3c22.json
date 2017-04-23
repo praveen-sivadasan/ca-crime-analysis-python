@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/03/magazine/the-curse-of-the-statehouse.html",
+    "snippet": "It is not unusual for Pete Wilson, the Governor of California, to stay up half the night writing speeches at the Governor's residence in Sacramento while state workers sleep. And according to his wife, Gayle, he toiled until 4 in the morning befor...",
+    "lead_paragraph": "It is not unusual for Pete Wilson, the Governor of California, to stay up half the night writing speeches at the Governor's residence in Sacramento while state workers sleep. And according to his wife, Gayle, he toiled until 4 in the morning before his address to Stanford University's centennial convocation last Oct. 1. This was no routine speech, because it was his first major public appearance after vetoing a bill giving homosexuals state protection against discrimination in the work place. Feeling betrayed that the centrist Republican Governor had vetoed the bill after signaling he would sign it, enraged gay protesters in San Francisco had smashed up a state building a day earlier. The Governor's security people urged him to cancel, but he went to Stanford anyway, scarcely looking up while delivering his 15-minute speech against a thunderous barrage of shouts from 300 demonstrators straining against police lines. At one point, an orange flew out of the crowd toward the podium. Wilson reached up, caught it and threw it back. Tense bodyguards hustled Gayle Wilson out of the area. When it was over, George Raine, a political correspondent for The San Francisco Examiner, sought out the Governor and found him shaken, his pale-blue eyes moist with tears.",
+    "abstract": null,
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Curse of the Statehouse"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1992-05-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By Robert Reinhold;"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd19fbc8eb7c8105d6b3c22",
+    "word_count": 5388,
+    "slideshow_credits": null
+}

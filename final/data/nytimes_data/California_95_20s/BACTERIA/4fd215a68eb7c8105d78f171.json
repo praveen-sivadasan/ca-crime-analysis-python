@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1998/01/13/opinion/l-beware-rotten-fruit-054810.html",
+    "snippet": "To the Editor:    You report (news article, Jan. 10) that criminal charges have been filed against a California salad processor whose lettuce was linked to a 1996 food poisoning outbreak that sickened at least 61 people in the Middle West and Nort...",
+    "lead_paragraph": "To the Editor: You report (news article, Jan. 10) that criminal charges have been filed against a California salad processor whose lettuce was linked to a 1996 food poisoning outbreak that sickened at least 61 people in the Middle West and Northeast.",
+    "abstract": "Uriel Wittenberg letter comments on Janury 10 article on criminal charges filed against California salad processor whose lettuce was linked to 1996 poisoning outbreak (S)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Beware Rotten Fruit"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WITTENBERG, URIEL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SANITATION"
+        },
+        {
+            "name": "subject",
+            "value": "E COLI (BACTERIA)"
+        },
+        {
+            "name": "subject",
+            "value": "VEGETABLES"
+        },
+        {
+            "name": "subject",
+            "value": "BACTERIA"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+        }
+    ],
+    "pub_date": "1998-01-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd215a68eb7c8105d78f171",
+    "word_count": 66,
+    "slideshow_credits": null
+}

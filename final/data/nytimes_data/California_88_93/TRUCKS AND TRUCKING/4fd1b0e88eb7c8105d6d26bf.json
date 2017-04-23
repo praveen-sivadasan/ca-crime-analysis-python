@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/02/us/at-least-2-die-in-california-after-truck-plunges-500-feet.html",
+    "snippet": "At least two people were killed when a truck plunged off State Highway 1 before dawn today and landed 500 feet below in the Pacific Ocean....",
+    "lead_paragraph": "At least two people were killed when a truck plunged off State Highway 1 before dawn today and landed 500 feet below in the Pacific Ocean.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "At Least 2 Die in California After Truck Plunges 500 Feet"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "TRUCKS AND TRUCKING"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1992-02-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b0e88eb7c8105d6d26bf",
+    "word_count": 97,
+    "slideshow_credits": null
+}

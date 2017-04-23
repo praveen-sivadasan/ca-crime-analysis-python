@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/2000/04/07/us/2000-campaign-texas-governor-bush-pursues-two-course-plan-for-keeping-his-hopes.html",
+    "snippet": "On his first trip to California since the Republican primary almost a month ago, Gov. George W. Bush of Texas could not have made his priorities clearer.    Mr. Bush, the de facto Republican presidential nominee, headed straight from the airport h...",
+    "lead_paragraph": "On his first trip to California since the Republican primary almost a month ago, Gov. George W. Bush of Texas could not have made his priorities clearer. Mr. Bush, the de facto Republican presidential nominee, headed straight from the airport here to a nearby elementary school, where he chatted extensively with local educators about the importance of their mission. He could not dawdle too long, however, because he was due at another school later.",
+    "abstract": "Gov George W Bush has two-course plan for winning California, nation's richest electoral prize: reaching out to Latinos, and emphasizing education; photo (M)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bush Pursues Two-Course Plan for Keeping His Hopes Alive for Capturing California",
+        "kicker": "THE 2000 CAMPAIGN: THE TEXAS GOVERNOR"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "HISPANIC-AMERICANS"
+        }
+    ],
+    "pub_date": "2000-04-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Frank",
+                "rank": 1,
+                "lastname": "BRUNI"
+            }
+        ],
+        "original": "By FRANK BRUNI"
+    },
+    "type_of_material": "News",
+    "_id": "4fd224108eb7c8105d7aa186",
+    "word_count": 1144,
+    "slideshow_credits": null
+}

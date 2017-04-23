@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1996/12/29/weekinreview/not-so-fast.html",
+    "snippet": "It has been a rough beginning for the Californians who thought they were going to lead the nation in the revolt against affirmative action.    Less than a month after voters endorsed Proposition 209, a ballot initiative to end preferences based on...",
+    "lead_paragraph": "It has been a rough beginning for the Californians who thought they were going to lead the nation in the revolt against affirmative action. Less than a month after voters endorsed Proposition 209, a ballot initiative to end preferences based on race and sex in government-funded programs, a Federal judge blocked its enforcement until a suit against it is tried in the courts.",
+    "abstract": "Federal judge blocks temporarily enforcement of California's Proposition 209, ballot initiative to end preferences based on race or sex in government-funded programs (S)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Not So Fast",
+        "kicker": "December 22-28"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1996-12-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cd368eb7c8105d7043c2",
+    "word_count": 154,
+    "slideshow_credits": null
+}

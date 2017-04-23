@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/28/business/company-news-grocery-merger-delayed-further.html",
+    "snippet": "LEAD: A Federal judge extended his temporary order blocking the purchase of the Lucky Stores Inc. supermarket chain by the American Stores Company, which owns the Alpha Beta grocery chain. Federal District Judge David Kenyon said he needed more ti...",
+    "lead_paragraph": "LEAD: A Federal judge extended his temporary order blocking the purchase of the Lucky Stores Inc. supermarket chain by the American Stores Company, which owns the Alpha Beta grocery chain. Federal District Judge David Kenyon said he needed more time to consider the merits of a challenge to the merger by California's Attorney General, John Van de Kamp.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Grocery Merger Delayed Further",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN K"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN STORES CO"
+        },
+        {
+            "name": "organizations",
+            "value": "LUCKY STORES INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "SUPERMARKETS"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        }
+    ],
+    "pub_date": "1988-09-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17f898eb7c8105d67adb5",
+    "word_count": 155,
+    "slideshow_credits": null
+}

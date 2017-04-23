@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/07/weekinreview/the-nation-new-rules-california-the-clean-faces-up-to-corruption.html",
+    "snippet": "LEAD: NEARLY three quarters of a century ago, as their state emerged from its rambunctious frontier days when money and water equaled power, Californians imposed strict new rules of government under the idealistic Progressive Party Governor, Hiram...",
+    "lead_paragraph": "LEAD: NEARLY three quarters of a century ago, as their state emerged from its rambunctious frontier days when money and water equaled power, Californians imposed strict new rules of government under the idealistic Progressive Party Governor, Hiram Johnson. Provisions were made for the recall of elected officials, for lawmaking by public initiative and for nonpartisan local elections - measures emulated elsewhere and credited with having kept state politics comparatively honest.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE NATION: New Rules;   California the Clean Faces Up to Corruption"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KEATING, CHARLES H JR"
+        },
+        {
+            "name": "persons",
+            "value": "CRANSTON, ALAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LINCOLN SAVINGS & LOAN ASSN"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE COMMITTEE ON ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-01-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190898eb7c8105d6976e0",
+    "word_count": 614,
+    "slideshow_credits": null
+}

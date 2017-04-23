@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/15/business/talking-deals-awaiting-the-next-big-bank-merger.html",
+    "snippet": "WITH the BankAmerica Corporation having agreed to buy the Security Pacific Corporation, attention in California banking circles is shifting to a deal that has not yet happened: an acquisition of First Interstate Bancorp by Wells Fargo & Company.  ...",
+    "lead_paragraph": "WITH the BankAmerica Corporation having agreed to buy the Security Pacific Corporation, attention in California banking circles is shifting to a deal that has not yet happened: an acquisition of First Interstate Bancorp by Wells Fargo & Company. Wells Fargo and First Interstate have not given any firm indication that they are interested in a merger, and it is unclear whether the two companies have even held any discussions. But many analysts, investors and industry executives say a deal is almost a sure thing, if not immediately then in the long run, in response to BankAmerica's agreement, announced Monday, to buy Security Pacific for $4.4 billion in stock.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Talking Deals; Awaiting the Next Big Bank Merger"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "TALKING DEALS (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BANKAMERICA CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLS FARGO & CO"
+        },
+        {
+            "name": "organizations",
+            "value": "FIRST INTERSTATE CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "SECURITY PACIFIC CORP"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1991-08-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "Stevenson",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Richard W. Stevenson"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d2028eb7c8105d70d109",
+    "word_count": 827,
+    "slideshow_credits": null
+}

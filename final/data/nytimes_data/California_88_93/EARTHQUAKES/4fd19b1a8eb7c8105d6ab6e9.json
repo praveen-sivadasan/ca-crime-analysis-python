@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/01/31/us/small-quakes-jolt-california.html",
+    "snippet": "LEAD: Five earthquakes, none of them higher than 2.9 on the Richter scale, struck the Southern California desert within two hours today, seismologists reported. The epicenter was 25 miles north of El Centro, near the Salton Sea, according to the C...",
+    "lead_paragraph": "LEAD: Five earthquakes, none of them higher than 2.9 on the Richter scale, struck the Southern California desert within two hours today, seismologists reported. The epicenter was 25 miles north of El Centro, near the Salton Sea, according to the California Institute of Technology in Pasadena. The quake times and readings were: 6:01 A.M., 2.8; 6:02 A.M., 2.8; 6:04 A.M., 2.9; 6:16 A.M., 2.7, and 7:54 A.M., 2.5.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Small Quakes Jolt California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1990-01-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd19b1a8eb7c8105d6ab6e9",
+    "word_count": 135,
+    "slideshow_credits": null
+}

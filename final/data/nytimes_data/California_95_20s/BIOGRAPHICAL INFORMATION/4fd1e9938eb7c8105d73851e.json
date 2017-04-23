@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1998/03/29/magazine/the-widow-s-run.html",
+    "snippet": "The sun is dazzling and a whispery breeze buoys the star-spangled banners outside the American Legion Hall in Palm Springs, Calif., as Col. Lewis Millett, a Korean War hero and Medal of Honor winner, announces his withdrawal from the race for the ...",
+    "lead_paragraph": "The sun is dazzling and a whispery breeze buoys the star-spangled banners outside the American Legion Hall in Palm Springs, Calif., as Col. Lewis Millett, a Korean War hero and Medal of Honor winner, announces his withdrawal from the race for the United States House of Representatives and pledges his allegiance to someone else. He is bowing out, he says, for a host of reasons: his age, his health, his conviction that the front-runner in the upcoming contest, standing here beside him on a crisp morning in late February, can do the job as well as he can. But the clear subtext of Millett's brief speech is that he doesn't stand a chance. The front-runner's momentum is unmatchable. Her appeal is inimitable.",
+    "abstract": "Profile of Mary Bono, who has emerged as heavy favorite to win Congressional seat from California left vacant by death of her husband, Sonny; candidacy raises question of what experience person needs to run for Congress; her main Democratic challenger, actor Ralph Waite, has also never held office and must limit campaigning because of prior acting commitment; photos (L)",
+    "print_page": "34",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Widow's Run"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BONO, MARY"
+        },
+        {
+            "name": "persons",
+            "value": "BONO, SONNY"
+        },
+        {
+            "name": "persons",
+            "value": "WAITE, RALPH"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1998-03-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Frank",
+                "rank": 1,
+                "lastname": "Bruni"
+            }
+        ],
+        "original": "By Frank Bruni"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1e9938eb7c8105d73851e",
+    "word_count": 3027,
+    "slideshow_credits": null
+}

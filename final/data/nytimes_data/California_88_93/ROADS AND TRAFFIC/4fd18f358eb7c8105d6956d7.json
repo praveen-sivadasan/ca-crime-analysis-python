@@ -1,0 +1,78 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/california-quake-washington-house-democrats-say-they-want-extra-2.5-billion.html",
+    "snippet": "LEAD: House Democrats said today they would seek more than $2.5 billion in additional funds to aid earthquake victims and rebuild roads and bridges in the San Francisco Bay area....",
+    "lead_paragraph": "LEAD: House Democrats said today they would seek more than $2.5 billion in additional funds to aid earthquake victims and rebuild roads and bridges in the San Francisco Bay area.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "House Democrats Say They Want Extra $2.5 Billion in Quake Aid",
+        "kicker": "THE CALIFORNIA QUAKE: WASHINGTON"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "UNITED STATES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BRIDGES AND TUNNELS"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "FEDERAL AID (US)"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "David",
+                "rank": 1,
+                "lastname": "JOHNSTON"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By DAVID JOHNSTON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18f358eb7c8105d6956d7",
+    "word_count": 656,
+    "slideshow_credits": null
+}

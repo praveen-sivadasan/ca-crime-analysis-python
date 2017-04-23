@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1996/12/21/us/clinton-decides-to-join-a-fight-on-preferences.html",
+    "snippet": "Plunging into a contentious legal and political arena, the White House announced today that the Administration had decided to join a challenge to the constitutionality of a successful California ballot initiative that bans affirmative action progr...",
+    "lead_paragraph": "Plunging into a contentious legal and political arena, the White House announced today that the Administration had decided to join a challenge to the constitutionality of a successful California ballot initiative that bans affirmative action programs by the state and its local governments. The Justice Department had recommended the Administration's intervention after concluding that the ballot initiative, Proposition 209, approved by California's voters last month, violated the equal protection clause of the 14th Amendment.",
+    "abstract": "Clinton Administration, acting on Justice Department recommendation, to join constitutional challenge of initiative approved by California voters that bans affirmative action programs by state and local governments; Ward Connerly, who led campaign for initiative, scores decision; initiative opponents hail it (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Clinton Decides To Join a Fight On Preferences"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "CONNERLY, WARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "JUSTICE DEPARTMENT"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1996-12-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Steven",
+                "middlename": "A.",
+                "lastname": "HOLMES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By STEVEN A. HOLMES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1edd58eb7c8105d74009f",
+    "word_count": 920,
+    "slideshow_credits": null
+}

@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/16/us/days-of-deluge-then-sun-breaks-through.html",
+    "snippet": "The sun returned to California skies today, giving residents a chance to begin recovering from storms that dropped up to 10.5 inches of rain and brought floods that led to 48 of the state's 58 counties being declared disaster areas.    The latest ...",
+    "lead_paragraph": "The sun returned to California skies today, giving residents a chance to begin recovering from storms that dropped up to 10.5 inches of rain and brought floods that led to 48 of the state's 58 counties being declared disaster areas. The latest round of flooding has killed at least 15 people and the cost of cleaning up after it could reach $2 billion.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Days of Deluge, Then Sun Breaks Through"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-03-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e7e38eb7c8105d7352da",
+    "word_count": 668,
+    "slideshow_credits": null
+}

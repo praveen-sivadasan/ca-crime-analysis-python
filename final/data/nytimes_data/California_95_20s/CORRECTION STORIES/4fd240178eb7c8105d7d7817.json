@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/2000/06/29/nyregion/c-corrections-993271.html",
+    "snippet": "A front-page article on Monday about how the booming economy is helping California improve the national ranking of its schools misstated the size ranking of California's coastline (in a reference to how the state compares to other states). Its coa...",
+    "lead_paragraph": "A front-page article on Monday about how the booming economy is helping California improve the national ranking of its schools misstated the size ranking of California's coastline (in a reference to how the state compares to other states). Its coastline is the second longest among the 48 contiguous states, not the longest. Florida's is the longest.",
+    "abstract": "Correction of June 26 article on improvement in California school",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "2000-06-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Education; Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd240178eb7c8105d7d7817",
+    "word_count": 56,
+    "slideshow_credits": null
+}

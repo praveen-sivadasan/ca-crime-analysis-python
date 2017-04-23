@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/25/business/trying-a-market-approach-to-smog.html",
+    "snippet": "After laboring for decades under the nation's toughest air-quality rules, companies in Southern California now face a daunting new challenge: proving that they can figure out on their own how best to clean up the nation's worst smog.   Under a pla...",
+    "lead_paragraph": "After laboring for decades under the nation's toughest air-quality rules, companies in Southern California now face a daunting new challenge: proving that they can figure out on their own how best to clean up the nation's worst smog. Under a plan that regional air-quality regulators approved earlier this month, Southern California will scrap most of its cumbersome rules for oil refineries and other large industrial polluters. Instead, the regulators are introducing a radical new free-market approach. Companies will still face strict quotas for reducing emissions. But they will be free to satisfy these limits in almost any way they see fit -- even by buying the right to pollute from another company that has surpassed its cleanup quota.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Trying a Market Approach to Smog"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFINERIES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1992-03-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d91f8eb7c8105d718780",
+    "word_count": 1546,
+    "slideshow_credits": null
+}

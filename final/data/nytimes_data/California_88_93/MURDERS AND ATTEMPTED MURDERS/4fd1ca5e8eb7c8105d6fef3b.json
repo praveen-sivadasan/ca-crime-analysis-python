@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1993/05/30/us/clemency-pleas-denied-in-14-abuse-defense-cases.html",
+    "snippet": "Gov. Pete Wilson has denied the clemency petitions of 14 women who had killed their husbands, but said they had acted in response to abuse. But the Governor reduced the sentence of one woman based on an argument of abuse.   Governor Wilson, a Repu...",
+    "lead_paragraph": "Gov. Pete Wilson has denied the clemency petitions of 14 women who had killed their husbands, but said they had acted in response to abuse. But the Governor reduced the sentence of one woman based on an argument of abuse. Governor Wilson, a Republican, commuted the sentence of another woman because of her advanced age and ill health, but he rejected her claim that spousal abuse was an extenuating circumstance in the killing of her husband.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Clemency Pleas Denied in 14 Abuse-Defense Cases"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "DOMESTIC VIOLENCE"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        }
+    ],
+    "pub_date": "1993-05-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ca5e8eb7c8105d6fef3b",
+    "word_count": 506,
+    "slideshow_credits": null
+}

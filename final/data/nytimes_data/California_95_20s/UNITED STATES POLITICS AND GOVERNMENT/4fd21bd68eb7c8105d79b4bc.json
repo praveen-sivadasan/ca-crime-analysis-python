@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/23/nyregion/c-corrections-128333.html",
+    "snippet": "A Woman in the News article on Thursday about Ann M. Veneman, who is George W. Bush's choice for agriculture secretary and was chairwoman of his campaign in California, misstated the political record of that state's secretary of state, Bill Jones....",
+    "lead_paragraph": "A Woman in the News article on Thursday about Ann M. Veneman, who is George W. Bush's choice for agriculture secretary and was chairwoman of his campaign in California, misstated the political record of that state's secretary of state, Bill Jones. He was an early supporter of Mr. Bush; only after the New Hampshire primary did he endorse Senator John McCain.",
+    "abstract": "Correction of Dec 21 Woman in the News profile of Ann M Veneman, concerning political record of California Secretary of State Bill Jones",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "persons",
+            "value": "VENEMAN, ANN M"
+        },
+        {
+            "name": "persons",
+            "value": "JONES, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AGRICULTURE DEPARTMENT"
+        },
+        {
+            "name": "subject",
+            "value": "APPOINTMENTS AND EXECUTIVE CHANGES"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "2000-12-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; Washington; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd21bd68eb7c8105d79b4bc",
+    "word_count": 61,
+    "slideshow_credits": null
+}

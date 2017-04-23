@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1998/01/09/us/california-sues-farm-over-lettuce.html",
+    "snippet": "The State of California yesterday filed a civil suit against a lettuce processor whose greens were linked to a 1996 outbreak of food poisoning that sickened at least 61 people in the Midwest and the Northeast.     The suit, filed against Fancy Cut...",
+    "lead_paragraph": "The State of California yesterday filed a civil suit against a lettuce processor whose greens were linked to a 1996 outbreak of food poisoning that sickened at least 61 people in the Midwest and the Northeast. The suit, filed against Fancy Cutt Farms of Hollister, Calif., claims that the company has been violating food safety laws by processing its lettuce in unsanitary conditions that could allow the greens to become contaminated by toxic bacteria. It asks the state Superior Court to compel Fancy Cutt Farms to correct the problems and, if necessary, impose fines of $1,000 a day until the violations are corrected.",
+    "abstract": "California files civil suit against Fancy Cutt Farms, lettuce processor whose greens were linked to 1996 outbreak of food poisoning that sickened at least 61 people in Midwest and Northeast; suit claims that company has been violating food safety laws by processing its lettuce in unsanitary conditions that could allow greens to become contaminated by toxic bacteria M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Sues Farm Over Lettuce"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FANCY CUTT FARMS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "LETTUCE"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+        }
+    ],
+    "pub_date": "1998-01-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Pam",
+                "rank": 1,
+                "lastname": "BELLUCK"
+            }
+        ],
+        "original": "By PAM BELLUCK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e3558eb7c8105d72d0c5",
+    "word_count": 595,
+    "slideshow_credits": null
+}

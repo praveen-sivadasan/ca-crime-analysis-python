@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/04/us/drought-taking-its-toll-on-california-environment.html",
+    "snippet": "The California economy has proved remarkably resistant to five years of drought, but the state's slow and short-sighted response may have inflicted irreversible damage on the environment.   That is a central conclusion of a broad study, made publi...",
+    "lead_paragraph": "The California economy has proved remarkably resistant to five years of drought, but the state's slow and short-sighted response may have inflicted irreversible damage on the environment. That is a central conclusion of a broad study, made public on Thursday, of the economic and environmental effects of the severe drought that has gripped the West. The study was conducted by the Pacific Institute for Studies in Development, Environment and Security, a nonpartisan research organization based in Berkeley, and was requested by the House Energy and Commerce Subcommittee on Health and the Environment, which held a hearing on the subject Thursday in Washington.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Drought Taking Its Toll on California Environment"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC INSTITUTE"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+        }
+    ],
+    "pub_date": "1991-08-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d2038eb7c8105d70d131",
+    "word_count": 630,
+    "slideshow_credits": null
+}

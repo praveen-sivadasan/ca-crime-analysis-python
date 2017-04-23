@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/13/business/chrysler-faces-california-bar.html",
+    "snippet": "The California Department of Motor Vehicles has proposed barring the Chrysler Corporation from doing business in the state for 10 days, accusing it of selling used cars without telling consumers they were defective. Chrysler denies wrongdoing.   T...",
+    "lead_paragraph": "The California Department of Motor Vehicles has proposed barring the Chrysler Corporation from doing business in the state for 10 days, accusing it of selling used cars without telling consumers they were defective. Chrysler denies wrongdoing. The proposed penalty would prohibit Chrysler from shipping cars into and within the state, said Bernard Lu, the department's counsel. Dealers would probably be able to continue selling cars during the period.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Chrysler Faces California Bar"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHRYSLER CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "USED CARS"
+        }
+    ],
+    "pub_date": "1995-03-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1cb7e8eb7c8105d70101b",
+    "word_count": 124,
+    "slideshow_credits": null
+}

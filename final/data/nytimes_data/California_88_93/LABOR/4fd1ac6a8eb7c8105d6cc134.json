@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1993/09/06/business/clinton-s-advisers-study-new-moves-to-spur-economy.html",
+    "snippet": "Stuck with a tight budget and uncertain economic prospects, top economic advisers in the Clinton Administration are eyeing the same types of measures to stimulate the economy that the Bush Administration used during the Presidential election campa...",
+    "lead_paragraph": "Stuck with a tight budget and uncertain economic prospects, top economic advisers in the Clinton Administration are eyeing the same types of measures to stimulate the economy that the Bush Administration used during the Presidential election campaign last year. The measures on the drafting table, which, by and large, would not require Congressional approval, are being discussed by Labor Secretary Robert B. Reich; Laura D'Andrea Tyson, the head of the Council of Economic Advisers, and other high-level aides. The plans include speeding work on military contracts or easing regulations on Government lending.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CLINTON'S ADVISERS STUDY NEW MOVES TO SPUR ECONOMY"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DEFENSE CONTRACTS"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1993-09-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sylvia",
+                "rank": 1,
+                "lastname": "NASAR"
+            }
+        ],
+        "original": "By SYLVIA NASAR"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ac6a8eb7c8105d6cc134",
+    "word_count": 1110,
+    "slideshow_credits": null
+}

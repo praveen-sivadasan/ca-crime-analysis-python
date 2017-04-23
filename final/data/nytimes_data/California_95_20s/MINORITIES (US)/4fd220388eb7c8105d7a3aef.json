@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/03/us/discrepancy-by-race-found-in-the-trying-of-youths.html",
+    "snippet": "Minority youths are more than twice as likely as their white counterparts to be transferred out of California's juvenile justice system and tried as adults, according to a study made public yesterday by the Justice Policy Institute, a criminal-jus...",
+    "lead_paragraph": "Minority youths are more than twice as likely as their white counterparts to be transferred out of California's juvenile justice system and tried as adults, according to a study made public yesterday by the Justice Policy Institute, a criminal-justice research center. ''The imbalances this study reveals are stark, vast and deeply disturbing,'' said Dan Macallair, the associate director of the institute who is a co-author of the study. ''Discrimination against kids of color accumulates at every stage of the justice system and skyrockets when juveniles are tried as adults. California has a double standard: throw kids of color behind bars, but rehabilitate white kids who commit comparable crimes.''",
+    "abstract": "Justice Policy Institute study finds that minority youths are more than twice as likely as their white counterparts to be transferred out of California's juvenile justice system and tried as adults (M)",
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Discrepancy By Race Found In the Trying Of Youths"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HILTS, PHILIP J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "JUSTICE POLICY INSTITUTE"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        }
+    ],
+    "pub_date": "2000-02-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tamar",
+                "rank": 1,
+                "lastname": "LEWIN"
+            }
+        ],
+        "original": "By TAMAR LEWIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd220388eb7c8105d7a3aef",
+    "word_count": 670,
+    "slideshow_credits": null
+}

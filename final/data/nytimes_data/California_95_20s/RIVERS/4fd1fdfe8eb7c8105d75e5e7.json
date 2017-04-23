@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1998/07/12/travel/travel-advisory-swollen-rivers-prompt-concern-in-california.html",
+    "snippet": "In yet another example of El Nino's lingering ill effects, the California Department of Boating and Waterways issued a safety advisory on June 22 warning that the state's rivers are colder, faster and carrying more debris than normal this summer b...",
+    "lead_paragraph": "In yet another example of El Nino's lingering ill effects, the California Department of Boating and Waterways issued a safety advisory on June 22 warning that the state's rivers are colder, faster and carrying more debris than normal this summer because of the melting of a record Sierra Nevada snowpack. The advisory was prompted by the deaths of nine rafters on swollen central and northern California rivers -- including the American, Cosumnes and Yuba Rivers -- in a one-week period. Three were on commercial trips accompanied by trained whitewater guides and six on private outings without professional assistance. (Two rafters on air mattresses were also killed last month, and a kayaker drowned in February.)",
+    "abstract": "California Boating and Waterways Department issues safety warning, prompted by deaths of nine rafters in one week period, that rivers are colder, faster and carrying more debris than normal; map (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Swollen Rivers Prompt Concern in California",
+        "kicker": "TRAVEL ADVISORY"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "RAFTS"
+        },
+        {
+            "name": "subject",
+            "value": "RIVERS"
+        }
+    ],
+    "pub_date": "1998-07-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christopher",
+                "rank": 1,
+                "lastname": "HALL"
+            }
+        ],
+        "original": "By CHRISTOPHER HALL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fdfe8eb7c8105d75e5e7",
+    "word_count": 249,
+    "slideshow_credits": null
+}

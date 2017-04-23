@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1999/05/07/us/political-briefing-california-devises-an-open-primary.html",
+    "snippet": "California officials believe they have finally found a way to hold an ''open'' Presidential primary next year as required by a new state law and at the same time not violate long-standing national party rules that forbid such primaries.    The sol...",
+    "lead_paragraph": "California officials believe they have finally found a way to hold an ''open'' Presidential primary next year as required by a new state law and at the same time not violate long-standing national party rules that forbid such primaries. The solution is in still another new law, just signed by Gov. Gray Davis: Next year's primary will be open as state law mandates -- that is, voters may cross party lines, supporting whomever they choose on the ballot, regardless of registration. The results will be tallied and forwarded to party headquarters. But the ballots will be coded so that separate tallies can be kept in all instances in which Democrats vote Democratic, Republicans vote Republican, and so forth. Those tallies will also be forwarded to party headquarters. Party officials, who helped legislators draw up the newly signed law, plan to ignore the tallies resulting from the open voting. While that tallying will satisfy the mandate resulting from a recently passed citizens' ballot initiative, the parties are confident that they can legally choose their own rules for counting votes and thus are under no obligation to accept the open primary results.",
+    "abstract": "California officials believe they have finally found a way to hold an 'open' Presidential primary next year as required by a new state law and at same time not violate long-standing national party rules that forbid such primaries (S)",
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Devises An 'Open' Primary",
+        "kicker": "POLITICAL BRIEFING"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1999-05-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "By B. Drummond Ayres Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20c898eb7c8105d77c169",
+    "word_count": 235,
+    "slideshow_credits": null
+}

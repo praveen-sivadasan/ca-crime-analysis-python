@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/26/nyregion/c-corrections-982990.html",
+    "snippet": "LEAD: Because of an editing error, an article on Monday about protests over logging in California identified a founder of the environmental group Earth First incompletely in some copies. He is David Foreman....",
+    "lead_paragraph": "LEAD: Because of an editing error, an article on Monday about protests over logging in California identified a founder of the environmental group Earth First incompletely in some copies. He is David Foreman.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FOREMAN, DAVID"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EARTH FIRST!"
+        },
+        {
+            "name": "subject",
+            "value": "WOOD AND WOOD PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1990-09-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1a5148eb7c8105d6bd7ad",
+    "word_count": 65,
+    "slideshow_credits": null
+}

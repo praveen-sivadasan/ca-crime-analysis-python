@@ -1,0 +1,89 @@
+{
+    "web_url": "https://www.nytimes.com/2000/05/18/us/rights-groups-sue-california-public-schools.html",
+    "snippet": "A coalition of civil rights groups filed a class-action lawsuit today saying that the disparities between California's best and worst public schools are so great as to violate the state constitution's guarantee of a free and equal public education...",
+    "lead_paragraph": "A coalition of civil rights groups filed a class-action lawsuit today saying that the disparities between California's best and worst public schools are so great as to violate the state constitution's guarantee of a free and equal public education for all, and demanding that the state assure that all schools have the bare necessities of teachers, textbooks, classrooms and toilets. Lawyers for the plaintiffs described the state court suit as the first in the nation to seek a guarantee of education basics, and said they hoped it would open a new front in a three-decade drive that began with efforts to equalize school financing, then moved on to address adequacy of conditions. The suit seeks no monetary damages, only an order requiring the state to assure certain essentials like textbooks and safe buildings throughout California.",
+    "abstract": "Coalition of civil rights groups files class-action lawsuit against California's Department of Education, saying disparities between state's best and worst public schools are so great as to violate state constitution's guarantee of free and equal public education for all; suit demands that state assure that all schools have bare necessities of teachers, textbooks, classrooms and toilets; suit seeks no monetary damages; it comes as Gov Gray Davis and other state politicians grapple with how to return California, which once led nation in educational spending, standards and achievement, to something close to national average in spending per student; suit is filed by American Civil Liberties Union of Southern California along with other civil rights organizations, including Mexican-American Legal Defense and Education Fund, on behalf of students and parents in poor and minority districts (M)",
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rights Groups Sue California Public Schools"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MEXICAN-AMERICAN LEGAL DEFENSE AND EDUCATION FUND"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN CIVIL LIBERTIES UNION"
+        },
+        {
+            "name": "subject",
+            "value": "EQUAL EDUCATIONAL OPPORTUNITIES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "MEXICAN-AMERICANS"
+        },
+        {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "2000-05-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd240188eb7c8105d7d78c6",
+    "word_count": 1200,
+    "slideshow_credits": null
+}

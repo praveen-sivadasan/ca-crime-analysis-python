@@ -1,0 +1,86 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/19/business/keating-indicted-in-savings-fraud-and-goes-to-jail.html",
+    "snippet": "LEAD: Charles H. Keating Jr., who has been widely portrayed as a symbol of the misconduct and reckless investment style that devastated the savings and loan industry, was indicted on criminal fraud charges today and led to jail after he was unable...",
+    "lead_paragraph": "LEAD: Charles H. Keating Jr., who has been widely portrayed as a symbol of the misconduct and reckless investment style that devastated the savings and loan industry, was indicted on criminal fraud charges today and led to jail after he was unable to post the $5 million bail.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "KEATING INDICTED IN SAVINGS FRAUD AND GOES TO JAIL"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WISCHER, JUDY J"
+        },
+        {
+            "name": "persons",
+            "value": "FIDEL, RAY C"
+        },
+        {
+            "name": "persons",
+            "value": "KEATING, CHARLES H JR"
+        },
+        {
+            "name": "persons",
+            "value": "SYMES, ROBIN S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LINCOLN SAVINGS & LOAN ASSN"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN CONTINENTAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1990-09-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Front Page; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19cd98eb7c8105d6ae835",
+    "word_count": 930,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/14/nyregion/c-corrections-019992.html",
+    "snippet": "Because of an editing error, an article and a picture caption on Saturday about California's senatorial primary referred incorrectly in some copies to the Senate seats sought by Dianne Feinstein, the former Mayor of San Francisco, and Representati...",
+    "lead_paragraph": "Because of an editing error, an article and a picture caption on Saturday about California's senatorial primary referred incorrectly in some copies to the Senate seats sought by Dianne Feinstein, the former Mayor of San Francisco, and Representative Barbara Boxer. Ms. Feinstein is running for the two-year term and Representative Boxer the six-year term.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1992-04-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1ced28eb7c8105d706c8a",
+    "word_count": 54,
+    "slideshow_credits": null
+}

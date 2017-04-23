@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1999/07/16/business/the-markets-bonds-investors-buy-1.6-billion-of-municipal-debt-issues.html",
+    "snippet": "Municipal bond investors stole center stage in bond trading yesterday as they quickly bought up $1.6 billion of tax-exempt bonds backed by toll revenue from a Southern California highway.    In the largest tax-free bond offering this year, underwr...",
+    "lead_paragraph": "Municipal bond investors stole center stage in bond trading yesterday as they quickly bought up $1.6 billion of tax-exempt bonds backed by toll revenue from a Southern California highway. In the largest tax-free bond offering this year, underwriters led by Salomon Smith Barney handled the sale by the Foothill/Eastern Transportation Agency and had good demand from institutional buyers, including mutual funds.",
+    "abstract": "Municipal bond investors buy up $1.6 billion of tax-exempt bonds backed by toll revenue from Southern California highway; Treasury securities are little changed; yield on benchmark 30-year bond is unchanged at 5.91 percent, while price falls 1/32, to 90 25/32; graph on tax-exempt yields; chart on US key interest rates (M)",
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Investors Buy $1.6 Billion Of Municipal Debt Issues",
+        "kicker": "THE MARKETS: BONDS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "INTEREST RATES"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        },
+        {
+            "name": "subject",
+            "value": "TOLLS"
+        }
+    ],
+    "pub_date": "1999-07-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "HURTADO"
+            }
+        ],
+        "original": "By ROBERT HURTADO"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20f3e8eb7c8105d781ba8",
+    "word_count": 328,
+    "slideshow_credits": null
+}

@@ -1,0 +1,81 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/18/business/california-battle-over-state-fund.html",
+    "snippet": "A furious political battle broke out in California today over the future of the state's huge public-employee pension fund, with the fund's leaders charging that Gov. Pete Wilson was trying to pack its board and squash its highly visible shareholde...",
+    "lead_paragraph": "A furious political battle broke out in California today over the future of the state's huge public-employee pension fund, with the fund's leaders charging that Gov. Pete Wilson was trying to pack its board and squash its highly visible shareholder-rights campaign. The fight broke out after Governor Wilson, a Republican, proposed legislation over the weekend that would enable him to tap the fund for $1.6 billion to help close the state's $14.3 billion budget deficit.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Battle Over State Fund"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA PUBLIC EMPLOYEES RETIREMENT SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "BOARDS OF DIRECTORS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "PENSIONS"
+        },
+        {
+            "name": "subject",
+            "value": "CORPORATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "INSTITUTIONAL INVESTORS"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+        }
+    ],
+    "pub_date": "1991-06-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d2058eb7c8105d70d309",
+    "word_count": 786,
+    "slideshow_credits": null
+}

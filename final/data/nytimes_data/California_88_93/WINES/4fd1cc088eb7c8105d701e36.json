@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1993/07/08/business/company-news-glen-ellen-winery-told-to-pay-2.5-million.html",
+    "snippet": "A Sonoma County jury has awarded the Franzia family, owners of the JFJ Bronco Winery, $2.5 million for financial damages the winery suffered when Glen Ellen Winery terminated a six-year business relationship, setting off a two-year legal dispute b...",
+    "lead_paragraph": "A Sonoma County jury has awarded the Franzia family, owners of the JFJ Bronco Winery, $2.5 million for financial damages the winery suffered when Glen Ellen Winery terminated a six-year business relationship, setting off a two-year legal dispute between two of California's leading wine families. Fred Franzia, the president of Bronco, said he thought the $2.5 million award, announced on Tuesday, was a record for a distributor losing a winery's business. Bronco had been seeking $10 million from Glen Ellen, a Sonoma Valley winery owned by the Benziger family and several partners.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Glen Ellen Winery Told to Pay $2.5 Million",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FRANZIA FAMILY"
+        },
+        {
+            "name": "persons",
+            "value": "BENZIGER FAMILY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "JFJ BRONCO WINERY"
+        },
+        {
+            "name": "organizations",
+            "value": "GLEN ELLEN WINERY"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1993-07-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1cc088eb7c8105d701e36",
+    "word_count": 559,
+    "slideshow_credits": null
+}

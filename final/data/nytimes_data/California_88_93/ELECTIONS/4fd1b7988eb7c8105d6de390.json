@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/07/us/with-gop-faltering-senator-is-on-his-own.html",
+    "snippet": "John Seymour faces two unanticipated obstacles in seeking election to the United States Senate seat that Gov. Pete Wilson appointed him to 19 months ago: The collapse of the Republican Presidential campaign in California and the plunge in populari...",
+    "lead_paragraph": "John Seymour faces two unanticipated obstacles in seeking election to the United States Senate seat that Gov. Pete Wilson appointed him to 19 months ago: The collapse of the Republican Presidential campaign in California and the plunge in popularity of his mentor the Governor. Mr. Seymour insists that coattails mean nothing in this quirky state of ticket-splitters and that Mr. Wilson's nose-dive is temporary and of no consequence. But this relentless good cheer is drowned out by a chorus of prophets who say that a bland former State Senator plucked from obscurity needs all the high-powered help he can get.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "With G.O.P. Faltering, Senator Is on His Own"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "SEYMOUR, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1992-09-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1b7988eb7c8105d6de390",
+    "word_count": 1218,
+    "slideshow_credits": null
+}

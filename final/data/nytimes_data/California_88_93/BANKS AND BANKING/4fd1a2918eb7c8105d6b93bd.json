@@ -1,0 +1,47 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/01/business/company-news-bank-of-america.html",
+    "snippet": "LEAD: The Bank of America said it would open its branches on Saturdays, from 9 A.M. to 1 P.M., beginning in April. The move by the largest bank in California is the latest salvo in the competition among California banks to offer customers the long...",
+    "lead_paragraph": "LEAD: The Bank of America said it would open its branches on Saturdays, from 9 A.M. to 1 P.M., beginning in April. The move by the largest bank in California is the latest salvo in the competition among California banks to offer customers the longest service hours. The Wells Fargo Bank, for instance, is advertising that its branches are open weekdays from 9 A.M.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bank of America",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BANK OF AMERICA NATIONAL TRUST & SAVINGS ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1989-04-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a2918eb7c8105d6b93bd",
+    "word_count": 132,
+    "slideshow_credits": null
+}

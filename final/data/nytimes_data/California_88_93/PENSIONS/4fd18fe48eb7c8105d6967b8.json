@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/14/business/pension-fund-urges-sec-proxy-review.html",
+    "snippet": "LEAD: The California Public Employees' Retirement System, the nation's largest pension fund, asked the Securities and Exchange Commission today to conduct a broad review of shareholders' rights....",
+    "lead_paragraph": "LEAD: The California Public Employees' Retirement System, the nation's largest pension fund, asked the Securities and Exchange Commission today to conduct a broad review of shareholders' rights.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pension Fund Urges S.E.C. Proxy Review"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SECURITIES AND EXCHANGE COMMISSION"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA PUBLIC EMPLOYEES RETIREMENT SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "PENSIONS"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+        }
+    ],
+    "pub_date": "1989-11-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18fe48eb7c8105d6967b8",
+    "word_count": 468,
+    "slideshow_credits": null
+}

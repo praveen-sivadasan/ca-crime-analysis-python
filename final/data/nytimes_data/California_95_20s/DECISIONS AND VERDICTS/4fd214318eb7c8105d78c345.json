@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1997/12/02/us/supreme-court-hears-test-of-treasure-law.html",
+    "snippet": "Hundreds of shipwrecks have been lying off the coastal United States, some for centuries, only recently brought within the reach of treasure hunters by the new technology of deep sea exploration and recovery. With new technology comes new law, and...",
+    "lead_paragraph": "Hundreds of shipwrecks have been lying off the coastal United States, some for centuries, only recently brought within the reach of treasure hunters by the new technology of deep sea exploration and recovery. With new technology comes new law, and an argument before the Supreme Court today on new rules for sorting out claims to shipwreck treasure suggested that it may prove to be as hard to determine the rules as to find the long-lost bounty itself. A decade ago, Congress responded to fears of an incipient treasure-hunting frenzy by passing the Abandoned Shipwreck Act. Its aim was to replace the traditional rule of ''finders, keepers,'' for newly discovered shipwrecks, with a system to enable the state and Federal governments to protect the cultural and archeological heritage that the wrecks contain.",
+    "abstract": "US Supreme Court hears arguments on rules for sorting out claims on shipwrecked treasure, issue made more complicated in recent years by advancement of technology for recovering sunken goods; question before justices is whether Abandoned Shipwreck Act, statute that is both complex and vague, applies to shipwreck found in 1993, and, if so, hopw statute is supposed to work; Deep Sea Research, company that found wreck, is arguing with State of California over title of salvage rights (M)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Supreme Court Hears Test of 'Treasure' Law"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEEP SEA RESEARCH"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "TREASURE"
+        },
+        {
+            "name": "subject",
+            "value": "SALVAGE"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1997-12-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd214318eb7c8105d78c345",
+    "word_count": 813,
+    "slideshow_credits": null
+}

@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/02/business/key-corporate-tax-case-to-be-heard.html",
+    "snippet": "Accepting a state tax case with important implications for international tax policy, the Supreme Court agreed today to decide whether the Constitution limits the ability of states to tax multinational corporations on a portion of their earnings be...",
+    "lead_paragraph": "Accepting a state tax case with important implications for international tax policy, the Supreme Court agreed today to decide whether the Constitution limits the ability of states to tax multinational corporations on a portion of their earnings beyond the state's borders. The Court's action surprised nearly everyone who has followed the case, and handed the Clinton Administration a political predicament as unwelcome as it was unexpected.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Key Corporate Tax Case to Be Heard"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "MULTINATIONAL COMPANIES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        }
+    ],
+    "pub_date": "1993-11-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Linda",
+                "rank": 1,
+                "lastname": "GREENHOUSE"
+            }
+        ],
+        "original": "By LINDA GREENHOUSE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ea908eb7c8105d73a84a",
+    "word_count": 784,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/07/us/governor-proposes-tax-cut-in-california.html",
+    "snippet": "Gov. Pete Wilson said today that he would ask the State Legislature to cut personal and business income taxes by 15 percent over three years.    The Republican Governor, beginning his second four-year term, said he would seek the tax cuts recommen...",
+    "lead_paragraph": "Gov. Pete Wilson said today that he would ask the State Legislature to cut personal and business income taxes by 15 percent over three years. The Republican Governor, beginning his second four-year term, said he would seek the tax cuts recommended to him last month by a group of economic advisers.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Governor Proposes Tax Cut in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INCOME TAXES"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        }
+    ],
+    "pub_date": "1995-01-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1c51d8eb7c8105d6f4f06",
+    "word_count": 196,
+    "slideshow_credits": null
+}

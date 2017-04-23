@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1997/08/29/nyregion/c-corrections-854441.html",
+    "snippet": "An article on Wednesday about a California doctors' union that is affiliating with a larger labor group misstated the influence of the smaller union. The Union of American Physicians and Dentists represents 7 percent of the state's practicing doct...",
+    "lead_paragraph": "An article on Wednesday about a California doctors' union that is affiliating with a larger labor group misstated the influence of the smaller union. The Union of American Physicians and Dentists represents 7 percent of the state's practicing doctors, not 20 percent, according to the California Medical Association. The article also misstated the total number of unionized doctors. It is 30,000, not 45,000.",
+    "abstract": "Correction of Aug 27 article on California doctors' union affiliating with larger labor group; Union of American Physicians and Dentists represents 7 percent of state's doctors, not 20 percent (S)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNION OF AMERICAN PHYSICIANS AND DENTISTS"
+        },
+        {
+            "name": "subject",
+            "value": "DOCTORS"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1997-08-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1fc5d8eb7c8105d75b54b",
+    "word_count": 63,
+    "slideshow_credits": null
+}

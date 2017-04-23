@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/07/21/us/the-democrats-in-atlanta-for-trackers-timing-is-everything.html",
+    "snippet": "LEAD: In a cramped trailer under the Democratic National Convention hall, Tad Devine, chief delegate tracker for Michael S. Dukakis, is running the nominating vote like a computer-age conductor: with a radio headset instead of a baton....",
+    "lead_paragraph": "LEAD: In a cramped trailer under the Democratic National Convention hall, Tad Devine, chief delegate tracker for Michael S. Dukakis, is running the nominating vote like a computer-age conductor: with a radio headset instead of a baton.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Democrats in Atlanta; For Trackers, Timing Is Everything"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEVINE, TAD"
+        },
+        {
+            "name": "persons",
+            "value": "DUKAKIS, MICHAEL S"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "CONVENTIONS, NATIONAL (US)"
+        }
+    ],
+    "pub_date": "1988-07-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "ROSENTHAL"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANDREW ROSENTHAL, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17cb38eb7c8105d676150",
+    "word_count": 696,
+    "slideshow_credits": null
+}

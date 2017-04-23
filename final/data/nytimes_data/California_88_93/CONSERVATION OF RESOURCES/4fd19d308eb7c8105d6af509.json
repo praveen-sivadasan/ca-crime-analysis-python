@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/12/22/business/utility-plans-efficient-house.html",
+    "snippet": "Southern California Edison will build 20 prototype \"houses of the future\" in the eastern suburbs of Los Angeles in 1991, the company said. The houses are designed so that water consumption will be reduced by 25 percent, electricity saved and the l...",
+    "lead_paragraph": "Southern California Edison will build 20 prototype \"houses of the future\" in the eastern suburbs of Los Angeles in 1991, the company said. The houses are designed so that water consumption will be reduced by 25 percent, electricity saved and the load factor of the utility's generating equipment increased. Each house's lighting, heating, air-conditioning and security system will be controlled by a computer that uses touch-screen commands, like an automatic teller machine.",
+    "abstract": null,
+    "print_page": "46",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Utility Plans Efficient House"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTHERN CALIFORNIA EDISON CO"
+        },
+        {
+            "name": "subject",
+            "value": "CONSERVATION OF RESOURCES"
+        },
+        {
+            "name": "subject",
+            "value": "ENERGY AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "1990-12-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd19d308eb7c8105d6af509",
+    "word_count": 201,
+    "slideshow_credits": null
+}

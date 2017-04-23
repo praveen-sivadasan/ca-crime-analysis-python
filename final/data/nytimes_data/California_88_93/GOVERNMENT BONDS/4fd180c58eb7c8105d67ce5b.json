@@ -1,0 +1,34 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/01/business/finance-new-issues-top-california-yield-is-7.15-in-300-million-bond-sale.html",
+    "snippet": "LEAD: California priced its first general obligation bond issue of the year yesterday, with $300 million of the debt securities in competitive bidding....",
+    "lead_paragraph": "LEAD: California priced its first general obligation bond issue of the year yesterday, with $300 million of the debt securities in competitive bidding.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Top California Yield Is 7.15% In $300 Million Bond Sale",
+        "kicker": "FINANCE/NEW ISSUES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1989-03-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd180c58eb7c8105d67ce5b",
+    "word_count": 125,
+    "slideshow_credits": null
+}

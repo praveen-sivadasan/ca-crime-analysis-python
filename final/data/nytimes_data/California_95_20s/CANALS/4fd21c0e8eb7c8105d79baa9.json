@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1998/12/19/us/water-management-plan-unveiled-in-california.html",
+    "snippet": "Gov. Pete Wilson and Interior Secretary Bruce Babbitt presented a $4.4 billion draft blueprint today to rewrite California's water map, but both acknowledged that the proposal faced a difficult future.    Mr. Babbitt described the report as a work...",
+    "lead_paragraph": "Gov. Pete Wilson and Interior Secretary Bruce Babbitt presented a $4.4 billion draft blueprint today to rewrite California's water map, but both acknowledged that the proposal faced a difficult future. Mr. Babbitt described the report as a work in progress. He said it was the result of four years of heated discussions among water districts, farmers, environmentalists, state and Federal regulators, and property owners over how to develop water supplies and move water throughout the state.",
+    "abstract": "Gov Pete Wilson and Interior Sec Bruce Babbitt present $4.4 billion draft water management plan for California; plan defers for 7 to 10 years a decision oon whether a canal should be built to move water from northern part of state to Central and Southern California; discourages construction of new dams and reservoirs (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Water Management Plan Unveiled in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BABBITT, BRUCE"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERIOR DEPARTMENT"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "DAMS AND DIKES"
+        },
+        {
+            "name": "subject",
+            "value": "CANALS"
+        }
+    ],
+    "pub_date": "1998-12-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd21c0e8eb7c8105d79baa9",
+    "word_count": 214,
+    "slideshow_credits": null
+}

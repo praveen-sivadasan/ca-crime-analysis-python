@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/2000/12/09/us/new-plan-would-scale-back-quota-for-electric-cars-in-california.html",
+    "snippet": "California air regulators are moving to relax a controversial and closely watched program that would force automobile manufacturers to sell electric cars starting in 2003.     Conceding that battery-powered cars are not yet practical, the staff of...",
+    "lead_paragraph": "California air regulators are moving to relax a controversial and closely watched program that would force automobile manufacturers to sell electric cars starting in 2003. Conceding that battery-powered cars are not yet practical, the staff of the California Air Resources Board today recommended de-emphasizing fully electric vehicles and instead giving more encouragement to other types of ''clean'' cars, such as hybrid vehicles that combine gasoline and electric power.",
+    "abstract": "California Air Resources Board moves to relax program that would force automobile manufacturers to sell electric cars in 2003; recommends de-emphasizing fully electric vehicles and instead giving more encouragement to other types of 'clean' cars, such as hybrid vehicles that combine gasoline and electric power (M)",
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "New Plan Would Scale Back Quota for Electric Cars in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC VEHICLES"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "2000-12-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21d4a8eb7c8105d79e164",
+    "word_count": 543,
+    "slideshow_credits": null
+}

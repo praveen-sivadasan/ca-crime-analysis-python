@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1992/11/24/business/company-news-bankamerica-plans-to-shut-a-third-of-branches.html",
+    "snippet": "The BankAmerica Corporation said yesterday that it would close 532 branches, or about one-third of its total, as it continues to consolidate after acquiring the Security Pacific Corporation. The $4 billion merger, which took place in April, was th...",
+    "lead_paragraph": "The BankAmerica Corporation said yesterday that it would close 532 branches, or about one-third of its total, as it continues to consolidate after acquiring the Security Pacific Corporation. The $4 billion merger, which took place in April, was the biggest in banking history and made BankAmerica the nation's No. 2 banking company in asset size after Citicorp.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "BANKAMERICA PLANS TO SHUT A THIRD OF BRANCHES",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BANKAMERICA CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "SECURITY PACIFIC CORP"
+        },
+        {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1992-11-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b7f48eb7c8105d6df759",
+    "word_count": 102,
+    "slideshow_credits": null
+}

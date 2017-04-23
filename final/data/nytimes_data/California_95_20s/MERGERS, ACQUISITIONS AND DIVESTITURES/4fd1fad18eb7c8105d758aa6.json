@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/23/business/pacific-gas-and-electric-to-sell-4-power-plants.html",
+    "snippet": "The nation's largest utility, the Pacific Gas and Electric Company, said yesterday that it would sell four power plants as part of its plan to comply with California's effort to open the state's utilities to competition.    The P.G.& E. plants gen...",
+    "lead_paragraph": "The nation's largest utility, the Pacific Gas and Electric Company, said yesterday that it would sell four power plants as part of its plan to comply with California's effort to open the state's utilities to competition. The P.G.& E. plants generate about 3,059 megawatts of electricity, enough to light a medium-sized city, and the utility values them at about $400 million. The company hopes to complete a sale by the end of 1997.",
+    "abstract": "Pacific Gas & Electric Co will sell four power plants as part of its plan to comply with California's effort to open state's utilities to competition; plants generate about 3,059 megawatts of electricity and utility values them at about $400 million; company hopes to complete sale by end of 1997 (M)",
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pacific Gas and Electric to Sell 4 Power Plants"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC GAS & ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "1996-10-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Agis",
+                "rank": 1,
+                "lastname": "SALPUKAS"
+            }
+        ],
+        "original": "By AGIS SALPUKAS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1fad18eb7c8105d758aa6",
+    "word_count": 445,
+    "slideshow_credits": null
+}

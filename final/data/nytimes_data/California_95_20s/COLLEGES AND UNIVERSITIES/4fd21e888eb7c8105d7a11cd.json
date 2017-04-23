@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1999/05/02/magazine/the-class-of-prop-209.html",
+    "snippet": "The campus of the university of california at berkeley in springtime is about as close to Shangri-La as most mortals are likely to get. When I paid a visit last month, the dogwoods and the cherry trees were in splendid bloom, and the broad, sunny ...",
+    "lead_paragraph": "The campus of the university of california at berkeley in springtime is about as close to Shangri-La as most mortals are likely to get. When I paid a visit last month, the dogwoods and the cherry trees were in splendid bloom, and the broad, sunny plaza in front of the Mario Savio Steps at Sproul Hall was jammed with students. I had arrived during campaign season, and kids were milling around the plaza holding placards and bedsheets promising better, wiser, bolder student government. Berkeley must be one of the few universities with standing political parties, and several of the parties had set up booths. One of the loneliest of them, never staffed by more than a student or two, belonged to the Defend Affirmative Action Party. A year earlier, when the ban on the use of affirmative action enacted by the Board of Regents of the university and confirmed by voters in Proposition 209 went into effect, freshman minority enrollment at Berkeley had been cut by half. Conservatives had got their wish, but it had led to precisely the disaster predicted by affirmative action's backers. It wouldn't have been surprising, then, if preferences were a roaring issue on campus. I asked a student if the Defend Affirmative Action Party had a chance of winning a seat in this spring's elections in the student government. He consulted a friend. ''Not really,'' he said. A poll taken at the time of Prop. 209 showed that in fact most students opposed affirmative action.",
+    "abstract": "James Traub article examines campuses of University of California a year after voters banned use of affirmative action to increase freshman minority enrollment; initially, freshman minority enrollment at Berkeley was cut by half, just as affirmative action's backers had feared; many minority students who did not get in to Berkeley or UCLA enrolled instead at one of less selective UC campuses, phenomenon known as 'cascading'; most Berkeley students oppose affirmative action, but they support $3 increase in student fees to support outreach efforts to increase flow of minority students from local high schools; they, like most Americans, want diversity without zero-sum calculus that accompanies affirmative action; second year after affirmative action ban, Berkeley, with some deft fiddling with admissions criteria, admitted 30 percent more minority students than year before; ending affirmative action has forced university to try to expand pool of eligible minority students through outreach programs and impromptu adaptations; photos (L)",
+    "print_page": "44",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Class of Prop. 209"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "ADMISSIONS STANDARDS"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+        },
+        {
+            "name": "subject",
+            "value": "ENROLLMENT"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1999-05-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Education; Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "Traub"
+            }
+        ],
+        "original": "By James Traub"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21e888eb7c8105d7a11cd",
+    "word_count": 8017,
+    "slideshow_credits": null
+}

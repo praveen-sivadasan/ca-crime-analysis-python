@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/12/us/california-s-budget-impasse-leaving-suppliers-in-lurch.html",
+    "snippet": "State prisons in California owe more than $600,000 to Vincent A. Valenzie, owner of the Produce Man in East Los Angeles, for lettuce, tomatoes and oranges. And California is into Pacific Bid Supply of San Francisco for $47,000 worth of pickles, 20...",
+    "lead_paragraph": "State prisons in California owe more than $600,000 to Vincent A. Valenzie, owner of the Produce Man in East Los Angeles, for lettuce, tomatoes and oranges. And California is into Pacific Bid Supply of San Francisco for $47,000 worth of pickles, 20,000 jars of them. So it goes across California on the 42d day in which the state has gone without a budget. Because the state has run out of money to pay its bills, the thousands of vendors who supply state mental hospitals, schools, prisons and other institutions with nearly everything from syringes to eggnog are beginning to hurt. Like Mr. Valenzie, many suppliers have had to lay off workers and beg creditors for extensions.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Budget Impasse Leaving Suppliers in Lurch"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS (LABOR)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-08-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b3af8eb7c8105d6d78ea",
+    "word_count": 1268,
+    "slideshow_credits": null
+}

@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/26/business/the-media-business-news-programs-with-ads-barred-in-california-schools.html",
+    "snippet": "LEAD: Lawyers for the California public school system said yesterday that news programs carrying advertising may not be shown in schools that receive public funds. The opinion, an interpretation of the state's education law, would mean that Califo...",
+    "lead_paragraph": "LEAD: Lawyers for the California public school system said yesterday that news programs carrying advertising may not be shown in schools that receive public funds. The opinion, an interpretation of the state's education law, would mean that California public schools cannot use ''Channel One,'' a news program created by Whittle Communications Inc.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "News Programs With Ads Barred in California Schools",
+        "kicker": "THE MEDIA BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CHANNEL ONE (TV PROGRAM)"
+        },
+        {
+            "name": "persons",
+            "value": "HONIG, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WHITTLE COMMUNICATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION PROGRAMS"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        }
+    ],
+    "pub_date": "1989-05-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jeremy",
+                "rank": 1,
+                "lastname": "GERARD"
+            }
+        ],
+        "original": "By JEREMY GERARD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1954c8eb7c8105d6a15e9",
+    "word_count": 447,
+    "slideshow_credits": null
+}

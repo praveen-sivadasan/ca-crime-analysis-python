@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/14/business/company-news-plan-approved-to-rehabilitate-executive-life-insurance.html",
+    "snippet": "A judge in Los Angeles gave the go-ahead yesterday to a plan to sell the remaining assets from California's largest failed insurance company to a team of French investors. Superior Court Judge Kurt Lewin ordered California Insurance Commissioner J...",
+    "lead_paragraph": "A judge in Los Angeles gave the go-ahead yesterday to a plan to sell the remaining assets from California's largest failed insurance company to a team of French investors. Superior Court Judge Kurt Lewin ordered California Insurance Commissioner John Garamendi to proceed with his plan to sell the remaining assets and policies from Los Angeles-based Executive Life Insurance Company to a group of investors headed by Altus Finance, a unit of Credit Lyonnais, the French bank. The judge overruled all objections to the plan from Executive Life policyholders, including a proposal to rescind a controversial junk bond sale and a provision that may limit their ability to object publicly to the sale.(AP)",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "PLAN APPROVED TO REHABILITATE EXECUTIVE LIFE INSURANCE",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        }
+    ],
+    "pub_date": "1993-08-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ac608eb7c8105d6cb883",
+    "word_count": 114,
+    "slideshow_credits": null
+}

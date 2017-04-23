@@ -1,0 +1,44 @@
+{
+    "web_url": "https://www.nytimes.com/1991/06/12/garden/wine-makers-mix-leisure-and-lobbying.html",
+    "snippet": "Several dozen California wine makers in the capital this week got a chance to familiarize themselves with foreign policy and domestic issues and to approach Congress with a little soft-sell lobbying.   \"It's vitally important to us as an industry ...",
+    "lead_paragraph": "Several dozen California wine makers in the capital this week got a chance to familiarize themselves with foreign policy and domestic issues and to approach Congress with a little soft-sell lobbying. \"It's vitally important to us as an industry to be informed about events around the world,\" said John De Luca, president of the San Francisco-based Wine Institute , a trade association for the California wine industry that planned the three-day program of luncheons, dinners, receptions andn Capitol Hill seminars. \"But certainly, we take the opportunity to discuss issues that are of concern to us -- questions of advertising, labeling, taxes.\"",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Makers Mix Leisure and Lobbying"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1991-06-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Barbara",
+                "rank": 1,
+                "lastname": "GAMAREKIAN"
+            }
+        ],
+        "original": "By BARBARA GAMAREKIAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a32d8eb7c8105d6ba3ac",
+    "word_count": 626,
+    "slideshow_credits": null
+}

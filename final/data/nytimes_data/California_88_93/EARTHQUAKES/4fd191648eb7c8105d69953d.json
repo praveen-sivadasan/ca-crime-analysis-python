@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1988/12/04/us/sharp-quake-jars-southern-california.html",
+    "snippet": "LEAD: A sharp earthquake beneath Pasadena jarred Southern California early today, toppling bottles from store shelves, knocking out power to thousands of homes and causing at least 24 minor injuries....",
+    "lead_paragraph": "LEAD: A sharp earthquake beneath Pasadena jarred Southern California early today, toppling bottles from store shelves, knocking out power to thousands of homes and causing at least 24 minor injuries.",
+    "abstract": null,
+    "print_page": "34",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sharp Quake Jars Southern California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKOUTS (ELECTRICAL)"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1988-12-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd191648eb7c8105d69953d",
+    "word_count": 706,
+    "slideshow_credits": null
+}

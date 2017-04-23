@@ -1,0 +1,51 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/25/business/company-news-phone-rate-cut-in-california.html",
+    "snippet": "LEAD: The State Public Utilities Commission today ordered GTE California to cut its telephone rates by $218 million. It was the second rollback ordered this year, and the two together will reduce the company's annual revenue by 13.5 percent, or $3...",
+    "lead_paragraph": "LEAD: The State Public Utilities Commission today ordered GTE California to cut its telephone rates by $218 million. It was the second rollback ordered this year, and the two together will reduce the company's annual revenue by 13.5 percent, or $330 million. The company's president, David E. Anderson, said the reduction was excessive.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Phone Rate Cut In California",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GTE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1988-08-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18dff8eb7c8105d692e2d",
+    "word_count": 221,
+    "slideshow_credits": null
+}

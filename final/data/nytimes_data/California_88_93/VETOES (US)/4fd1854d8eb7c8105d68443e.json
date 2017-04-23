@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/22/us/washington-talk-briefing-something-about-a-veto.html",
+    "snippet": "LEAD: There must be something about Californian governors to make them such fans of the line-item veto....",
+    "lead_paragraph": "LEAD: There must be something about Californian governors to make them such fans of the line-item veto.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Something About a Veto",
+        "kicker": "WASHINGTON TALK: BRIEFING"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "WASHINGTON TALK PAGE (NYT)"
+        },
+        {
+            "name": "persons",
+            "value": "REAGAN, RONALD WILSON"
+        },
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "VETOES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1988-02-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1854d8eb7c8105d68443e",
+    "word_count": 124,
+    "slideshow_credits": null
+}

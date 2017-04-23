@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/12/15/business/ruling-assailed-on-state-farm.html",
+    "snippet": "California's Insurance Commissioner, Chuck Quackenbush, said yesterday that he had rejected a judge's decision that the State Farm Insurance Companies did not owe a refund to customers as a result of Proposition 103.         The Insurance Departme...",
+    "lead_paragraph": "California's Insurance Commissioner, Chuck Quackenbush, said yesterday that he had rejected a judge's decision that the State Farm Insurance Companies did not owe a refund to customers as a result of Proposition 103. The Insurance Department has contended that State Farm, the largest insurer in the state, owes $172 million. Proposition 103, passed by voters in 1988, calls for refunds that vary according to each insurance company's profits. The proposition gave the Insurance Department broad new powers to control insurance prices.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ruling Assailed On State Farm"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "QUACKENBUSH, CHUCK"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "STATE FARM INSURANCE COS"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "PROPOSITION 103 (CALIFORNIA INITIATIVE)"
+        }
+    ],
+    "pub_date": "1995-12-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd202da8eb7c8105d768a21",
+    "word_count": 122,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1993/06/25/business/time-plans-data-network.html",
+    "snippet": "Time Warner Inc.'s new cable television unit in California has asked state regulators for permission to offer telephone, high-speed data transfer and other telecommunications services to large corporations.   If Time Warner receives state approval...",
+    "lead_paragraph": "Time Warner Inc.'s new cable television unit in California has asked state regulators for permission to offer telephone, high-speed data transfer and other telecommunications services to large corporations. If Time Warner receives state approval, the company -- the nation's second-largest cable-television operator -- will offer an alternative to California's dominant telephone carriers: Pacific Bell and GTE.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Time Plans Data Network"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "TIME WARNER INC"
+        },
+        {
+            "name": "subject",
+            "value": "CABLE TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1993-06-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ddc28eb7c8105d7203e0",
+    "word_count": 172,
+    "slideshow_credits": null
+}

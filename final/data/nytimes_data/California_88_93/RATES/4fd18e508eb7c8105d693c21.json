@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/13/business/california-changes-phone-rate-structure.html",
+    "snippet": "LEAD: In a move watched closely by regulators in other states, the California Public Utilities Commission today approved a different way of setting rates for the state's two largest local telephone companies. The change is intended to provide free...",
+    "lead_paragraph": "LEAD: In a move watched closely by regulators in other states, the California Public Utilities Commission today approved a different way of setting rates for the state's two largest local telephone companies. The change is intended to provide freer competition in the marketplace.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Changes Phone-Rate Structure"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GTE CALIFORNIA INC"
+        },
+        {
+            "name": "organizations",
+            "value": "PUBLIC UTILITIES COMMISSION, CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1989-10-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18e508eb7c8105d693c21",
+    "word_count": 801,
+    "slideshow_credits": null
+}

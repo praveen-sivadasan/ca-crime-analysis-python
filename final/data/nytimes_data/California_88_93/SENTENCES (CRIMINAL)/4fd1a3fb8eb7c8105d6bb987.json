@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/10/opinion/the-editorial-notebook-a-flat-sentence-falls-flat.html",
+    "snippet": "LEAD: Seven years ago in Los Angeles, a deranged man named Arthur Jackson viciously stabbed a young actress, Theresa Saldana. He was convicted and sentenced to prison for 12 years. While confined, he continued his murderous obsession with Ms. Sald...",
+    "lead_paragraph": "LEAD: Seven years ago in Los Angeles, a deranged man named Arthur Jackson viciously stabbed a young actress, Theresa Saldana. He was convicted and sentenced to prison for 12 years. While confined, he continued his murderous obsession with Ms. Saldana. Yet for a time this week, prison officials were worried that they would have to release him, leaving Ms.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Flat Sentence Falls Flat",
+        "kicker": "THE EDITORIAL NOTEBOOK"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SALDANA, THERESA"
+        },
+        {
+            "name": "persons",
+            "value": "JACKSON, ARTHUR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "THREATS AND THREATENING MESSAGES"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "ASSAULTS"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        }
+    ],
+    "pub_date": "1989-06-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "C.",
+                "lastname": "ANDERSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By DAVID C. ANDERSON"
+    },
+    "type_of_material": "Editorial",
+    "_id": "4fd1a3fb8eb7c8105d6bb987",
+    "word_count": 591,
+    "slideshow_credits": null
+}

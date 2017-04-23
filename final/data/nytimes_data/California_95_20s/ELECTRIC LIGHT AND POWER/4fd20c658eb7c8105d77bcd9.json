@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1998/05/01/nyregion/c-corrections-749435.html",
+    "snippet": "The Advertising column in Business Day on Monday about a campaign by California utility regulators to tell consumers about deregulation misspelled the name of the Mad magazine character whose slogan ''What, me worry?'' was invoked by a critic of t...",
+    "lead_paragraph": "The Advertising column in Business Day on Monday about a campaign by California utility regulators to tell consumers about deregulation misspelled the name of the Mad magazine character whose slogan ''What, me worry?'' was invoked by a critic of the campaign. It is Alfred E. Neuman, not Newman.",
+    "abstract": "Correction of April 27 Advertising column about campaign by California utility regulators to tell consumers about deregulation",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1998-05-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd20c658eb7c8105d77bcd9",
+    "word_count": 48,
+    "slideshow_credits": null
+}

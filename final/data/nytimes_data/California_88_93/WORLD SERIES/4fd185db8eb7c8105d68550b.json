@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/19/us/the-california-quake-airtime-abc-expects-no-loss-from-series-suspension.html",
+    "snippet": "LEAD: ABC does not expect any financial loss from the suspension of the World Series as a result of the earthquake in the San Francisco Bay area Tuesday, network spokesmen said yesterday....",
+    "lead_paragraph": "LEAD: ABC does not expect any financial loss from the suspension of the World Series as a result of the earthquake in the San Francisco Bay area Tuesday, network spokesmen said yesterday.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "ABC Expects No Loss From Series Suspension",
+        "kicker": "THE CALIFORNIA QUAKE: AIRTIME"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "OAKLAND (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "OAKLAND ATHLETICS"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN BROADCASTING COS INC"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN FRANCISCO GIANTS"
+        },
+        {
+            "name": "subject",
+            "value": "BASEBALL"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "WORLD SERIES"
+        }
+    ],
+    "pub_date": "1989-10-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bill",
+                "rank": 1,
+                "lastname": "CARTER"
+            }
+        ],
+        "original": "By BILL CARTER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd185db8eb7c8105d68550b",
+    "word_count": 687,
+    "slideshow_credits": null
+}

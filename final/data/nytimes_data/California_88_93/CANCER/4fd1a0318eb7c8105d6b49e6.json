@@ -1,0 +1,105 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/03/us/californians-seek-product-warnings.html",
+    "snippet": "LEAD: In a bold new tactic to warn consumers about dangerous chemicals in products, four environmental groups said today that they would bring legal action against the makers and sellers of cigars and pipe tobacco if the Attorney General of Califo...",
+    "lead_paragraph": "LEAD: In a bold new tactic to warn consumers about dangerous chemicals in products, four environmental groups said today that they would bring legal action against the makers and sellers of cigars and pipe tobacco if the Attorney General of California did not.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CALIFORNIANS SEEK PRODUCT WARNINGS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "VAN DE KAMP, JOHN J"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CAMPAIGN CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ENVIRONMENTAL DEFENSE FUND"
+        },
+        {
+            "name": "organizations",
+            "value": "SIERRA CLUB"
+        },
+        {
+            "name": "organizations",
+            "value": "NATURAL RESOURCES DEFENSE COUNCIL"
+        },
+        {
+            "name": "organizations",
+            "value": "GROCERY MANUFACTURERS OF AMERICA"
+        },
+        {
+            "name": "subject",
+            "value": "BIRTH DEFECTS"
+        },
+        {
+            "name": "subject",
+            "value": "LABELS AND LABELING"
+        },
+        {
+            "name": "subject",
+            "value": "SUPERMARKETS"
+        },
+        {
+            "name": "subject",
+            "value": "CHEMICALS"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1988-08-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a0318eb7c8105d6b49e6",
+    "word_count": 732,
+    "slideshow_credits": null
+}

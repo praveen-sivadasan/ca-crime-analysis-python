@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/14/garden/points-west-let-s-not-get-carried-away-with-reality.html",
+    "snippet": "LEAD: There I was out to dinner with two heavyweight New Yorkers, extremely nice, literate people to whom I was wholeheartedly defending Shirley MacLaine. That's right, Shirley MacLaine. Mind you, I was making no defense of her claim to past lives...",
+    "lead_paragraph": "LEAD: There I was out to dinner with two heavyweight New Yorkers, extremely nice, literate people to whom I was wholeheartedly defending Shirley MacLaine. That's right, Shirley MacLaine. Mind you, I was making no defense of her claim to past lives; that far I can't go. But as to her benign, maybe even salutary emphasis on yoga and meditation, her jam-packed new-age seminars, her books and videos (yes, I've even rented one), in that I could certainly see no evil intent beyond a little spiritual hustling.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Let's Not Get Carried Away With Reality",
+        "kicker": "POINTS WEST"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LIFE STYLES"
+        }
+    ],
+    "pub_date": "1990-02-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Anne",
+                "middlename": "Taylor",
+                "lastname": "FLEMING",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By ANNE TAYLOR FLEMING"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18b448eb7c8105d68d7f3",
+    "word_count": 989,
+    "slideshow_credits": null
+}

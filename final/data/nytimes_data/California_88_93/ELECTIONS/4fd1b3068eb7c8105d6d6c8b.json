@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/29/us/the-1992-campaign-women-where-ambition-meets-opportunity.html",
+    "snippet": "Four years ago, Anna Eshoo finished a close second as the Democratic candidate in the 14th Congressional District on the peninsula south of here. Now, Ms. Eshoo, a county supervisor, is favored in the party primary on June 2 and is generally consi...",
+    "lead_paragraph": "Four years ago, Anna Eshoo finished a close second as the Democratic candidate in the 14th Congressional District on the peninsula south of here. Now, Ms. Eshoo, a county supervisor, is favored in the party primary on June 2 and is generally considered to have a good chance of winning in November, thanks in part to the district's new boundaries and the decision by the Republican incumbent, Tom Campbell, to run for the Senate. A record number of women are running in California's primary at the Federal and state levels: two for the Senate, 35 for the House and 127 for the state Legislature. Interviews with political experts indicate that about two dozen are considered strong candidates in the primary and general elections, buoyed by the widespread fervor to elect outsiders, by the anger among many women that they are not better represented, particularly at a time when abortion rights are at risk, and by the opportunities opened by reapportionment.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Women; Where Ambition Meets Opportunity"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ESHOO, ANNA"
+        },
+        {
+            "name": "persons",
+            "value": "BOXER, BARBARA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1992-05-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b3068eb7c8105d6d6c8b",
+    "word_count": 1239,
+    "slideshow_credits": null
+}

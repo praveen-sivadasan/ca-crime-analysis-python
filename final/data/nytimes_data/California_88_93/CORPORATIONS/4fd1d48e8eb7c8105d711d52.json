@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/06/business/smog-exchange-approved.html",
+    "snippet": "A \"smog exchange\" for Southern California in which polluting companies would buy credits from clean ones won preliminary approval tonight.   The 2,800-company exchange is intended to give businesses financial incentives to meet clean-air goals rat...",
+    "lead_paragraph": "A \"smog exchange\" for Southern California in which polluting companies would buy credits from clean ones won preliminary approval tonight. The 2,800-company exchange is intended to give businesses financial incentives to meet clean-air goals rather than to order them to comply through specific regulations. The ultimate goal: to help clean the nation's dirtiest air.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "'Smog Exchange' Approved"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SMOG"
+        },
+        {
+            "name": "subject",
+            "value": "CORPORATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1992-03-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d48e8eb7c8105d711d52",
+    "word_count": 300,
+    "slideshow_credits": null
+}

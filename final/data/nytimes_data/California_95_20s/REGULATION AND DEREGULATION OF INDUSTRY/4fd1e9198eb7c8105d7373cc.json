@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1999/05/19/automobiles/cars-and-the-environment-clearing-the-air-in-the-land-of-smog.html",
+    "snippet": "IN the summer of 1943, a year and a half after the attack on Pearl Harbor, people were still nervously scanning the skies here to see if anything was going to materialize above the horizon.    Something did....",
+    "lead_paragraph": "IN the summer of 1943, a year and a half after the attack on Pearl Harbor, people were still nervously scanning the skies here to see if anything was going to materialize above the horizon. Something did.",
+    "abstract": "California's efforts to reconcile environmental concerns with love of cars discussed; car and truck emissions, source of two-thirds of state's air pollution, have been reduced have been vastly reduced since peak in mid-1950's, although California still has dirtiest air in nation; photo (M)",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Clearing the Air In the Land of Smog",
+        "kicker": "CARS AND THE ENVIRONMENT"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "SPECIAL SECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1999-05-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Cars",
+    "section_name": "Automobiles",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Bruce",
+                "rank": 1,
+                "lastname": "NEWMAN"
+            }
+        ],
+        "original": "By BRUCE NEWMAN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e9198eb7c8105d7373cc",
+    "word_count": 1713,
+    "slideshow_credits": null
+}

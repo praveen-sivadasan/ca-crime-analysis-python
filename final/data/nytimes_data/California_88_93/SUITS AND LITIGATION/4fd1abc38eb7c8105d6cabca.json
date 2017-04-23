@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/28/business/suit-seeks-to-recoup-losses-from-executive-life-failure.html",
+    "snippet": "Seeking to recover hundreds of millions of dollars in losses from the collapse of the Executive Life Insurance Company, the California Insurance Commissioner today sued a host of companies and individuals, including Michael R. Milken and the insur...",
+    "lead_paragraph": "Seeking to recover hundreds of millions of dollars in losses from the collapse of the Executive Life Insurance Company, the California Insurance Commissioner today sued a host of companies and individuals, including Michael R. Milken and the insurer's former chief executive, Fred Carr. The civil suit, filed in State Superior Court in Los Angeles, is the first effort by regulators to recoup some of the cost of bailing out Executive Life's policyholders. The demise of Executive Life, brought on by losses in its junk bond portfolio, is expected to cost state guarantee funds and policyholders at least $1 billion and perhaps as much as $3 billion.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Suit Seeks to Recoup Losses From Executive Life Failure"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GARAMENDI, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "MILKEN, MICHAEL R"
+        },
+        {
+            "name": "persons",
+            "value": "CARR, FRED"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EXECUTIVE LIFE INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        }
+    ],
+    "pub_date": "1992-02-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1abc38eb7c8105d6cabca",
+    "word_count": 518,
+    "slideshow_credits": null
+}

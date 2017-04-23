@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/15/us/the-1992-campaign-perot-favored-by-californians.html",
+    "snippet": "Ross Perot is favored by California voters over President Bush and the likely Democratic Presidential candidate, Gov. Bill Clinton, according to a new California Poll.   In a three-way race, 37 percent of Californians surveyed said they would vote...",
+    "lead_paragraph": "Ross Perot is favored by California voters over President Bush and the likely Democratic Presidential candidate, Gov. Bill Clinton, according to a new California Poll. In a three-way race, 37 percent of Californians surveyed said they would vote for Mr. Perot, the Texas billionaire, followed by 31 percent for Mr. Bush and 25 percent for Mr. Clinton, the poll reported. Seven percent were undecided.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Perot Favored By Californians",
+        "kicker": "THE 1992 CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "PEROT, ROSS"
+        },
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA POLL"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-05-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1dd098eb7c8105d71f1e1",
+    "word_count": 190,
+    "slideshow_credits": null
+}

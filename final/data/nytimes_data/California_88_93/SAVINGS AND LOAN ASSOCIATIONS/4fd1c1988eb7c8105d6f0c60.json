@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/27/us/failure-of-s-l-in-california-could-save-a-redwood-forest.html",
+    "snippet": "The collapse of a California savings and loan institution may have an unexpected dividend: the preservation of the largest forest of redwood trees left in private hands.   The key to the preservation may be millions of dollars in junk bonds seized...",
+    "lead_paragraph": "The collapse of a California savings and loan institution may have an unexpected dividend: the preservation of the largest forest of redwood trees left in private hands. The key to the preservation may be millions of dollars in junk bonds seized by Federal regulators in January, when the Columbia Savings and Loan of Beverly Hills failed. The high risk, high yield bonds were originally issued by the Pacific Lumber Company, which owns the forest in Northern California, as part of the deal in which Maxxam Inc., a conglomerate based in Houston, acquired the lumber company in 1985.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Failure of S.& L. in California Could Save a Redwood Forest"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MAXXAM INC"
+        },
+        {
+            "name": "organizations",
+            "value": "COLUMBIA SAVINGS AND LOAN"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC LUMBER CO"
+        },
+        {
+            "name": "subject",
+            "value": "REDWOOD TREES"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1991-03-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c1988eb7c8105d6f0c60",
+    "word_count": 1314,
+    "slideshow_credits": null
+}

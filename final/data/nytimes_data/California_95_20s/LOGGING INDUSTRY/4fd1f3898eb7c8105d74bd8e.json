@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1996/09/15/us/company-agrees-to-delay-logging-in-a-virgin-redwood-forest.html",
+    "snippet": "After three days of intense negotiations, a California timber company agreed on Friday night to postpone logging on 3,000 acres of virgin redwood forest for two more weeks while discussions continue about the state and Federal governments' acquiri...",
+    "lead_paragraph": "After three days of intense negotiations, a California timber company agreed on Friday night to postpone logging on 3,000 acres of virgin redwood forest for two more weeks while discussions continue about the state and Federal governments' acquiring the land. The negotiators called the talks ''promising.'' At the least they appeared to have headed off the beginning of logging on Monday, a step that was being protested by environmentalists.",
+    "abstract": "California timber company, after three days of intense negotiations, agrees to postpone logging on 3,000 acres of virgin redwood forest for two more weeks while discussions continue about state and Federal governments' acquiring land; marathon talks over Headwaters redwood forest, held in office of Sen Dianne Feinstein, includes reprs of Interior Dept, White House, Pacific Lumber Co and state of California (M)",
+    "print_page": "44",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Company Agrees to Delay Logging in a Virgin Redwood Forest"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC LUMBER CO"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "REDWOOD TREES"
+        },
+        {
+            "name": "subject",
+            "value": "LOGGING INDUSTRY"
+        }
+    ],
+    "pub_date": "1996-09-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr",
+                "firstname": "John",
+                "middlename": "H.",
+                "lastname": "CUSHMAN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By JOHN H. CUSHMAN Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f3898eb7c8105d74bd8e",
+    "word_count": 523,
+    "slideshow_credits": null
+}

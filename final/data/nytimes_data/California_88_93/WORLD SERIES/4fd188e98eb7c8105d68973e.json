@@ -1,0 +1,117 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/18/us/earthquake-northern-california-violent-quake-hits-northern-california-hundreds.html",
+    "snippet": "LEAD: A devastating earthquake rocked the San Francisco Bay area at rush hour last night, killing at least 200 people, collapsing a mile-long span of an Interstate highway and wrecking part the Bay Bridge to Oakland....",
+    "lead_paragraph": "LEAD: A devastating earthquake rocked the San Francisco Bay area at rush hour last night, killing at least 200 people, collapsing a mile-long span of an Interstate highway and wrecking part the Bay Bridge to Oakland.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "VIOLENT QUAKE HITS NORTHERN CALIFORNIA; HUNDREDS DEAD; DISASTER SCOPE UNCLEAR; HIGHWAY AND BAY BRIDGE'S DECK COLLAPSE",
+        "kicker": "EARTHQUAKE IN NORTHERN CALIFORNIA"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CONTRA COSTA COUNTY (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "OAKLAND (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY BRIDGE"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "ALAMEDA COUNTY (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "glocations",
+            "value": "SANTA CLARA COUNTY (CALIF)"
+        },
+        {
+            "name": "organizations",
+            "value": "BAY AREA RAPID TRANSIT SYSTEM"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKOUTS (ELECTRICAL)"
+        },
+        {
+            "name": "subject",
+            "value": "BASEBALL"
+        },
+        {
+            "name": "subject",
+            "value": "BRIDGES AND TUNNELS"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "WORLD SERIES"
+        },
+        {
+            "name": "subject",
+            "value": "TRANSIT SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "COMMUNICATIONS AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1989-10-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "BARRON"
+            }
+        ],
+        "original": "By JAMES BARRON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd188e98eb7c8105d68973e",
+    "word_count": 2089,
+    "slideshow_credits": null
+}

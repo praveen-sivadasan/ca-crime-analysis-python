@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/26/us/an-assailed-missionary-to-america-is-beatified.html",
+    "snippet": "LEAD: Pope John Paul II today beatified an 18th-century missionary, the Rev. Junipero Serra, bringing the controversial pioneer of the American West within one step of sainthood....",
+    "lead_paragraph": "LEAD: Pope John Paul II today beatified an 18th-century missionary, the Rev. Junipero Serra, bringing the controversial pioneer of the American West within one step of sainthood.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "An Assailed Missionary To America Is Beatified"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SERRA, JUNIPERO"
+        },
+        {
+            "name": "persons",
+            "value": "POPE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+        },
+        {
+            "name": "organizations",
+            "value": "FRANCISCAN ORDER"
+        },
+        {
+            "name": "subject",
+            "value": "MISSIONARIES"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "BEATIFICATIONS AND CANONIZATIONS"
+        }
+    ],
+    "pub_date": "1988-09-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Roberto",
+                "rank": 1,
+                "lastname": "SURO"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERTO SURO, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19ca28eb7c8105d6ae4f1",
+    "word_count": 909,
+    "slideshow_credits": null
+}

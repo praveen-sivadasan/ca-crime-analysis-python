@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1996/06/02/business/spending-it-a-star-moves-out-the-aura-lives-on.html",
+    "snippet": "TALK about frustration. You've been shopping for a home, and despite having serious money to spend, you have yet to see the house of your dreams. Is it too  much to ask for something special? Something with bragging rights, something that would ma...",
+    "lead_paragraph": "TALK about frustration. You've been shopping for a home, and despite having serious money to spend, you have yet to see the house of your dreams. Is it too much to ask for something special? Something with bragging rights, something that would make friends ooh and aah? Well, then, consider these gems now on the market here:",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Star Moves Out; The Aura Lives On",
+        "kicker": "SPENDING IT"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CELEBRITIES"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        }
+    ],
+    "pub_date": "1996-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Money and Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "David",
+                "middlename": "J.",
+                "lastname": "MORROW",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By DAVID J. MORROW"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f1358eb7c8105d747a09",
+    "word_count": 3256,
+    "slideshow_credits": null
+}

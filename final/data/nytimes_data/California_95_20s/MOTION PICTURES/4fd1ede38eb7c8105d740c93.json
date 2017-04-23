@@ -1,0 +1,85 @@
+{
+    "web_url": "https://www.nytimes.com/1996/11/01/movies/where-fact-and-fiction-intertwine.html",
+    "snippet": "THE year is 1938. Some farmers in work shirts, jackets and hats stand in a dark room looking down despondently at a table where a bureaucrat sits reviewing their papers. The last thought you would expect to have in front of this Depression-era pho...",
+    "lead_paragraph": "THE year is 1938. Some farmers in work shirts, jackets and hats stand in a dark room looking down despondently at a table where a bureaucrat sits reviewing their papers. The last thought you would expect to have in front of this Depression-era photograph is the one that springs to mind: Is that Henry Fonda in the background? There is a reason for this. The caption on Horace Bristol's picture reads ''Joad Family Applying for Relief, 1938.'' And the Joads are not, as far as anyone knows, real people. They are the family in ''The Grapes of Wrath,'' the novel by John Steinbeck that later became a movie starring Fonda. Moreover, it is no accident that the man in the background of the picture actually looks like Fonda; Mr. Bristol's photos were used to cast the movie.",
+    "abstract": "Sarah Boxer reviews exhibit of Horace Bristol's photographs depicting life of impoverished farmers in 1930's California, shown at Robert Miller Gallery; 88-year-old Bristol recalls traveling around Central Valley with John Steinbeck in project for Life magazine, which later published photos with fictional captions from The Grapes of Wrath; photos were also used to help cast parts for film; photos (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Where Fact and Fiction Intertwine",
+        "kicker": "PHOTOGRAPHY REVIEW"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "GRAPES OF WRATH, THE (BOOK)"
+        },
+        {
+            "name": "creative_works",
+            "value": "GRAPES OF WRATH, THE (MOVIE)"
+        },
+        {
+            "name": "persons",
+            "value": "STEINBECK, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BRISTOL, HORACE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LIFE"
+        },
+        {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+        },
+        {
+            "name": "subject",
+            "value": "REVIEWS"
+        },
+        {
+            "name": "subject",
+            "value": "BOOKS AND LITERATURE"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "GREAT DEPRESSION (1930'S)"
+        },
+        {
+            "name": "subject",
+            "value": "PHOTOGRAPHY"
+        }
+    ],
+    "pub_date": "1996-11-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Weekend Desk",
+    "section_name": "Movies; Arts; Books",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Sarah",
+                "rank": 1,
+                "lastname": "BOXER"
+            }
+        ],
+        "original": "By SARAH BOXER"
+    },
+    "type_of_material": "Review",
+    "_id": "4fd1ede38eb7c8105d740c93",
+    "word_count": 1523,
+    "slideshow_credits": null
+}

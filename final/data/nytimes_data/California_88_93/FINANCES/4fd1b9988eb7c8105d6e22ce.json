@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/08/us/cranston-backer-guilty-in-campaign-finance-case.html",
+    "snippet": "LEAD: In an intensified effort by Federal prosecutors to take on criminal cases involving campaign finance, a California businessman has been convicted of exceeding the limit on individual donations to help Senator Alan Cranston win re-election in...",
+    "lead_paragraph": "LEAD: In an intensified effort by Federal prosecutors to take on criminal cases involving campaign finance, a California businessman has been convicted of exceeding the limit on individual donations to help Senator Alan Cranston win re-election in 1986.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cranston Backer Guilty in Campaign Finance Case"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GOLAND, MICHAEL R"
+        },
+        {
+            "name": "persons",
+            "value": "CRANSTON, ALAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-05-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "L.",
+                "lastname": "BERKE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD L. BERKE, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b9988eb7c8105d6e22ce",
+    "word_count": 674,
+    "slideshow_credits": null
+}

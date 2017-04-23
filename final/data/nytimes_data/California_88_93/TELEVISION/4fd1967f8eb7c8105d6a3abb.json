@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/19/us/2-californians-agreeing-on-many-issues-turn-to-s-l-crisis.html",
+    "snippet": "LEAD: Gauged by the broad made-for-television generalities that govern American politics today, not much divides the two candidates for governor of California on the major issues facing the state....",
+    "lead_paragraph": "LEAD: Gauged by the broad made-for-television generalities that govern American politics today, not much divides the two candidates for governor of California on the major issues facing the state.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "2 Californians, Agreeing on Many Issues, Turn to S.& L. Crisis"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "FEINSTEIN, DIANNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TELEVISION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "SAVINGS AND LOAN ASSOCIATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1990-08-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1967f8eb7c8105d6a3abb",
+    "word_count": 1036,
+    "slideshow_credits": null
+}

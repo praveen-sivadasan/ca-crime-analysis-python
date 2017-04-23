@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/02/style/campus-life-san-francisco-state-canceling-classes-prompts-lines-alter-schedules.html",
+    "snippet": "LEAD: The sudden cancellation of 200 classes at San Francisco State University on Tuesday forced students to wait in registration lines for as long as eight hours for a chance to rearrange their schedules....",
+    "lead_paragraph": "LEAD: The sudden cancellation of 200 classes at San Francisco State University on Tuesday forced students to wait in registration lines for as long as eight hours for a chance to rearrange their schedules.",
+    "abstract": null,
+    "print_page": "47",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "CAMPUS LIFE: San Francisco State;   Canceling Classes Prompts Lines To Alter Schedules"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN FRANCISCO STATE UNIVERSITY"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1990-09-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Style Desk",
+    "section_name": "Style",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd196848eb7c8105d6a3e7f",
+    "word_count": 458,
+    "slideshow_credits": null
+}

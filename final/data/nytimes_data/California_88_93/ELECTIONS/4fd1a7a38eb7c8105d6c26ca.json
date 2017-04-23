@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/06/us/ex-governor-brown-will-run-for-senate-in-92-in-california.html",
+    "snippet": "Former Gov. Edmund G. Brown Jr. announced Monday that he would resign as chairman of the California Democratic Party to run next year for the Senate seat being vacated by Alan Cranston.   Mr. Brown, who lost a bid for the Senate in 1982, said he w...",
+    "lead_paragraph": "Former Gov. Edmund G. Brown Jr. announced Monday that he would resign as chairman of the California Democratic Party to run next year for the Senate seat being vacated by Alan Cranston. Mr. Brown, who lost a bid for the Senate in 1982, said he would step down as chairman at the end of the annual state party convention on March 3.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ex-Governor Brown Will Run for Senate In '92 in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G JR"
+        },
+        {
+            "name": "persons",
+            "value": "CRANSTON, ALAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1991-02-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7a38eb7c8105d6c26ca",
+    "word_count": 322,
+    "slideshow_credits": null
+}

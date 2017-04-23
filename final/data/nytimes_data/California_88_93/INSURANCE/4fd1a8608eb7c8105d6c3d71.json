@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1993/06/05/business/company-news-california-cracks-down-on-insurers.html",
+    "snippet": "California's Insurance Department has temporarily barred 247 unlicensed insurers from writing policies in the state after the companies failed to meet a new financial requirement that took effect May 24.   The new rules, which state officials and ...",
+    "lead_paragraph": "California's Insurance Department has temporarily barred 247 unlicensed insurers from writing policies in the state after the companies failed to meet a new financial requirement that took effect May 24. The new rules, which state officials and industry executives say are the most stringent in the nation, are intended to kill off sham companies that have flourished in recent years, particularly in states like California where insurance is costly.",
+    "abstract": null,
+    "print_page": "39",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Cracks Down On Insurers",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1993-06-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            }
+        ],
+        "original": "By ANDREA ADELSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a8608eb7c8105d6c3d71",
+    "word_count": 387,
+    "slideshow_credits": null
+}

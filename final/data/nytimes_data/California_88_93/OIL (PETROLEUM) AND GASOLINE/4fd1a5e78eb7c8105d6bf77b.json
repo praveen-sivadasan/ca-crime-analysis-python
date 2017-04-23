@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1991/11/21/business/arco-s-surprising-stance-in-air-debate.html",
+    "snippet": "California, with the nation's worst air, will open hearings today to develop standards for cleaner-burning gasoline. Not suprisingly, most oil companies hate the idea. But one, ARCO, is arguing vigorously that the standards state engineers have pr...",
+    "lead_paragraph": "California, with the nation's worst air, will open hearings today to develop standards for cleaner-burning gasoline. Not suprisingly, most oil companies hate the idea. But one, ARCO, is arguing vigorously that the standards state engineers have proposed are too lax. The argument among the brethren of the oil fraternity adds a curious twist to a complicated debate over clean air. For while the battleground is ostensibly California, the stakes are much larger: smog-control strategies all over the United States. ARCO's antagonists fear that as California goes, so goes the nation, and that strict California regulations would be copied by other states.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "ARCO's Surprising Stance in Air Debate"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ARCO INC"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1991-11-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a5e78eb7c8105d6bf77b",
+    "word_count": 767,
+    "slideshow_credits": null
+}

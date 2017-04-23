@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/21/business/company-news-california-rule-raises-questions.html",
+    "snippet": "LEAD: The California statute that has temporarily derailed B.A.T. Industries' $4.3 billion takeover bid for Farmers Group Inc. is a little-used law that is likely to create obstacles for other companies seeking to do business in the state, regulat...",
+    "lead_paragraph": "LEAD: The California statute that has temporarily derailed B.A.T. Industries' $4.3 billion takeover bid for Farmers Group Inc. is a little-used law that is likely to create obstacles for other companies seeking to do business in the state, regulators and lawyers said today.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Company News; California Rule Raises Questions"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FARMERS GROUP INC"
+        },
+        {
+            "name": "organizations",
+            "value": "BAT INDUSTRIES PLC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        }
+    ],
+    "pub_date": "1988-06-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "ADELSON"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANDREA ADELSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17ac98eb7c8105d672e67",
+    "word_count": 564,
+    "slideshow_credits": null
+}

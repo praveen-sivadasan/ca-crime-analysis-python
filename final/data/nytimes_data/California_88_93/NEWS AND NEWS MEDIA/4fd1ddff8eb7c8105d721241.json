@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1993/07/21/business/the-media-business-times-co-paper-in-spanish.html",
+    "snippet": "The New York Times Company announced yesterday that it would introduce a Spanish-language weekly in California in September.   The newspaper, El Nuevo Tiempo, will be printed and distributed by The Santa Barbara News-Press, which is owned by the c...",
+    "lead_paragraph": "The New York Times Company announced yesterday that it would introduce a Spanish-language weekly in California in September. The newspaper, El Nuevo Tiempo, will be printed and distributed by The Santa Barbara News-Press, which is owned by the company.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Times Co. Paper in Spanish",
+        "kicker": "THE MEDIA BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NUEVO TIEMPO, EL"
+        },
+        {
+            "name": "organizations",
+            "value": "NEW YORK TIMES"
+        },
+        {
+            "name": "subject",
+            "value": "NEWSPAPERS"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH LANGUAGE"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+        }
+    ],
+    "pub_date": "1993-07-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ddff8eb7c8105d721241",
+    "word_count": 152,
+    "slideshow_credits": null
+}

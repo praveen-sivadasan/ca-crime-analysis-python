@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/10/us/evolution-theory-s-foes-win-textbook-battle-in-california.html",
+    "snippet": "LEAD: In a concession to evangelical Christians that could affect the teaching of science nationwide, the California Board of Education adopted new textbook guidelines today that delete a reference to evolution as ''scientific fact.''...",
+    "lead_paragraph": "LEAD: In a concession to evangelical Christians that could affect the teaching of science nationwide, the California Board of Education adopted new textbook guidelines today that delete a reference to evolution as ''scientific fact.''",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Evolution Theory's Foes Win Textbook Battle in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HONIG, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EVANGELISM"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+        },
+        {
+            "name": "subject",
+            "value": "SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "name": "subject",
+            "value": "EVOLUTION"
+        }
+    ],
+    "pub_date": "1989-11-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Technology; Science; Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a96e8eb7c8105d6c5f62",
+    "word_count": 1007,
+    "slideshow_credits": null
+}

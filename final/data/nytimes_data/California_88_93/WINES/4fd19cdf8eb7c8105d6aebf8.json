@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/24/garden/wine-talk-422390.html",
+    "snippet": "WHEN Georges de Latour, the founder of the Beaulieu Vineyard in the Napa Valley, tasted his first Private Reserve cabernet sauvignon, the 1936 vintage, he was reputed to have said, \"This is the wine I have been trying to make all my life.\" Tasting...",
+    "lead_paragraph": "WHEN Georges de Latour, the founder of the Beaulieu Vineyard in the Napa Valley, tasted his first Private Reserve cabernet sauvignon, the 1936 vintage, he was reputed to have said, \"This is the wine I have been trying to make all my life.\" Tasting that same wine last Sunday, 54 years after it was made, one could still understand his enthusiasm. The 1936 was one of the stars in two tastings offered by Beaulieu's owner, Heublein & Company, to mark the release of the 1986 vintage of the wine and to celebrate the first 50 years of Georges de Latour Private Reserve.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wine Talk"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        }
+    ],
+    "pub_date": "1990-10-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home and Garden",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19cdf8eb7c8105d6aebf8",
+    "word_count": 1348,
+    "slideshow_credits": null
+}

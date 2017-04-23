@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/01/us/scenes-of-disaster-in-pileup-that-killed-17-in-california.html",
+    "snippet": "Scores of cars and trucks still lay in burned and tangled heaps on California's main north-south highway this afternoon, a day after colliding in a blinding dust storm. The authorities said 17 people had been killed and as many as 150 injured in o...",
+    "lead_paragraph": "Scores of cars and trucks still lay in burned and tangled heaps on California's main north-south highway this afternoon, a day after colliding in a blinding dust storm. The authorities said 17 people had been killed and as many as 150 injured in one of the worst chain-reaction accidents in the nation's history. Occasional gusts of white dust continued to swirl across the highway here, midway between Los Angeles and San Francisco, as tow trucks triedto untangle the 93 cars and 11 tractor-trailer trucks. Some were blackened and melted, with small pools of chrome on the roadway beside them. Some had apparently exploded, with parts of vehicles lying here and there.",
+    "abstract": null,
+    "print_page": "34",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Scenes of Disaster in Pileup That Killed 17 in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "TRUCKS AND TRUCKING"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "DUST"
+        }
+    ],
+    "pub_date": "1991-12-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b1b68eb7c8105d6d40bb",
+    "word_count": 1157,
+    "slideshow_credits": null
+}

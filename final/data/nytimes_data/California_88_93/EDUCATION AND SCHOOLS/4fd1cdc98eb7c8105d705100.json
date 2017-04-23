@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/03/us/wife-of-california-schools-chief-quits-project-under-investigation.html",
+    "snippet": "The wife of the California schools chief resigned today as head of an educational consulting program that is under investigation by the state and Federal authorities.   The woman, Nancy Honig, said in a statement that she resigned from the program...",
+    "lead_paragraph": "The wife of the California schools chief resigned today as head of an educational consulting program that is under investigation by the state and Federal authorities. The woman, Nancy Honig, said in a statement that she resigned from the program in the hope that questions over her involvement would not further affect it or her husband, Bill Honig, who is the Superintendent of Public Instruction.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wife of California Schools Chief Quits Project Under Investigation"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HONIG, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "HONIG, NANCY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        }
+    ],
+    "pub_date": "1992-01-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cdc98eb7c8105d705100",
+    "word_count": 335,
+    "slideshow_credits": null
+}

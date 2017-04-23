@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/04/us/new-leader-of-schools-is-named-in-california.html",
+    "snippet": "Gov. Pete Wilson has chosen a fellow Republican, State Senator Marian Bergeson, to succeed Bill Honig as Superintendent of Public Instruction, the state's chief education official.   In January Mr. Honig was convicted of felony charges involving c...",
+    "lead_paragraph": "Gov. Pete Wilson has chosen a fellow Republican, State Senator Marian Bergeson, to succeed Bill Honig as Superintendent of Public Instruction, the state's chief education official. In January Mr. Honig was convicted of felony charges involving conflict of interest. His sentencing last week automatically removed him from office under California law.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "New Leader of Schools Is Named in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HONIG, BILL"
+        },
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "BERGESON, MARIAN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "APPOINTMENTS AND EXECUTIVE CHANGES"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        }
+    ],
+    "pub_date": "1993-03-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a5588eb7c8105d6be6ad",
+    "word_count": 206,
+    "slideshow_credits": null
+}

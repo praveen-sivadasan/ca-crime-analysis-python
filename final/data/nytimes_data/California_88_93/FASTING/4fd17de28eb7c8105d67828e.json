@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/16/us/fast-by-chavez-over-pesticides-passes-29th-day.html",
+    "snippet": "LEAD: Cesar Chavez, the 61-year-old president of the United Farm Workers of America, lies on a small bed in a room kept dark against the relentless afternoon sun here, gradually weakening as he continues his third and longest fast....",
+    "lead_paragraph": "LEAD: Cesar Chavez, the 61-year-old president of the United Farm Workers of America, lies on a small bed in a room kept dark against the relentless afternoon sun here, gradually weakening as he continues his third and longest fast.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fast by Chavez Over Pesticides Passes 29th Day"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHAVEZ, CESAR"
+        },
+        {
+            "name": "persons",
+            "value": "JACKSON, JESSE L"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FARM WORKERS OF AMERICA, UNITED"
+        },
+        {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+        },
+        {
+            "name": "subject",
+            "value": "GRAPES"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "FASTING"
+        }
+    ],
+    "pub_date": "1988-08-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17de28eb7c8105d67828e",
+    "word_count": 912,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1993/06/07/business/court-reverses-ruling-on-intel.html",
+    "snippet": "A California state appellate court has overturned an arbitrator's award that had given Advanced Micro Devices Inc. the right to make its own version of the Intel Corporation's 386 microprocessor.   Intel said the decision, issued late Friday, clea...",
+    "lead_paragraph": "A California state appellate court has overturned an arbitrator's award that had given Advanced Micro Devices Inc. the right to make its own version of the Intel Corporation's 386 microprocessor. Intel said the decision, issued late Friday, clears the path to a state liability trial over all of Advanced Micro Devices' shipments of the AM386 chip. Intel, the world's leading maker of computer chips, also said the court's decision allows it to proceed with a Federal suit in which Intel also opposes Advanced Micro Devices' manufacture of the popular 386 chip.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Court Reverses Ruling on Intel"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTEL CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "ADVANCED MICRO DEVICES INC"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTER CHIPS"
+        },
+        {
+            "name": "subject",
+            "value": "DATA PROCESSING (COMPUTERS)"
+        }
+    ],
+    "pub_date": "1993-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ddfa8eb7c8105d720e9d",
+    "word_count": 236,
+    "slideshow_credits": null
+}

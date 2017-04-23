@@ -1,0 +1,34 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/17/business/finance-new-issues-california-agency-s-mortgage-bonds.html",
+    "snippet": "LEAD: The Southern California Home Financing Authority is tentatively offering $52.8 million in single-family mortgage revenue bonds with a maximum yield of 7.625 percent for an issue due in 2022 through underwriters led by Bear, Stearns & Company...",
+    "lead_paragraph": "LEAD: The Southern California Home Financing Authority is tentatively offering $52.8 million in single-family mortgage revenue bonds with a maximum yield of 7.625 percent for an issue due in 2022 through underwriters led by Bear, Stearns & Company.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Agency's Mortgage Bonds",
+        "kicker": "FINANCE/NEW ISSUES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1989-05-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1831d8eb7c8105d680650",
+    "word_count": 174,
+    "slideshow_credits": null
+}

@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/19/business/vote-sought-on-gasoline-in-california.html",
+    "snippet": "A group of oil companies that oppose California's strict new requirements on gasoline moved yesterday to block the rules with a statewide referendum. The move, prompted in part by concern that similar rules would be introduced elsewhere in the nat...",
+    "lead_paragraph": "A group of oil companies that oppose California's strict new requirements on gasoline moved yesterday to block the rules with a statewide referendum. The move, prompted in part by concern that similar rules would be introduced elsewhere in the nation, would apparently be the first electoral test of whether people think that changes made in gasoline to reduce air pollution are worth the higher price. The group plans to ask the California Legislature to put a measure on the ballot that would require another analysis of benefits and costs before proceeding with the rules, which the California Air Resources Board recently approved and are to take effect in 1996. The referendum would be phrased broadly to cover all environmental rules, said a spokesman for Texaco, one company involved. The spokesman, David J. Dickson, said the goal was to address \"structural problems\" in the California economy, which he said was being hurt by high costs for environmental compliance. Conspicuously Absent ARCO, California's biggest gasoline marketer, was conspicuously absent. ARCO has voluntarily reformulated some of its gasoline and supported the Air Resources Board in its plans to enforce stricter rules.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Vote Sought On Gasoline In California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1992-03-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b5008eb7c8105d6d9fbc",
+    "word_count": 585,
+    "slideshow_credits": null
+}

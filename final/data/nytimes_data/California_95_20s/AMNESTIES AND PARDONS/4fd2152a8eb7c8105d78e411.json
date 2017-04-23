@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/25/us/national-news-briefs-killer-s-parole-approved-by-california-governor.html",
+    "snippet": "For the first time, Gov. Gray Davis of California has allowed the release of a convicted murderer, a woman who shot her boyfriend after he threatened to kill her, her son and her unborn child.    Mr. Davis said ''extraordinary and compelling circu...",
+    "lead_paragraph": "For the first time, Gov. Gray Davis of California has allowed the release of a convicted murderer, a woman who shot her boyfriend after he threatened to kill her, her son and her unborn child. Mr. Davis said ''extraordinary and compelling circumstances'' favored the release of the woman, Rose Ann Parker, 41.",
+    "abstract": "Gov Gray Davis of California allows for first time release of convicted murderer, Rose Ann Parker, who shot boyfriend in 1986 after he threatened to kill her, her son and her unborn child (S)",
+    "print_page": "25",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Killer's Parole Approved By California Governor"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PARKER, ROSE ANN"
+        },
+        {
+            "name": "persons",
+            "value": "DAVIS, GRAY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROBATION AND PAROLE"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "DOMESTIC VIOLENCE"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "AMNESTIES AND PARDONS"
+        }
+    ],
+    "pub_date": "2000-09-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd2152a8eb7c8105d78e411",
+    "word_count": "150",
+    "slideshow_credits": null
+}

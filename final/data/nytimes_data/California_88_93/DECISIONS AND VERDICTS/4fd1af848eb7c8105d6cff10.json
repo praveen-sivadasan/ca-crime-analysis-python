@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/07/12/business/ernst-wins-ruling-in-suit.html",
+    "snippet": "A judge has thrown out much of a $250 million lawsuit filed by the California Attorney General that accused the Ernst & Young accounting firm of negligence in auditing the failed Lincoln Savings and Loan Association and its parent company.   In an...",
+    "lead_paragraph": "A judge has thrown out much of a $250 million lawsuit filed by the California Attorney General that accused the Ernst & Young accounting firm of negligence in auditing the failed Lincoln Savings and Loan Association and its parent company. In announcing the suit last year, John Van de Kamp, who was the Attorney General at the time, said the accountants' clean bill of health made it easier to sell high-yield \"junk bonds\" at Lincoln branches. Investors lost $250 million on the securities.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ernst Wins Ruling in Suit"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BILBY, RICHARD"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LINCOLN SAVINGS & LOAN ASSN"
+        },
+        {
+            "name": "organizations",
+            "value": "ERNST & YOUNG"
+        },
+        {
+            "name": "subject",
+            "value": "ACCOUNTING AND ACCOUNTANTS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "COMPANY REPORTS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1991-07-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1af848eb7c8105d6cff10",
+    "word_count": 205,
+    "slideshow_credits": null
+}

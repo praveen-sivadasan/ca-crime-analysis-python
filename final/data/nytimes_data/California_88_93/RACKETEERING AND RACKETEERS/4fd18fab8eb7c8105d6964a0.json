@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1988/03/31/us/los-angeles-mob-figure-and-6-others-plead-guilty.html",
+    "snippet": "LEAD: The reputed leader of the Mafia in Southern California and six associates have pleaded guilty to extortion or racketeering charges, but they denied being members of an organized crime syndicate....",
+    "lead_paragraph": "LEAD: The reputed leader of the Mafia in Southern California and six associates have pleaded guilty to extortion or racketeering charges, but they denied being members of an organized crime syndicate.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Los Angeles Mob Figure and 6 Others Plead Guilty"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "FERNANDEZ, FERDINAND F"
+        },
+        {
+            "name": "persons",
+            "value": "MILANO, PETER JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ORGANIZED CRIME"
+        },
+        {
+            "name": "subject",
+            "value": "PLEA BARGAINING"
+        },
+        {
+            "name": "subject",
+            "value": "RACKETEERING AND RACKETEERS"
+        },
+        {
+            "name": "subject",
+            "value": "EXTORTION"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        }
+    ],
+    "pub_date": "1988-03-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18fab8eb7c8105d6964a0",
+    "word_count": 350,
+    "slideshow_credits": null
+}

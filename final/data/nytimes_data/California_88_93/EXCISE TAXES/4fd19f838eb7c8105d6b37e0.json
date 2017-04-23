@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/29/business/tobacco-sales-off-in-california.html",
+    "snippet": "LEAD: Cigarette sales have dropped 14 percent and state tobacco tax revenues have more than tripled since voters approved a tobacco tax increase in 1988, the American Lung Association said on Wednesday....",
+    "lead_paragraph": "LEAD: Cigarette sales have dropped 14 percent and state tobacco tax revenues have more than tripled since voters approved a tobacco tax increase in 1988, the American Lung Association said on Wednesday.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tobacco Sales Off in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN LUNG ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "SALES"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "EXCISE TAXES"
+        },
+        {
+            "name": "subject",
+            "value": "SMOKING"
+        }
+    ],
+    "pub_date": "1990-06-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f838eb7c8105d6b37e0",
+    "word_count": 145,
+    "slideshow_credits": null
+}

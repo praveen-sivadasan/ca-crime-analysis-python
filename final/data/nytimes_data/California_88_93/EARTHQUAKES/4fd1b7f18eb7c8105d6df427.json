@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1993/01/12/science/science-watch-quake-risk-update.html",
+    "snippet": "Major earthquakes have hit southern California more often than thought, providing additional evidence the region is overdue for a so-called Big One on the San Andreas fault, geologists say.    Their study found that over the last 500 years, five q...",
+    "lead_paragraph": "Major earthquakes have hit southern California more often than thought, providing additional evidence the region is overdue for a so-called Big One on the San Andreas fault, geologists say. Their study found that over the last 500 years, five quakes measuring 7 to 8.3 on the Richter scale ruptured the San Bernardino Mountains segment of the fault near Wrightwood, north of San Bernardino.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake Risk Update",
+        "kicker": "SCIENCE WATCH"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "SCIENCE WATCH (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        }
+    ],
+    "pub_date": "1993-01-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Health",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b7f18eb7c8105d6df427",
+    "word_count": 473,
+    "slideshow_credits": null
+}

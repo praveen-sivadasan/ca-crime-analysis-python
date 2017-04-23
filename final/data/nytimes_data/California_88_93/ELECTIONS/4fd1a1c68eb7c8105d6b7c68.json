@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1989/01/07/us/governor-in-west-rules-out-90-race.html",
+    "snippet": "LEAD: Gov. George Deukmejian, with a simple announcement Thursday, has made California government and politics more lively and interesting than it has been since he took office in 1983....",
+    "lead_paragraph": "LEAD: Gov. George Deukmejian, with a simple announcement Thursday, has made California government and politics more lively and interesting than it has been since he took office in 1983.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "GOVERNOR IN WEST RULES OUT '90 RACE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1989-01-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a1c68eb7c8105d6b7c68",
+    "word_count": 532,
+    "slideshow_credits": null
+}

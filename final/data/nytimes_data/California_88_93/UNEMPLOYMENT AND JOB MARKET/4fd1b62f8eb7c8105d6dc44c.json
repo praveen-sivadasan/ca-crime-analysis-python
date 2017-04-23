@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1992/07/03/us/as-jobless-ranks-grow-hope-falls-in-california.html",
+    "snippet": "As the recession has deepened here in Southern California, the unemployment line on Venice Boulevard has grown longer, quieter and more angry.   Shuffling slowly forward, the podiatrist, the financial planner, the insurance saleswoman and others s...",
+    "lead_paragraph": "As the recession has deepened here in Southern California, the unemployment line on Venice Boulevard has grown longer, quieter and more angry. Shuffling slowly forward, the podiatrist, the financial planner, the insurance saleswoman and others spoke with dignity about the humiliations of joblessness and about their sinking hopes for the future.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "As Jobless Ranks Grow, Hope Falls in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        }
+    ],
+    "pub_date": "1992-07-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b62f8eb7c8105d6dc44c",
+    "word_count": 1083,
+    "slideshow_credits": null
+}

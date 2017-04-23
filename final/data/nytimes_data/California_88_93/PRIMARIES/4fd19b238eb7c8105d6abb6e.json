@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/23/us/dispute-in-california-may-derail-early-primary.html",
+    "snippet": "LEAD: The California Senate today approved a plan to make the state's Democratic Presidential primary one of the nation's earliest, but legislative leaders said concerns about how an earlier primary could affect state legislative races might ultim...",
+    "lead_paragraph": "LEAD: The California Senate today approved a plan to make the state's Democratic Presidential primary one of the nation's earliest, but legislative leaders said concerns about how an earlier primary could affect state legislative races might ultimately kill the measure.",
+    "abstract": null,
+    "print_page": "10",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Dispute in California May Derail Early Primary"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1990-02-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19b238eb7c8105d6abb6e",
+    "word_count": 646,
+    "slideshow_credits": null
+}

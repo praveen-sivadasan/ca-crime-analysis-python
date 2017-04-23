@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/18/us/drastic-steps-are-voted-to-reduce-southern-california-air-pollution.html",
+    "snippet": "LEAD: A new vision of the American urban future emerged today as regional officials in Southern California voted to impose drastic restrictions on everyday activities to reduce air pollution....",
+    "lead_paragraph": "LEAD: A new vision of the American urban future emerged today as regional officials in Southern California voted to impose drastic restrictions on everyday activities to reduce air pollution.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Drastic Steps Are Voted to Reduce Southern California Air Pollution"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1989-03-18T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd188518eb7c8105d68892e",
+    "word_count": 1589,
+    "slideshow_credits": null
+}

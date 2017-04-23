@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1999/04/11/us/sharpest-rise-in-the-prices-for-gasoline-is-in-california.html",
+    "snippet": "Ira J. Feldman finished filling his Mazda with gasoline, eyed the readout on the pump and raised his hands, arms wide, as if to say, ''You've got to be kidding.'' He had just paid $21.56 for 13 gallons of gas at $1.59 a gallon.     ''What a joke,'...",
+    "lead_paragraph": "Ira J. Feldman finished filling his Mazda with gasoline, eyed the readout on the pump and raised his hands, arms wide, as if to say, ''You've got to be kidding.'' He had just paid $21.56 for 13 gallons of gas at $1.59 a gallon. ''What a joke,'' Mr. Feldman, a 51-year-old home restorer, said. ''What's the excuse? They're telling us there's a war? The chairman of the board had a bad meal last night? I don't get it.''",
+    "abstract": "Gasoline prices, which have risen around United States over last several months, have soared most in California, with sharpest increases in past two weeks; factors include refinery fires and other distribution problems that caused 15 percent output drop, but drop has since been more than corrected; photos (M)",
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sharpest Rise In the Prices For Gasoline Is In California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        }
+    ],
+    "pub_date": "1999-04-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Christian",
+                "rank": 1,
+                "lastname": "BERTHELSEN"
+            }
+        ],
+        "original": "By CHRISTIAN BERTHELSEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e87c8eb7c8105d736d68",
+    "word_count": 529,
+    "slideshow_credits": null
+}

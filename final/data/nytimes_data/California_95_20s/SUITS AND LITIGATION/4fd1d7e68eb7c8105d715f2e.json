@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/06/us/lawsuit-asserts-ford-knowingly-installed-defective-mechanism-millions-vehicles.html",
+    "snippet": "Despite safety concerns about millions of its cars and light trucks, the Ford Motor Company withheld information from Federal regulators about an engineering defect that can cause the vehicles to stall at high speeds, documents filed in a lawsuit ...",
+    "lead_paragraph": "Despite safety concerns about millions of its cars and light trucks, the Ford Motor Company withheld information from Federal regulators about an engineering defect that can cause the vehicles to stall at high speeds, documents filed in a lawsuit here suggest. A former senior official of the Federal agency charged with monitoring automotive safety described the case as the most serious example he had ever seen of a manufacturer's failure to produce internal documents at the request of Government investigators.",
+    "abstract": "Class-action suit filed in California Superior Court charges Ford Motor Co with withholding information from Federal regulators about engineering defect that can cause vehicles to stall at high speeds putting drivers at risk; seeks recall of about two million vehicles produced from 1983 to 1955 and replacement of thick-film ignition module; lawyers in case blame defect for accidents in which three people were killed and others seriously injured; Ford dismisses allegations as baseless; says stalling attributed to defect never constituted safety problem (M)",
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Lawsuit Asserts Ford Knowingly Installed Defective Mechanism in Millions of Vehicles"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FORD MOTOR CO"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "CLASS-ACTION SUITS"
+        },
+        {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+        }
+    ],
+    "pub_date": "1997-09-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Tim",
+                "rank": 1,
+                "lastname": "GOLDEN"
+            }
+        ],
+        "original": "By TIM GOLDEN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d7e68eb7c8105d715f2e",
+    "word_count": 1088,
+    "slideshow_credits": null
+}

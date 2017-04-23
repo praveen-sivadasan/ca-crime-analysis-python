@@ -1,0 +1,79 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/02/business/company-news-shell-to-sell-methanol-in-california-program.html",
+    "snippet": "LEAD: The Shell Oil Company said today that it would join Exxon, Chevron and ARCO in selling a methanol fuel in California as part of that state's program to test alternative fuels for automobiles....",
+    "lead_paragraph": "LEAD: The Shell Oil Company said today that it would join Exxon, Chevron and ARCO in selling a methanol fuel in California as part of that state's program to test alternative fuels for automobiles.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Shell to Sell Methanol In California Program",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SHELL OIL CO"
+        },
+        {
+            "name": "organizations",
+            "value": "CHEVRON CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "EXXON CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "ATLANTIC RICHFIELD CO"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "METHANOL"
+        },
+        {
+            "name": "subject",
+            "value": "GARAGES AND SERVICE STATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+        }
+    ],
+    "pub_date": "1990-02-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Thomas",
+                "middlename": "C.",
+                "lastname": "HAYES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By THOMAS C. HAYES, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190918eb7c8105d697e9e",
+    "word_count": 409,
+    "slideshow_credits": null
+}

@@ -1,0 +1,89 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/28/us/big-farm-companies-try-hand-at-organic-methods.html",
+    "snippet": "LEAD: Spring planting, always a season of hope, has taken on a heightened sense of expectation this year in California's bountiful valleys as some of the nation's largest farms begin experiments in growing fruits and vegetables without synthetic c...",
+    "lead_paragraph": "LEAD: Spring planting, always a season of hope, has taken on a heightened sense of expectation this year in California's bountiful valleys as some of the nation's largest farms begin experiments in growing fruits and vegetables without synthetic chemicals.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Big Farm Companies Try Hand at Organic Methods"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FOOD AND DRUG ADMINISTRATION"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "FARMERS"
+        },
+        {
+            "name": "subject",
+            "value": "VEGETABLES"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "CHEMICALS"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "AGRIBUSINESS"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "FRUIT"
+        }
+    ],
+    "pub_date": "1989-05-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Keith",
+                "rank": 1,
+                "lastname": "SCHNEIDER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KEITH SCHNEIDER, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a3fc8eb7c8105d6bb9ee",
+    "word_count": 1395,
+    "slideshow_credits": null
+}

@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/23/technology/news-watch-technology-rattles-high-tech-california.html",
+    "snippet": "Poor California seems to be reaping the downside of being the nation's technological leader.    GTE, the telecommunications company that last week announced plans to offer high-speed Internet access to millions of customers in 16 states, also ackn...",
+    "lead_paragraph": "Poor California seems to be reaping the downside of being the nation's technological leader. GTE, the telecommunications company that last week announced plans to offer high-speed Internet access to millions of customers in 16 states, also acknowledged last week that it had accidentally sold the unlisted business and residential telephone numbers of 50,000 customers in California, along with their addresses and demographic information, to telemarketing companies earlier this year.",
+    "abstract": "GTE Corp says it accidentally sold unlisted business and residential telephone numbers of 50,000 customers in California, along with their addresses and demographic information, to telemarketing companies earlier this year; GTE blames software glitch and promises to send $25 rebate to each of affected customers as well as new unlisted number (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Technology Rattles High-Tech California",
+        "kicker": "NEWS WATCH"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GTE CORP"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "MARKETING AND MERCHANDISING"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTER SOFTWARE"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+        }
+    ],
+    "pub_date": "1998-04-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Circuits",
+    "section_name": "Technology",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Peter",
+                "middlename": "H.",
+                "lastname": "Lewis",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By Peter H. Lewis"
+    },
+    "type_of_material": "News",
+    "_id": "4fd218588eb7c8105d7950f1",
+    "word_count": 236,
+    "slideshow_credits": null
+}

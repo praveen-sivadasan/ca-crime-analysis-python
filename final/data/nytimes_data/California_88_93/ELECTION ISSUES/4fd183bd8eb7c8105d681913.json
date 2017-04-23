@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/25/us/diversity-hinders-asians-power-in-us.html",
+    "snippet": "LEAD: Asian-Americans on the West Coast have yet to exert political power commensurate with their growing numbers and economic might, but they are beginning to identify issues that bring a measure of political unity to their diverse population....",
+    "lead_paragraph": "LEAD: Asian-Americans on the West Coast have yet to exert political power commensurate with their growing numbers and economic might, but they are beginning to identify issues that bring a measure of political unity to their diverse population.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Diversity Hinders Asians' Power in U.S."
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ASIAN-AMERICANS"
+        }
+    ],
+    "pub_date": "1989-06-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd183bd8eb7c8105d681913",
+    "word_count": 1349,
+    "slideshow_credits": null
+}

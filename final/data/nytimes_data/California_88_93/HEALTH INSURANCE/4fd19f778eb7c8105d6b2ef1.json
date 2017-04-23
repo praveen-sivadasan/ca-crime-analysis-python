@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/08/business/business-and-health-california-plans-divide-insurers.html",
+    "snippet": "LEAD: THE health insurance industry is in disarray in California, where popular support is growing for measures that would require all employers to provide health coverage for their employees....",
+    "lead_paragraph": "LEAD: THE health insurance industry is in disarray in California, where popular support is growing for measures that would require all employers to provide health coverage for their employees.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Business and Health;   California Plans Divide Insurers"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "BUSINESS AND HEALTH (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1990-05-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Health; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Milt",
+                "rank": 1,
+                "lastname": "Freudenheim"
+            }
+        ],
+        "original": "By Milt Freudenheim"
+    },
+    "type_of_material": "News",
+    "_id": "4fd19f778eb7c8105d6b2ef1",
+    "word_count": 741,
+    "slideshow_credits": null
+}

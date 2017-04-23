@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/14/us/after-freeze-counting-losses-to-orange-crop.html",
+    "snippet": "Jim Powell is grim as he looks over the acres of destroyed oranges around him, the leaves of the trees curled and burned by frost.   \"There's no question it's a disaster,\" he says. \"It's probably as bad a disaster as any that's happened to this ar...",
+    "lead_paragraph": "Jim Powell is grim as he looks over the acres of destroyed oranges around him, the leaves of the trees curled and burned by frost. \"There's no question it's a disaster,\" he says. \"It's probably as bad a disaster as any that's happened to this area.\"",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "After Freeze, Counting Losses to Orange Crop"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "CITRUS FRUITS"
+        },
+        {
+            "name": "subject",
+            "value": "ORANGES"
+        }
+    ],
+    "pub_date": "1991-01-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b4bb8eb7c8105d6d9a28",
+    "word_count": 631,
+    "slideshow_credits": null
+}

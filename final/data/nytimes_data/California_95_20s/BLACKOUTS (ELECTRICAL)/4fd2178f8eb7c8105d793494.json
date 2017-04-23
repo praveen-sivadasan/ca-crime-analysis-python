@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/02/us/heat-wave-nearly-causes-rolling-blackouts-in-california.html",
+    "snippet": "A lingering heat wave throughout the West drove demand for electric power in California to near-record levels today and brought the state close to a full-scale power emergency. Such an emergency would have prompted rolling blackouts, in order for ...",
+    "lead_paragraph": "A lingering heat wave throughout the West drove demand for electric power in California to near-record levels today and brought the state close to a full-scale power emergency. Such an emergency would have prompted rolling blackouts, in order for power administrators to keep the state's giant, overburdened electricity grid from crashing completely. For the second straight day, the California Independent System Operator, which controls about 75 percent of the state's electric power grid on behalf of private utilities, declared a statewide Stage 2 emergency at midday. In a Stage 2 emergency, power is curtailed to commercial and industrial users that receive power-rate discounts in exchange for agreeing to shut down when asked to do so in times of high demand.",
+    "abstract": "Lingering heat wave throughout West drives electric demand in California to near-record levels; power is curtailed to commercial and industrial users that get discounts in exchange for agreeing to shutdown in times of high demand; officials warn first ever Stage 3 emergency, with rolling blackouts to keep elecricity grid from crashing, is possible; decade of economic growth and under-investment in new power plants has left power reserves in state and around nation at lowest levels in decades (M)",
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Heat Wave Nearly Causes Rolling Blackouts in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BLACKOUTS (ELECTRICAL)"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "2000-08-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Todd",
+                "middlename": "S.",
+                "lastname": "PURDUM",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By TODD S. PURDUM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd2178f8eb7c8105d793494",
+    "word_count": 505,
+    "slideshow_credits": null
+}

@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1992/11/19/us/scientists-move-up-likelihood-of-california-quake.html",
+    "snippet": "Three scientific teams reported yesterday that recent California earthquakes had increased strain on critical parts of the San Andreas fault, so much so that a major quake, last seen as likely within 30 years, could strike 10 to 20 years sooner.  ...",
+    "lead_paragraph": "Three scientific teams reported yesterday that recent California earthquakes had increased strain on critical parts of the San Andreas fault, so much so that a major quake, last seen as likely within 30 years, could strike 10 to 20 years sooner. But they caution that their mathematical models are not sophisticated enough to predict exactly when a \"big one\" will strike.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Scientists Move Up Likelihood of California Quake"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "FORECASTS"
+        }
+    ],
+    "pub_date": "1992-11-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "William",
+                "middlename": "J.",
+                "lastname": "BROAD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By WILLIAM J. BROAD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e3188eb7c8105d72c9d3",
+    "word_count": 713,
+    "slideshow_credits": null
+}

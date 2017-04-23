@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/02/19/us/c-correction-new-limits-in-california-on-water-778092.html",
+    "snippet": "A front-page article on Saturday about cuts in Federal water deliveries to farms in California misstated the extent of the cuts. Only farms that received new irrigation when the Central Valley Project opened in 1951 were cut off completely. This g...",
+    "lead_paragraph": "A front-page article on Saturday about cuts in Federal water deliveries to farms in California misstated the extent of the cuts. Only farms that received new irrigation when the Central Valley Project opened in 1951 were cut off completely. This group of about 7,000 farms covers about 1 million acres. A total of 25,000 farms covering 3.2 million acres are served by the project. The other 18,000 farms are to receive water from the project at levels ranging from 50 to 75 percent of normal. Those farms had water rights before the project was built, or exchanged those water rights for project water. When they joined the project decades ago they won a commitment from the Federal Government that their requests would be given priority during drought years.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Correction: New Limits In California on Water"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "WATER"
+        },
+        {
+            "name": "subject",
+            "value": "FEDERAL AID (US)"
+        }
+    ],
+    "pub_date": "1992-02-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Corrections; U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1b0ed8eb7c8105d6d2a82",
+    "word_count": 259,
+    "slideshow_credits": null
+}

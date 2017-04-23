@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/26/us/california-crop-loss-put-at-500-million.html",
+    "snippet": "Crop and livestock losses from storms and floods in California this month now exceed $500 million, the California Department of Food and Agriculture said on Friday.   The department's figure of $507.6 million was up from an estimate of $400 millio...",
+    "lead_paragraph": "Crop and livestock losses from storms and floods in California this month now exceed $500 million, the California Department of Food and Agriculture said on Friday. The department's figure of $507.6 million was up from an estimate of $400 million earlier this week, with the latest number reflecting losses from areas just reporting. The total could rise further, a department spokeswoman said, as a few counties have not yet reported their losses.",
+    "abstract": null,
+    "print_page": "33",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "California Crop Loss Put at $500 Million"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "LIVESTOCK"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "FLOODS"
+        }
+    ],
+    "pub_date": "1995-03-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "52b86b5238f0d8094087d8ed",
+    "word_count": "210",
+    "slideshow_credits": null
+}

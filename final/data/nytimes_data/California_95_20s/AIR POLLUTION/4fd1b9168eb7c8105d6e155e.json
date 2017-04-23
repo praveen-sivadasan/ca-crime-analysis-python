@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1995/01/07/business/company-news-honda-motor-unveils-an-ultra-low-emission-car.html",
+    "snippet": "The Honda Motor Company introduced a car yesterday that it said cuts exhaust emissions 90 percent. The Japanese auto maker said the car was the first to meet California's low emissions standards. The car, shown at the Los Angeles Auto Show, is sim...",
+    "lead_paragraph": "The Honda Motor Company introduced a car yesterday that it said cuts exhaust emissions 90 percent. The Japanese auto maker said the car was the first to meet California's low emissions standards. The car, shown at the Los Angeles Auto Show, is similar to the Honda Accord and will go on sale late in 1997 -- more than two years before auto makers are required to offer vehicles that meet the state's ultra-low- emission vehicle exhaust levels. The introduction was cheered by California's Air Resources Board, which sets the emission standards. \"Honda has exceeded our expectations by achieving this new design two years ahead of time,\" Tom Cackette, the board's chief deputy executive officer, said at the auto show.",
+    "abstract": null,
+    "print_page": "41",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "HONDA MOTOR UNVEILS AN ULTRA LOW EMISSION CAR",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HONDA MOTOR CO"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1995-01-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b9168eb7c8105d6e155e",
+    "word_count": 121,
+    "slideshow_credits": null
+}

@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1995/11/02/us/perot-gains-in-california.html",
+    "snippet": "Ross Perot's Reform Party has qualified to appear on California's March 26 Presidential primary ballot, state officials said today.          Mr. Perot's supporters collected the signatures of nearly 108,000 registered voters, about 18,000 more tha...",
+    "lead_paragraph": "Ross Perot's Reform Party has qualified to appear on California's March 26 Presidential primary ballot, state officials said today. Mr. Perot's supporters collected the signatures of nearly 108,000 registered voters, about 18,000 more than needed, said Bill Jones, the California Secretary of State. Also qualifying for the ballot was the Natural Law Party, which espouses transcendental meditation. Each party needed 89,007 registrations to appear on the ballot.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Perot Gains in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PEROT, ROSS HENRY ROSS PEROT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "REFORM PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        },
+        {
+            "name": "subject",
+            "value": "THIRD-PARTY MOVES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1995-11-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cf0c8eb7c8105d707821",
+    "word_count": 67,
+    "slideshow_credits": null
+}

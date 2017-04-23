@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1992/05/29/business/car-insurer-sets-rebates.html",
+    "snippet": "The Mercury General Corporation said today that it had agreed to pay rebates totaling $45.8 million to 266,000 automobile insurance policyholders in California under the terms of a much-contested initiative passed by the state's voters in 1988.   ...",
+    "lead_paragraph": "The Mercury General Corporation said today that it had agreed to pay rebates totaling $45.8 million to 266,000 automobile insurance policyholders in California under the terms of a much-contested initiative passed by the state's voters in 1988. Mercury is the second large insurer in the state to drop its opposition to the rate-cutting initiative, Proposition 103, and the first publicly traded company to do so. Last year the Automobile Club of Southern California rebated $104 million to half a million customers.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Car Insurer Sets Rebates"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MERCURY GENERAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "REBATES"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+        }
+    ],
+    "pub_date": "1992-05-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1db478eb7c8105d71c183",
+    "word_count": 211,
+    "slideshow_credits": null
+}

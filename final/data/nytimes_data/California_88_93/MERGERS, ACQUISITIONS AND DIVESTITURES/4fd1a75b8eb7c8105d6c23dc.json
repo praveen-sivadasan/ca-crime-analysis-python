@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/02/business/big-california-utility-deal-is-set-back.html",
+    "snippet": "The proposed merger of two large California utilities was dealt another setback today when two officials of the California Public Utilities Commission recommended against the deal.    The two officials, Lynn Carew and Brian Cragg, who are administ...",
+    "lead_paragraph": "The proposed merger of two large California utilities was dealt another setback today when two officials of the California Public Utilities Commission recommended against the deal. The two officials, Lynn Carew and Brian Cragg, who are administrative law judges, said in a long-awaited ruling that the proposed merger of Southern California Edison and San Diego Gas and Electric would adversely affect competition. They argued that the merged utility would dominate regional transmission lines and eliminate an alternative to Edison for many energy customers.",
+    "abstract": null,
+    "print_page": "42",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Big California Utility Deal Is Set Back"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SOUTHERN CALIFORNIA EDISON CO"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN DIEGO GAS & ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "1991-02-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "LEV"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL LEV, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a75b8eb7c8105d6c23dc",
+    "word_count": 315,
+    "slideshow_credits": null
+}

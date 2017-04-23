@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/24/business/health-insurers-seek-big-increases-in-their-premiums.html",
+    "snippet": "For the first time since 1992, many employers are facing double-digit increases in the cost of their health insurance next year, the highest inflation rate since the majority of employees moved into managed care.     In early negotiations with emp...",
+    "lead_paragraph": "For the first time since 1992, many employers are facing double-digit increases in the cost of their health insurance next year, the highest inflation rate since the majority of employees moved into managed care. In early negotiations with employers about next year's rates, many insurers are seeking increases for 1999 far above this year's, when most premiums rose in single digits after four years of stability.",
+    "abstract": "Many employers, for first time since 1992, are facing double-digit increases in cost of their health insurance next year--highest inflation rate since majority of employees moved into managed care; insurers are seeking increases for 1999 that are far above this year's, when most premiums rose in single digits after four years of stability; critics of managed care say magnitude of increases undercuts basic appeal behind managed care: savings from lower costs; 85 percent of American employees were enrolled in managed-care plans in 1997; benefits consultants estimate that increases will average about 7 percent nationally, or five times current 1.4 percent consumer inflation rate; Kaiser Permanente is seeking 12 percent increase from large employers in California (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "HEALTH INSURERS SEEK BIG INCREASES IN THEIR PREMIUMS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "KAISER PERMANENTE"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH MAINTENANCE ORGANIZATIONS AND MANAGED CARE"
+        },
+        {
+            "name": "subject",
+            "value": "HEALTH INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1998-04-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Front Page; Health; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Milt",
+                "rank": 1,
+                "lastname": "FREUDENHEIM"
+            }
+        ],
+        "original": "By MILT FREUDENHEIM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1de7c8eb7c8105d7227c5",
+    "word_count": 1326,
+    "slideshow_credits": null
+}

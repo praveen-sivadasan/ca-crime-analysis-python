@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/20/news/inmates-volunteering-for-execution-california-killer-s-case-fan-debate.html",
+    "snippet": "David Mason abandoned his appeals, dismissed one lawyer determined to save his life and hunted for another willing to fend off what he called the anti-death penalty \"industry.\" Then he declared that he had found \"a pool of peace\" by rushing toward...",
+    "lead_paragraph": "David Mason abandoned his appeals, dismissed one lawyer determined to save his life and hunted for another willing to fend off what he called the anti-death penalty \"industry.\" Then he declared that he had found \"a pool of peace\" by rushing toward his scheduled execution. But now the convicted serial killer is seeking to take a step back from the gas chamber. In court papers filed today, Mr. Mason asked for a stay of his execution, scheduled for Tuesday. Instead, he said, he wanted a new trial because of alleged misconduct by his original lawyers -- a conflict discovered by the very \"industry\" the condemned man has criticized.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Inmates Volunteering for Execution: California Killer's Case Fan Debate"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MASON, DAVID H"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+        },
+        {
+            "name": "subject",
+            "value": "SERIAL MURDERS"
+        }
+    ],
+    "pub_date": "1993-08-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": null,
+    "section_name": null,
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ac648eb7c8105d6cbbc9",
+    "word_count": 1434,
+    "slideshow_credits": null
+}

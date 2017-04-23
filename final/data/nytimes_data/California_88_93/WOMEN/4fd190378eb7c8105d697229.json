@@ -1,0 +1,74 @@
+{
+    "web_url": "https://www.nytimes.com/1988/05/10/us/us-forest-service-ordered-to-promote-california-women.html",
+    "snippet": "LEAD: A Federal district judge today found the Secretary of Agriculture, Richard E. Lyng, in civil contempt for failing to carry out a plan for promoting women in the United States Forest Service in California....",
+    "lead_paragraph": "LEAD: A Federal district judge today found the Secretary of Agriculture, Richard E. Lyng, in civil contempt for failing to carry out a plan for promoting women in the United States Forest Service in California.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. Forest Service Ordered to Promote California Women"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LYNG, RICHARD E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AGRICULTURE, DEPARTMENT OF"
+        },
+        {
+            "name": "organizations",
+            "value": "FOREST SERVICE, US"
+        },
+        {
+            "name": "subject",
+            "value": "HIRING AND PROMOTION"
+        },
+        {
+            "name": "subject",
+            "value": "CONTEMPT ACTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1988-05-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190378eb7c8105d697229",
+    "word_count": 292,
+    "slideshow_credits": null
+}

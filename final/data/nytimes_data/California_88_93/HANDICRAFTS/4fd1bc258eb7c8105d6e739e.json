@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1993/11/14/arts/arts-artifacts-what-californians-brought-to-arts-and-crafts.html",
+    "snippet": "There was more to the arts-and-Crafts movement in California at the turn of the century than the robust, unembellished, medieval-style furnishings popularized by Gustav Stickley of New York. Out West, handcrafted objects boasted brighter colors, w...",
+    "lead_paragraph": "There was more to the arts-and-Crafts movement in California at the turn of the century than the robust, unembellished, medieval-style furnishings popularized by Gustav Stickley of New York. Out West, handcrafted objects boasted brighter colors, warmer woods and more elaborately decorated surfaces than anything produced back East. The 200 items exhibited in \"The Arts-and-Crafts Movement in California: Living the Good Life,\" at the Renwick Gallery of the National Museum of American Art through Jan. 9, comprise all the variations that evolved between 1890 and 1930.",
+    "abstract": null,
+    "print_page": "41",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "What Californians Brought To Arts and Crafts",
+        "kicker": "ARTS/ARTIFACTS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NATIONAL MUSEUM OF AMERICAN ART"
+        },
+        {
+            "name": "subject",
+            "value": "REVIEWS"
+        },
+        {
+            "name": "subject",
+            "value": "HANDICRAFTS"
+        },
+        {
+            "name": "subject",
+            "value": "SHOWS (EXHIBITS)"
+        }
+    ],
+    "pub_date": "1993-11-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Arts & Leisure Desk",
+    "section_name": "Arts",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Rita",
+                "rank": 1,
+                "lastname": "REIF"
+            }
+        ],
+        "original": "By RITA REIF"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc258eb7c8105d6e739e",
+    "word_count": 721,
+    "slideshow_credits": null
+}

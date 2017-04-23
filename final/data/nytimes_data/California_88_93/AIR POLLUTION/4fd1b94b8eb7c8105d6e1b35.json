@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1993/06/16/business/company-news-gm-files-california-application-for-electric-car.html",
+    "snippet": "The General Motors Corporation has filed an application with the California Air Resources Board to certify its Impact electric car as a \"zero emission\" vehicle as mandated by California standards starting in 1998....",
+    "lead_paragraph": "The General Motors Corporation has filed an application with the California Air Resources Board to certify its Impact electric car as a \"zero emission\" vehicle as mandated by California standards starting in 1998.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "G.M. FILES CALIFORNIA APPLICATION FOR ELECTRIC CAR",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC VEHICLES"
+        },
+        {
+            "name": "subject",
+            "value": "NEW MODELS, DESIGN AND PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1993-06-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b94b8eb7c8105d6e1b35",
+    "word_count": 102,
+    "slideshow_credits": null
+}

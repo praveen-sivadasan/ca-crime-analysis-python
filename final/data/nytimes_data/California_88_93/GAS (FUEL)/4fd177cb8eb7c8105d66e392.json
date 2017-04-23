@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/06/us/bush-steps-back-on-offshore-oil.html",
+    "snippet": "LEAD: Vice President Bush shifted his position today on one of the state's most heated issues and declared that the Administration's proposal to permit offshore drilling in northern California should be deferred indefinitely....",
+    "lead_paragraph": "LEAD: Vice President Bush shifted his position today on one of the state's most heated issues and declared that the Administration's proposal to permit offshore drilling in northern California should be deferred indefinitely.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bush Steps Back on Offshore Oil"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "persons",
+            "value": "REAGAN, RONALD WILSON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "OFFSHORE EXPLORATION AND INSTALLATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "RENTING AND LEASING"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        }
+    ],
+    "pub_date": "1988-06-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Maureen",
+                "rank": 1,
+                "lastname": "DOWD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MAUREEN DOWD, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd177cb8eb7c8105d66e392",
+    "word_count": 871,
+    "slideshow_credits": null
+}

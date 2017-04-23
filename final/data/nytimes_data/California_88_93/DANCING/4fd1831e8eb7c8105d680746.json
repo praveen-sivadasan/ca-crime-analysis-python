@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/20/us/san-jose-journal-an-appalachian-dance-finds-a-home-in-the-west.html",
+    "snippet": "LEAD: It's only a five-minute drive south from the center of this high-technology capital before the country music stations start kicking in on the car radio....",
+    "lead_paragraph": "LEAD: It's only a five-minute drive south from the center of this high-technology capital before the country music stations start kicking in on the car radio.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "San Jose Journal; An Appalachian Dance Finds a Home in the West"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DANCING"
+        }
+    ],
+    "pub_date": "1989-04-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1831e8eb7c8105d680746",
+    "word_count": 744,
+    "slideshow_credits": null
+}

@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1996/04/21/us/glint-of-hope-for-a-grove-of-redwoods.html",
+    "snippet": "The corporate baron wants his millions. The environmentalists want to protect the trees. The loggers want jobs. The politician wants to placate all sides. And the lawyers want to litigate.         The sublime objects of these passions stand silent...",
+    "lead_paragraph": "The corporate baron wants his millions. The environmentalists want to protect the trees. The loggers want jobs. The politician wants to placate all sides. And the lawyers want to litigate. The sublime objects of these passions stand silent, as they have since long before Columbus reached the New World, their beauty marred only by a blue slash of paint here and there across their mammoth trunks -- a slash that means \"marked for harvest.\"",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Glint of Hope For a Grove Of Redwoods"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC LUMBER CO"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "REDWOOD TREES"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        }
+    ],
+    "pub_date": "1996-04-21T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carey",
+                "rank": 1,
+                "lastname": "GOLDBERG"
+            }
+        ],
+        "original": "By CAREY GOLDBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c7788eb7c8105d6f8e77",
+    "word_count": 960,
+    "slideshow_credits": null
+}

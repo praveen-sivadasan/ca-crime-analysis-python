@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1993/01/05/science/a-whitefly-certainly-but-not-that-whitefly.html",
+    "snippet": "THE whitefly that has destroyed more than a half billion dollars' worth of crops in California and other states is a different species than had been thought, scientists say, and the discovery could speed the search for a natural enemy to control t...",
+    "lead_paragraph": "THE whitefly that has destroyed more than a half billion dollars' worth of crops in California and other states is a different species than had been thought, scientists say, and the discovery could speed the search for a natural enemy to control the insect. Synthetic pesticides are largely ineffective in attacking the whitefly. Scientists previously believed that the sweet-potato whitefly was responsible for the crop damage, and they have been searching for the natural enemy, presumably a parasite, in the bodies of a number of strains of outwardly identical sweet-potato whiteflies collected from around the world. Typically, only one variety of parasite attaches itself to only one variety of whitefly.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Whitefly, Certainly, But Not That Whitefly"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "PERRING, THOMAS M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AGRICULTURE"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        },
+        {
+            "name": "subject",
+            "value": "WHITEFLIES"
+        }
+    ],
+    "pub_date": "1993-01-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science; Health",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "William",
+                "middlename": "K.",
+                "lastname": "STEVENS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By WILLIAM K. STEVENS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b7eb8eb7c8105d6deefe",
+    "word_count": 711,
+    "slideshow_credits": null
+}

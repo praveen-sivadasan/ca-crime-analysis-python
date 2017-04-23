@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1996/08/31/business/quake-insurance-bill-passes-in-california.html",
+    "snippet": "California Senate approves legislation to create $10.5-billion agency that would sell earthquake insurance to homeowners (S)...",
+    "lead_paragraph": null,
+    "abstract": "California Senate approves legislation to create $10.5-billion agency that would sell earthquake insurance to homeowners (S)",
+    "print_page": "34",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake Insurance Bill Passes in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1996-08-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d8d78eb7c8105d717e65",
+    "word_count": 92,
+    "slideshow_credits": null
+}

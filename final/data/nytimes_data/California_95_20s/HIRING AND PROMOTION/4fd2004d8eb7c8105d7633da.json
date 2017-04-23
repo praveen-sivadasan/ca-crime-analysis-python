@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1995/06/02/us/california-governor-moves-quickly-against-affirmative-action.html",
+    "snippet": "Gov. Pete Wilson, who promised to eliminate the state's affirmative action policies, took the first steps today by dismantling some of the programs intended to help women and members of minorities.         The executive order fulfilled a promise t...",
+    "lead_paragraph": "Gov. Pete Wilson, who promised to eliminate the state's affirmative action policies, took the first steps today by dismantling some of the programs intended to help women and members of minorities. The executive order fulfilled a promise that Mr. Wilson made after his upset victory for a second term last year and that he hopes could propel him to victory in Republican Presidential primaries next year.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Governor Moves Quickly Against Affirmative Action"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AFFIRMATIVE ACTION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "HIRING AND PROMOTION"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENTEMPLOYEES"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        }
+    ],
+    "pub_date": "1995-06-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd2004d8eb7c8105d7633da",
+    "word_count": 541,
+    "slideshow_credits": null
+}

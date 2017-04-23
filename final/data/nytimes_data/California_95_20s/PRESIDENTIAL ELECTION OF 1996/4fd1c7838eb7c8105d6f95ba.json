@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1996/03/20/us/politics-estimates-vary-on-dole-s-delegate-count.html",
+    "snippet": "Has Bob Dole secured the Republican Presidential nomination? As he sailed through another string of victories last night, there was disagreement about whether or not Mr. Dole had amassed the 996 delegates he needs to clinch the Republican nominati...",
+    "lead_paragraph": "Has Bob Dole secured the Republican Presidential nomination? As he sailed through another string of victories last night, there was disagreement about whether or not Mr. Dole had amassed the 996 delegates he needs to clinch the Republican nomination. The Associated Press, CNN, ABC and CBS all said he had. But Mr. Dole and his campaign advisers stopped short of claiming the nomination, saying they would wait until the results of next week's California and West Coast primaries are in.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Estimates Vary on Dole's Delegate Count",
+        "kicker": "POLITICS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-03-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Janet",
+                "rank": 1,
+                "lastname": "ELDER"
+            }
+        ],
+        "original": "By JANET ELDER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c7838eb7c8105d6f95ba",
+    "word_count": 302,
+    "slideshow_credits": null
+}

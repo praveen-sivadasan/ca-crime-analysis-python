@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1997/12/03/us/california-board-approves-set-of-math-standards.html",
+    "snippet": "Wading into a contentious statewide battle over how best to teach math, the California Board of Education has endorsed a set of standards for elementary- and middle-school students that emphasizes the more traditional drill-and-practice approach o...",
+    "lead_paragraph": "Wading into a contentious statewide battle over how best to teach math, the California Board of Education has endorsed a set of standards for elementary- and middle-school students that emphasizes the more traditional drill-and-practice approach over a newer method characterized by complex word problems. The board is under legislative mandate to approve, by Jan. 1, mathematics standards that would apply to all students in kindergarten through grade 12. Because of the state's vast size, the board's decision is expected to have a substantial influence on how math is taught across the country.",
+    "abstract": "California Board of Education, wading into contentious battle over how best to teach math, endorses set of standards for elementary- and middle-school students that emphasizes the more traditional drill-and-practice approach over newer method characterized by complex word problems; board is under legislative mandate to approve, by January 1, mathematics standards that would apply to all students in kindergarten through grade 12 (M)",
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Board Approves Set of Math Standards"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MATHEMATICS"
+        },
+        {
+            "name": "subject",
+            "value": "STANDARDS AND STANDARDIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        }
+    ],
+    "pub_date": "1997-12-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jacques",
+                "rank": 1,
+                "lastname": "STEINBERG"
+            }
+        ],
+        "original": "By JACQUES STEINBERG"
+    },
+    "type_of_material": "News",
+    "_id": "4fd204928eb7c8105d76bbea",
+    "word_count": 293,
+    "slideshow_credits": null
+}

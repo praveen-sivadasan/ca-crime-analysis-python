@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/2000/11/06/us/2000-campaign-republican-running-mate-cheney-spends-precious-full-day-courting.html",
+    "snippet": "Dick Cheney campaigned exclusively in California today, a lavish commitment of time and resources on a state that many pollsters believe is securely in the Democratic camp. Democrats called the move a sophisticated feint, but Republicans said it s...",
+    "lead_paragraph": "Dick Cheney campaigned exclusively in California today, a lavish commitment of time and resources on a state that many pollsters believe is securely in the Democratic camp. Democrats called the move a sophisticated feint, but Republicans said it stemmed from their conviction that they could win the state and its 54 electoral votes. With only 48 hours left in the presidential race, the Bush campaign's decision to send Mr. Cheney to California, where polls have consistently shown Vice President Al Gore ahead, was extraordinary: Time spent here, after all, was time spent away from closely contested swing states like Florida, Pennsylvania and Michigan.",
+    "abstract": "Dick Cheney campaigns exclusively in California; Democrats call effort sophisticated feint, but Republicans insist it stems from conviction that they can win state and its 54 electoral votes; photo (M)",
+    "print_page": "28",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cheney Spends a Precious Full Day Courting Californians",
+        "kicker": "THE 2000 CAMPAIGN: THE REPUBLICAN RUNNING MATE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "persons",
+            "value": "CHENEY, DICK"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        }
+    ],
+    "pub_date": "2000-11-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "COOPER"
+            }
+        ],
+        "original": "By MICHAEL COOPER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd24cec8eb7c8105d7ecf58",
+    "word_count": 572,
+    "slideshow_credits": null
+}

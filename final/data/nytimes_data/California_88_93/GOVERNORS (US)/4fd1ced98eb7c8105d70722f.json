@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1992/04/10/us/the-1992-campaign-abc-reports-drugs-used-at-brown-home.html",
+    "snippet": "ABC News, quoting unidentified police officers, reported last night that Edmund G. Brown Jr. tolerated the use of cocaine and marijuana at parties at his home in Los Angeles while he was Governor of California in the late 1970's.   ABC said its so...",
+    "lead_paragraph": "ABC News, quoting unidentified police officers, reported last night that Edmund G. Brown Jr. tolerated the use of cocaine and marijuana at parties at his home in Los Angeles while he was Governor of California in the late 1970's. ABC said its sources were four men who were on Mr. Brown's state police security detail. Two of them agreed to be interviewed on camera, but their faces were disguised and they were not identified.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "ABC Reports Drugs Used at Brown Home",
+        "kicker": "THE 1992 CAMPAIGN"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BROWN, EDMUND G JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNORS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-04-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ced98eb7c8105d70722f",
+    "word_count": 179,
+    "slideshow_credits": null
+}

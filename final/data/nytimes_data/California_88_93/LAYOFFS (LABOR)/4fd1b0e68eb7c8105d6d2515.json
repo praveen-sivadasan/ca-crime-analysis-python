@@ -1,0 +1,38 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/15/business/company-news-rockwell-layoffs.html",
+    "snippet": "The Rockwell International Corporation said it would lay off up to 1,000 workers in Southern California. The reductions will come at all levels by spring at the space systems division plants in Downey and Seal Beach, Calif., the company said. The ...",
+    "lead_paragraph": "The Rockwell International Corporation said it would lay off up to 1,000 workers in Southern California. The reductions will come at all levels by spring at the space systems division plants in Downey and Seal Beach, Calif., the company said. The division's president, Robert G. Minor told workers in a letter that the layoffs were likely because of \"unexpected reductions in our NASA business.\" The letter did not elaborate, and calls to Rockwell went unanswered. The division employs 7,000 of Rockwell's 27,000 Southern California workers.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Rockwell Layoffs",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ROCKWELL INTERNATIONAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "LAYOFFS (LABOR)"
+        }
+    ],
+    "pub_date": "1992-01-15T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b0e68eb7c8105d6d2515",
+    "word_count": "87",
+    "slideshow_credits": null
+}

@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/2000/09/20/business/business-to-business-step-right-up-and-buy-a-megawatt.html",
+    "snippet": "MANY Web sites scream about what they will sell you for next to nothing, or less. But how about a site that pays you not to buy?    A strange notion, but one that has more solid economic underpinnings than many of those desperate give-it-away dot-...",
+    "lead_paragraph": "MANY Web sites scream about what they will sell you for next to nothing, or less. But how about a site that pays you not to buy? A strange notion, but one that has more solid economic underpinnings than many of those desperate give-it-away dot-coms. Then again, the commodity in question is not the typical stuff of e-commerce transactions, like a plane ticket from Cincinnati to Nashville next Thursday or a vintage Barbie doll or 20,000 widgets of a certain shape. This promising new business is using e-commerce for a commodity that absolutely everybody needs: electricity.",
+    "abstract": "Pacific Gas and Electric has started online program in California called E-Bid that pays some big electric customers to cut their consumption during peak periods; program detailed; graph (special section, E-Commerce) (M)",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Step Right Up and Buy a Megawatt!",
+        "kicker": "BUSINESS TO BUSINESS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC GAS AND ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "SPECIAL SECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+        }
+    ],
+    "pub_date": "2000-09-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "E-Commerce",
+    "section_name": "Technology",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd201078eb7c8105d764be7",
+    "word_count": 1289,
+    "slideshow_credits": null
+}

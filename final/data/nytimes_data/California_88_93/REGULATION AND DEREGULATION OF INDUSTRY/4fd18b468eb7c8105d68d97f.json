@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/22/nyregion/c-corrections-876389.html",
+    "snippet": "LEAD: The Market Place column in Business Day on Dec. 15 about a method for turning ''junk bonds'' into investment-grade securities misstated the status of a regulatory review of the First Executive Corporation's attempt to repackage some bonds. T...",
+    "lead_paragraph": "LEAD: The Market Place column in Business Day on Dec. 15 about a method for turning ''junk bonds'' into investment-grade securities misstated the status of a regulatory review of the First Executive Corporation's attempt to repackage some bonds. The California Department of Insurance is conducting an examination of the transaction and has not yet reached a decision on it.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "INVESTMENT STRATEGIES"
+        },
+        {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1989-12-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd18b468eb7c8105d68d97f",
+    "word_count": 124,
+    "slideshow_credits": null
+}

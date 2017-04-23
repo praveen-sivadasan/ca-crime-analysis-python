@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1988/10/12/business/bogus-perfume-is-charged.html",
+    "snippet": "LEAD: Police in Southern California have cracked a counterfeit perfume operation, seizing hundreds of thousands of phony bottles of such brand-name scents as Giorgio, Chanel, Poison and Joy, the San Bernardino, Calif., sheriff's department said....",
+    "lead_paragraph": "LEAD: Police in Southern California have cracked a counterfeit perfume operation, seizing hundreds of thousands of phony bottles of such brand-name scents as Giorgio, Chanel, Poison and Joy, the San Bernardino, Calif., sheriff's department said.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bogus Perfume Is Charged"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "COUNTERFEITING"
+        },
+        {
+            "name": "subject",
+            "value": "PERFUMES"
+        }
+    ],
+    "pub_date": "1988-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a0798eb7c8105d6b4fbe",
+    "word_count": 328,
+    "slideshow_credits": null
+}

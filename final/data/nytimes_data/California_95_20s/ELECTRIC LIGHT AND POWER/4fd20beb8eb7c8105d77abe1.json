@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/27/business/media-business-advertising-89-million-plug-california-campaign-has-motivated-few.html",
+    "snippet": "CALIFORNIA utility regulators have been running an $89 million advertising campaign since October to tell the state's 10 million electricity customers that they can choose their power companies.    But critics, including some power suppliers and c...",
+    "lead_paragraph": "CALIFORNIA utility regulators have been running an $89 million advertising campaign since October to tell the state's 10 million electricity customers that they can choose their power companies. But critics, including some power suppliers and consumer groups, have criticized the campaign as extravagant, simple-minded and ineffectual.",
+    "abstract": "Advertising column on California's $89 million campaign to alert electricity customers in state that they can choose their power companies; campaign, created by DDB Needham, is being criticized as extravagant, simple-minded and ineffectual; only 1 percent of state's power users have switched from local power companies since electricity market was opened to competition on April 1 (M)",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The $89 million 'Plug in, California' campaign has motivated few power users to switch companies.",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DDB NEEDHAM"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        }
+    ],
+    "pub_date": "1998-04-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrea",
+                "rank": 1,
+                "lastname": "Adelson"
+            }
+        ],
+        "original": "By Andrea Adelson"
+    },
+    "type_of_material": "News",
+    "_id": "4fd20beb8eb7c8105d77abe1",
+    "word_count": 1024,
+    "slideshow_credits": null
+}

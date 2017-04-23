@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1995/03/22/business/the-media-business-advertising-addenda-jay-inc-is-chosen-by-buick-dealers.html",
+    "snippet": "The California Buick Dealers, an association of seven statewide dealer marketing groups that represent more than 130 Buick dealerships, said yesterday that it had selected the Los Angeles office of Jay Inc. to handle its account, with billings est...",
+    "lead_paragraph": "The California Buick Dealers, an association of seven statewide dealer marketing groups that represent more than 130 Buick dealerships, said yesterday that it had selected the Los Angeles office of Jay Inc. to handle its account, with billings estimated at more than $12 million. Most of the account was previously handled by Multi-Media Marketing Communications in Seal Beach, Calif.; Jordan Tamaraz Caruso Advertising in Chicago previously handled the San Diego marketing group.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Jay Inc. Is Chosen By Buick Dealers",
+        "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "BUICK DIVISION OF GENERAL MOTORS CORP"
+        },
+        {
+            "name": "organizations",
+            "value": "JAY INC"
+        },
+        {
+            "name": "organizations",
+            "value": "MULTI-MEDIA MARKETING COMMUNICATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "ADVERTISING"
+        },
+        {
+            "name": "subject",
+            "value": "ACCOUNT CHANGES"
+        }
+    ],
+    "pub_date": "1995-03-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Stuart",
+                "rank": 1,
+                "lastname": "ELLIOTT"
+            }
+        ],
+        "original": "By STUART ELLIOTT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cb808eb7c8105d701145",
+    "word_count": 127,
+    "slideshow_credits": null
+}

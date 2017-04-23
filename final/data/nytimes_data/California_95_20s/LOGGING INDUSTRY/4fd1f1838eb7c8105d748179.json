@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1995/06/22/business/company-news-fibreboard-to-sell-timber-plot-to-sierra-pacific.html",
+    "snippet": "The Fibreboard Corporation said yesterday that it planned to sell 76,000 acres of its remaining California forest land to Sierra Pacific Industries for more than $240 million, as the company moves out of the wood services business and expands into...",
+    "lead_paragraph": "The Fibreboard Corporation said yesterday that it planned to sell 76,000 acres of its remaining California forest land to Sierra Pacific Industries for more than $240 million, as the company moves out of the wood services business and expands into the building products industry. It will also sell four lumber mills. Fibreboard, of Walnut Creek, Calif., asked a high price -- more than $3,000 an acre -- because the land is one of the few remaining tracts of nongovernment-owned forest in the state located near lumber mills. It expects an $80 million gain on the sale. In reaction to the news, announced late on Tuesday, Fibreboard shares rose 18 percent Tuesday to close at $26.25 on the American Stock Exchange. Fibreboard closed yesterday at $24.875 a share, down $1.375.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "FIBREBOARD TO SELL TIMBER PLOT TO SIERRA PACIFIC",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SIERRA PACIFIC INDUSTRIES INC"
+        },
+        {
+            "name": "organizations",
+            "value": "FIBREBOARD CORP"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "LOGGING INDUSTRY"
+        }
+    ],
+    "pub_date": "1995-06-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f1838eb7c8105d748179",
+    "word_count": 131,
+    "slideshow_credits": null
+}

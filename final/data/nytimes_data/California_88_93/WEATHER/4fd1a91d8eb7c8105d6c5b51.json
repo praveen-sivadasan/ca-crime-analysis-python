@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/22/us/california-rains-make-hard-decisions-harder.html",
+    "snippet": "Three weeks of torrential storms from one end of California to the other have eased the state's water crisis but could be a mixed blessing.    Predictions of economic calamity in the nation's largest state have been scaled back and some communitie...",
+    "lead_paragraph": "Three weeks of torrential storms from one end of California to the other have eased the state's water crisis but could be a mixed blessing. Predictions of economic calamity in the nation's largest state have been scaled back and some communities are abandoning water rationing. But experts are concerned that the will to overhaul inefficent water policies will fade with the sense of emergency.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Rains Make Hard Decisions Harder"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DROUGHT"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "RAIN"
+        }
+    ],
+    "pub_date": "1991-03-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a91d8eb7c8105d6c5b51",
+    "word_count": 1231,
+    "slideshow_credits": null
+}

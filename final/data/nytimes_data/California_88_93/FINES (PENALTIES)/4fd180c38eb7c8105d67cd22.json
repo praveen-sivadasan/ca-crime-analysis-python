@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1989/03/14/business/antitrust-fine-for-california-trash-hauler.html",
+    "snippet": "LEAD: A subsidiary of Waste Management Inc., the nation's largest trash hauling company, pleaded no contest today to one count of conspiring to violate state antitrust laws and will be fined $1 million....",
+    "lead_paragraph": "LEAD: A subsidiary of Waste Management Inc., the nation's largest trash hauling company, pleaded no contest today to one count of conspiring to violate state antitrust laws and will be fined $1 million.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Antitrust Fine For California Trash Hauler"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WASTE MANAGEMENT OF CALIFORNIA INC"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "ANTITRUST ACTIONS AND LAWS"
+        },
+        {
+            "name": "subject",
+            "value": "WASTE MATERIALS AND DISPOSAL"
+        }
+    ],
+    "pub_date": "1989-03-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd180c38eb7c8105d67cd22",
+    "word_count": 446,
+    "slideshow_credits": null
+}

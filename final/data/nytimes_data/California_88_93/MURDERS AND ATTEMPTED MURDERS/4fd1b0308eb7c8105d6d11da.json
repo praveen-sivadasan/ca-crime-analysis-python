@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/08/22/us/investigators-suspect-serial-killer-in-16-slayings-in-california.html",
+    "snippet": "The slayings of 16 women in Riverside County since 1986 are believed to be the work of a serial killer who preys on prostitutes and drug users, investigators say.   The investigators have refused to disclose how the victims were killed and have sa...",
+    "lead_paragraph": "The slayings of 16 women in Riverside County since 1986 are believed to be the work of a serial killer who preys on prostitutes and drug users, investigators say. The investigators have refused to disclose how the victims were killed and have said only that the victims were found nude.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Investigators Suspect Serial Killer in 16 Slayings in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PROSTITUTION"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "WOMEN"
+        },
+        {
+            "name": "subject",
+            "value": "MASS MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "POLICE"
+        },
+        {
+            "name": "subject",
+            "value": "SERIAL MURDERS"
+        }
+    ],
+    "pub_date": "1991-08-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b0308eb7c8105d6d11da",
+    "word_count": 255,
+    "slideshow_credits": null
+}

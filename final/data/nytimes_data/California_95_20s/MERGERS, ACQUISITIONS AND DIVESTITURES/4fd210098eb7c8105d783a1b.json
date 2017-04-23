@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1999/10/02/business/california-property-deal.html",
+    "snippet": "The Equity Office Properties Trust, the largest owner of office properties in the United States, bought the Palo Alto Square office complex in the Silicon Valley of California for $85 million from a partnership controlled by Sam Zell, the billiona...",
+    "lead_paragraph": "The Equity Office Properties Trust, the largest owner of office properties in the United States, bought the Palo Alto Square office complex in the Silicon Valley of California for $85 million from a partnership controlled by Sam Zell, the billionaire financier who is chairman of Equity Office. The Chicago-based real estate investment trust said the complex near Stanford University had 320,500 square feet of space and was fully occupied. Equity Office and its predecessors have managed the five-building complex for 20 years.",
+    "abstract": "Equity Office Prope",
+    "print_page": "4",
+    "blog": [],
+    "source": "Bloomberg News",
+    "multimedia": [],
+    "headline": {
+        "main": "California Property Deal"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ZELL, SAM"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "EQUITY OFFICE PROPERTIES TRUST"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "PALO ALTO SQUARE OFFICE COMPLEX (CALIF)"
+        },
+        {
+            "name": "subject",
+            "value": "OFFICE BUILDINGS"
+        }
+    ],
+    "pub_date": "1999-10-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd210098eb7c8105d783a1b",
+    "word_count": 82,
+    "slideshow_credits": null
+}

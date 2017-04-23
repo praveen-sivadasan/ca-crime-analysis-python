@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/1996/07/06/us/brownie-mary-fights-to-legalize-marijuana.html",
+    "snippet": "If marijuana is ever legalized and \"magic brownie\" mixes ever appear on the shelves of America's supermarkets, there will be one obvious candidate to become the Betty Crocker, the Mrs. Field, the Sara Lee, of cannabis baking.         Her name, as ...",
+    "lead_paragraph": "If marijuana is ever legalized and \"magic brownie\" mixes ever appear on the shelves of America's supermarkets, there will be one obvious candidate to become the Betty Crocker, the Mrs. Field, the Sara Lee, of cannabis baking. Her name, as almost any San Franciscan can tell you, is Brownie Mary.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Brownie Mary' Fights to Legalize Marijuana"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "RATHBUN, MARY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        },
+        {
+            "name": "subject",
+            "value": "MARIJUANA"
+        }
+    ],
+    "pub_date": "1996-07-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Carey",
+                "rank": 1,
+                "lastname": "GOLDBERG"
+            }
+        ],
+        "original": "By CAREY GOLDBERG"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1f67b8eb7c8105d75100f",
+    "word_count": 1292,
+    "slideshow_credits": null
+}

@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/07/us/lawsuit-is-filed-over-exemptions-from-statute-on-warning-labels.html",
+    "snippet": "LEAD: A coalition of environmental groups and labor unions has filed a lawsuit seeking to overturn state regulations that they charge illegally exempt food, cosmetics and medical devices from a state law that requires labels warning consumers of t...",
+    "lead_paragraph": "LEAD: A coalition of environmental groups and labor unions has filed a lawsuit seeking to overturn state regulations that they charge illegally exempt food, cosmetics and medical devices from a state law that requires labels warning consumers of the presence of potential carcinogens.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Lawsuit Is Filed Over Exemptions From Statute on Warning Labels"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "LABELS AND LABELING"
+        },
+        {
+            "name": "subject",
+            "value": "CANCER"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "INDUSTRIAL AND OCCUPATIONAL HAZARDS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Katherine",
+                "rank": 1,
+                "lastname": "BISHOP"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KATHERINE BISHOP, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd17f3a8eb7c8105d67a33a",
+    "word_count": 548,
+    "slideshow_credits": null
+}

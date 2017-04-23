@@ -1,0 +1,78 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/05/sports/cowboy-chief-under-scrutiny.html",
+    "snippet": "LEAD: Officials in Calfornia are seeking to determine if Jerry Jones, majority owner of the Dallas Cowboys, or a close associate improperly influenced a former executive of a large California public utility to obtain contracts for natural gas supp...",
+    "lead_paragraph": "LEAD: Officials in Calfornia are seeking to determine if Jerry Jones, majority owner of the Dallas Cowboys, or a close associate improperly influenced a former executive of a large California public utility to obtain contracts for natural gas supplies, The Dallas Morning News said today.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cowboy Chief Under Scrutiny"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "JONES, JERRY"
+        },
+        {
+            "name": "persons",
+            "value": "SATRAP, EUGENE E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DALLAS MORNING NEWS"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC GAS & ELECTRIC CO"
+        },
+        {
+            "name": "organizations",
+            "value": "DALLAS COWBOYS"
+        },
+        {
+            "name": "organizations",
+            "value": "ARKOMA EXPLORATION CO"
+        },
+        {
+            "name": "subject",
+            "value": "GAS (FUEL)"
+        },
+        {
+            "name": "subject",
+            "value": "FOOTBALL"
+        }
+    ],
+    "pub_date": "1990-02-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Thomas",
+                "middlename": "C.",
+                "lastname": "HAYES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By THOMAS C. HAYES, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ab848eb7c8105d6c9e01",
+    "word_count": 742,
+    "slideshow_credits": null
+}

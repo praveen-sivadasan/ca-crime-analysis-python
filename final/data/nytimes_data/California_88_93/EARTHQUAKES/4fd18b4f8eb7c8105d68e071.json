@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1989/12/04/us/85-mile-california-quake.html",
+    "snippet": "LEAD: A moderate earthquake under the San Jacinto Mountains was felt in an 85-mile stretch of southern California Saturday, but there were no reports of damage or injury. The temblor came at 3:16 P.M. and measured 4.3 on the Richter scale of groun...",
+    "lead_paragraph": "LEAD: A moderate earthquake under the San Jacinto Mountains was felt in an 85-mile stretch of southern California Saturday, but there were no reports of damage or injury. The temblor came at 3:16 P.M. and measured 4.3 on the Richter scale of ground motion, a California Institute of Technology spokesman said at Pasadena.",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "85-Mile California Quake"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-12-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18b4f8eb7c8105d68e071",
+    "word_count": 118,
+    "slideshow_credits": null
+}

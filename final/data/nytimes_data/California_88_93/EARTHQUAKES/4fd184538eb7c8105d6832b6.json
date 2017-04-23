@@ -1,0 +1,67 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/20/us/california-quake-commerce-businesses-bay-area-hope-for-quick-return-life-almost.html",
+    "snippet": "LEAD: It was business almost as usual today in the Bay Area as the banks opened for business, the hotels began restocking food and the computer chip producers operated at full speed....",
+    "lead_paragraph": "LEAD: It was business almost as usual today in the Bay Area as the banks opened for business, the hotels began restocking food and the computer chip producers operated at full speed.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Businesses in Bay Area Hope for a Quick Return To Life Almost as Usual",
+        "kicker": "THE CALIFORNIA QUAKE: COMMERCE"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "SAN FRANCISCO BAY AREA"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "DATA PROCESSING (COMPUTERS)"
+        },
+        {
+            "name": "subject",
+            "value": "FOOD"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        }
+    ],
+    "pub_date": "1989-10-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Technology; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd184538eb7c8105d6832b6",
+    "word_count": 977,
+    "slideshow_credits": null
+}

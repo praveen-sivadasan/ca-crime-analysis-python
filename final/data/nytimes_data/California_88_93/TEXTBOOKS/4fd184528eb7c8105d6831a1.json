@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1989/08/26/us/california-educators-taking-new-leaf-from-book-exchange.html",
+    "snippet": "LEAD: When the boxloads of books forced her husband's car out of the driveway and into the street, it was time for Marilyn Levin Nemzer to make a decision about her new project....",
+    "lead_paragraph": "LEAD: When the boxloads of books forced her husband's car out of the driveway and into the street, it was time for Marilyn Levin Nemzer to make a decision about her new project.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Educators Taking New Leaf From Book Exchange"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "MARIN COUNTY BOOK EXCHANGE"
+        },
+        {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+        }
+    ],
+    "pub_date": "1989-08-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd184528eb7c8105d6831a1",
+    "word_count": 813,
+    "slideshow_credits": null
+}

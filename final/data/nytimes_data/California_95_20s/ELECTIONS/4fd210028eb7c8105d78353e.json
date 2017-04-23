@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1999/08/29/us/political-briefing-fraud-worries-greet-a-vote-delivery-bill.html",
+    "snippet": "Voter turnout lags in California, as in most states. But give the Golden State credit for trying to improve participation.    Registering to vote is easy. Sometimes newspapers distribute the forms....",
+    "lead_paragraph": "Voter turnout lags in California, as in most states. But give the Golden State credit for trying to improve participation. Registering to vote is easy. Sometimes newspapers distribute the forms.",
+    "abstract": "fraud worries greet on vote-delivery bill**California Assembly approves measures that would make it easier to vote by means of absentee ballot, causing some concern about greater opportunity for voting fraud (S)",
+    "print_page": "28",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Fraud Worries Greet A Vote-Delivery Bill",
+        "kicker": "POLITICAL BRIEFING"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ABSENTEE VOTING"
+        }
+    ],
+    "pub_date": "1999-08-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [],
+        "original": "By B. Drummond Ayres Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd210028eb7c8105d78353e",
+    "word_count": 533,
+    "slideshow_credits": null
+}

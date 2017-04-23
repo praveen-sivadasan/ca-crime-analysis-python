@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/19/us/political-memo-big-state-big-change-big-risk-for-democrats.html",
+    "snippet": "LEAD: Once again the Democrats are tinkering with the Presidential nominating process, clearing the way for that behemoth of American politics, California, to move its 1992 primary from the very end of the primary season to nearly the beginning....",
+    "lead_paragraph": "LEAD: Once again the Democrats are tinkering with the Presidential nominating process, clearing the way for that behemoth of American politics, California, to move its 1992 primary from the very end of the primary season to nearly the beginning.",
+    "abstract": null,
+    "print_page": "11",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Political Memo;   Big State, Big Change, Big Risk for Democrats"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "DEMOCRATIC PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1990-02-19T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "ORESKES"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL ORESKES, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1aa898eb7c8105d6c87ce",
+    "word_count": 1059,
+    "slideshow_credits": null
+}

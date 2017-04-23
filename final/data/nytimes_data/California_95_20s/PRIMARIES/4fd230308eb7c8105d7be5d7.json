@@ -1,0 +1,77 @@
+{
+    "web_url": "https://www.nytimes.com/2000/02/12/us/the-2000-campaign-the-democrats-bradley-and-gore-finding-ammunition-in-abortion.html",
+    "snippet": "With Bill Bradley questioning Vice President Al Gore's veracity over abortion, Mr. Gore is trying to shift attention away from his voting record on the subject and toward the question of who would be a better standard-bearer for the Democrats.    ...",
+    "lead_paragraph": "With Bill Bradley questioning Vice President Al Gore's veracity over abortion, Mr. Gore is trying to shift attention away from his voting record on the subject and toward the question of who would be a better standard-bearer for the Democrats. The vice president is using the abortion issue as a framework to cast Mr. Bradley, the former New Jersey senator who is his lone rival for the Democratic presidential nomination, as someone who cannot be counted on to fight -- either for abortion rights or, by implication, other Democratic principles.",
+    "abstract": "Former Sen Bill Bradley, campaigning for presidential nomination, has questioned Vice Pres Al Gore's veracity over abortion; Gore, in California, seeks to shift attention away from his voting record on abortion and toward question of who would be better standard-bearer for Democrats; Gore is using abortion issue as framework to cast Bradley as someone who cannot be counted on to fight, either for abortion rights or, by implication, other Democratic principles; Gore, who defeated Bradley in three state primaries and has wide lead in national polls, makes his first public appeal to Bradley to withdraw his candidacy and join him to fight 'real enemy,' Republicans, who oppose abortion; there is no indication Bradley is considering dropping out; photo (M)",
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Bradley and Gore Finding Ammunition in Abortion",
+        "kicker": "THE 2000 CAMPAIGN: THE DEMOCRATS"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "persons",
+            "value": "BRADLEY, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ABORTION"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-02-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Katharine",
+                "middlename": "Q.",
+                "lastname": "SEELYE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 2,
+                "lastname": "DAO"
+            }
+        ],
+        "original": "By KATHARINE Q. SEELYE with JAMES DAO"
+    },
+    "type_of_material": "News",
+    "_id": "4fd230308eb7c8105d7be5d7",
+    "word_count": 1070,
+    "slideshow_credits": null
+}

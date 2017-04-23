@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/23/us/on-front-lines-of-forest-fires-prisoners-find-a-calling.html",
+    "snippet": "In steep canyon terrain, with walls of flame all around them, more than 800 California state prisoners cleared brush and timber from dusk to dawn this week and cut the fire lines that helped contain a treacherous 17,000-acre blaze here in rugged M...",
+    "lead_paragraph": "In steep canyon terrain, with walls of flame all around them, more than 800 California state prisoners cleared brush and timber from dusk to dawn this week and cut the fire lines that helped contain a treacherous 17,000-acre blaze here in rugged Mother Lode country. Fighting wild land fires is dirty, dangerous and exhausting work. But for the inmates here, and hundreds more at other fire camps up and down the hot, tinder-dry state, it beats the alternative: life inside the narrow cells and under the gun turrets of a state prison.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "On Front Lines of Forest Fires, Prisoners Find a Calling"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        }
+    ],
+    "pub_date": "1992-08-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d40f8eb7c8105d71100a",
+    "word_count": 1010,
+    "slideshow_credits": null
+}

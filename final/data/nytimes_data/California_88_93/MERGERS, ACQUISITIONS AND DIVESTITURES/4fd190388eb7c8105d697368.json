@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1988/04/16/us/merger-brings-a-california-sunset-for-the-most-friendly-skies-of-all.html",
+    "snippet": "LEAD: Before there was People Express there was Pacific Southwest Airlines, the freewheeling commuter carrier whose inexpensive flights, casual service and trademarked smiling jetliners made it as much a part of the California scene as beaches, bl...",
+    "lead_paragraph": "LEAD: Before there was People Express there was Pacific Southwest Airlines, the freewheeling commuter carrier whose inexpensive flights, casual service and trademarked smiling jetliners made it as much a part of the California scene as beaches, blonds and hot tubs.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Merger Brings a California Sunset For the Most Friendly Skies of All"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "USAIR INC"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC SOUTHWEST AIRLINES"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        }
+    ],
+    "pub_date": "1988-04-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd190388eb7c8105d697368",
+    "word_count": 748,
+    "slideshow_credits": null
+}

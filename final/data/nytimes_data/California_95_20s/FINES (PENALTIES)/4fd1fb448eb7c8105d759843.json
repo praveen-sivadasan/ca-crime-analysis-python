@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1998/03/10/us/national-news-briefs-congressman-sentenced-for-taking-illegal-funds.html",
+    "snippet": "Representative Jay Kim was sentenced today to two months of home confinement for accepting illegal campaign contributions.    Mr. Kim, a Republican, also was sentenced to one year of probation and a $5,000 fine. He could have received up to six mo...",
+    "lead_paragraph": "Representative Jay Kim was sentenced today to two months of home confinement for accepting illegal campaign contributions. Mr. Kim, a Republican, also was sentenced to one year of probation and a $5,000 fine. He could have received up to six months in jail after pleading guilty to misdemeanor counts of accepting illegal donations.",
+    "abstract": "Rep Jay Kim, California Republican, is sentenced to two months of home confinement, one year of probation and $5,000 fine for accepting illegal campaign contributions; Kim's wife, June, is sentenced to probation and fined $5,000 and his campaign committee is fined $170,000 (S)",
+    "print_page": "13",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "National News Briefs; Congressman Sentenced For Taking Illegal Funds"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KIM, JAY C"
+        },
+        {
+            "name": "persons",
+            "value": "KIM, JUNE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "FINES (PENALTIES)"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1998-03-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1fb448eb7c8105d759843",
+    "word_count": "105",
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/10/us/pilot-found-guilty-of-lying-about-near-miss-of-reagan.html",
+    "snippet": "LEAD: An Army private who flew close to a helicopter carrying President Reagan last year was found guilty Monday of making false statements to investigators....",
+    "lead_paragraph": "LEAD: An Army private who flew close to a helicopter carrying President Reagan last year was found guilty Monday of making false statements to investigators.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pilot Found Guilty of Lying About Near Miss of Reagan"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REAGAN, RONALD WILSON"
+        },
+        {
+            "name": "persons",
+            "value": "MYERS, RALPH W"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "MILITARY AIRCRAFT"
+        },
+        {
+            "name": "subject",
+            "value": "TRIALS"
+        },
+        {
+            "name": "subject",
+            "value": "HELICOPTERS"
+        },
+        {
+            "name": "subject",
+            "value": "ARMIES"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "1988-02-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd185538eb7c8105d684986",
+    "word_count": 127,
+    "slideshow_credits": null
+}

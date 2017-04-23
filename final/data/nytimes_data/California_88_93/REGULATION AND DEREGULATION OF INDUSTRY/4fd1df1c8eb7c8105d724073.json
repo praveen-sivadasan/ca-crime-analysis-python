@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/26/business/market-place-anxiety-grips-cellular-industry.html",
+    "snippet": "THE stock prices of cellular telephone companies operating in California plunged last week after a tentative ruling by California state regulators aimed at increasing competition. The drop underscored the market's anxiety over whether the cellular...",
+    "lead_paragraph": "THE stock prices of cellular telephone companies operating in California plunged last week after a tentative ruling by California state regulators aimed at increasing competition. The drop underscored the market's anxiety over whether the cellular industry's duopoly, the source of much of its wealth, will survive much longer. The market also blanched at the prospect of stricter regulation in what is, at least for now, a lightly regulated industry. The complex ruling will not take effect immediately and will be appealed over the next few months. But the ruling is intended to introduce more competition and lower prices into the state with the nation's largest cellular telephone market and one in which regulators sometimes influence the pace of regulation in other states.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Market Place Anxiety Grips Cellular Industry"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+        },
+        {
+            "name": "subject",
+            "value": "STOCK PRICES AND TRADING VOLUME"
+        }
+    ],
+    "pub_date": "1992-10-26T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Anthony",
+                "rank": 1,
+                "lastname": "Ramirez"
+            }
+        ],
+        "original": "By Anthony Ramirez"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1df1c8eb7c8105d724073",
+    "word_count": 761,
+    "slideshow_credits": null
+}

@@ -1,0 +1,62 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/01/us/unusual-alliance-battles-california-ballot-proposal.html",
+    "snippet": "LEAD: In a rare alliance, Gov. George Deukmejian and legislative leaders of both parties have joined to oppose a sweeping measure that would restrict campaign spending in California....",
+    "lead_paragraph": "LEAD: In a rare alliance, Gov. George Deukmejian and legislative leaders of both parties have joined to oppose a sweeping measure that would restrict campaign spending in California.",
+    "abstract": null,
+    "print_page": "22",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Unusual Alliance Battles California Ballot Proposal"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "DEUKMEJIAN, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1988-06-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "L.",
+                "lastname": "BERKE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By RICHARD L. BERKE, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18c9a8eb7c8105d68fdd1",
+    "word_count": 1179,
+    "slideshow_credits": null
+}

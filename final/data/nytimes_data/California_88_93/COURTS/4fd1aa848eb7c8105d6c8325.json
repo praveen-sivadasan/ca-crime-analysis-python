@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/20/nyregion/c-corrections-627090.html",
+    "snippet": "LEAD: An article on Saturday about a report on sentencing decisions in California's judicial system incorrectly described where the study was published. It was in the Feb. 16 issue of Science, a weekly journal....",
+    "lead_paragraph": "LEAD: An article on Saturday about a report on sentencing decisions in California's judicial system incorrectly described where the study was published. It was in the Feb. 16 issue of Science, a weekly journal.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "COURTS"
+        },
+        {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+        }
+    ],
+    "pub_date": "1990-02-20T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1aa848eb7c8105d6c8325",
+    "word_count": 67,
+    "slideshow_credits": null
+}

@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1999/03/06/us/sulfur-on-board-and-plenty-of-water.html",
+    "snippet": "Photo of freighter Hollandic Confidence, damaged in storm off California and sailing in circles until being cleared to dock in San Francisco for repairs (S)...",
+    "lead_paragraph": null,
+    "abstract": "Photo of freighter Hollandic Confidence, damaged in storm off California and sailing in circles until being cleared to dock in San Francisco for repairs (S)",
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sulfur on Board, and Plenty of Water"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+        },
+        {
+            "name": "subject",
+            "value": "SHIPS AND SHIPPING"
+        }
+    ],
+    "pub_date": "1999-03-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Caption",
+    "_id": "4fd20b7a8eb7c8105d779be5",
+    "word_count": 0,
+    "slideshow_credits": null
+}

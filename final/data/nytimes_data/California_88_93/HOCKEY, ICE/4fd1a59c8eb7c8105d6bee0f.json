@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1989/06/22/sports/sports-people-hockey-buss-seeks-franchise.html",
+    "snippet": "LEAD: Jerry Buss, the owner of the Los Angeles Lakers and the former owner of the Los Angeles Kings, said he would like to establish another National Hockey League franchise in southern California. Buss, who also owns the Forum in Inglewood, Calif...",
+    "lead_paragraph": "LEAD: Jerry Buss, the owner of the Los Angeles Lakers and the former owner of the Los Angeles Kings, said he would like to establish another National Hockey League franchise in southern California. Buss, who also owns the Forum in Inglewood, Calif., the home of the Lakers and the Kings, said he recently sent a letter to N.H.L.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Buss Seeks Franchise",
+        "kicker": "SPORTS PEOPLE: HOCKEY"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "SPORTS PEOPLE (TIMES COLUMN)"
+        },
+        {
+            "name": "persons",
+            "value": "BUSS, JERRY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOCKEY LEAGUE, NATIONAL"
+        },
+        {
+            "name": "subject",
+            "value": "FRANCHISES"
+        },
+        {
+            "name": "subject",
+            "value": "HOCKEY, ICE"
+        }
+    ],
+    "pub_date": "1989-06-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a59c8eb7c8105d6bee0f",
+    "word_count": 199,
+    "slideshow_credits": null
+}

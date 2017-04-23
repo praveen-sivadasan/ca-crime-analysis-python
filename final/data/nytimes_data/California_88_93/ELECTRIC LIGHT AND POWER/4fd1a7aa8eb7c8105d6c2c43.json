@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1991/02/23/business/company-news-sce-may-halt-merger-offer.html",
+    "snippet": "SCEcorp, parent of the Southern California Edison Company, said a proposed decision by the California Public Utilities Commission might make it impossible to proceed with its $2.90 billion merger offer for the San Diego Gas and Electric Company.  ...",
+    "lead_paragraph": "SCEcorp, parent of the Southern California Edison Company, said a proposed decision by the California Public Utilities Commission might make it impossible to proceed with its $2.90 billion merger offer for the San Diego Gas and Electric Company. The proposed merger of the two California companies would create the nation's largest investor-owned electrical utility.",
+    "abstract": null,
+    "print_page": "33",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "SCE May Halt Merger Offer",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SCECORP"
+        },
+        {
+            "name": "organizations",
+            "value": "SAN DIEGO GAS & ELECTRIC CO"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "1991-02-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a7aa8eb7c8105d6c2c43",
+    "word_count": 192,
+    "slideshow_credits": null
+}

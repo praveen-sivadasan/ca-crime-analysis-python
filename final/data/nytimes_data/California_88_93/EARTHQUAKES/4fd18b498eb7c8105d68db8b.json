@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1989/11/03/us/no-damage-but-jarred-nerves-from-aftershock-in-california.html",
+    "snippet": "LEAD: An aftershock of last month's deadly earthquake jolted Northern California on Wednesday night, but the authorities said today that the only harm appeared to be more jangled nerves....",
+    "lead_paragraph": "LEAD: An aftershock of last month's deadly earthquake jolted Northern California on Wednesday night, but the authorities said today that the only harm appeared to be more jangled nerves.",
+    "abstract": null,
+    "print_page": "19",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "No Damage but Jarred Nerves From Aftershock in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-11-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd18b498eb7c8105d68db8b",
+    "word_count": 120,
+    "slideshow_credits": null
+}

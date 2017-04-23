@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1993/08/16/nyregion/c-corrections-105893.html",
+    "snippet": "A photograph in some copies yesterday accompanying an article about the increasing popularity of logging on private property in Northern California was published in error. The photograph showed a sand castle building contest at Coney Island....",
+    "lead_paragraph": "A photograph in some copies yesterday accompanying an article about the increasing popularity of logging on private property in Northern California was published in error. The photograph showed a sand castle building contest at Coney Island.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WOOD AND WOOD PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1993-08-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd1bd018eb7c8105d6e920b",
+    "word_count": 36,
+    "slideshow_credits": null
+}

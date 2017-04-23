@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/11/us/congressman-to-retire.html",
+    "snippet": "Representative Glenn Anderson, a 12-term Democrat, announced Sunday that he would not seek re-election next year. Mr. Anderson, 78 years old, said his decision not to run again in the 32d District had been several months in the making and that he ...",
+    "lead_paragraph": "Representative Glenn Anderson, a 12-term Democrat, announced Sunday that he would not seek re-election next year. Mr. Anderson, 78 years old, said his decision not to run again in the 32d District had been several months in the making and that he was leaving the public policy arena to the \"next generation of leaders.\"",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Congressman to Retire"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ANDERSON, GLENN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        }
+    ],
+    "pub_date": "1991-12-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1a8b78eb7c8105d6c4bde",
+    "word_count": 54,
+    "slideshow_credits": null
+}

@@ -1,0 +1,70 @@
+{
+    "web_url": "https://www.nytimes.com/1999/06/23/dining/a-great-american-wine-swirls-in-turmoil.html",
+    "snippet": "THE question sounds like a line from an old radio script:    Can a minuscule winery, started by a couple of ornery, rough-hewn rural Californians, find continuing happiness as part of an international combine owned by a big-time venture capitalist...",
+    "lead_paragraph": "THE question sounds like a line from an old radio script: Can a minuscule winery, started by a couple of ornery, rough-hewn rural Californians, find continuing happiness as part of an international combine owned by a big-time venture capitalist from Wall Street?",
+    "abstract": "Wine world is watching intently to see if standards will be maintained at Williams Selyem winery in Healdsburg, Calif, producer of much esteemed pinot noir, now that winery has acquired by John S Dyson from Burt Williams and Ed Selyem; Williams Selyem has always been made from grapes purchased under handshake agreements, and the most important of those agreements was with Joe Rochioli, who will now keep his grapes for his own pinot noir; photo of Rochioli and Bab Cabral, new winemaker at Williams Selyem (L)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Great American Wine Swirls In Turmoil"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ROCHIOLI, JOE"
+        },
+        {
+            "name": "persons",
+            "value": "CABRAL, BOB"
+        },
+        {
+            "name": "persons",
+            "value": "SELYEM, ED"
+        },
+        {
+            "name": "persons",
+            "value": "WILLIAMS, BURT"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "WILLIAMS SELYEM WINERY"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1999-06-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Dining and Wine; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr",
+                "firstname": "R.",
+                "middlename": "W.",
+                "lastname": "APPLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By R. W. APPLE Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21f0f8eb7c8105d7a2049",
+    "word_count": 2070,
+    "slideshow_credits": null
+}

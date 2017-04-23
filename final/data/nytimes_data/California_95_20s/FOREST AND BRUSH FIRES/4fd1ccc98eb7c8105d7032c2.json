@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1996/10/28/us/2-new-wind-driven-fires-erupt-in-besieged-southern-california.html",
+    "snippet": "Two new wildfires erupted today, chasing residents from homes in the latest in a series of blazes that have destroyed more than 100 homes.    Nearly 40,000 acres were turned to ash in the week-old series of wind-driven Southern California fires....",
+    "lead_paragraph": "Two new wildfires erupted today, chasing residents from homes in the latest in a series of blazes that have destroyed more than 100 homes. Nearly 40,000 acres were turned to ash in the week-old series of wind-driven Southern California fires.",
+    "abstract": "Two new wildfires erupted in San Bernardino and Riverside counties north of Los Angeles, chasing residents from homes (S)",
+    "print_page": "12",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "2 New, Wind-Driven Fires Erupt In Besieged Southern California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        }
+    ],
+    "pub_date": "1996-10-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1ccc98eb7c8105d7032c2",
+    "word_count": 326,
+    "slideshow_credits": null
+}

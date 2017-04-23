@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1997/09/16/opinion/cloudy-chance-of-annihilation.html",
+    "snippet": "I  live in a canyon outside Los Angeles. The house launches itself out from a hillside and over a chasm below, away from the land and into the air. A few years ago, before I moved here, this canyon was razed by a terrible and spectacular fire; tha...",
+    "lead_paragraph": "I live in a canyon outside Los Angeles. The house launches itself out from a hillside and over a chasm below, away from the land and into the air. A few years ago, before I moved here, this canyon was razed by a terrible and spectacular fire; that was before the earthquake and after the riots. Every autumn holds the potential for such a disaster, when the hot Santa Ana winds blow and everyone from Malibu to the Palisades to the Hollywood Hills holds his or her breath waiting for the wrong match struck at the wrong moment. California lives in the Moment of the Held Breath. These last few weeks, ahead of the Santa Anas and in the tail wind of an utterly freakish hurricane -- Linda, now breaking up over the ocean -- what blows through the canyons is the news of El Nino and its relentless rains, approaching like an armada. The question is whether these rains will arrive before the fires, in which case there may be no fires, or after the fires, in which case the scorched soil of the hills will turn to black mud and slide to the sea.",
+    "abstract": "Steve Erickson Op-Ed article on El Nino, Pacific Ocean current, and its effects on California's weather; drawing (M)",
+    "print_page": "31",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Cloudy, Chance of Annihilation"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WEATHER"
+        },
+        {
+            "name": "subject",
+            "value": "EL NINO (PACIFIC OCEAN CURRENT)"
+        }
+    ],
+    "pub_date": "1997-09-16T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Steve",
+                "rank": 1,
+                "lastname": "Erickson"
+            }
+        ],
+        "original": "By Steve Erickson"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd1d7f28eb7c8105d716411",
+    "word_count": 919,
+    "slideshow_credits": null
+}

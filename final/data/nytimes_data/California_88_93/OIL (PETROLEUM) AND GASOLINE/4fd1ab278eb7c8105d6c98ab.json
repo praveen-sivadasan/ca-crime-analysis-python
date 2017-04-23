@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1991/04/11/business/company-news-panel-denies-chevron-bid-on-tankers.html",
+    "snippet": "A state agency today denied a request by the Chevron Corporation for temporary permission to transport oil by tanker from a field off the central California coast to refineries near Los Angeles.    The vote, by the California Coastal Commission, m...",
+    "lead_paragraph": "A state agency today denied a request by the Chevron Corporation for temporary permission to transport oil by tanker from a field off the central California coast to refineries near Los Angeles. The vote, by the California Coastal Commission, means that Chevron must move the oil by overland pipelines if it wants to begin full production from the field. Chevron has long resisted using pipelines for most of the oil from the field, saying existing pipelines would be inefficient.",
+    "abstract": null,
+    "print_page": "4",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Panel Denies Chevron Bid On Tankers",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CHEVRON CORP"
+        },
+        {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+        }
+    ],
+    "pub_date": "1991-04-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ab278eb7c8105d6c98ab",
+    "word_count": 568,
+    "slideshow_credits": null
+}

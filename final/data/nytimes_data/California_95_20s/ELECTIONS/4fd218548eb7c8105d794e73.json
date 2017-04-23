@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1998/04/28/us/white-house-to-fight-california-initiative-to-ban-bilingual-classes.html",
+    "snippet": "The Clinton Administration announced its opposition today to a California ballot initiative that would end bilingual education in that state, saying the President and other officials would actively campaign against it.    Administration officials ...",
+    "lead_paragraph": "The Clinton Administration announced its opposition today to a California ballot initiative that would end bilingual education in that state, saying the President and other officials would actively campaign against it. Administration officials said there was a ''very high likelihood'' that the Justice Department would sue the state if the initiative was approved, because it would violate the civil rights of students whose English is limited.",
+    "abstract": "Clinton Administration announces its opposition to California ballot initiative that would end bilingual education in that state, saying President and other officials will actively campaign against it (M)",
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "White House to Fight California Initiative to Ban Bilingual Classes"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BILINGUAL EDUCATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1998-04-28T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Steven",
+                "middlename": "A.",
+                "lastname": "HOLMES",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By STEVEN A. HOLMES"
+    },
+    "type_of_material": "News",
+    "_id": "4fd218548eb7c8105d794e73",
+    "word_count": 526,
+    "slideshow_credits": null
+}

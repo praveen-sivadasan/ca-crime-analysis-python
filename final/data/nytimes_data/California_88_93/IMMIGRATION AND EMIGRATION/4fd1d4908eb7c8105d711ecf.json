@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/23/business/catering-to-consumers-ethnic-needs.html",
+    "snippet": "In California, where waves of diverse and fast-growing immigrant groups have swept away any lingering notion of consumers as a homogeneous mass market, many companies have been forced to abandon their old approaches to selling their products and s...",
+    "lead_paragraph": "In California, where waves of diverse and fast-growing immigrant groups have swept away any lingering notion of consumers as a homogeneous mass market, many companies have been forced to abandon their old approaches to selling their products and services. And in their search for new strategies in the last few years, companies ranging from banks to television stations have learned one clear lesson: building business among a sometimes bewildering array of ethnic markets takes a lot more than just dubbing a few television commercials in Spanish or sponsoring a float in the local Chinese New Year's parade.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Catering to Consumers' Ethnic Needs"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MARKETING AND MERCHANDISING"
+        },
+        {
+            "name": "subject",
+            "value": "SPANISH-SPEAKING GROUPS (US)"
+        },
+        {
+            "name": "subject",
+            "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+        }
+    ],
+    "pub_date": "1992-01-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4908eb7c8105d711ecf",
+    "word_count": 1598,
+    "slideshow_credits": null
+}

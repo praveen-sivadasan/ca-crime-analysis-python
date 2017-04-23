@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1997/08/24/magazine/sticks-and-stones.html",
+    "snippet": "These days, given our mania for large houses, the free-association response to the phrase 620-square-foot house might be tear down. Fortunately for this tiny but beautiful stone and redwood weekend cabin in Sonoma Valley, its current owners decide...",
+    "lead_paragraph": "These days, given our mania for large houses, the free-association response to the phrase 620-square-foot house might be tear down. Fortunately for this tiny but beautiful stone and redwood weekend cabin in Sonoma Valley, its current owners decided against bulldozing, or even ripping off the roof and building up. Instead, they opted to preserve the house, which was built in 1960 by Paul Hamilton, an architect based in Santa Rosa, Calif., for his own use. The house owes a considerable formal and spiritual debt to Frank Lloyd Wright, whom Hamilton admired greatly. I certainly vibrate to his organic principles and his sense of space, says Hamilton. He liberated us from the box. Indeed, there is nothing boxlike about this dwelling, with its elegant battered walls made of Sonoma cut stone, laid by Hamilton himself, topped by a narrow ribbon of windows -- a Wrightian gesture to maximize light without compromising privacy.",
+    "abstract": "Pilar Viladas article on enlarging of rustic California cottage built in 1960 by architect Paul Hamilton; photos (M)d",
+    "print_page": "50",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Sticks and Stones"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "HAMILTON, PAUL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "HOUSING"
+        },
+        {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+        }
+    ],
+    "pub_date": "1997-08-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Pilar",
+                "rank": 1,
+                "lastname": "Viladas"
+            }
+        ],
+        "original": "By Pilar Viladas"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1dee58eb7c8105d723785",
+    "word_count": 282,
+    "slideshow_credits": null
+}

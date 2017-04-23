@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/30/business/ford-facing-ignition-recall-in-california.html",
+    "snippet": "In a ruling that could deal a blow to the Ford Motor Company, a California judge largely agreed late yesterday with complaints that Ford knowingly installed defective ignition mechanisms in nearly two million vehicles produced from 1983 to 1995.  ...",
+    "lead_paragraph": "In a ruling that could deal a blow to the Ford Motor Company, a California judge largely agreed late yesterday with complaints that Ford knowingly installed defective ignition mechanisms in nearly two million vehicles produced from 1983 to 1995. In a preliminary decision, Michael E. Ballachey, a Superior Court judge in Alameda County, east of San Francisco, said he intended to issue orders ''compelling recall and repair'' of the vehicles.",
+    "abstract": "Judge Michael E Ballachey of Caifornia Superior Court says he will issue orders compelling Ford Motor Co to recall and repair defective ignition mechanisms in nearly two million vehicles produced from 1983 to 1995; largely agrees with plaintiffs' complaints that Ford knowingly installed the defective ignition modules that regulate current to spark plugs; consumer advocates estimate that rulng will cost Ford $70 million to $250 million (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Ford Facing Ignition Recall In California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BALLACHEY, MICHAEL E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FORD MOTOR CO"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE SAFETY FEATURES AND DEFECTS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+        }
+    ],
+    "pub_date": "2000-08-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Kenneth",
+                "middlename": "N.",
+                "lastname": "GILPIN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By KENNETH N. GILPIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd240c98eb7c8105d7d8b7b",
+    "word_count": 666,
+    "slideshow_credits": null
+}

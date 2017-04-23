@@ -1,0 +1,67 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/25/us/safety-board-assails-air-traffic-control-south-of-los-angeles.html",
+    "snippet": "LEAD: The National Transportation Safety Board, in a report documenting serious lapses in the air traffic control system in Southern California, has criticized the Federal Aviation Administration for ''inadequate, ineffective and unresponsive'' ma...",
+    "lead_paragraph": "LEAD: The National Transportation Safety Board, in a report documenting serious lapses in the air traffic control system in Southern California, has criticized the Federal Aviation Administration for ''inadequate, ineffective and unresponsive'' management.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Safety Board Assails Air Traffic Control South of Los Angeles"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "COAST TERMINAL RADAR APPROACH CONTROL"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL AVIATION ADMINISTRATION"
+        },
+        {
+            "name": "organizations",
+            "value": "TRANSPORTATION SAFETY BOARD, NATIONAL"
+        },
+        {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+        },
+        {
+            "name": "subject",
+            "value": "AIR TRAFFIC CONTROL"
+        }
+    ],
+    "pub_date": "1989-05-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Front Page; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr.",
+                "firstname": "John",
+                "middlename": "H.",
+                "lastname": "CUSHMAN",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JOHN H. CUSHMAN Jr., Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18bed8eb7c8105d68eb76",
+    "word_count": 901,
+    "slideshow_credits": null
+}

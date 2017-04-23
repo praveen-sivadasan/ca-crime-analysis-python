@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1988/02/14/weekinreview/ideas-trends-the-fight-for-federal-funds-california-is-losing-its-high-tech-edge.html",
+    "snippet": "LEAD: WHEN it comes to science and technology, California has long been blessed - from the founding of Berkeley, Caltech and Stanford in the late 1800's, to the aerospace boom during and after World War II, to the rise of Silicon Valley....",
+    "lead_paragraph": "LEAD: WHEN it comes to science and technology, California has long been blessed - from the founding of Berkeley, Caltech and Stanford in the late 1800's, to the aerospace boom during and after World War II, to the rise of Silicon Valley.",
+    "abstract": null,
+    "print_page": "7",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "IDEAS & TRENDS: The Fight for Federal Funds; California Is Losing Its High-Tech Edge"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SCIENCE AND TECHNOLOGY"
+        },
+        {
+            "name": "subject",
+            "value": "RESEARCH"
+        }
+    ],
+    "pub_date": "1988-02-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Technology; Science; Week in Review",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            }
+        ],
+        "original": "By ANDREW POLLACK"
+    },
+    "type_of_material": "News",
+    "_id": "4fd177818eb7c8105d66de23",
+    "word_count": 793,
+    "slideshow_credits": null
+}

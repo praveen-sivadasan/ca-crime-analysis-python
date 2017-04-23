@@ -1,0 +1,48 @@
+{
+    "web_url": "https://www.nytimes.com/1995/10/10/us/california-investigates-abuses-at-cemeteries.html",
+    "snippet": "The first discovery came in August at Paradise Memorial Park, a cemetery in the working-class Los Angeles suburb of Santa Fe Springs, where visitors came upon a 10-foot-high mound of bones and splintered coffins.         Then, at Lincoln Memorial ...",
+    "lead_paragraph": "The first discovery came in August at Paradise Memorial Park, a cemetery in the working-class Los Angeles suburb of Santa Fe Springs, where visitors came upon a 10-foot-high mound of bones and splintered coffins. Then, at Lincoln Memorial Park, a rundown cemetery here in another suburb of Los Angeles, scores of discarded headstones were found in metal Dumpsters and in jumbled piles near a toolshed. In one instance, a tombstone was being used as a paperweight on a stack of telephone books in the cemetery office.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Investigates Abuses at Cemeteries"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "CEMETERIES"
+        }
+    ],
+    "pub_date": "1995-10-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c16a8eb7c8105d6f03de",
+    "word_count": 984,
+    "slideshow_credits": null
+}

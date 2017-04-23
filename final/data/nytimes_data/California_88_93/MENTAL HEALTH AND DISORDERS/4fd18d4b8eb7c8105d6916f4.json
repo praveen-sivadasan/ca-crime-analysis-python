@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/25/opinion/l-mental-health-is-too-serious-for-politics-678390.html",
+    "snippet": "LEAD: To the Editor:...",
+    "lead_paragraph": "LEAD: To the Editor:",
+    "abstract": null,
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Mental Health Is Too Serious for Politics"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REAGAN, RONALD WILSON"
+        },
+        {
+            "name": "persons",
+            "value": "ZIMMERMAN, JANE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        }
+    ],
+    "pub_date": "1990-02-25T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd18d4b8eb7c8105d6916f4",
+    "word_count": 220,
+    "slideshow_credits": null
+}

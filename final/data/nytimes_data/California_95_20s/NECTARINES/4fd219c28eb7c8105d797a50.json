@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/09/dining/food-stuff-what-the-nectarine-told-the-shopper.html",
+    "snippet": "Stickers on produce now do more than tell the checkout clerk the price. Some point the way to information. No, you don't have to squint at tiny type. The stickers on some nectarines, for example, direct you to www .nectinfo.com, a Web site run by ...",
+    "lead_paragraph": "Stickers on produce now do more than tell the checkout clerk the price. Some point the way to information. No, you don't have to squint at tiny type. The stickers on some nectarines, for example, direct you to www .nectinfo.com, a Web site run by California fruit growers. Log on and you learn that nectarines ripen best in a paper bag, that they should be refrigerated only after they are ripe and that white-fleshed nectarines ripen faster than yellow-fleshed varieties, but the yellows ripen sweeter. Then you can try some of the recipes.",
+    "abstract": "California fruit growers are putting stickers on nectarines that direct customer to Web site that offeres various facts about the fruit; photo (S)",
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "What the Nectarine Told the Shopper",
+        "kicker": "FOOD STUFF"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "NECTARINES"
+        },
+        {
+            "name": "subject",
+            "value": "FRUIT"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+        }
+    ],
+    "pub_date": "2000-08-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Technology; Dining and Wine; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Florence",
+                "rank": 1,
+                "lastname": "Fabricant"
+            }
+        ],
+        "original": "By Florence Fabricant"
+    },
+    "type_of_material": "News",
+    "_id": "4fd219c28eb7c8105d797a50",
+    "word_count": 95,
+    "slideshow_credits": null
+}

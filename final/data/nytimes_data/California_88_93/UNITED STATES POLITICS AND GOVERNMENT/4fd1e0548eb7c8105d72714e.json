@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/04/us/clinton-offers-domestic-cures-to-californians.html",
+    "snippet": "President Clinton took his entire domestic agenda on the road today, using a rally and televised question-and-answer session to peddle his health care plan, urge the passage of gun-control legislation and promote a trade agreement that he promised...",
+    "lead_paragraph": "President Clinton took his entire domestic agenda on the road today, using a rally and televised question-and-answer session to peddle his health care plan, urge the passage of gun-control legislation and promote a trade agreement that he promised would create, not cost, jobs. Along the way, Mr. Clinton also pledged that he would appoint to the Federal bench only judges who would uphold the law allowing abortions, even if they are on record as being personally opposed to it.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Clinton Offers Domestic Cures To Californians"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "TRAVEL, PERSONAL"
+        }
+    ],
+    "pub_date": "1993-10-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.; Washington",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Gwen",
+                "rank": 1,
+                "lastname": "IFILL"
+            }
+        ],
+        "original": "By GWEN IFILL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e0548eb7c8105d72714e",
+    "word_count": 698,
+    "slideshow_credits": null
+}

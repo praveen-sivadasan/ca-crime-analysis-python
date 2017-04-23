@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/09/29/nyregion/c-corrections-810590.html",
+    "snippet": "LEAD: A picture caption on Thursday about California's consideration of stricter anti-pollution measures misidentified the road shown. It was the San Diego Freeway....",
+    "lead_paragraph": "LEAD: A picture caption on Thursday about California's consideration of stricter anti-pollution measures misidentified the road shown. It was the San Diego Freeway.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1990-09-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd194608eb7c8105d69f76a",
+    "word_count": 45,
+    "slideshow_credits": null
+}

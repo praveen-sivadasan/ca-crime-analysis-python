@@ -1,0 +1,46 @@
+{
+    "web_url": "https://www.nytimes.com/1991/05/12/business/wall-street-the-seed-money-flow-slows-in-computers.html",
+    "snippet": "The high-technology darlings of tomorrow's stock market are incubating in the venture-capital nurseries today. That's the good news. The bad news is that the nanny may be about to give notice.   For the computer industry, in fact, 1990 may become ...",
+    "lead_paragraph": "The high-technology darlings of tomorrow's stock market are incubating in the venture-capital nurseries today. That's the good news. The bad news is that the nanny may be about to give notice. For the computer industry, in fact, 1990 may become \"the year the Great American Venture Capital Machine began to slow down,\" said Richard A. Shaffer, savvy editor of the Technologic Partners' Computer Letter. Mr. Shaffer estimates that at least 10 of the 300 firms he surveys left the field last year. And at a recent conference, a session titled \"How to Wind Down a Venture Capital Firm\" drew a capacity crowd, he said.",
+    "abstract": null,
+    "print_page": "13",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Wall Street; The Seed Money Flow Slows in Computers"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "DATA PROCESSING (COMPUTERS)"
+        },
+        {
+            "name": "subject",
+            "value": "VENTURE CAPITAL"
+        }
+    ],
+    "pub_date": "1991-05-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By Diana B. Henriques"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a3318eb7c8105d6ba70e",
+    "word_count": 170,
+    "slideshow_credits": null
+}

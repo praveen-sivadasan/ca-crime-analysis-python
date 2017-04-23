@@ -1,0 +1,65 @@
+{
+    "web_url": "https://www.nytimes.com/1997/04/01/us/for-ex-wife-of-leader-no-wish-for-the-limelight.html",
+    "snippet": "Down a long ranch road in the rural Southwest, where grazing deer mingle with cows, is a rustic wooden house marked ''Gran's Cabin,'' the retirement home of Ann P. Nickerson, once the wife of Marshall Herff Applewhite.    After the news last week ...",
+    "lead_paragraph": "Down a long ranch road in the rural Southwest, where grazing deer mingle with cows, is a rustic wooden house marked ''Gran's Cabin,'' the retirement home of Ann P. Nickerson, once the wife of Marshall Herff Applewhite. After the news last week that Mr. Applewhite had led his followers into mass suicide, Mrs. Nickerson and her husband, Sam, retreated behind three ''No Trespassing'' signs and a chained cattle gate. Forgoing Easter services at their church, the couple remained secluded at home on Sunday, screening telephone calls with an answering machine and watching the Heaven's Gate story unfold on their television set.",
+    "abstract": "Ann P Nickerson, ex-wife of Heaven's Gate cult leader Marshall Herff Applewhite, has remained in seclusion since news that he led his followers into mass suicide in California (S)",
+    "print_page": "18",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "For Ex-Wife of Leader, No Wish for the Limelight",
+        "kicker": "DEATH IN A CULT: THE SILENCE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "APPLEWHITE, MARSHALL HERFF"
+        },
+        {
+            "name": "persons",
+            "value": "NICKERSON, ANN P"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEAVEN'S GATE"
+        },
+        {
+            "name": "subject",
+            "value": "RELIGIOUS CULTS"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        },
+        {
+            "name": "subject",
+            "value": "SUICIDES AND SUICIDE ATTEMPTS"
+        }
+    ],
+    "pub_date": "1997-04-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "James",
+                "rank": 1,
+                "lastname": "BROOKE"
+            }
+        ],
+        "original": "By JAMES BROOKE"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1f9518eb7c8105d7567ad",
+    "word_count": 315,
+    "slideshow_credits": null
+}

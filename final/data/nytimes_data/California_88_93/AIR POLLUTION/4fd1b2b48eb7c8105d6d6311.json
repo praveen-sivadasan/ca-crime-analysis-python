@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1992/01/10/us/to-clean-air-california-curbs-personal-products.html",
+    "snippet": "Taking aim at ever-smaller sources of pollution, a California agency yesterday adopted regulations controlling the ingredients in household adhesives, laundry starch, perfumes, dusting aids and other types of consumer products.   The action by the...",
+    "lead_paragraph": "Taking aim at ever-smaller sources of pollution, a California agency yesterday adopted regulations controlling the ingredients in household adhesives, laundry starch, perfumes, dusting aids and other types of consumer products. The action by the agency, Air Resources Board, applies only to California, but historically other states with air pollution problems have adopted California's regulations.",
+    "abstract": null,
+    "print_page": "12",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "To Clean Air, California Curbs Personal Products"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1992-01-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b2b48eb7c8105d6d6311",
+    "word_count": 626,
+    "slideshow_credits": null
+}

@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1988/06/07/nyregion/c-corrections-539188.html",
+    "snippet": "LEAD: An article on Friday about California politics described Senator Clair Engle's tenure incorrectly. He died in office in 1964....",
+    "lead_paragraph": "LEAD: An article on Friday about California politics described Senator Clair Engle's tenure incorrectly. He died in office in 1964.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Corrections"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "ENGLE, CLAIR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1988-06-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "Corrections; New York and Region",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction",
+    "_id": "4fd17ac98eb7c8105d672e5e",
+    "word_count": 39,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1988/04/01/us/california-group-for-cuomo-is-set-back-in-petition-drive.html",
+    "snippet": "LEAD: Governor Cuomo's supporters here have failed to gather enough signatures to put the New Yorker's name on the ballot for California's Democratic Presidential primary June 7....",
+    "lead_paragraph": "LEAD: Governor Cuomo's supporters here have failed to gather enough signatures to put the New Yorker's name on the ballot for California's Democratic Presidential primary June 7.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Group for Cuomo Is Set Back in Petition Drive"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CUOMO, MARIO M"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1988"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1988-04-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd17d0b8eb7c8105d676a8b",
+    "word_count": 80,
+    "slideshow_credits": null
+}

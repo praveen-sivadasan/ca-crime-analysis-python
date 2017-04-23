@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1993/09/23/garden/currents-california-creations.html",
+    "snippet": "CALIFORNIA was fertile ground for the development of an American version of the English Arts and Crafts movement. The environment, with its poppies, pines and redwoods, influenced potters and furniture makers, among them Reginald Machell, whose pa...",
+    "lead_paragraph": "CALIFORNIA was fertile ground for the development of an American version of the English Arts and Crafts movement. The environment, with its poppies, pines and redwoods, influenced potters and furniture makers, among them Reginald Machell, whose painted wood throne is shown at left. The state's colonial past inspired the ceramic tiles with multicolored glaze, at left, by Solon & Schemmel, circa 1925.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Creations",
+        "kicker": "CURRENTS"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "CURRENTS (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "RENWICK GALLERY"
+        },
+        {
+            "name": "subject",
+            "value": "HANDICRAFTS"
+        },
+        {
+            "name": "subject",
+            "value": "FURNITURE"
+        },
+        {
+            "name": "subject",
+            "value": "SHOWS (EXHIBITS)"
+        }
+    ],
+    "pub_date": "1993-09-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Home Desk",
+    "section_name": "Home and Garden; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Suzanne",
+                "rank": 1,
+                "lastname": "SLESIN"
+            }
+        ],
+        "original": "By SUZANNE SLESIN"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e0528eb7c8105d726ec5",
+    "word_count": 106,
+    "slideshow_credits": null
+}

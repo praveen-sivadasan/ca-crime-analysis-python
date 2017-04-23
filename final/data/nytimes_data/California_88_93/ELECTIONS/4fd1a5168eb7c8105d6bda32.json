@@ -1,0 +1,89 @@
+{
+    "web_url": "https://www.nytimes.com/1990/10/09/us/californians-to-decide-on-nickel-a-drink-rise-in-alcohol-taxes.html",
+    "snippet": "LEAD: Voters in California will decide next month whether to impose steep new taxes on wine, beer and hard liquor to support alcohol-abuse and mental-health programs....",
+    "lead_paragraph": "LEAD: Voters in California will decide next month whether to impose steep new taxes on wine, beer and hard liquor to support alcohol-abuse and mental-health programs.",
+    "abstract": null,
+    "print_page": "23",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Californians to Decide on 'Nickel-a-Drink' Rise in Alcohol Taxes"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BEER"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "SALES TAX"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOL"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLISM"
+        },
+        {
+            "name": "subject",
+            "value": "LIQUOR"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-10-09T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Health; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By SETH MYDANS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a5168eb7c8105d6bda32",
+    "word_count": 1172,
+    "slideshow_credits": null
+}

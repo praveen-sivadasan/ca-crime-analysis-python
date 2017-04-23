@@ -1,0 +1,80 @@
+{
+    "web_url": "https://www.nytimes.com/1991/12/14/us/california-s-credit-lowered-in-face-of-deficit.html",
+    "snippet": "Citing California's multibillion-dollar budget deficit, Standard & Poor's, one of the nation's top debt rating agencies, today lowered the state's credit rating from the highest rating of AAA.   In a sign of decreasing confidence in the state's ab...",
+    "lead_paragraph": "Citing California's multibillion-dollar budget deficit, Standard & Poor's, one of the nation's top debt rating agencies, today lowered the state's credit rating from the highest rating of AAA. In a sign of decreasing confidence in the state's ability to solve its fiscal problems, at least in the short term, the downgrading, to AA, means that the state will have to pay higher interest for the bonds that it sells to raise capital. Long-Term Growth Expected The lowered rating comes at a time when California is facing an economic crisis that includes a projected $2.2 billion budget deficit, when some big companies are slashing jobs and others are moving out of state.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Credit Lowered in Face of Deficit"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "STANDARD & POOR'S CORP"
+        },
+        {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+        },
+        {
+            "name": "subject",
+            "value": "WELFARE (US)"
+        },
+        {
+            "name": "subject",
+            "value": "STATE AND LOCAL AID (US)"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+        },
+        {
+            "name": "subject",
+            "value": "CREDIT"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+        }
+    ],
+    "pub_date": "1991-12-14T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Seth",
+                "rank": 1,
+                "lastname": "MYDANS"
+            }
+        ],
+        "original": "By SETH MYDANS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1afd28eb7c8105d6d05f2",
+    "word_count": 702,
+    "slideshow_credits": null
+}

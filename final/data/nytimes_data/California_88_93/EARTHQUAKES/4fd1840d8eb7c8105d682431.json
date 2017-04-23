@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1989/05/08/us/quake-in-california.html",
+    "snippet": "LEAD: A mild earthquake was felt in Southern California Saturday night but there were no immediate reports of injury or property damage, the authorities said. The quake came at 11:07 P.M. and measured 3.7 on the Richter scale of ground motion and ...",
+    "lead_paragraph": "LEAD: A mild earthquake was felt in Southern California Saturday night but there were no immediate reports of injury or property damage, the authorities said. The quake came at 11:07 P.M. and measured 3.7 on the Richter scale of ground motion and released energy, said Robert O'Rourke, a spokesman for the California Institute of Technology in Pasadena.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Quake in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        }
+    ],
+    "pub_date": "1989-05-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1840d8eb7c8105d682431",
+    "word_count": 122,
+    "slideshow_credits": null
+}

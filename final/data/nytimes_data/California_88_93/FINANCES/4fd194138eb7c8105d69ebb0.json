@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/06/17/opinion/topics-of-the-times-california-s-message-on-ethics.html",
+    "snippet": "LEAD: California voters, rebelling against the corrupting influence of special-interest money in politics, have approved sweeping ethics and campaign finance reforms. The results ought to inspire members of Congress still stalling similar Federal ...",
+    "lead_paragraph": "LEAD: California voters, rebelling against the corrupting influence of special-interest money in politics, have approved sweeping ethics and campaign finance reforms. The results ought to inspire members of Congress still stalling similar Federal measures.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Topics of the Times;   California's Message on Ethics"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "TOPICS OF THE TIMES (TIMES COLUMN)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "EDITORIALS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-06-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Editorial",
+    "_id": "4fd194138eb7c8105d69ebb0",
+    "word_count": 180,
+    "slideshow_credits": null
+}

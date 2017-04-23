@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1990/02/22/us/growers-reach-for-the-ballot-in-california-duel-over-pesticides.html",
+    "snippet": "LEAD: In a duel over pesticides that could have important implications for the rest of American agriculture, California growers today began collecting signatures for a ballot measure that they said would reform programs to protect food, water and ...",
+    "lead_paragraph": "LEAD: In a duel over pesticides that could have important implications for the rest of American agriculture, California growers today began collecting signatures for a ballot measure that they said would reform programs to protect food, water and farm workers from toxic chemicals.",
+    "abstract": null,
+    "print_page": "20",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Growers Reach for the Ballot in California Duel Over Pesticides"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "REFERENDUMS"
+        }
+    ],
+    "pub_date": "1990-02-22T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Keith",
+                "rank": 1,
+                "lastname": "SCHNEIDER"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By KEITH SCHNEIDER, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ab848eb7c8105d6c9dc3",
+    "word_count": 955,
+    "slideshow_credits": null
+}

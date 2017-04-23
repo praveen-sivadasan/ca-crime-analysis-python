@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/13/business/california-draws-on-ports-profits.html",
+    "snippet": "The State of California has found a sugar daddy to help bail it out of its financial hole. The State Legislature, facing a $10.7 billion budget gap, passed a measure last month that for the first time allows cities to draw on the profits of their ...",
+    "lead_paragraph": "The State of California has found a sugar daddy to help bail it out of its financial hole. The State Legislature, facing a $10.7 billion budget gap, passed a measure last month that for the first time allows cities to draw on the profits of their ports, which have become the busiest, fastest-growing and most profitable in the nation. What's good for the state, though, could be bad for business. The ports worry that channeling tens of millions of dollars to city coffers will force them to curtail much-needed expansion plans and, ultimately, to raise rates, sending shippers hunting for better buys at ports in the Northwest, Canada and Mexico.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Draws On Ports' Profits"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SHIPS AND SHIPPING"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "PORTS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        }
+    ],
+    "pub_date": "1992-10-13T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Calvin",
+                "rank": 1,
+                "lastname": "SIMS"
+            }
+        ],
+        "original": "By CALVIN SIMS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ba378eb7c8105d6e3cf6",
+    "word_count": 1366,
+    "slideshow_credits": null
+}

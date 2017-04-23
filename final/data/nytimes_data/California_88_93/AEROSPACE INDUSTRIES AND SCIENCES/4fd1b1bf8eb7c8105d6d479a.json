@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/17/business/the-sputtering-california-miracle.html",
+    "snippet": "California, a big engine of growth during the 1980's, is turning out to be an economic caboose in 1991, as it suffers from consistently high unemployment, a weakening real estate market and troubles in key industries like aerospace,    While many ...",
+    "lead_paragraph": "California, a big engine of growth during the 1980's, is turning out to be an economic caboose in 1991, as it suffers from consistently high unemployment, a weakening real estate market and troubles in key industries like aerospace, While many other parts of the country appear to be pulling out of the recession, economists here said California might not yet have hit bottom. Even after it does, they said, myriad problems are likely to dampen the strength of its recovery.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "The Sputtering California Miracle"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "RECESSION AND DEPRESSION"
+        },
+        {
+            "name": "subject",
+            "value": "UNEMPLOYMENT AND JOB MARKET"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "AEROSPACE INDUSTRIES AND SCIENCES"
+        },
+        {
+            "name": "subject",
+            "value": "REAL ESTATE"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+        }
+    ],
+    "pub_date": "1991-10-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "W.",
+                "lastname": "STEVENSON",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD W. STEVENSON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1b1bf8eb7c8105d6d479a",
+    "word_count": 1549,
+    "slideshow_credits": null
+}

@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1988/08/27/us/investigators-still-examining-seized-california-documents.html",
+    "snippet": "LEAD: Federal officials said today that they were still evaluating documents and other materials seized late Wednesday and early Thursday in searches of some legislative offices at the state Capitol....",
+    "lead_paragraph": "LEAD: Federal officials said today that they were still evaluating documents and other materials seized late Wednesday and early Thursday in searches of some legislative offices at the state Capitol.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Investigators Still Examining Seized California Documents"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FEDERAL BUREAU OF INVESTIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "ETHICS"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1988-08-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18dff8eb7c8105d692ea1",
+    "word_count": 216,
+    "slideshow_credits": null
+}

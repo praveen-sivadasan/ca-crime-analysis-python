@@ -1,0 +1,56 @@
+{
+    "web_url": "https://www.nytimes.com/1992/09/01/us/budget-fight-goes-on-in-california.html",
+    "snippet": "With only hours to go before the Legislature was due to adjourn for the year, the two-month-long budget crisis in California reached a flashpoint this afternoon when Gov. Pete Wilson threatened to veto the budget bill because he could not accept a...",
+    "lead_paragraph": "With only hours to go before the Legislature was due to adjourn for the year, the two-month-long budget crisis in California reached a flashpoint this afternoon when Gov. Pete Wilson threatened to veto the budget bill because he could not accept an education spending plan approved earlier in the day by the state Assembly. The new impasse, more of a dispute over future financing for public education rather than a clash over this year's spending, could wreck the budget package, major components of which passed the Legislature over the weekend.",
+    "abstract": null,
+    "print_page": "6",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Budget Fight Goes On in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1992-09-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c35a8eb7c8105d6f1f4c",
+    "word_count": 873,
+    "slideshow_credits": null
+}

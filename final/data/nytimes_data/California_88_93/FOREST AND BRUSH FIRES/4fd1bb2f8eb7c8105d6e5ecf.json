@@ -1,0 +1,57 @@
+{
+    "web_url": "https://www.nytimes.com/1993/10/29/us/the-california-fires-couple-races-the-inferno-and-wins.html",
+    "snippet": "Lorine Cecere was married just last month, and the wedding pictures and honeymoon postcards from Tahiti still lie scattered on the kitchen counter of her mother's sprawling three-story house in the exclusive Emerald Bay enclave here.    She moved ...",
+    "lead_paragraph": "Lorine Cecere was married just last month, and the wedding pictures and honeymoon postcards from Tahiti still lie scattered on the kitchen counter of her mother's sprawling three-story house in the exclusive Emerald Bay enclave here. She moved from the house so recently that the 28-year-old Mrs. Cecere still thinks of it as home. And so when fire roared through the canyon here on Wednesday, gobbling wooded acres and million-dollar houses, she and her husband, Vince, decided that they would do everything in their power to save it, no matter how foolhardy.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Couple Races the Inferno, and Wins",
+        "kicker": "THE CALIFORNIA FIRES"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "LAGUNA BEACH (CALIF)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "FIRES AND FIREMEN"
+        },
+        {
+            "name": "subject",
+            "value": "FOREST AND BRUSH FIRES"
+        },
+        {
+            "name": "subject",
+            "value": "ARSON"
+        }
+    ],
+    "pub_date": "1993-10-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bb2f8eb7c8105d6e5ecf",
+    "word_count": 1126,
+    "slideshow_credits": null
+}

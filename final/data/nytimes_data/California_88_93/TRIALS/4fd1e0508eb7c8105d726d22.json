@@ -1,0 +1,73 @@
+{
+    "web_url": "https://www.nytimes.com/1993/09/03/business/company-news-pfizer-settles-suit-over-heart-valve.html",
+    "snippet": "Pfizer Inc. said yesterday that it had agreed to settle a class-action lawsuit involving 256 patients seeking compensation for fears that artificial heart valves would fail. The agreement was announced as the case was about to go to the jury after...",
+    "lead_paragraph": "Pfizer Inc. said yesterday that it had agreed to settle a class-action lawsuit involving 256 patients seeking compensation for fears that artificial heart valves would fail. The agreement was announced as the case was about to go to the jury after a monthlong trial in Orange County Superior Court in Irvine, Calif. With the agreement, Pfizer said there were only 26 remaining California anxiety cases and three more in other states involving functioning heart valves made by Pfizer's Shiley Inc. unit. It said 415 similar cases had been settled earlier, including 324 in November.",
+    "abstract": null,
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Pfizer Settles Suit Over Heart Valve",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PFIZER INC"
+        },
+        {
+            "name": "organizations",
+            "value": "SHILEY INC"
+        },
+        {
+            "name": "subject",
+            "value": "HEART"
+        },
+        {
+            "name": "subject",
+            "value": "STRESS (HUMAN)"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "TRIALS"
+        },
+        {
+            "name": "subject",
+            "value": "CLASS-ACTION SUITS"
+        },
+        {
+            "name": "subject",
+            "value": "DEFECTIVE PRODUCTS"
+        }
+    ],
+    "pub_date": "1993-09-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Milt",
+                "rank": 1,
+                "lastname": "FREUDENHEIM"
+            }
+        ],
+        "original": "By MILT FREUDENHEIM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1e0508eb7c8105d726d22",
+    "word_count": 429,
+    "slideshow_credits": null
+}

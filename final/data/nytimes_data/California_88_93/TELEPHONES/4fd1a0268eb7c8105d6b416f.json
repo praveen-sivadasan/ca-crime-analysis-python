@@ -1,0 +1,55 @@
+{
+    "web_url": "https://www.nytimes.com/1988/09/29/business/company-news-price-cuts-backed-for-pacific-bell.html",
+    "snippet": "LEAD: Pacific Bell, the telephone operating subsidiary of the Pacific Telesis Group, said that the California Public Utilities Commission had approved an agreement allowing lower prices for certain telephone services....",
+    "lead_paragraph": "LEAD: Pacific Bell, the telephone operating subsidiary of the Pacific Telesis Group, said that the California Public Utilities Commission had approved an agreement allowing lower prices for certain telephone services.",
+    "abstract": null,
+    "print_page": "5",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Price Cuts Backed For Pacific Bell",
+        "kicker": "COMPANY NEWS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "PRICES"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES"
+        },
+        {
+            "name": "subject",
+            "value": "RATES"
+        }
+    ],
+    "pub_date": "1988-09-29T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a0268eb7c8105d6b416f",
+    "word_count": 114,
+    "slideshow_credits": null
+}

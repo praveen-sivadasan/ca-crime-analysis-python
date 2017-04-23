@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1995/02/17/opinion/c-correction-167195.html",
+    "snippet": "Because of a production error, an article yesterday about government reform in California appeared without its last line. The ending should have read: \"Beware the law of unintended consequences. California has a Constitution full of them.\"...",
+    "lead_paragraph": "Because of a production error, an article yesterday about government reform in California appeared without its last line. The ending should have read: \"Beware the law of unintended consequences. California has a Constitution full of them.\"",
+    "abstract": null,
+    "print_page": "31",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Correction"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+        }
+    ],
+    "pub_date": "1995-02-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Corrections; Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Correction; Op-Ed",
+    "_id": "4fd1c66b8eb7c8105d6f7401",
+    "word_count": 36,
+    "slideshow_credits": null
+}

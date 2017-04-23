@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/07/business/louisiana-pacific-plans-to-end-clear-cutting-in-california.html",
+    "snippet": "The Louisiana-Pacific Corporation said today that it would phase out clearcutting of trees on its California timberlands by 1994. Lumber industry officials and environmental groups said it appeared to be the first time a major timber company in Ca...",
+    "lead_paragraph": "The Louisiana-Pacific Corporation said today that it would phase out clearcutting of trees on its California timberlands by 1994. Lumber industry officials and environmental groups said it appeared to be the first time a major timber company in California, and perhaps the nation, had given up the practice, which has been strongly criticized by environmentalists. Clear-cutting is cutting down all the trees in an area at once. While timber companies have said the practice is sound, environmentalists have said it creates eyesores, increases erosion and eliminates wildlife habitat.",
+    "abstract": null,
+    "print_page": "2",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Louisiana-Pacific Plans to End Clear-Cutting in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "LOUISIANA-PACIFIC CORP"
+        },
+        {
+            "name": "subject",
+            "value": "FORESTS AND FORESTRY"
+        }
+    ],
+    "pub_date": "1991-03-07T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Andrew",
+                "rank": 1,
+                "lastname": "POLLACK"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ANDREW POLLACK, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c19a8eb7c8105d6f0e6d",
+    "word_count": 727,
+    "slideshow_credits": null
+}

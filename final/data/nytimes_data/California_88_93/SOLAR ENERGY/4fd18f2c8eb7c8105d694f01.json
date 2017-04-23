@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1989/10/04/business/business-technology-a-cheaper-road-to-solar-power-it-s-done-with-mirrors.html",
+    "snippet": "LEAD: For years the quest for economical solar power has centered on photovoltaic cells that turn sunlight directly into electricity. The cost of the cells is so high, however, that their use has been limited....",
+    "lead_paragraph": "LEAD: For years the quest for economical solar power has centered on photovoltaic cells that turn sunlight directly into electricity. The cost of the cells is so high, however, that their use has been limited.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A Cheaper Road to Solar Power: It's Done With Mirrors",
+        "kicker": "BUSINESS TECHNOLOGY"
+    },
+    "keywords": [
+        {
+            "name": "creative_works",
+            "value": "BUSINESS TECHNOLOGY PAGE (NYT)"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "SOLAR ENERGY"
+        }
+    ],
+    "pub_date": "1989-10-04T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Matthew",
+                "middlename": "L.",
+                "lastname": "WALD",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By MATTHEW L. WALD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd18f2c8eb7c8105d694f01",
+    "word_count": 1304,
+    "slideshow_credits": null
+}

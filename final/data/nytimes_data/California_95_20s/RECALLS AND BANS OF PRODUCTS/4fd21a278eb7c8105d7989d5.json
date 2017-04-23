@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/2000/10/12/business/judge-orders-ford-to-make-huge-recall.html",
+    "snippet": "A California judge ordered the Ford Motor Company yesterday to recall and repair nearly two million cars and trucks after concluding that the automaker knowingly installed defective ignition systems in as many as 22 million vehicles nationwide and...",
+    "lead_paragraph": "A California judge ordered the Ford Motor Company yesterday to recall and repair nearly two million cars and trucks after concluding that the automaker knowingly installed defective ignition systems in as many as 22 million vehicles nationwide and concealed the defects from consumers and regulators. The order, which Judge Michael E. Ballachey of Superior Court first indicated he would issue two months ago, was the first recall imposed on a carmaker by a judge in United States history. The case affects vehicles that were made between 1983 and 1995 and registered in California. If Ford is unsuccessful in persuading an appeals court to stay the order, the company will have to begin the recall as soon as a special referee, appointed yesterday by Judge Ballachey, decides what steps Ford must take to fix the ignition system.",
+    "abstract": "Judge Michael E Ballachey orders Ford Motor Co to recall and repair nearly two million cars and trucks after concluding that automaker knowingly installed defective ignitiion systems in as many as 22 million vehicles nationwide and concealed defects from consumers and regulators; order is first recall imposed on carmaker by a judge in US history; case affects vehicles that were made between 1983 and 1995 and registered in California (M)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Judge Orders Ford to Make Huge Recall"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BALLACHEY, MICHAEL E"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FORD MOTOR CO"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+        },
+        {
+            "name": "subject",
+            "value": "AUTOMOBILE SAFETY FEATURES AND DEFECTS"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+        },
+        {
+            "name": "subject",
+            "value": "DEFECTIVE PRODUCTS"
+        }
+    ],
+    "pub_date": "2000-10-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Stephen",
+                "rank": 1,
+                "lastname": "LABATON"
+            }
+        ],
+        "original": "By STEPHEN LABATON"
+    },
+    "type_of_material": "News",
+    "_id": "4fd21a278eb7c8105d7989d5",
+    "word_count": 923,
+    "slideshow_credits": null
+}

@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1990/11/11/us/new-emission-test-for-heavy-trucks.html",
+    "snippet": "Roving teams of state inspectors will begin random roadside testing of diesel smoke from heavy trucks and buses next spring under a new program adopted by the State Air Resources Board.   The program, approved by a vote of 7 to 1 on Thursday, will...",
+    "lead_paragraph": "Roving teams of state inspectors will begin random roadside testing of diesel smoke from heavy trucks and buses next spring under a new program adopted by the State Air Resources Board. The program, approved by a vote of 7 to 1 on Thursday, will apply to all heavy trucks and buses in the state, regardless of where they are registered.",
+    "abstract": null,
+    "print_page": "24",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "NEW EMISSION TEST FOR HEAVY TRUCKS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "BUSES"
+        },
+        {
+            "name": "subject",
+            "value": "TRUCKS AND TRUCKING"
+        },
+        {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+        }
+    ],
+    "pub_date": "1990-11-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd1970b8eb7c8105d6a4bf1",
+    "word_count": 367,
+    "slideshow_credits": null
+}

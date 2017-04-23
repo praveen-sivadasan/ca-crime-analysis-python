@@ -1,0 +1,52 @@
+{
+    "web_url": "https://www.nytimes.com/1992/03/10/us/court-s-ruling-on-terms-gives-boost-to-backers.html",
+    "snippet": "The United States Supreme Court today left intact a 1990 initiative limiting the terms of California State officeholders, thereby giving a shot of adrenaline to similar measures under consideration in at least 16 states.   \"What happened today wil...",
+    "lead_paragraph": "The United States Supreme Court today left intact a 1990 initiative limiting the terms of California State officeholders, thereby giving a shot of adrenaline to similar measures under consideration in at least 16 states. \"What happened today will give momentum again to the term-limit folks, who lost it after the Washington election,\" said Bill Frenzel, a retired Minnesota Congressman and a guest scholar at the Brookings Institution, referring to the lone electoral defeat for a term-limits measure, in Washington State last fall. \"They will take heart and be encouraged to work harder.\"",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Court's Ruling On Terms Gives Boost to Backers"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SUPREME COURT"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        }
+    ],
+    "pub_date": "1992-03-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            }
+        ],
+        "original": "By JANE GROSS"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1ac188eb7c8105d6cb44b",
+    "word_count": 821,
+    "slideshow_credits": null
+}

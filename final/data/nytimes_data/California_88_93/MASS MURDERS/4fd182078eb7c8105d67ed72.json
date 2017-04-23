@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/17/us/survivor-of-rampage-recovering.html",
+    "snippet": "LEAD: A 3-year-old girl who survived a rampage that took the lives of her mother, grandmother, two sisters, two aunts and an unrelated man, was showered with toys today as she was recovering from a slashed throat....",
+    "lead_paragraph": "LEAD: A 3-year-old girl who survived a rampage that took the lives of her mother, grandmother, two sisters, two aunts and an unrelated man, was showered with toys today as she was recovering from a slashed throat.",
+    "abstract": null,
+    "print_page": "15",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Survivor of Rampage Recovering"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "SALCIDO, CARMINA"
+        },
+        {
+            "name": "persons",
+            "value": "SALCIDO, RAMON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "MASS MURDERS"
+        }
+    ],
+    "pub_date": "1989-04-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd182078eb7c8105d67ed72",
+    "word_count": 477,
+    "slideshow_credits": null
+}

@@ -1,0 +1,60 @@
+{
+    "web_url": "https://www.nytimes.com/1995/04/01/business/health-systems-wins-a-2.5-billion-contract.html",
+    "snippet": "Adding spice to the latest California health care merger fight, Health Systems International won a $2.5 billion Government contract yesterday. The losing bidders included Wellpoint Health Networks, which is trying to buy Health Systems.    Dr. Mal...",
+    "lead_paragraph": "Adding spice to the latest California health care merger fight, Health Systems International won a $2.5 billion Government contract yesterday. The losing bidders included Wellpoint Health Networks, which is trying to buy Health Systems. Dr. Malik M. Hasan, chairman of Health Systems, said in a telephone interview that his advisers were \"currently examining\" whether the added value \"is high enough to go back and renegotiate\" Wellpoint's $1.78 billion stock-swap offer for Health Systems.",
+    "abstract": null,
+    "print_page": "36",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Health Systems Wins a $2.5 Billion Contract"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "HEALTH SYSTEMS INTERNATIONAL INC"
+        },
+        {
+            "name": "organizations",
+            "value": "WELLPOINT HEALTH NETWORKS INC"
+        },
+        {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+        },
+        {
+            "name": "subject",
+            "value": "CONTRACTS"
+        },
+        {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+        }
+    ],
+    "pub_date": "1995-04-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Milt",
+                "rank": 1,
+                "lastname": "FREUDENHEIM"
+            }
+        ],
+        "original": "By MILT FREUDENHEIM"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1cb7c8eb7c8105d700e33",
+    "word_count": 468,
+    "slideshow_credits": null
+}

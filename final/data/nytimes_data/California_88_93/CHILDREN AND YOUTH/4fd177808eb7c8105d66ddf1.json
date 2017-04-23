@@ -1,0 +1,58 @@
+{
+    "web_url": "https://www.nytimes.com/1988/03/01/us/mrs-reagan-assails-drug-users.html",
+    "snippet": "LEAD: Nancy Reagan opened a conference on drug abuse today by saying that any user of illicit drugs is an ''accomplice to murder.''...",
+    "lead_paragraph": "LEAD: Nancy Reagan opened a conference on drug abuse today by saying that any user of illicit drugs is an ''accomplice to murder.''",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Mrs. Reagan Assails Drug Users"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "REAGAN, RONALD WILSON"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ADDICTION AND ABUSE"
+        }
+    ],
+    "pub_date": "1988-03-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Steven",
+                "middlename": "V.",
+                "lastname": "ROBERTS",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By STEVEN V. ROBERTS, Special to the New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd177808eb7c8105d66ddf1",
+    "word_count": 402,
+    "slideshow_credits": null
+}

@@ -1,0 +1,69 @@
+{
+    "web_url": "https://www.nytimes.com/1990/03/03/business/california-accuses-lincoln-of-misleading-bond-buyers.html",
+    "snippet": "LEAD: A California agency said today that it had filed a multimillion-dollar lawsuit against Charles H. Keating Jr. and the American Continental Corporation, contending that the company put pressure on unsophisticated investors to buy its ''junk b...",
+    "lead_paragraph": "LEAD: A California agency said today that it had filed a multimillion-dollar lawsuit against Charles H. Keating Jr. and the American Continental Corporation, contending that the company put pressure on unsophisticated investors to buy its ''junk bonds'' by saying they were insured by the Government and were free of risk.",
+    "abstract": null,
+    "print_page": "35",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Accuses Lincoln Of Misleading Bond Buyers"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KEATING, CHARLES H JR"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "AMERICAN CONTINENTAL CORP"
+        },
+        {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+        },
+        {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+        },
+        {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+        },
+        {
+            "name": "subject",
+            "value": "CORPORATE BONDS"
+        }
+    ],
+    "pub_date": "1990-03-03T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "LEV"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By MICHAEL LEV, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd192768eb7c8105d69ba81",
+    "word_count": 508,
+    "slideshow_credits": null
+}

@@ -1,0 +1,76 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/01/us/many-sense-politics-in-gay-rights-veto.html",
+    "snippet": "In vetoing a bill intended to protect homosexuals against job discrimination, Gov. Pete Wilson said Sunday that he was trying to protect California businesses from added costs, rather than playing electoral politics.   But the consensus today amon...",
+    "lead_paragraph": "In vetoing a bill intended to protect homosexuals against job discrimination, Gov. Pete Wilson said Sunday that he was trying to protect California businesses from added costs, rather than playing electoral politics. But the consensus today among both Republicans and Democrats in California was that the veto by Mr. Wilson, a moderate Republican who has sought the gay vote in the past, was indeed a political act. Many people here believe the Governor sought to protect himself and the man he appointed to succeed him in the United States Senate, John Seymour, against the wrath of his own party's conservative wing.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Many Sense Politics in Gay Rights Veto"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILSON, PETE"
+        },
+        {
+            "name": "persons",
+            "value": "SEYMOUR, JOHN"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "LABOR"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+        },
+        {
+            "name": "subject",
+            "value": "HIRING AND PROMOTION"
+        },
+        {
+            "name": "subject",
+            "value": "DISCRIMINATION"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "HOMOSEXUALITY"
+        }
+    ],
+    "pub_date": "1991-10-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1c4b18eb7c8105d6f4bd9",
+    "word_count": 1175,
+    "slideshow_credits": null
+}

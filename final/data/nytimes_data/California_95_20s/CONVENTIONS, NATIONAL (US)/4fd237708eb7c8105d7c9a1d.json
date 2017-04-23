@@ -1,0 +1,68 @@
+{
+    "web_url": "https://www.nytimes.com/2000/03/02/opinion/essay-toward-titanic-tuesday.html",
+    "snippet": "In his powerful Virginia speech declaring war on the religio-pols who long dominated the selection of Republican losers, John McCain turned his campaign into a crusade reminiscent of Dwight Eisenhower's 1952 upset of Robert Taft.     Will McCain's...",
+    "lead_paragraph": "In his powerful Virginia speech declaring war on the religio-pols who long dominated the selection of Republican losers, John McCain turned his campaign into a crusade reminiscent of Dwight Eisenhower's 1952 upset of Robert Taft. Will McCain's blast at intolerance resonate in the major states that will largely determine the nominee? We've learned to discount wild guesses of pollsters; we'll find that out next week in New York, Ohio and California.",
+    "abstract": "William Safire Op-Ed column looks ahead to California primary, which counts registered Republicans only to choose delegates to party convention; says Gov George W Bush is said to be leading 2 to 1 in that GOP-only count, but only one registered Republican in five self-identifies as member of religious right; says if John McCain runs neck-and-neck with Al Gore in California polls, then Republican convention would have to take hard look at any California 'delegation of losers' and consider open convention (M)",
+    "print_page": "27",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Essay; Toward 'Titanic Tuesday'"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "MCCAIN, JOHN"
+        },
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+        },
+        {
+            "name": "persons",
+            "value": "GORE, AL"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+        },
+        {
+            "name": "subject",
+            "value": "CONVENTIONS, NATIONAL (US)"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2000"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "2000-03-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "William",
+                "rank": 1,
+                "lastname": "SAFIRE"
+            }
+        ],
+        "original": "By WILLIAM SAFIRE"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd237708eb7c8105d7c9a1d",
+    "word_count": 670,
+    "slideshow_credits": null
+}

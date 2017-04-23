@@ -1,0 +1,45 @@
+{
+    "web_url": "https://www.nytimes.com/1993/03/17/us/move-against-bird-rejected.html",
+    "snippet": "A Federal district judge today rejected an effort by developers to prevent the Interior Department from listing the California gnatcatcher as an endangered species. Such a listing could mean that development could be restricted where the birds liv...",
+    "lead_paragraph": "A Federal district judge today rejected an effort by developers to prevent the Interior Department from listing the California gnatcatcher as an endangered species. Such a listing could mean that development could be restricted where the birds live. The department has said it may seek a comprmise on the issue. The developers sought a restraining order to force a review of the scientific data on which the Government decision will be based.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "AP",
+    "multimedia": [],
+    "headline": {
+        "main": "Move Against Bird Rejected"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTERIOR DEPARTMENT"
+        },
+        {
+            "name": "subject",
+            "value": "ENDANGERED AND EXTINCT SPECIES"
+        },
+        {
+            "name": "subject",
+            "value": "BIRDS"
+        },
+        {
+            "name": "subject",
+            "value": "GNATCATCHERS (BIRDS)"
+        }
+    ],
+    "pub_date": "1993-03-17T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": null,
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1b7f18eb7c8105d6df410",
+    "word_count": "72",
+    "slideshow_credits": null
+}

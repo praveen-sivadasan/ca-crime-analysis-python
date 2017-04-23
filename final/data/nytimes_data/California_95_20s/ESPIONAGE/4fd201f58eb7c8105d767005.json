@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1995/11/12/us/us-drops-case-of-spying-by-computer.html",
+    "snippet": "Federal prosecutors have dropped an espionage charge against a computer hacker, saying the military document found in his possession was obsolete.         The charge was dropped on Thursday in exchange for a guilty plea to unrelated offenses invol...",
+    "lead_paragraph": "Federal prosecutors have dropped an espionage charge against a computer hacker, saying the military document found in his possession was obsolete. The charge was dropped on Thursday in exchange for a guilty plea to unrelated offenses involving unauthorized intrusions into the files of the Pacific Bell Telephone Company.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "U.S. Drops Case of Spying By Computer"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "POULSEN, KEVIN L"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "PACIFIC BELL TELEPHONE CO"
+        },
+        {
+            "name": "subject",
+            "value": "TELEPHONES ANDTELECOMMUNICATIONS"
+        },
+        {
+            "name": "subject",
+            "value": "ESPIONAGE"
+        },
+        {
+            "name": "subject",
+            "value": "DATA PROCESSING (COMPUTERS)"
+        }
+    ],
+    "pub_date": "1995-11-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Technology; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "organization": "AP",
+        "original": "AP",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd201f58eb7c8105d767005",
+    "word_count": 331,
+    "slideshow_credits": null
+}

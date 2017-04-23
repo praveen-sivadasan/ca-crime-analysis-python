@@ -1,0 +1,42 @@
+{
+    "web_url": "https://www.nytimes.com/1993/09/24/sports/sports-people-high-schools-california-players-spared-sanctions.html",
+    "snippet": "The California Scholastic Federation decided yesterday not to punish eight high school basketball players who attended an all-star tournament sponsored by Nike earlier this month, even though a violation was committed....",
+    "lead_paragraph": "The California Scholastic Federation decided yesterday not to punish eight high school basketball players who attended an all-star tournament sponsored by Nike earlier this month, even though a violation was committed.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California Players Spared Sanctions",
+        "kicker": "SPORTS PEOPLE: HIGH SCHOOLS"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NIKE INC"
+        },
+        {
+            "name": "subject",
+            "value": "INTERSCHOLASTIC ATHLETICS"
+        },
+        {
+            "name": "subject",
+            "value": "BASKETBALL"
+        }
+    ],
+    "pub_date": "1993-09-24T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Sports Desk",
+    "section_name": "Sports",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1e09d8eb7c8105d72763d",
+    "word_count": 82,
+    "slideshow_credits": null
+}

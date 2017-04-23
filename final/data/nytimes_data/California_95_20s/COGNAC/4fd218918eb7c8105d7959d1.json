@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1999/01/27/dining/a-new-gauntlet-cognac-made-in-america.html",
+    "snippet": "WHEN I first visited the Napa Valley, in 1965, it was still the bucolic place pictured in Frank Loesser's musical ''The Most Happy Fella.'' There was no wine train. There were no restaurants with gastronomic pretensions, and no fancy-pants grocery...",
+    "lead_paragraph": "WHEN I first visited the Napa Valley, in 1965, it was still the bucolic place pictured in Frank Loesser's musical ''The Most Happy Fella.'' There was no wine train. There were no restaurants with gastronomic pretensions, and no fancy-pants grocery stores or shops. Only a half-dozen vineyards caught your eye as you drove up sleepy Route 29. Now, of course, it's fairly popping with vineyards. On weekends, it turns into a playpen for yuppies. But there is one intriguing wine-related activity still in its infancy, little noticed by the thundering herds: distilling.",
+    "abstract": "R W Apple Jr reports on small group of distillers in California that are producing high-quality cognac and brandies; photos (L)",
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "A New Gauntlet: Cognac, Made in America"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "COGNAC"
+        },
+        {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+        }
+    ],
+    "pub_date": "1999-01-27T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Dining and Wine; Style",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr",
+                "firstname": "R.",
+                "middlename": "W.",
+                "lastname": "APPLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By R. W. APPLE Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd218918eb7c8105d7959d1",
+    "word_count": 2665,
+    "slideshow_credits": null
+}

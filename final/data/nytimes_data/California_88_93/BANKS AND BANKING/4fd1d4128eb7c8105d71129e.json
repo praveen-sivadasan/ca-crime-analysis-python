@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1992/08/06/us/banks-cite-expense-in-refusing-state-iou-s.html",
+    "snippet": "Bank of America was not the first bank in California to stop accepting the state government's i.o.u.'s, but because of its huge network of 1,435 branches, the decision by the largest bank in the state was a particularly inconvenient to state worke...",
+    "lead_paragraph": "Bank of America was not the first bank in California to stop accepting the state government's i.o.u.'s, but because of its huge network of 1,435 branches, the decision by the largest bank in the state was a particularly inconvenient to state workers, creditors and local governments. \"To say that banks stopped accepting the i.o.u.'s to put pressure on the political process is an overstatement,\" said Greg Wilhelm, legislative director at the California State Bankers Association. He pointed out that the expense of handling the i.o.u.'s was a frequent complaint of banks and that some bankers had been stung by newspaper editorials claiming that continued acceptance of them was prolonging the problem.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Banks Cite Expense in Refusing State I.O.U.'s"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "WILHELM, GREG"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "CALIFORNIA STATE BANKERS ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "FINANCES"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        },
+        {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+        },
+        {
+            "name": "subject",
+            "value": "GOVERNMENT EMPLOYEES"
+        }
+    ],
+    "pub_date": "1992-08-06T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Michael",
+                "rank": 1,
+                "lastname": "QUINT"
+            }
+        ],
+        "original": "By MICHAEL QUINT"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d4128eb7c8105d71129e",
+    "word_count": 599,
+    "slideshow_credits": null
+}

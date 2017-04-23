@@ -1,0 +1,66 @@
+{
+    "web_url": "https://www.nytimes.com/1992/10/11/us/1992-campaign-political-pulse-california-bush-s-downhill-political-journey.html",
+    "snippet": "\"Four more weeks,\" the hecklers chanted gleefully as Vice President Dan Quayle tried to make his way down Grant Street in San Francisco's Chinatown the other day.   In that sarcastic message, if in nothing else, the demonstrators seemed to speak f...",
+    "lead_paragraph": "\"Four more weeks,\" the hecklers chanted gleefully as Vice President Dan Quayle tried to make his way down Grant Street in San Francisco's Chinatown the other day. In that sarcastic message, if in nothing else, the demonstrators seemed to speak for California as a whole. This immense state, whose 54 electoral votes represent the largest share of the national total cast by any one jurisdiction since the Civil War, has turned with a vengeance on President Bush and his Administration.",
+    "abstract": null,
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Political Pulse -- California; Bush's Downhill Political Journey in California"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "HOUSE OF REPRESENTATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTIONS"
+        },
+        {
+            "name": "subject",
+            "value": "LEGISLATURES"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1992"
+        }
+    ],
+    "pub_date": "1992-10-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "qualifier": "Jr",
+                "firstname": "R.",
+                "middlename": "W.",
+                "lastname": "APPLE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By R. W. APPLE Jr"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1d6fb8eb7c8105d714ded",
+    "word_count": 1366,
+    "slideshow_credits": null
+}

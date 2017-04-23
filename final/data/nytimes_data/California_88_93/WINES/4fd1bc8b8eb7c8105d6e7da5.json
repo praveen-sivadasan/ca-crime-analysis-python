@@ -1,0 +1,50 @@
+{
+    "web_url": "https://www.nytimes.com/1991/03/31/business/technology-latest-in-the-vineyard-newly-dug-caves.html",
+    "snippet": "The premium wineries of northern California have long demonstrated their devotion to the grape with impressive edifices, from the restored 1885 stone mansion of Far Niente in Oakville to the post-modern temple to wine at Clos Pegase in Calistoga. ...",
+    "lead_paragraph": "The premium wineries of northern California have long demonstrated their devotion to the grape with impressive edifices, from the restored 1885 stone mansion of Far Niente in Oakville to the post-modern temple to wine at Clos Pegase in Calistoga. But in the last few years, vintners have been making a less visible commitment to Bacchus: new caves for the gentle aging of their fine wines. Wines age best at a constant, relatively low temperature, particularly while they are in oak barrels before bottling. The insulating properties of tons of earth and stone make caves a wonderfully low-technology alternative to the elaborate air-conditioning needed for above-ground storage.",
+    "abstract": null,
+    "print_page": "1",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Technology; Latest in the Vineyard: Newly Dug Caves"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "BURTLESON, SLF"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "CAVES AND CAVERNS"
+        }
+    ],
+    "pub_date": "1991-03-31T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 1
+            }
+        ],
+        "original": "By LAWRENCE M. FISHER"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1bc8b8eb7c8105d6e7da5",
+    "word_count": 986,
+    "slideshow_credits": null
+}

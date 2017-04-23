@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1996/11/05/us/kemp-makes-a-last-trek-in-california.html",
+    "snippet": "Jack Kemp, the Republican candidate for Vice President, spent the last full day of the Presidential campaign in California today praising his running mate, Bob Dole, and trying to rally party loyalists, rescue struggling Congressional candidates a...",
+    "lead_paragraph": "Jack Kemp, the Republican candidate for Vice President, spent the last full day of the Presidential campaign in California today praising his running mate, Bob Dole, and trying to rally party loyalists, rescue struggling Congressional candidates and win a big state from the Democrats. Mr. Dole has spent the last days of the campaign in a nonstop drive that has taken him back and forth across the country. By comparison, Mr. Kemp's schedule has been much less demanding physically. And as he criss-crossed the state today, he spoke before crowds that have been some of the smallest yet.",
+    "abstract": "Jack Kemp spends last full day of Presidential campaign in California, praising his running mate, Bob Dole, and trying to rally party loyalists (M)",
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Kemp Makes A Last Trek In California",
+        "kicker": "POLITICS: THE RUNNING MATE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "KEMP, JACK"
+        },
+        {
+            "name": "persons",
+            "value": "DOLE, BOB"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 1996"
+        }
+    ],
+    "pub_date": "1996-11-05T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jerry",
+                "rank": 1,
+                "lastname": "GRAY"
+            }
+        ],
+        "original": "By JERRY GRAY"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1edd98eb7c8105d7403a7",
+    "word_count": 510,
+    "slideshow_credits": null
+}

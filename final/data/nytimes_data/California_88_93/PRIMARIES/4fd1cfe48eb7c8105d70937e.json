@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1992/06/01/us/1992-campaign-senate-race-primaries-for-cranston-s-seat-expose-rifts-california.html",
+    "snippet": "An election year challenge sure to stump even the most astute Republicans in this state: Name one issue on which the party's two main contenders for a six-year Senate term agree.   Give up? So do the candidates themselves....",
+    "lead_paragraph": "An election year challenge sure to stump even the most astute Republicans in this state: Name one issue on which the party's two main contenders for a six-year Senate term agree. Give up? So do the candidates themselves.",
+    "abstract": null,
+    "print_page": "14",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "THE 1992 CAMPAIGN: Senate Race Primaries for Cranston's Seat Expose Rifts in California Parties' Ideologies; Republicans View Contest for Heart of Their Party"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CAMPBELL, TOM"
+        },
+        {
+            "name": "persons",
+            "value": "HERSCHENSOHN, BRUCE"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "SENATE"
+        },
+        {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+        },
+        {
+            "name": "subject",
+            "value": "PRIMARIES"
+        }
+    ],
+    "pub_date": "1992-06-01T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Richard",
+                "middlename": "L.",
+                "lastname": "BERKE",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By RICHARD L. BERKE"
+    },
+    "type_of_material": "Biography",
+    "_id": "4fd1cfe48eb7c8105d70937e",
+    "word_count": 1027,
+    "slideshow_credits": null
+}

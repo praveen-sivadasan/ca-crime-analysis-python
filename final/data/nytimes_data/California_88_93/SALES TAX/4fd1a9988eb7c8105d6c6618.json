@@ -1,0 +1,64 @@
+{
+    "web_url": "https://www.nytimes.com/1993/06/23/us/budget-in-california-shuffles-taxes-to-close-a-gap.html",
+    "snippet": "California appears to have avoided a state budget crisis this year. But the price will be steep, in health care, parks, libraries, welfare and still higher college fees -- and the possible outright defiance of county governments at what they consi...",
+    "lead_paragraph": "California appears to have avoided a state budget crisis this year. But the price will be steep, in health care, parks, libraries, welfare and still higher college fees -- and the possible outright defiance of county governments at what they consider the illegal expropriation of their property taxes by the strapped state government. Under enormous public pressure to avoid the kind of stalemate that forced the state to pay its bills with i.o.u.'s for more than two months last summer, the State Senate early this morning narrowly passed a Rube Goldberg-type of budget meant to get the recession-racked state government through another year.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Budget in California Shuffles Taxes to Close a Gap"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "SALES TAX"
+        },
+        {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+        },
+        {
+            "name": "subject",
+            "value": "PROPERTY TAXES"
+        },
+        {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+        },
+        {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+        }
+    ],
+    "pub_date": "1993-06-23T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "Education; U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            }
+        ],
+        "original": "By ROBERT REINHOLD"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a9988eb7c8105d6c6618",
+    "word_count": 1126,
+    "slideshow_credits": null
+}

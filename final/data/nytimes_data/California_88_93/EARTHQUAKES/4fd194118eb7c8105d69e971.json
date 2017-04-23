@@ -1,0 +1,53 @@
+{
+    "web_url": "https://www.nytimes.com/1990/05/30/us/stinson-beach-journal-the-road-that-persists-in-falling-into-the-sea.html",
+    "snippet": "LEAD: The western edge of the continent has never been an ideal place for a highway, what with the pounding surf eroding the shore from below and the cliffs washing down from above. Repair crews of the state Department of Transportation face a Sis...",
+    "lead_paragraph": "LEAD: The western edge of the continent has never been an ideal place for a highway, what with the pounding surf eroding the shore from below and the cliffs washing down from above. Repair crews of the state Department of Transportation face a Sisyphean labor keeping California Route 1 open under the best of circumstances.",
+    "abstract": null,
+    "print_page": "16",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Stinson Beach Journal;   The Road That Persists In Falling Into the Sea"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+        },
+        {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1990-05-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Jane",
+                "rank": 1,
+                "lastname": "GROSS"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By JANE GROSS, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd194118eb7c8105d69e971",
+    "word_count": 986,
+    "slideshow_credits": null
+}

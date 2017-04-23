@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/2000/08/08/opinion/l-california-s-power-lag-565490.html",
+    "snippet": "To the Editor:    ''California on Edge of Failing to Meet Electricity Needs'' (front page, Aug. 3) sets forth the primary reason for the emergency facing San Diego this summer: a shortage of generating capacity....",
+    "lead_paragraph": "To the Editor: ''California on Edge of Failing to Meet Electricity Needs'' (front page, Aug. 3) sets forth the primary reason for the emergency facing San Diego this summer: a shortage of generating capacity.",
+    "abstract": "Letter from Lynne H Church, president of Electric Power Supply Assn, disputes August 3 article on causes of California's power shortages (S)",
+    "print_page": "26",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "California's Power Lag"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "CHURCH, LYNNE H"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "ELECTRIC POWER SUPPLY ASSN"
+        },
+        {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+        }
+    ],
+    "pub_date": "2000-08-08T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "Letter",
+    "_id": "4fd236c68eb7c8105d7c9173",
+    "word_count": 134,
+    "slideshow_credits": null
+}

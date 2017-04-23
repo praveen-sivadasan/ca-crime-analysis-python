@@ -1,0 +1,37 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/30/business/energy-plan-in-california.html",
+    "snippet": "LEAD: California utility commissioners approved an incentive plan today for four state utilities to promote energy conservation....",
+    "lead_paragraph": "LEAD: California utility commissioners approved an incentive plan today for four state utilities to promote energy conservation.",
+    "abstract": null,
+    "print_page": "17",
+    "blog": [],
+    "source": "Reuters",
+    "multimedia": [],
+    "headline": {
+        "main": "Energy Plan in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "ENERGY AND POWER"
+        }
+    ],
+    "pub_date": "1990-08-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": {
+        "organization": "Reuters",
+        "original": "Reuters",
+        "person": []
+    },
+    "type_of_material": "News",
+    "_id": "4fd196838eb7c8105d6a3d86",
+    "word_count": 198,
+    "slideshow_credits": null
+}

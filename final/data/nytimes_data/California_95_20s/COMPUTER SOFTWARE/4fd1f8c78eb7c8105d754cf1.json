@@ -1,0 +1,49 @@
+{
+    "web_url": "https://www.nytimes.com/1997/04/11/business/tax-software-has-problems-in-california.html",
+    "snippet": "Less than one week before the filing deadline, thousands of California taxpayers who used Turbotax software to calculate their state taxes are finding that they may have overpaid and that they will have to refile their returns because of a error i...",
+    "lead_paragraph": "Less than one week before the filing deadline, thousands of California taxpayers who used Turbotax software to calculate their state taxes are finding that they may have overpaid and that they will have to refile their returns because of a error in the software. The software error affects only taxpayers who report income from more than one business. State tax officials said yesterday that people who filed returns with the error -- which results in overcalculating taxes owed -- will not be subjected to state tax penalties when they file an amended return. In fact, many will get a larger return or have to pay less than they originally thought they owed when they refile.",
+    "abstract": "Thousands of California taxpayers who used Intuit Corp's Turbotax software to calculate their state taxes are finding that they may have overpaid and that they will have to refile their returns because of error in the software (S)",
+    "print_page": "3",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Tax Software Has Problems in California"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "INTUIT INC"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTERS AND INFORMATION SYSTEMS"
+        },
+        {
+            "name": "subject",
+            "value": "COMPUTER SOFTWARE"
+        },
+        {
+            "name": "subject",
+            "value": "TAXATION"
+        },
+        {
+            "name": "subject",
+            "value": "INCOME TAX"
+        }
+    ],
+    "pub_date": "1997-04-11T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Business/Financial Desk",
+    "section_name": "Technology; Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1f8c78eb7c8105d754cf1",
+    "word_count": 241,
+    "slideshow_credits": null
+}

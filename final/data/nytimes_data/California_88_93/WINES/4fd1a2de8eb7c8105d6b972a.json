@@ -1,0 +1,54 @@
+{
+    "web_url": "https://www.nytimes.com/1989/04/02/magazine/wine-aging-gracefully.html",
+    "snippet": "LEAD: When a California winery can't think of any other way to get publicity, the wine maker is told to grab a clean shirt (or blouse - there are lots of female wine makers these days) and hit the circuit. He or she travels from city to city, fiel...",
+    "lead_paragraph": "LEAD: When a California winery can't think of any other way to get publicity, the wine maker is told to grab a clean shirt (or blouse - there are lots of female wine makers these days) and hit the circuit. He or she travels from city to city, fielding questions from amateurs.",
+    "abstract": null,
+    "print_page": "68",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "AGING GRACEFULLY",
+        "kicker": "WINE"
+    },
+    "keywords": [
+        {
+            "name": "persons",
+            "value": "LUPER, JERRY"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "WINES"
+        },
+        {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+        }
+    ],
+    "pub_date": "1989-04-02T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "firstname": "Frank",
+                "middlename": "J.",
+                "lastname": "PRIAL",
+                "rank": 1,
+                "role": "reported",
+                "organization": ""
+            }
+        ],
+        "original": "By FRANK J. PRIAL"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a2de8eb7c8105d6b972a",
+    "word_count": 1161,
+    "slideshow_credits": null
+}

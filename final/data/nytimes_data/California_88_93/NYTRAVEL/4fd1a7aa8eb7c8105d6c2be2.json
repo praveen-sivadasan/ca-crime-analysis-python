@@ -1,0 +1,61 @@
+{
+    "web_url": "https://www.nytimes.com/1991/01/30/arts/hollywood-may-lose-old-hangout-of-the-stars.html",
+    "snippet": "The old Brown Derby restaurant is gone, and so is Schwab's Drug Store, Pickfair and the Pan Pacific Auditorium. And now the Formosa Cafe, once the hangout of Lauren Bacall, Humphrey Bogart, Douglas Fairbanks and Marilyn Monroe, is on the verge of ...",
+    "lead_paragraph": "The old Brown Derby restaurant is gone, and so is Schwab's Drug Store, Pickfair and the Pan Pacific Auditorium. And now the Formosa Cafe, once the hangout of Lauren Bacall, Humphrey Bogart, Douglas Fairbanks and Marilyn Monroe, is on the verge of being torn down for a five-story parking garage. In a place where history is short and roots shallow, the Formosa, which dates back to a time when films were still silent and the air clean, represents what passes here for tradition.",
+    "abstract": null,
+    "print_page": "9",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Hollywood May Lose Old Hangout of the Stars"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "FORMOSA CAFE"
+        },
+        {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+        },
+        {
+            "name": "subject",
+            "value": "RESTAURANTS"
+        },
+        {
+            "name": "subject",
+            "value": "NYTRAVEL"
+        }
+    ],
+    "pub_date": "1991-01-30T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Cultural Desk",
+    "section_name": "Arts",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Robert",
+                "rank": 1,
+                "lastname": "REINHOLD"
+            },
+            {
+                "organization": "",
+                "role": "reported",
+                "rank": 2
+            }
+        ],
+        "original": "By ROBERT REINHOLD, Special to The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "4fd1a7aa8eb7c8105d6c2be2",
+    "word_count": 1320,
+    "slideshow_credits": null
+}

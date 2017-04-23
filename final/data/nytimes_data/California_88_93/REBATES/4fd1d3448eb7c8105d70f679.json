@@ -1,0 +1,41 @@
+{
+    "web_url": "https://www.nytimes.com/1991/10/10/business/rebates-set-by-norcal.html",
+    "snippet": "The Norcal Mutual Insurance Company has agreed voluntarily to provide $19.9 million in rebates to its policyholders as called for by a rate-cutting ballot initiative passed by California voters nearly three years ago, California's Insurance Commis...",
+    "lead_paragraph": "The Norcal Mutual Insurance Company has agreed voluntarily to provide $19.9 million in rebates to its policyholders as called for by a rate-cutting ballot initiative passed by California voters nearly three years ago, California's Insurance Commissioner, John Garamendi, said today.",
+    "abstract": null,
+    "print_page": "8",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Rebates Set By Norcal"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "organizations",
+            "value": "NORCAL MUTUAL INSURANCE CO"
+        },
+        {
+            "name": "subject",
+            "value": "REBATES"
+        },
+        {
+            "name": "subject",
+            "value": "INSURANCE"
+        }
+    ],
+    "pub_date": "1991-10-10T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business",
+    "subsection_name": null,
+    "byline": null,
+    "type_of_material": "News",
+    "_id": "4fd1d3448eb7c8105d70f679",
+    "word_count": 94,
+    "slideshow_credits": null
+}

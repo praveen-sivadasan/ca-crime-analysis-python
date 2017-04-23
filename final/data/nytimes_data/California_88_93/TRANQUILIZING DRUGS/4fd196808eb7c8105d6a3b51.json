@@ -1,0 +1,80 @@
+{
+    "web_url": "https://www.nytimes.com/1990/08/12/opinion/not-all-drug-lords-are-outlaws.html",
+    "snippet": "LEAD: The list of drug traffickers in the war on drugs includes a lot of unscrupulous villains: the Colombian drug lords, gangs like the Bloods and the Crips and some U.S. pharmaceutical manufacturers....",
+    "lead_paragraph": "LEAD: The list of drug traffickers in the war on drugs includes a lot of unscrupulous villains: the Colombian drug lords, gangs like the Bloods and the Crips and some U.S. pharmaceutical manufacturers.",
+    "abstract": null,
+    "print_page": "21",
+    "blog": [],
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+        "main": "Not All Drug Lords Are Outlaws"
+    },
+    "keywords": [
+        {
+            "name": "glocations",
+            "value": "NEW YORK STATE"
+        },
+        {
+            "name": "glocations",
+            "value": "ILLINOIS"
+        },
+        {
+            "name": "glocations",
+            "value": "TEXAS"
+        },
+        {
+            "name": "glocations",
+            "value": "UNITED STATES"
+        },
+        {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+        },
+        {
+            "name": "subject",
+            "value": "STATES (US)"
+        },
+        {
+            "name": "subject",
+            "value": "SEDATIVES"
+        },
+        {
+            "name": "subject",
+            "value": "DRUGS (PHARMACEUTICALS)"
+        },
+        {
+            "name": "subject",
+            "value": "TRANQUILIZING DRUGS"
+        },
+        {
+            "name": "subject",
+            "value": "DOCTORS"
+        },
+        {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+        }
+    ],
+    "pub_date": "1990-08-12T00:00:00Z",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Health; Opinion",
+    "subsection_name": null,
+    "byline": {
+        "person": [
+            {
+                "organization": "",
+                "role": "reported",
+                "firstname": "Pete",
+                "rank": 1,
+                "lastname": "Stark"
+            }
+        ],
+        "original": "By Pete Stark; Pete Stark, Democrat of California, is chairman of a House subcommittee on health"
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "4fd196808eb7c8105d6a3b51",
+    "word_count": 575,
+    "slideshow_credits": null
+}

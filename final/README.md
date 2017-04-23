@@ -28,7 +28,7 @@ Output
 ![homicide_california](https://cloud.githubusercontent.com/assets/18182515/25310264/bc9c28e2-27ae-11e7-85f9-850c3cad32bf.png)
 Image: HeatMap of crime across California
 Output
-[Homicide_california.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+[Homicide_california.csv](https://github.com/praveen-sivadasan/Python/blob/master/final/data/processed/Analysis_1/Homicide_california.csv)
 
 > Conclusion/Observations: 
 - Comparing the two heatmap we can conclude that during the period October to May from 1980 to 2000 the crime rate used to increase. Also we can infer from the heatmap of California that during 1988 to 1993 the crime rate was extremely high. We will further analyse on the crime in California during this time frame.

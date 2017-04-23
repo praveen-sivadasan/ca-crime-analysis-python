@@ -1,44 +1,93 @@
-###Midterm Exam 2017
+###Final Exam 2017 : California Crime Analysis(1980 - 2000)
 
-**Question 1**:
-Use Enron data set to perform 3 analysis.
+For the detailed analysis of this topic I have resided to NYTimesAPI article search. The data has been retrieved abd stored as per the requirement. Along with this we will be using few datasets povided by Kaggle. 
 
-Analysis:
-Enron Corporation was an American energy, commodities, and services company which On December 2 2001 filed for Chapter 11 protection, becoming the largest bankruptcy in U.S. history at that time. It  was later revealed that its reported financial condition was sustained by institutionalized, systematic, and creatively planned accounting fraud, known since as the Enron scandal.
+**Analysis 1**:
+Identify the state with highest crime record from 1980 to 2000. Also, identify the season when crime rate sky rockets in the state.
 
-**Analysis 1**
-
-Analysing the inbox and sentbox of Founder of Enrorn "Jeffrey Skilling" for suspicious activities.In August 2001 Skilling resigned and sold almost $60 million in Enron shares.In 2006, Skilling was convicted of multiple federal felony charges, including insider trading, securities fraud, and making false statements to auditors.
 > Key notes in analysis:
-- Focusses onsSet of emails between January 2000 (period when stock price of Enron started to rise to a record high of US$90.75 per share) and August 2001 (when Jeffrey resigned as CEO of Enron).
-- Retrieves the list of people who contacted Skilling frequently during the period on a monthly basis.
-- Retrieves the list of pople who were contacted by Skilling on a monthly basis and identifies the most interacted individual. 
+The analysis revolves around basically two data sets provided by Kaggle along with NYTimes API. We follow the below procedure to get the result of our first analysis:  
+- Analysis begins with identifying the state with max average crime rate from 1980 to 2000. A spectral helps us to identify that California is one of the states with high crime rate in US.
 
-> Libraries
-- nltk, os, glob, email, datetime, email.utils, time, datetime
-
+Image : Spectral map of crime rate across US
 Output
-[Q1Analysis1Output.txt](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+[Murder_rate_states.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- From the initial analysis of GlobalLandTemperaturesByState we reach the conclusion that during the months of Jun - Sep the average temperature is high around all states in United States.  
 
-> Conclusion/Observations:
-- During the period Skilling has frequently contacted(approx. 10 times) a private equity and venture capital firm based in New York. The email, eharris@insightpartners.com, belongs to Erica Harris of Insight Partners.
+Image : Average temperature around US in a fiscal calendar
+Output
+[Monthyly_avg_tmp.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- Now we do our analysis and try to obtain a data matrix of average weather around the calendar in United States from 1980 to 2000. A heatmap can be used to accurately visualize the temperature pattern across California.
 
+Image : HeatMap of average temperature across various months from 1980 to 2000.
+Output
+[Monthly_temp_1980_20.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- Similarly we create a heatmap to visually understand the crime pattern(if one exists) across California from 1980 to 2000.
+
+Image: HeatMap of crime across California
+Output
+[Homicide_california.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+
+> Conclusion/Observations: 
+- Comparing the two heatmap we can conclude that during the period October to May from 1980 to 2000 the crime rate used to increase. Also we can infer from the heatmap of California that during 1988 to 1993 the crime rate was extremely high. We will further analyse on the crime in California during this time frame.
 
 **Analysis 2**
+Identifying the reasons for increased murder rate in California during June to Sept from 1988 to 1993.
 
-Analysing the emails of enron employees for descrepencies with keywords "bankrupt", "fraud", "shutdown". Finding out the people who used these between below mentioned dates. Also analyse on which months theses word were used mostly.<br>
 > Key notes in analysis:
-- Start date of analysis is August 2001, Jeffrey Skilling resigned as CEO of Enron. 
-- End date of analysis is December 2, 2001 - Enron files for Chapter 11 protection, becoming the largest bankruptcy in U.S. history.
+This analysis goes a bit in depth in identifying the type and mode by which crimes were being done during his period. We follow the below procedure to get the result of our first analysis:
+- Aanlysing the average crime rate from 1988 to 1993 infers that thers has been a constant alleviation in the crime rate starting 1988. We will plot a line chart in identifying the pattern.
 
+Image: Line chart of average crime rate across California
 Output
-[Q1Analysis2Output.txt](https://github.com/praveen-sivadasan/Python/files/823087/Q1Analysis2Output.txt)
+[Murder_rate_Cali_yearly.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- Further analysing the type of crime being happening in California we can infer that 90% of crimes where Murder/Slaughter and the rest was accidental.
 
+Image: Bar chart representing crime type in California
+Output
+[Crime_type_Cali.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- The homicide reports also help us in concentrate on the method of murder hapeening across California. By creating a pie chart using various weapons used to perform murder, it reveals that most murder weere conducted using handguns.
+
+Image: Pie chart to represent the weapons used while murdering
+Output
+[Cali_murder_weapons.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- We will now analyse the NYtimes articles released about California to identify reason for such sudden gruesome atmoshpehere. Initial analysis close to gun killing in California from the articles published from NYTimes, we try to create a grpah plot using lines. The graph indicated that most of the reason behind such crime was discrimantion or hate crime followed by frauds and drugs.
+
+Image: Boxed line chart
+Output
+[Cali_concerns_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
 > Conclusion/Observations:
-- Jeff Dasovich, Enron governmental affairs executive, and Steven Kean, Enron’s former chief of staff, seems to have used the word 'bankrupt' a lot in their sent emails.
-- Was able to identify the months on which these keywords where used mostly, thereby leading way to further cut short the emails to focuss on.
+- Hence we can colcude by saying that  in California at this period there was a large amount of discrimination followed by murder and capital punishments. The amount of hate crime was really high during this period along with very less or no gun control. This hence has led to a series of violent crimes in California using handguns.
 
 **Analysis 3**
+Intial analysis shows that a lot of hate crime and less/no gun control has led to a large scale of murder rate in California during 1989 to 1993. We will further analyse the characteristics of these crime perpetuators and the circumstances that led them to these crimes.
+
+- We now try to understand the type of perpetrators by collecting the age group. We ue a bar graph to visualize the data and the results were mind blowing. Major crimes where done by people between the age of 18 to 21. This further hints us the influence of drugs or lack of education by which they tend to follow such cruelsome path.
+
+Image: Bar graph to depict age vs crime rate
+Output
+[Crime_perpetrator_Cali_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- Now we have to understand if the reasons we thought about have any infulence on all genders. Identifying the sex of the perpetrator using a pie chart it shows that most of the crimes were done by men and women's contribution were miniscual.
+
+Image: Pie chart
+Output
+[Crime_perpetrator_Cali_sex_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- Since during one of our previous analysis it was proved that discrimination was one of the major concerns during this particular period, we will try to group data according to race and attempts to make some sense out of it. We will use a simple line chart to visualise the data. The results show that black people were the most among early 20's people who used to perform crimes in California, hence our assumption of hate crime existing at California was right.  
+
+Image: Line chart
+Output
+[Cali_crime_perpetrator_race_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- We can further strongify our conclusion by finding the race of the victims who were murdered by black people. We will use a Facet grid to estimate the amount of attack done by black on other races. The results shows that there used to be more internal conflicts among blacks followed by attack on white.
+
+Image: Facet grid
+Output
+[Race_wars_Cali_1988.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+
+> Conclusion/Observations:
+- Hence we can conclude that most of the murders in California used to happen in California due to internal beefs among blacks and lack of education or drugs could be major factor in these.
+
+**Extra Analysis**
+Analysing the crime rate after 1995 with crime during 1988
 
 Analysing the communication between Enron employees and Arthur Andersen LLP, the accounting firm associated with Enron Corporation.<br>
 

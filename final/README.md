@@ -87,88 +87,26 @@ Output
 - Hence we can conclude that most of the murders in California used to happen in California due to internal beefs among blacks and lack of education or drugs could be major factor in these.
 
 **Extra Analysis**
-Analysing the crime rate after 1995 with crime during 1988
+Analysing the crime after 1995 with crime during 1988.
 
-Analysing the communication between Enron employees and Arthur Andersen LLP, the accounting firm associated with Enron Corporation.<br>
+- Our intial analysis will be to identify rate at which crime was happening during 1990's by people of various ages. Our analysis using bar plot indicates that crime rate was plummed down after 1995. This could be because of various gun laws which was passed by the state inorder to prevent the gun usage.
 
-U.S. Justice Department indicted Arthur Anderson in March 14, 2002 for obstruction of justice. Later in 2002, the firm voluntarily surrendered its licenses to practice as Certified Public Accountants in the United States after being found guilty of criminal charges relating to the firm's handling of the auditing of Enron.
-> Key notes in analysis:
-- Emails between January 2000 few months before Enron stocks sky rocketed and January 2002 when Enron ended partnership with the accounting firm, days after SEC widens its investigation to Arthur Anderson.
-- Mapping employees to emails they have send with reference to Arthur Anderson.
-- Identify top most months where Arthur Anderson was referred on emails.
-
-> Libraries
-- nltk, os, glob, email, datetime, re, email.utils, time, datetime
-
+Image: Facet grid age vs crime rate
 Output
-[Q1Analysis3Output.txt](https://github.com/praveen-sivadasan/Python/files/823090/Q1Analysis3Output.txt)
+[Crime_comparison_1988_1995_by_age.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- We can hence also comapre the amount of incidents happened after 1995 using guns. A plot using bars shows that a good amount of crime rate dropped during mid 90's.  
+
+Image: Facet grid weapon vs crima rate
+Output
+[Crime_comparison_1988_1995_by_weapon.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
+- Analysing the data sets to verify if new gun regulations where introduced or not, which inturn led to a drop in gun use in California. We analyse the articles released during both the times and do a comparison. After using a bar graph it shows that eventhough the law and regulation were discussed almost at the same pace there was a tremendous increase in the discussion of referrendums and schooling and education in California.
+
+Image: Facet grid - rate at which newer topics were discussed
+Output
+[article_comparison_1988_1995.csv](https://github.com/praveen-sivadasan/Python/files/823082/Q1Analysis1Output.txt)
 
 > Conclusion/Observations:
-- Arthur Anderson employees with emails randy.g.kruger.jr@arthuranderson.com, michael.abraham@us.arthuranderson.com, kimberly.r.scardino@us.arthuranderson.com where contacted frequently during the period.
-- Identified Enron employees who have contacted Arthur Anderson more during or just before the crisis.
-- In April-2001, 3 months before Jeffrey Skilling resigns as CEO and Kenneth Lay becomes CEO again, Arthur Anderson was most contacted.
+- Hence we can conclude that by mid 90's there was a lot a discussion reagrding laws and regulations. Apart from that schooling and education was also widely discussed. This may have helped the society to help the people from early 20's to put their efforts in something useful towards the community rathe than involving in crimes like murder and drugs.
 
-**Question 2**:
 
-Use NYT API to collect NYT data. Perform 3 analysis on the collected data.
-
-**Analysis 1**
-
-Finding the most disussed person under each sport category in New York Times between 2010 and 2016.
-> Key notes in analysis:
-- Using NYT Article Search API
-- Using requests, configparser, os, sys, json, glob and pos_tag from nltk.tag
-- Downloading and storing data in appropriate location
-- Identifying athlete names using ProperNoun (NNP of post_tag) and ne_chunk of chunk.
-
-> Libraries
-- requests, configparser, os, sys, json, glob, nltk.tag
-
-Output
-[Q2Analysis1Output.txt](https://github.com/praveen-sivadasan/Python/files/823091/Q2Analysis1Output.txt)
-
-> Conclusion/Observations:
-- In sorted order sports are displayed with most discussed player names in descending order.
-- Was able to identify the most frequently used names in the sports articles. For ex: Srilanka was the most discussed team in Cricket and Tiger Woods was the most discussed golf player.
-
-**Analysis 2**
-
-Finding the most discussed sports in New york Times between 2010 and 2016.
-> Key notes in analysis:
-- Using NYT Article Search API
-- Using requests, configparser, os, sys, json, glob
-- Downloading and storing data in appropriate location
-
-> Libraries
-- requests, configparser, os, sys, json, glob
-
-Output
-[Q2Analysis2Output.txt](https://github.com/praveen-sivadasan/Python/files/823096/Q2Analysis2Output.txt)
-
-> Conclusion/Observations:
-- Most discussed sports from sports articles published by NYTimes are displayed in descending order of their occurence.
-- Soccer was the most discussed sport followed by College Basketball.
-
-**Analysis 3**
-
-2016 November is the month where US presidency election took place between Trump and Hilary. This analysis focus on the stand of NYTimes towards each contestants, by analysing the kind of articles published in their newspaper.
-
-> Key notes in analysis:
-- Conducting sentimental analyis on the articles published during the election month,November 2016
-- Only considering articles focussing on a contestant directly
-- Analysing on which months a contestant was favored by counting the frequency of neutral or positive articles.
-- Graphical representation of results
-
-> Libraries
-- nltk, requests, configparser, os, sys, json, glob, datetime, time, email, matplotlib.pyplot,nltk.sentiment.vader
-
-Output
-[Q2Analysis3Output.txt](https://github.com/praveen-sivadasan/Python/files/823097/Q2Analysis3Output.txt)
-
-![q2a3img](https://cloud.githubusercontent.com/assets/18182515/23638031/2eb81caa-02ad-11e7-8224-ae1a4055e750.png)
-
-> Conclusion/Observations:
-- Sentimental of article headlines gave a rough estimate of 150, published against Trump and 52 for Trump.
-- Similarly for Hilarly there where only 30 articles published against her.
-- Analysis also indicates that 22 of 30 articles against Hilary for the month of November where published between 1st November and 8th November (Election day US).
 
